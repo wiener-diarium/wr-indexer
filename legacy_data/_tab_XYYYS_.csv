@@ -1,0 +1,10 @@
+"nr","X","XY","XYY","XYYY","XYYYS","Beschreibung"
+1,T,99,99,99,$,Warenpreis ist erwähnt
+2,T,99,99,99,*,Es handelt sich um Importwaren
+3,T,99,99,99,=,Ware wird nach einem Gerichtsurteil verkauft
+4,T,1,9,1,P,Pferde
+5,T,1,9,1,H,Hunde
+6,T,1,9,1,SV,Singvögel
+7,T,3,2,1,EM,Edelmetalle
+8,T,3,2,1,ES,Metallerzeugnis
+9,N,99,99,99,+,Person ist verstorben

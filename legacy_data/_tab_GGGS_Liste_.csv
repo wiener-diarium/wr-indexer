@@ -1,0 +1,459 @@
+"GGG_Code","GGGS_kurz","GGGS_Name","GGGS_Ort","lfd_Nr"
+2,Ac,"Aachen, RSt",,1
+4,Aa,"Aalen, RSt",,2
+7,Alt,(Altenburg (Sachsen-Altenburg),> Sachsen-Gotha,3
+7,Anh,"Anhalt, Ftm",,4
+2,An,"(Anholt, Hft)",> Salm,5
+2,Ar,"Arenberg,  Hzm",,6
+4,Ag,"Augsburg, Bm",,7
+4,Aul,"Aulensdorf,",,8
+4,Ba,"Baden, Gft",,9
+4,Bai,"Baindt, Abt",,10
+5,Bb,"Bamberg,Bm",,11
+7,Bar,"Barby, Gft",> Sachsen,12
+3,Bas,"Basel, Bm",,13
+6,By,"Bayern, Kftm","Breiteneck, Hft.",14
+5,Bt,Bayreuth,,15
+6,Ber,"Berchtesgaden, Pbt",,16
+2,Bl,"Beilstein, Gft",,17
+2,Be,"Bentheim, Gft",,18
+2,Bg,"Berg(en), Hzm",Düsseldorf;,19
+4,Bib,"Biberach, RSt",,20
+8,Bla,"Blankenburg, Gft",> Br.-Wolfenbüttel,21
+2,BlG,"Blankenheim-Gerolstein, Hft",,22
+9,Br,"Brandenburg, Kftm",,23
+8,BwW,"Braunschweig-Wolfenbüttel, Hzm","Blankenburg, Gft.,",24
+8,BwL,"Braunschweig-Lüneburg, Kftm",Hannover;,25
+6,Bre,Breiteneck,,26
+8,Bm,"Bremen, Hzm",,27
+1,Bri,"Brixen, Bm",,28
+1,Bö,"Böhmen, Kgr",,29
+4,Bop,"Bopsingen, RSt",,30
+4,Buc,"Buchau, Ftm",,31
+4,Bhh,"Buchhorn, RSt.",,32
+7,Cam,"Camin, Ftm.",,33
+5,Ca,"Castell,Gft",,34
+1,Ch,"Chur,Bm.",,35
+7,Cob,"Sachsen-Coburg,Ftm.",,36
+2,Cm,"Corneli-Münster,Abt.",,37
+2,Cy,"Corvey,Abt.",,38
+3,Cr,Criechingen,,39
+3,Dl,Dachstuhl,,40
+2,De,"Delmenhorst,Gft.",,41
+2,Dp,"Diepholt,Gft.",,42
+1,Di,"Dietrichsheim,Ftm.",,43
+4,Din,"Dinkelsbühl,RSt",,44
+6,Don,"Donauwörth,RSt",,45
+2,Do,"Dortmund,RSt",,46
+4,Dur,Durlach,,47
+4,Ebe,Eberstein,,48
+6,Ehr,Ehrenfels,,49
+5,Ei,"Eichstädt,Bm.",,50
+7,Eis,"Sachsen-Eisenach,Ftm.",,51
+4,Elc,"Elchingen,Abt.",,52
+4,Ell,"Ellwangen,Pbt.",,53
+5,Er,"Erbach,Gft.",,54
+4,Es,"Esslingen,RSt",,55
+2,Ess,"Essen,Abt.",,56
+3,Fn,"Falckenstein,Gft.",,57
+3,Fr,"Frankfurt,RSt",,58
+6,Fre,"Freising,Bm.",,59
+3,Fd,"Fridberg,RSt",,60
+4,FS,"Fürstenberg-Stühlingen,Ftm.",,61
+3,Fu,"Fulda,Bm.",,62
+5,Gai,Gaildorf,,63
+2,Gh,"Gehmen,Hft.",,64
+2,Ged,Geldern,,65
+2,Gel,Gelnhausen,,66
+4,Gen,"Gengenbach,Abt.",,67
+7,Ger,"Gernrode,Abt.",,68
+4,Gie,"Giengen,RSt",,69
+2,GN,"Gimborn-Neustadt,Hft.",,70
+8,Gos,Goslar,,71
+7,SG,"Sachsen-Gotha,Ftm.",,72
+3,Gw,"Grehweiler,Gft.",,73
+2,Gr,"Gronsfeld,Gft.",,74
+3,Gru,"Grumbach,Gft.",,75
+8,Güs,Mecklenburg-Güstrow,,76
+4,Gun,Gundelfingen,,77
+4,Gut,"Gutenzell,Abt.",,78
+6,Ha,"Haag,Gft.",,79
+9,Hal,"Halberstadt,Ftm.",,80
+8,Hb,"Hamburg,RSt",,81
+4,Heg,Heggbach,,82
+4,Hbr,"Heilbronn,RSt",,83
+5,HR,Henneberg-Römbild,,84
+5,HS,Henneberg-Schleusingen,,85
+5,HSm,Henneberg-Smalkalden,,86
+2,Her,"Hervorden,Abt.",,87
+3,HD,"Hessen-Darmstadt,Gft.",,88
+3,HK,"Hessen-Kassel,Gft.",,89
+8,Hil,"Hildesheim,Stft.",,90
+9,HP,Hinterpommern,,91
+3,Hir,Hirschfeld,,92
+4,Hoc,Hochberg,,93
+5,HL,Hohen-Landsberg,,94
+5,HlN,"Hohenlohe-Neuenstein,Gft.",,95
+5,HlW,"Hohenlohe-Waldenburg,Ftm.",,96
+9,Hot,"Hohenstein,Gft.",,97
+6,HW,"Hohen-Waleck,Gft.",,98
+4,HzH,"Hohenzollern-Hechingen,Ftm.",,99
+4,HzS,"Hohenzollern-Sigmaringen,Ftm.",,100
+8,Hol,"Holstein,Hzm.",,101
+2,Hlz,"Holzapfel, Hft.",,102
+2,Ho,"Hoya,Gft.",,103
+3,Id,Idstein,,104
+4,Irr,"Irrsee,Abt.",,105
+2,NI,"Nieder-Isenburg,Gft.",,106
+3,IB,"Isenburg-Birstein,Ftm.",,107
+3,IBu,"Isenburg-Budingen,Gft.",,108
+3,IM,"Isenburg-Meerholz,Gft.",,109
+3,IW,"Isenburg-Wächtersbach,Gft.",,110
+4,Isn,"Isny,RSt",,111
+2,Jev,"Jever,Hft.",,112
+2,Jü,"Jülich,Hzm.",,113
+8,BwK,"Braunschweig-Kalenberg,Hzm.",,114
+1,Kä,"Kärnten,Hzm.",,115
+6,Kay,"Kaysersheim,Abt.",,116
+4,Kem,"Kempten,Abt./RSt",,117
+2,Ke,"Kerpen-Lommersum,Hft.",,118
+1,Ki,"Kirchberg,Gft.",,119
+4,Ktg,Klettgau,,120
+2,Kv,"Kleve, Hzm.",,121
+2,Kl,"Köln,Kftm.",Bonn,122
+3,Kö,"Königstein,Gft.",,123
+4,Kon,"Konstanz,Bm.",,124
+9,Kot,Kottbus,,125
+1,Kr,"Krain,Hzm.",,126
+3,Lau,Lautern,,127
+8,Lbg,Sachsen-Lauenburg,,128
+6,Ltb,"Leuchtenberg,Gft.",,129
+3,LD,"Leiningen-Dachsberg,Gft.",,130
+3,LW,"Leiningen-Westerburg,Gft.",,131
+4,Ltk,"Leutkirch,RSt",,132
+3,Lib,"Hanau-Lichtenberg,Ftm.",,133
+4,Li,"Lichtenstein,Ftm.",,134
+5,Lb,"Limburg,Gft.",,135
+4,Lin,"Lindau,Ftm.",,136
+2,Lig,"Lingen,Gft.",,137
+2,Lp,"Lippe,Gft.",,138
+5,Löw,"Löwenstein,Ftm.",,139
+8,Lüb,Lübeck,,140
+2,Lüt,"Lüttich,Bm.",,141
+1,Mä,"Mähren,Gft.",,142
+9,Mbg,"Magdeburg,Hzm.",,143
+2,Mz,"Mainz,Kftm.",,144
+2,Mal,"Malmedy,Abt.",,145
+7,Man,"Mannsfeld,Ftm.",,146
+4,Mar,"Marchthal,Abt.",,147
+2,Mk,"Mark,Gft.",,148
+6,Max,Maxelrein,,149
+8,Mb,"Mecklenburg,Hzm.",,150
+7,SM,Sachsen-Meiningen,,151
+4,Mem,"Memmingen,RSt",,152
+5,Mer,"Mergentheim,Dt.Orden",,153
+2,Mi,"Millendonck,Hft.",,154
+4,Mdh,Mindelheim,,155
+2,Md,"Minden,Ftm.",,156
+3,Möm,"Mömpelgard,Gft.",,157
+2,Ms,"Moers,Ftm.",,158
+4,Mtf,"Montfort,Gft.",,159
+8,Mhs,Mühlhausen,,160
+2,Mt,"Münster,Ftm.",,161
+3,Mün,Münzfelden,,162
+2,NsE,"Nassau-Evang.,Ftm.",,163
+2,NsK,"Nassau-Kath.,Ftm.",,164
+3,NsS,"Nassau-Saarbrücken,Ftm.",,165
+3,NsU,"Nassau-Usingen,Ftm.",,166
+3,NsW,"Nassau-Weilburg,Ftm.",,167
+4,Ner,"Neresheim,Abt.",,168
+2,Nw,"Neuwied,Gft.",,169
+4,Nör,"Nördlingen,RSt",,170
+8,Nor,Nordhausen,,171
+5,Nü,"Nürnberg, RSt",,172
+4,Och,"Ochsenhausen,Abt.",,173
+3,Od,"Odenheim,Pbt.",,174
+2,Ob,"Oldenburg,Gft.",,175
+4,Oet,"Oettingen,Ftm.",,176
+4,Off,"Offenburg,RSt",,177
+3,Oll,"Ollbrück,Hft.",,178
+5,Ono,Onolzbach,,179
+6,Ort,"Ortenburg,Gft.",,180
+1,Ös,"Österreich, Hzm.",,181
+2,Os,"Osnabrück,Ftm.",,182
+2,OF,"Ostfriesland,Ftm.",,183
+3,Ott,Ottweiler,,184
+2,Pb,"Paderborn,Hstft.",,185
+6,Pa,"Passau,Bm.",,186
+4,Pet,"Petershagen,Abt.",,187
+3,Pf,"Pfalz, Gft.",,188
+4,Pfu,"Pfullendorf, RSt",,189
+2,Pl,"Platen, Gft.",,190
+3,Prü,"Prüm, Pbt.",,191
+6,Pyr,Pyrbaum,,192
+2,Py,"Pyrmont, Gft.",,193
+9,Qu,"Quedlinburg,Abt.",,194
+7,Que,Sachsen-Querfurt,,195
+8,Ran,"Ranzau,Gft.",,196
+2,Rvg,"Ravensberg,Gft.",,197
+4,Rav,"Ravensburg,RSt",,198
+8,Raz,"Razeburg,ftm.",,199
+2,Rc,"Reckheim,Gft.",,200
+6,Reg,"Regensburg,Bm./RSt",,201
+5,Rei,Reichelsberg,,202
+2,Rs,"Reichenstein,Hft.",,203
+8,Rst,"Reinstein,Gft.",,204
+3,Rpk,Reipoltskirchen,,205
+7,Res,"Reussen,Gft.",,206
+4,Reu,"Reutlingen,RSt",,207
+2,Rh,"Rheineck,Gft.",,208
+2,Rg,"Rittberg,Gft.",,209
+5,Rie,"Rieneck,Gft.",,210
+4,Rog,"Roggenburg,Abt.",,211
+4,Rtf,Rotenfels,,212
+4,Ro,"Roth,Abt.",,213
+5,Rbg,"Rothenburg,RSt",,214
+4,Rmü,"Rotenmünster,Abt.",,215
+4,Rtw,"Rottweil,RSt",,216
+7,Sa,"Sachsen,Kftm.","Barby, Gft.,",217
+4,Sal,"Salmansweil,Abt.",,218
+3,SSK,"Salm-Salm u. Salm-Kyrburg,Ftm.","Anholt, Hft.,",219
+6,Szb,"Salzburg,Ebm.",,220
+6,Ste,"St.Emeran,Abt.",,221
+2,Stm,"St.Maximin,Abt.",,222
+2,Sy,"Sayn,Gft.",,223
+2,Sch,"Schaumburg, Gft.",,224
+4,Scr,Scheer,,225
+2,Sc,"Schleiden,Gft.",,226
+9,Sl,"Schlesien,Hzm.",,227
+7,Scö,"Schönburg,Gft.",,228
+4,Scd,"Schussenried,Abt.",,229
+4,SwG,"Schwäbisch-Gmünd,RSt",,230
+4,SwH,"Schwäbisch-Hall,RSt",,231
+7,SbR,"Schwarzburg-Ruddstatt,Ftm.",,232
+7,SbS,"Schwarzburg-Sondershausen,Ftm.",,233
+5,Swf,"Schweinfurt,RSt",,234
+8,Swe,"Schwerin,Ftm.",,235
+5,Shm,Seinsheim,,236
+3,Sim,Simmern,,237
+1,Sin,"Sinzendorff,Gft.",,238
+3,SB,"Solms-Braunfels,Ftm.",,239
+3,SHo,"Solms-Hohensolms,Gft.",,240
+3,SLa,"Solms-Laubach,Gft.",,241
+3,SR,"Solms-Rödelheim,Gft.",,242
+3,Spe,"Speyer,Bm.",,243
+2,Spi,"Spiegelberg,Gft.",,244
+3,Spo,Sponheim,,245
+2,Sta,"Stablo,Abt.",,246
+1,Smk,"Steiermark,Hzm.",,247
+6,Stn,"Sternstein,Gft.",,248
+3,Sto,"Stollberg,Ftm.",,249
+7,Stb,"Stollberg,Gft.",,250
+6,Sul,Pfalz-Sulzbach,,251
+6,Slz,Ober-Sulzburg,,252
+2,Te,"Tecklenburg,Gft.",,253
+4,Thg,Thengen,,254
+2,Tho,"Thorn,Abt.",,255
+1,Ti,"Tirol,Gft.",,256
+1,Tf,"Trautmannsdorff,Gft.",,257
+1,Tt,"Trident,Bm.",,258
+2,Tr,"Trier,Kftm.",,259
+4,Üb,"Überlingen,RSt",,260
+4,Ul,"Ulm,RSt",,261
+4,Urs,"Ursberg,Abt.",,262
+2,Utr,Utrecht,,263
+3,Vel,Veldenz,,264
+2,Ve,"Verden,Ftm.",,265
+2,Vb,"Virnenberg,Gft.",,266
+1,Vbg,Vorarlberg,,267
+9,VP,Vorpommern,,268
+7,Vor,"Vorpommern,Schweden",,269
+7,Wal,"Walckenried,Abt.",,270
+3,Wd,"Waldeck, Ftm.",,271
+4,Wan,"Wangen,RSt",,272
+3,War,"Wartenberg,Gft.",,273
+4,Wl,"Weil, RSt",,274
+7,SW,Sachsen-Weimar,,275
+4,Wgt,"Weingarten,Abt.",,276
+4,Wau,"Weissenau,Abt.",,277
+5,Wsb,"Weissenburg,RSt",,278
+3,Wei,"Weissenburg,Pbt.",,279
+1,We,"Weissenwolf,Gft",,280
+2,Wr,"Werden,Abt.",,281
+9,Wgd,"Wernigerode,Gft.",,282
+5,Wer,"Wertheim,Gft.",,283
+4,Wet,"Wettenhausen,Pbt.",,284
+3,Wez,"Wetzlar,RSt",,285
+2,Wid,"Wied,Gft.",,286
+2,Wt,"Wickeradt,Hft.",,287
+4,Wim,"Wimpfen,RSt",,288
+5,Win,"Windsheim,RSt",,289
+2,Wb,"Winneburg,Hft.",,290
+5,Wis,Wisentheid,,291
+2,Wi,"Witten,Hft.",,292
+3,WBe,"Wittgenstein-Berlenburg,Gft.",,293
+3,WW,"Wittgenstein-Wittgenstein,Gft.",,294
+4,Wol,Wolfegg,,295
+6,Wfs,Wolfstein,,296
+3,Wo,"Worms, Bm.",,297
+4,Wü,"Württemberg,Hzm.",,298
+5,Wzb,"Würzburg,Bm.",,299
+4,Zei,Zeil,,300
+4,Zel,"Zell am Hammersbach,RSt",,301
+2,Züt,Zütphen,,302
+3,Zw,"Zweibrücken,Gft.",,303
+4,Zwi,"Zwiefalten,Abt.",,304
+5,Ans,"Ansbach, Mgft.",,305
+6,PN,Neuburg (Pfalz-Neuburg),,306
+9,P,Pommern,,307
+6,OP,Oberpfalz,,308
+0,\,-,,309
+0,D,D,,310
+0,E,E,,311
+0,F,F,,312
+0,G,G,,313
+0,H,H,,314
+0,I,I,,315
+0,K,K,,316
+0,L,L,,317
+0,M,M,,318
+0,N,N,,319
+0,S,S,,320
+0,X,X,,321
+0,Z,Z,,322
+1,\,-,,324
+1,D,D,,325
+1,E,E,,326
+1,F,F,,327
+1,G,G,,328
+1,H,H,,329
+1,I,I,,330
+1,K,K,,331
+1,L,L,,332
+1,M,M,,333
+1,N,N,,334
+1,S,S,,335
+1,X,X,,336
+1,Z,Z,,337
+2,\,-,,338
+2,D,D,,339
+2,E,E,,340
+2,F,F,,341
+2,G,G,,342
+2,H,H,,343
+2,I,I,,344
+2,K,K,,345
+2,L,L,,346
+2,M,M,,347
+2,N,N,,348
+2,S,S,,349
+2,X,X,,350
+2,Z,Z,,351
+3,\,-,,352
+3,D,D,,353
+3,E,E,,354
+3,F,F,,355
+3,G,G,,356
+3,H,H,,357
+3,I,I,,358
+3,K,K,,359
+3,L,L,,360
+3,M,M,,361
+3,N,N,,362
+3,S,S,,363
+3,X,X,,364
+3,Z,Z,,365
+4,\,-,,366
+4,D,D,,367
+4,E,E,,368
+4,F,F,,369
+4,G,G,,370
+4,H,H,,371
+4,I,I,,372
+4,K,K,,373
+4,L,L,,374
+4,M,M,,375
+4,N,N,,376
+4,S,S,,377
+4,X,X,,378
+4,Z,Z,,379
+5,\,-,,380
+5,D,D,,381
+5,E,E,,382
+5,F,F,,383
+5,G,G,,384
+5,H,H,,385
+5,I,I,,386
+5,K,K,,387
+5,L,L,,388
+5,M,M,,389
+5,N,N,,390
+5,S,S,,391
+5,X,X,,392
+5,Z,Z,,393
+6,\,-,,395
+6,D,D,,396
+6,E,E,,397
+6,F,F,,398
+6,G,G,,399
+6,H,H,,400
+6,I,I,,401
+6,K,K,,402
+6,L,L,,403
+6,M,M,,404
+6,N,N,,405
+6,S,S,,406
+6,X,X,,407
+6,Z,Z,,408
+7,\,-,,409
+7,D,D,,410
+7,E,E,,411
+7,F,F,,412
+7,G,G,,413
+7,H,H,,414
+7,I,I,,415
+7,K,K,,416
+7,L,L,,417
+7,M,M,,418
+7,N,N,,419
+7,S,S,,420
+7,X,X,,421
+7,Z,Z,,422
+8,\,-,,423
+8,D,D,,424
+8,E,E,,425
+8,F,F,,426
+8,G,G,,427
+8,H,H,,428
+8,I,I,,429
+8,K,K,,430
+8,L,L,,431
+8,M,M,,432
+8,N,N,,433
+8,S,S,,434
+8,X,X,,435
+8,Z,Z,,436
+9,\,-,,437
+9,D,D,,438
+9,E,E,,439
+9,F,F,,440
+9,G,G,,441
+9,H,H,,442
+9,I,I,,443
+9,K,K,,444
+9,L,L,,445
+9,M,M,,446
+9,N,N,,447
+9,S,S,,448
+9,X,X,,449
+9,Z,Z,,450
+0,,,,453
+1,,,,454
+2,,,,455
+3,,,,456
+4,,,,457
+5,,,,458
+6,,,,459
+7,,,,460
+8,,,,461
+9,,,,462

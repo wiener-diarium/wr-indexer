@@ -1,0 +1,657 @@
+"id_code","code_X","code_XY","code_XYY","code_XYYY","Beschreibung"
+1,A,0,99,99,Varia
+2,A,1,99,99,Internationales Geschehen/Weltpolitik
+3,A,2,99,99,Militärische Angelegenheiten
+4,A,3,99,99,Innere Angelegenheiten
+5,A,4,99,99,*
+6,A,5,99,99,Gesetzestexte
+7,A,6,99,99,Administrativ-juristische Meldungen
+8,A,7,99,99,Andere Textarten
+9,A,8,99,99,Inserate
+10,A,9,99,99,*
+11,G,0,99,99,*
+12,G,1,99,99,Europa
+13,G,2,99,99,Asien
+14,G,3,99,99,Amerika
+15,G,4,99,99,Afrika
+16,G,5,99,99,Australien
+17,G,6,99,99,Antarktis
+18,G,7,99,99,Ozeane
+19,G,8,99,99,*
+20,G,9,99,99,*
+21,N,0,99,99,Varia
+22,N,1,99,99,Monarchen und die privilegierten Stände
+23,N,2,99,99,Nichtprivilegierte Stände
+24,N,3,99,99,Freischaffende und Intellektuelle
+25,N,4,99,99,Beamte
+26,N,5,99,99,Militärs
+27,N,6,99,99,Marineleute
+28,N,7,99,99,Hofleute
+29,N,8,99,99,*
+30,N,9,99,99,*
+31,T,0,0,0,Varia
+33,T,2,0,0,Gewerbe
+35,T,4,0,0,Chemische (od.auf chem.Prozessen gegründete) Industrie
+36,T,5,0,0,Nahrungsmittelherstellung
+38,T,7,0,0,Dienstleistungen (Service)
+39,T,8,0,0,"Bau, Herstellung der Baustoffe"
+41,I,0,0,0,Varia
+42,I,1,0,0,Reichsinstitutionen
+43,I,2,0,0,Staatsverwaltung in Österreich
+44,I,3,0,0,Staatsverwaltung in anderen deutschen Staaten (inkl. Reichsstädte)
+45,I,4,0,0,Regional- und Ortsverwaltung
+46,I,5,0,0,Militär-/Marineinstitutionen
+47,I,6,0,0,Kirche
+48,I,7,0,0,Wissenschaft und Kultur
+49,I,8,0,0,*
+50,I,9,0,0,Soziale und politische Institutionen
+51,A,0,0,99,*
+52,A,0,1,99,Kuriositäten
+53,A,0,2,99,Genealogische Angaben
+54,A,0,3,99,*
+55,A,0,4,99,*
+56,A,0,5,99,*
+57,A,0,6,99,*
+58,A,0,7,99,*
+59,A,0,8,99,Meteorologische Beobachtungen
+60,A,0,9,99,"Vom Herausgeber (Widerlegungen, Fehlerberichtigung"
+61,A,1,0,99,*
+62,A,1,1,99,Bilaterale Beziehungen (politische)
+63,A,1,2,99,Austausch von Diplomaten
+64,A,1,3,99,"Austausch von Briefen, Noten, Staatsschriften"
+65,A,1,4,99,Verhandlungen
+66,A,1,5,99,Verträge
+67,A,1,6,99,Multilaterale Beziehungen
+68,A,1,7,99,Multilaterale Verhandlungen und Konferenzen
+69,A,1,8,99,Multilaterale Verträge
+70,A,1,9,99,Politische und militärische Allianzen
+72,A,2,0,99,Allgemeines
+73,A,2,1,99,"Truppen-Werbung, -Ausrüstung, -(Re-)Organisation"
+74,A,2,2,99,Ernennung von Generälen und Offizieren
+75,A,2,3,99,Lage an den Fronten
+76,A,2,4,99,"Mobilmachung, Demobilisierung, Kampfbereitschaft"
+77,A,2,5,99,Kriegsplanung
+78,A,2,6,99,Truppenbewegung
+79,A,2,7,99,Scharmützel und Schlachten
+80,A,2,8,99,konkrete Angaben zur Kriegsstatistik
+81,A,2,9,99,"Unterbrechung der Kampanie, Winterquartiere"
+82,A,3,0,99,Allgemeines
+83,A,3,1,99,Regierungsinstitutionen
+84,A,3,2,99,Parlamente und Ständevertretungen
+85,A,3,3,99,Wirtschaft und Finanzen
+86,A,3,4,99,"Justiz (Gericht, Polizeimaßnahmen)"
+87,A,3,5,99,Volks und Befreiungsbewegungen
+88,A,3,6,99,Hof- und Adelsnachrichten
+89,A,3,7,99,Beförderungen und Auszeichnungen
+90,A,3,8,99,Politisches Leben / politischer Zustand
+91,A,3,9,99,"Naturkatastrophen, -erscheinungen"
+92,A,4,0,99,*
+93,A,4,1,99,*
+94,A,4,2,99,*
+95,A,4,3,99,*
+96,A,4,4,99,*
+97,A,4,5,99,*
+98,A,4,6,99,*
+99,A,4,7,99,*
+100,A,4,8,99,*
+101,A,4,9,99,*
+102,A,5,0,99,"Allg. Gesetze, Ordnungen"
+103,A,5,1,99,Befugnisse der obersten Staatsgewalt
+104,A,5,2,99,Grenzen Krieg und Frieden
+105,A,5,3,99,Staatliche Institutionen
+106,A,5,4,99,Stände und andere soziale Gruppen
+107,A,5,5,99,ethnische und religiöse Gruppen
+108,A,5,6,99,Volks- und Befreiungsbewegungen
+109,A,5,7,99,Finanzen und Fiskus
+110,A,5,8,99,Armee und Marine
+111,A,5,9,99,*
+112,A,6,0,99,*
+113,A,6,1,99,Todesanzeigen
+114,A,6,2,99,Statistik
+115,A,6,3,99,Vorladungen vor Gericht u. zu notariellen Geschäft
+116,A,6,4,99,Vorladungen zu den Dienststellen
+117,A,6,5,99,Ungültigkeitserklärungen von Dokumenten
+118,A,6,6,99,Ansprüche
+119,A,6,7,99,Suche nach Personen
+120,A,6,8,99,Kreditunfähigkeit
+121,A,6,9,99,*
+123,A,7,0,99,"Feldjournale, Buchbesprechungen"
+124,A,7,1,99,Internationales
+125,A,7,2,99,"andere Diplomatische Dokumente (Noten, Briefe)"
+126,A,7,3,99,Briefe anderen Inhalts
+127,A,7,4,99,publizistische Kontroversen
+128,A,7,5,99,Gedichte
+129,A,7,6,99,Inschriften
+130,A,7,7,99,Nekrologe
+131,A,7,8,99,Reden
+132,A,7,9,99,Zeremoniellbeschreibungen
+133,A,8,0,99,*
+134,A,8,1,99,An- und Verkauf
+135,A,8,2,99,"Theater, Konzerte u.a. Unterhaltungen"
+136,A,8,3,99,Zeitungs- u. Büchersubskribtionen
+137,A,8,4,99,*
+138,A,8,5,99,Pachtangebote und -gesuche
+139,A,8,6,99,Finanzgeschäfte
+140,A,8,7,99,*
+141,A,8,8,99,Stellenangebote und -gesuche
+142,A,8,9,99,Unterricht und Erziehung
+143,A,9,0,99,*
+144,A,9,1,99,*
+145,A,9,2,99,*
+146,A,9,3,99,*
+147,A,9,4,99,*
+148,A,9,5,99,*
+149,A,9,6,99,*
+150,A,9,7,99,*
+151,A,9,8,99,*
+152,A,9,9,99,*
+153,G,1,0,99,Europa
+154,G,1,1,99,West
+155,G,1,2,99,Nord-West und Nord
+156,G,1,3,99,Italienische Staaten
+157,G,1,4,99,Italienische Staaten
+158,G,1,5,99,Deutsche Staaten
+159,G,1,6,99,Rußland und Ost
+160,G,1,7,99,Gewässer
+161,G,1,8,99,*
+162,G,1,9,99,*
+163,G,1,1,1,Portugal
+164,G,1,1,2,Spanien
+165,G,1,1,3,Frankreich
+166,G,1,1,4,"Österreichische Niederlande (Belgien, Luxemburg)"
+167,G,1,1,5,Vereinigte Niederlande (Holland)
+168,G,1,1,6,Schweiz
+169,G,1,1,7,Lothringen
+170,G,1,1,8,Liechtenstein
+171,G,1,1,9,Gibraltar und Menorka (brit.)
+172,G,1,2,0,allg.
+173,G,1,2,1,"Großbritannien (England, Schottland, Irland)"
+174,G,1,2,2,Schweden mit Finnland
+175,G,1,2,3,"Dänemark mit Island, Grönland und Norwegen"
+176,G,1,2,4,*
+177,G,1,2,5,*
+178,G,1,2,6,*
+179,G,1,2,7,*
+180,G,1,2,8,*
+181,G,1,2,9,*
+182,G,1,3,0,allg.
+183,G,1,3,1,Rom
+184,G,1,3,2,Kgr. Sardinien
+185,G,1,3,3,Monaco
+186,G,1,3,4,Genua (mit Korsika)
+187,G,1,3,5,Mailand mit Mantua (österr.)
+188,G,1,3,6,Parma und Piacenza
+189,G,1,3,7,Modena
+190,G,1,3,8,Venedig
+191,G,1,3,9,Toscana (österr.)
+192,G,1,4,1,Lucca
+193,G,1,4,2,Piombino
+194,G,1,4,3,Stato dei Presidii
+195,G,1,4,4,San Marino
+196,G,1,4,5,Neapel und Sizilien
+197,G,1,4,6,Malta
+198,G,1,4,7,*
+199,G,1,4,8,*
+200,G,1,4,9,*
+201,G,1,4,0,*
+202,G,1,5,0,allg.
+203,G,1,5,1,Österreich und Österreichischer Reichskreis
+204,G,1,5,2,Kurrrheinischer und Niederrhein-westfälischer Reichskreise
+205,G,1,5,3,Oberrheinischer Reichskreis
+206,G,1,5,4,Schwäbischer Reichskreis
+207,G,1,5,5,Fränkischer Reichskreis
+208,G,1,5,6,Bayerischer Reichskreis
+209,G,1,5,7,Obersächsischer Reichskreis
+210,G,1,5,8,Niedersächsischer Reichskreis
+211,G,1,5,9,Preußen
+212,G,1,6,0,allg.
+213,G,1,6,1,Polen mit Litauen und Danzig
+214,G,1,6,2,Kurland
+215,G,1,6,3,Ostpreußen
+216,G,1,6,4,Habsburger Besitz
+217,G,1,6,5,Osmanischer Besitz auf dem Balkan
+218,G,1,6,6,Osmanischer Besitz auf der Krim
+219,G,1,6,7,Montenegro
+220,G,1,6,8,Rußland
+221,G,1,6,9,Ragusa
+222,G,1,7,0,Europäische Gewässer
+223,G,1,7,1,Ostsee
+224,G,1,7,2,Nordsee
+225,G,1,7,3,Straße von Calais und Ärmelkanal
+226,G,1,7,4,Straße von Gibraltar
+227,G,1,7,5,Mittelmeer
+228,G,1,7,6,Schwarzes und Asowisches Meer
+229,G,1,7,7,"Tyrrhenisches, Adriatisches, Ionisches Meer"
+230,G,1,7,8,Ägäis
+231,G,1,7,9,Flüsse und Kanäle
+232,G,2,0,99,allg.
+233,G,2,1,99,Osmanisches Reich
+234,G,2,2,99,Persien
+235,G,2,3,99,Kaukasische Staaten
+236,G,2,4,99,Mittelasien
+237,G,2,5,99,Süd-Ost und Ost
+238,G,2,6,99,Arabien
+239,G,2,7,99,*
+240,G,2,8,99,*
+241,G,2,9,99,*
+242,G,2,1,0,allg.
+243,G,2,1,1,Türkei (Klein-Asien)
+244,G,2,1,2,West-Georgien und Schwarzmeerküste des Kaukasus
+245,G,2,1,3,West-Tscherkessen
+246,G,2,1,4,"Palästina, Syrien, Libanon (auch ""Levante"")"
+247,G,2,1,5,Mesopotamien
+248,G,2,1,6,Chidzas (Mekka und Medina)
+249,G,2,1,7,*
+250,G,2,1,8,*
+251,G,2,1,9,*
+252,G,2,2,0,allg.
+253,G,2,2,1,Ost-Georgien
+254,G,2,2,2,Armenien
+255,G,2,2,3,Aserbeidschan
+256,G,2,2,4,Gilijan u. Mazendaran
+257,G,2,2,5,Horassan
+258,G,2,2,6,*
+259,G,2,2,7,*
+260,G,2,2,8,*
+261,G,2,2,9,*
+262,G,2,3,0,allg.
+263,G,2,3,1,Dagestan
+264,G,2,3,2,Kabarda u. Ossetien
+265,G,2,3,3,*
+266,G,2,3,4,*
+267,G,2,3,5,*
+268,G,2,3,6,*
+269,G,2,3,7,*
+270,G,2,3,8,*
+271,G,2,3,9,*
+272,G,2,4,0,allg.
+273,G,2,4,1,Chiva
+274,G,2,4,2,Buchara
+275,G,2,4,3,Kokand
+276,G,2,4,4,Große Kasach-Horde
+277,G,2,4,5,Afganistan
+278,G,2,4,6,*
+279,G,2,4,7,*
+280,G,2,4,8,*
+281,G,2,4,9,*
+282,G,2,5,0,allg.
+283,G,2,5,1,Indien
+284,G,2,5,2,China
+285,G,2,5,3,Japan
+286,G,2,5,4,Sundainseln (Holl.)
+287,G,2,5,5,Philippinen
+288,G,2,5,6,Großer Tibet
+289,G,2,5,7,Dzungar
+290,G,2,5,8,*
+291,G,2,5,9,*
+292,G,2,6,0,allg.
+293,G,2,6,1,Oman und sein Afrikanischer Besitz
+294,G,2,6,2,Hadramaut
+295,G,2,6,3,Jemen
+296,G,2,6,4,*
+297,G,2,6,5,*
+298,G,2,6,6,*
+299,G,2,6,7,*
+300,G,2,6,8,*
+301,G,2,6,9,*
+304,G,3,0,99,allg.
+305,G,3,1,99,Nord
+306,G,3,2,99,Süd
+307,G,3,3,99,West-Indien
+308,G,3,4,99,*
+309,G,3,5,99,*
+310,G,3,6,99,*
+311,G,3,7,99,*
+312,G,3,8,99,*
+313,G,3,9,99,*
+314,G,4,0,99,allg.
+315,G,4,1,99,Nord
+316,G,4,2,99,Ost
+317,G,4,3,99,West
+318,G,4,4,99,Süd
+319,G,4,5,99,Madagaskar
+320,G,4,6,99,*
+321,G,4,7,99,*
+322,G,4,8,99,*
+323,G,4,9,99,*
+325,G,1,1,0,allg.
+326,N,0,1,0,Diplomaten
+327,N,0,2,0,Schiffskapitäne
+328,N,0,3,0,Matrosen
+329,N,0,4,0,Deklassierte Gruppen
+330,N,1,1,0,Monarchen
+331,N,1,2,0,Angehörige monarchischer Familien
+332,N,1,3,0,Adlige
+333,N,1,4,0,Geistliche
+334,N,2,1,0,"Händler, Kaufleute, Wirtsleute, Hausierer"
+335,N,2,2,0,Handlungsgehilfen
+336,N,2,3,0,"Makler, Finanziers"
+337,N,2,4,0,Fabrikanten
+338,N,2,5,0,Handwerksmeister
+339,N,2,6,0,Handwerksgesellen
+340,N,2,7,0,Arbeiter
+341,N,2,8,0,Bediente
+342,N,2,9,0,Bauern
+343,N,3,1,0,Wissenschaft und Bildung
+344,N,3,1,1,Wissenschaftler
+345,N,3,1,2,Lehrer
+346,N,3,1,3,Studenten
+347,N,3,2,0,Verleger und Drucker
+348,N,3,3,0,Juristen
+349,N,3,4,0,"Maler, Bildhauer"
+350,N,3,5,0,Architekten
+351,N,3,6,0,"Musiker, Schauspieler"
+352,N,3,7,0,"Ärzte, Tierärzte"
+353,N,3,8,0,Apotheker
+354,N,3,9,0,Ingenieure
+355,N,4,1,0,Minister
+356,N,5,1,0,Generäle
+357,N,5,2,0,Stabsoffiziere (Major bis Oberst)
+358,N,5,3,0,Hauptleute (Rittmeister)
+359,N,5,4,0,Subalterne Offiziere (Lt. u. Oberlt.)
+360,N,5,5,0,Unteroffiziere
+361,N,5,6,0,Soldaten
+362,N,6,1,0,Admirale
+363,N,6,2,0,Stabsoffiziere (Korvettenkapitän bis Kapitän zur See)
+364,N,6,3,0,Hauptleute (Kapitänleutnant)
+365,N,6,4,0,Subalterne Offiziere (Lt. u. Oberlt.)
+366,N,6,5,0,Unteroffiziere
+367,N,6,6,0,Matrosen
+368,G,7,1,99,Atlantik
+369,G,7,2,99,Pazifik
+370,G,7,3,99,Indischer Ozean
+371,G,7,4,99,Nördliches Eismeer
+372,N,0,5,99,*
+373,N,0,6,99,*
+374,N,0,7,99,*
+375,N,0,8,99,*
+376,N,0,9,99,*
+377,N,1,5,99,*
+378,N,1,6,99,*
+379,N,1,7,99,*
+380,N,1,8,99,*
+381,N,1,9,99,*
+383,N,4,2,99,*
+384,N,4,3,99,*
+385,N,4,4,99,*
+386,N,4,5,99,*
+387,N,4,6,99,*
+388,N,4,7,99,*
+389,N,4,8,99,*
+390,N,4,9,99,*
+391,N,5,7,99,*
+392,N,5,8,99,*
+393,N,5,9,99,*
+394,N,6,7,99,*
+395,N,6,8,99,*
+396,N,6,9,99,*
+397,N,7,1,99,*
+398,N,7,2,99,*
+399,N,7,3,99,*
+400,N,7,4,99,*
+401,N,7,5,99,*
+402,N,7,6,99,*
+403,N,7,7,99,*
+404,N,7,8,99,*
+405,N,7,9,99,*
+407,T,0,1,0,Vermittlung
+408,T,0,2,0,Handel
+409,T,0,3,0,*
+410,T,0,4,0,*
+411,T,0,5,0,*
+412,T,0,6,0,*
+413,T,0,7,0,*
+414,T,0,8,0,*
+415,T,0,9,0,*
+416,T,1,0,0,Landwirtschaft
+417,T,1,1,0,Ackerbau (Getreide)
+418,T,1,2,0,Ackerbau (Obst/Gemüse)
+419,T,1,3,0,Ackerbau (Heu und Futter)
+420,T,1,4,0,Ackerbau (Rohstoffe)
+421,T,1,5,0,Ackerbau (Pflanzenzucht)
+422,T,1,6,0,Viehzucht (Milchprodukte)
+423,T,1,7,0,Vieh-/Vogelzucht (Fleisch)
+424,T,1,8,0,Vieh-/Vogelzucht (Rohstoffe)
+425,T,1,9,0,Vieh-/Vogelzucht (Tiere und Vögel)
+427,T,2,1,0,Jagd (Fleisch)
+428,T,2,2,0,Jagd (Pelz)
+429,T,2,3,0,Jagd (Exot. Tiere)
+430,T,2,4,0,Fischerei (Nahrungsmittel)
+431,T,2,5,0,Fischerei (Rohstoffe)
+432,T,2,6,0,Bienenzucht (Honig)
+433,T,2,7,0,Bienenzucht (Wachs)
+434,T,2,8,0,Waldfrüchtesammeln
+435,T,2,9,0,Ausbeute exotischer Produkte
+436,T,3,0,0,Industrie
+437,T,3,1,0,Bergbau (außer Metallen)
+438,T,3,2,0,"Hüttenwesen, Metallverarbeitung, Rüstung"
+439,T,3,3,0,"Maschinenbau, Uhren"
+440,T,3,4,0,"Juwelen, Schmuckherstellung"
+441,T,3,5,0,"Holz, Harz"
+442,T,3,6,0,Schiffsbau
+443,T,3,7,0,"Möbel, Zimmerbau"
+444,T,3,8,0,Weberei
+445,T,3,9,0,"Galanterie, Luxuswaren"
+447,T,4,1,0,Lacke und Farben
+448,T,4,2,0,Färberei und Reinigung von Stoffen
+449,T,4,3,0,Leder
+450,T,4,4,0,"Seifensiederei, Kerzen"
+451,T,4,5,0,Pulver
+452,T,4,6,0,Papier
+453,T,4,7,0,"Glas, Porzellan, Keramik"
+454,T,4,8,0,Parfümerie
+455,T,4,9,0,Reagenzien
+457,T,5,1,0,Müllerei
+458,T,5,2,0,"Bäckerei, Konditorei"
+459,T,5,3,0,Getränke
+460,T,5,4,0,Salzsiederei
+461,T,5,5,0,Zuckerraffinerien
+462,T,5,6,0,Gaststätten
+463,T,5,7,0,Kolonialwaren
+464,T,5,8,0,Andere Nahrungsmittel
+465,T,5,9,0,*
+466,T,6,0,0,"Handwerk, Dienstleistungen"
+467,T,6,1,0,Schneider
+468,T,6,2,0,Schuhmacher
+469,T,6,3,0,Mützenmacher
+470,T,6,4,0,Sattler
+471,T,6,5,0,Friseur
+472,T,6,6,0,Bader
+473,T,6,7,0,Wäscherei
+474,T,6,8,0,Bedienung
+475,T,6,9,0,Feuerwehr
+477,T,7,1,0,Juristisch
+478,T,7,2,0,Finanziell
+479,T,7,3,0,Medizinisch
+480,T,7,4,0,Tierärztlich
+481,T,7,5,0,Apotheken
+482,T,7,6,0,"Erziehung, Unterricht"
+483,T,7,7,0,Post
+484,T,7,8,0,Straßenverkehr
+485,T,7,9,0,Wassertransport
+487,T,8,1,0,Bau
+488,T,8,2,0,"Erdarbeiten, Straßenbau"
+489,T,8,3,0,Maurer
+490,T,8,4,0,Zimmerei
+491,T,8,5,0,"Renovierung, Instandsetzung"
+492,T,8,6,0,"Baustoffe (Kalk, Alabaster, Sand)"
+493,T,8,7,0,Baustoffe (Bausteine)
+494,T,8,8,0,"Baustoffe (Ziegel, Backstein)"
+495,T,8,9,0,Baustoffe (Holz)
+496,T,9,0,0,Wissenschaft und Kultur
+497,T,9,1,0,Wissenschaftliche Tätigkeit
+498,T,9,2,0,Buchdruck
+499,T,9,3,0,Notendruck
+500,T,9,4,0,"Karten, Pläne, Kupferstich"
+501,T,9,5,0,"Malerei, Bildhauerei, Bildende Kunst"
+502,T,9,6,0,"Bibliotheken, Museen"
+503,T,9,7,0,Musik und Theater
+504,T,9,8,0,"Öffentliche Unterhaltungen, Feuerwerke,Kostümfeste"
+505,T,9,9,0,*
+506,I,0,1,0,*
+507,I,0,2,0,*
+508,I,0,3,0,*
+509,I,0,4,0,*
+510,I,0,5,0,*
+511,I,0,6,0,*
+512,I,0,7,0,*
+513,I,0,8,0,*
+514,I,0,9,0,*
+515,I,1,1,0,Reichstag
+516,I,1,2,0,Reichshofrat
+517,I,1,3,0,Reichsgerichtshof
+518,I,1,4,0,Reichskammergericht
+519,I,1,5,0,Reichskanzlei
+520,I,1,6,0,*
+521,I,1,7,0,*
+522,I,1,8,0,*
+523,I,1,9,0,*
+524,I,2,1,0,Geheimer/Engerer Rat
+525,I,2,2,0,Hofkanzlei
+526,I,2,3,0,Geheime Konferenz
+527,I,2,4,0,Behörde für die Außenpolitik
+528,I,2,5,0,Behörde für die innere Verwaltung
+529,I,2,6,0,Behörde für das Rechtswesen
+530,I,2,7,0,"Hofkammer, Finanzbehörde"
+531,I,2,8,0,"Hofkriegsrat, Militärbehörde"
+532,I,2,9,0,Provinzverwaltung
+533,I,3,1,0,Oberste Instanz (Geheimer Rat etc.)
+534,I,3,2,0,
+535,I,3,3,0,
+536,I,3,4,0,Zentrale Behörde für Außenpolitik
+537,I,3,5,0,Zentrale Behörde für innere Verwaltung
+538,I,3,6,0,Zentrale Behörde für Rechtswesen
+539,I,3,7,0,Zentrale Behörde für Finanzen
+540,I,3,8,0,Zentrale Behörde für Militärwesen
+541,I,3,9,0,Provinzverwaltung
+542,I,4,1,0,*
+543,I,4,2,0,*
+544,I,4,3,0,*
+545,I,4,4,0,*
+546,I,4,5,0,*
+547,I,4,6,0,*
+548,I,4,7,0,*
+549,I,4,8,0,*
+550,I,4,9,0,*
+551,I,5,1,0,*
+552,I,5,2,0,*
+553,I,5,3,0,*
+554,I,5,4,0,*
+555,I,5,5,0,*
+556,I,5,6,0,*
+557,I,5,7,0,*
+558,I,5,8,0,*
+559,I,5,9,0,*
+560,I,6,1,0,Katholische Obere Institutionen
+561,I,6,2,0,Katholische Orden und Klöster
+562,I,6,3,0,Katholische Ortsintitutionen
+563,I,6,4,0,Lutherische Obere Institutionen
+564,I,6,5,0,Lutherische Ortsintitutionen
+565,I,6,6,0,Reformierte Obere Institutionen
+566,I,6,7,0,Reformierte Ortsintitutionen
+567,I,6,8,0,Andere Konfessionen
+568,I,6,9,0,*
+569,I,7,1,0,Akademien
+570,I,7,2,0,Universitäten
+571,I,7,3,0,Andere Hochschulen
+572,I,7,4,0,Bibliotheken
+573,I,7,5,0,Museen und Sammlungen
+574,I,7,6,0,Wissensch./kulturelle Vereinigungen
+575,I,7,7,0,*
+576,I,7,8,0,*
+577,I,7,9,0,*
+578,I,8,1,0,*
+579,I,8,2,0,*
+580,I,8,3,0,*
+581,I,8,4,0,*
+582,I,8,5,0,*
+583,I,8,6,0,*
+584,I,8,7,0,*
+585,I,8,8,0,*
+586,I,8,9,0,*
+587,I,9,1,0,Freimaurer-Bruderschaft
+588,I,9,2,0,Studentische Korporationen
+589,I,9,3,0,*
+590,I,9,4,0,*
+591,I,9,5,0,*
+592,I,9,6,0,*
+593,I,9,7,0,*
+594,I,9,8,0,*
+595,I,9,9,0,*
+596,W,0,0,0,Allgemein
+597,W,1,0,0,Bezirke und Vorstädte
+598,W,1,1,0,Sadtteile und Bezirke
+599,W,1,2,0,Vorstädte
+600,W,1,3,0,Stadtquartiere mit traditionellem Namen
+601,W,1,4,0,Inseln
+602,W,1,5,0,Gutshöfe und Gehöfte
+603,W,1,6,0,*
+604,W,1,7,0,*
+605,W,1,8,0,*
+606,W,1,9,0,*
+607,W,2,0,0,Straßen und Plätze
+608,W,2,1,0,Straßen und Steigen
+609,W,2,2,0,Wege
+610,W,2,3,0,Alleen
+611,W,2,4,0,Gassen
+612,W,2,5,0,Plätze
+613,W,2,6,0,"Stiegen, Treppen"
+614,W,2,7,0,*
+615,W,2,8,0,*
+616,W,2,9,0,*
+617,W,3,0,0,Gewässer und Überfahrten
+618,W,3,1,0,Flüsse
+619,W,3,2,0,Kanäle
+620,W,3,3,0,Brücken
+621,W,3,4,0,Furten
+622,W,3,5,0,Anlegestellen
+623,W,3,6,0,*
+624,W,3,7,0,*
+625,W,3,8,0,*
+626,W,3,9,0,*
+627,W,4,0,0,Gebäude
+628,W,4,1,0,Paläste
+629,W,4,2,0,Botschaftsgebäude
+630,W,4,3,0,"Hospitäler, Altenheime"
+631,W,4,4,0,Apotheken
+632,W,4,5,0,Kasernen
+633,W,4,6,0,(Arsenal)
+634,W,4,7,0,Theater
+635,W,4,8,0,Säle
+636,W,4,9,0,Häuser mit Namen
+637,W,5,0,0,Andere Objekte
+638,W,5,1,0,Parks
+639,W,5,2,0,Denkmäler
+640,W,5,3,0,Kathedralen und Kirchen
+641,W,5,4,0,Klöster
+642,W,5,5,0,Friedhöfe
+643,W,5,6,0,Gefängnisse
+644,W,5,7,0,Bäder
+645,W,5,8,0,Brunnen
+646,W,5,9,0,Stadtbefestigungen
+647,W,6,0,0,Andere Objekte
+648,W,6,1,0,Werke und Fabriken
+649,W,6,2,0,Mühlen
+650,W,6,3,0,Werften
+651,W,6,4,0,Lager
+652,W,6,5,0,"Geschäfte, Läden"
+653,W,6,6,0,Druckereien
+654,W,6,7,0,"Gaststätten, Hotels"
+655,W,6,8,0,*
+656,W,6,9,0,*
+657,W,7,0,0,*
+658,W,8,0,0,*
+659,W,9,0,0,*
+660,N,0,0,0,Beruf und Stand unbekannt
+661,G,7,0,99,*
+662,E,0,0,0,Ethnische Gruppen
+663,V,0,0,0,*
+664,N,1,0,0,Monarchen und die privilegierten Stände
+665,N,2,0,0,Nichtprivilegierte Stände
+666,N,3,0,0,Freischaffende und Intellektuelle
+667,N,4,0,0,Beamte
+668,N,5,0,0,Militärs
+669,N,6,0,0,Marineleute
+670,N,7,0,0,Hofleute
+671,G,0,0,0,*
+672,N,0,5,0,Verbrecher

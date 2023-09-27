@@ -1,0 +1,2 @@
+acdh-cfts-pyutils==0.2
+pandas
