@@ -65,8 +65,8 @@ records = []
 counter = 0
 for gr, ndf in tqdm(df.groupby("wr_id")):
     counter += 1
-    if counter > 200:
-        break
+    # if counter > 200:
+    #     break
     item = {}
     cfts_record = {}
     x = ndf.iloc[0]
