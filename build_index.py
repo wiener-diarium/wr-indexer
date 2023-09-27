@@ -26,55 +26,23 @@ except ObjectNotFound:
     pass
 
 current_schema = {
-    'name': ts_index_name,
-    'fields': [
+    "name": ts_index_name,
+    "fields": [
+        {"name": "id", "type": "string"},
+        {"name": "rec_id", "type": "string"},
+        {"name": "title", "type": "string"},
+        {"name": "full_text", "type": "string"},
         {
-            'name': 'id',
-            'type': 'string'
+            "name": "year",
+            "type": "int32",
+            "optional": True,
+            "facet": True,
         },
-        {
-            'name': 'rec_id',
-            'type': 'string'
-        },
-        {
-            'name': 'title',
-            'type': 'string'
-        },
-        {
-            'name': 'full_text',
-            'type': 'string'
-        },
-        {
-            'name': 'year',
-            'type': 'int32',
-            'optional': True,
-            'facet': True,
-        },
-        {
-            'name': 'places',
-            'type': 'string[]',
-            'facet': True,
-            'optional': True
-        },
-        {
-            'name': 'places_top',
-            'type': 'string[]',
-            'facet': True,
-            'optional': True
-        },
-        {
-            'name': 'keywords',
-            'type': 'string[]',
-            'facet': True,
-            'optional': True
-        },
-        {
-            'name': 'keywords_top',
-            'type': 'string[]',
-            'facet': True,
-            'optional': True
-        },
-    ]
+        {"name": "places", "type": "string[]", "facet": True, "optional": True},
+        {"name": "places_top", "type": "string[]", "facet": True, "optional": True},
+        {"name": "keywords", "type": "string[]", "facet": True, "optional": True},
+        {"name": "keywords_top", "type": "string[]", "facet": True, "optional": True},
+    ],
 }
 
 client.collections.create(current_schema)
@@ -83,19 +51,19 @@ cfts_records = []
 
 print("building index")
 records = []
-for gr, ndf in tqdm(df.groupby('ID')):
+for gr, ndf in tqdm(df.groupby("ID")):
     item = {}
     cfts_record = {}
     x = ndf.iloc[0]
     item["id"] = f'{x["ID"]}'
     item["rec_id"] = f'{x["ID"]}'
     item["title"] = x["full_title"]
-    item["year"] = int(x['year'])
+    item["year"] = int(x["year"])
     cfts_record["id"] = f'{x["ID"]}'
     cfts_record["resolver"] = f'https://dummy-url/{x["ID"]}'
     cfts_record["rec_id"] = f'{x["ID"]}'
     cfts_record["title"] = x["full_title"]
-    cfts_record["year"] = int(x['year'])
+    cfts_record["year"] = int(x["year"])
     cfts_record["project"] = ts_index_name
     full_text = []
     item["places"] = []
@@ -120,7 +88,6 @@ for gr, ndf in tqdm(df.groupby('ID')):
                         cfts_record["keywords"].append(row[term])
                     if term == "top_concept":
                         item["keywords_top"].append(row[term])
-                
 
     item["full_text"] = " ".join(full_text)
     cfts_record["full_text"] = " ".join(full_text)
@@ -137,6 +104,6 @@ make_index = client.collections[ts_index_name].documents.import_(records)
 print(make_index)
 print(f"done with indexing {ts_index_name}")
 
-make_index = CFTS_COLLECTION.documents.import_(cfts_records, {'action': 'upsert'})
+make_index = CFTS_COLLECTION.documents.import_(cfts_records, {"action": "upsert"})
 print(make_index)
-print('done with cfts-index emt')
+print("done with cfts-index emt")
