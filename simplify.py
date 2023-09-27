@@ -1,5 +1,5 @@
 import pandas as pd
-from utils import make_title, find_broader
+from utils import make_title, find_broader, make_wr_id
 
 buchstaben = ["G", "A"]
 codes = "./legacy_data/_tab_code_.csv"
@@ -50,10 +50,12 @@ for x in buchstaben:
     df["full_title"] = df.apply(lambda row: make_title(row), axis=1)
     df["year"] = df.apply(lambda row: f"{row['Ausgabe'][:4]}", axis=1)
     df["page"] = df.apply(lambda row: f"{row['Seite']:0>2}", axis=1)
-    df["issue_number"] = df.apply(lambda row: f"{row['Seite']:0>4}", axis=1)
+    df["issue_number"] = df.apply(lambda row: f"{row['Nummer']:0>4}", axis=1)
+    df["wr_id"] = df.apply(lambda row: make_wr_id(row), axis=1)
     new_df = simple.merge(df, how="left", left_on=f"ID_{x}", right_on="ID")[
         [
             "ID",
+            "wr_id",
             "full_title",
             "year",
             "full_code",
