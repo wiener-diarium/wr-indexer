@@ -145,3 +145,6 @@ with open("out.json", "r", encoding="utf-8") as fp:
 make_index = client.collections[ts_index_name].documents.import_(records)
 print(make_index)
 print(f"done with indexing {ts_index_name}")
+
+
+print(counter)
