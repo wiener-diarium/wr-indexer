@@ -44,24 +44,29 @@ current_schema = {
         {"name": "rec_id", "type": "string"},
         {"name": "title", "type": "string"},
         {"name": "full_text", "type": "string"},
+        {"name": "has_fulltext", "type": "bool", "facet": True},
         {"name": "extra_full_text", "type": "string"},
+        {"name": "order_id", "type": "int32", "sort": True},
         {
             "name": "year",
             "type": "int32",
             "optional": True,
             "facet": True,
+            "sort": True,
         },
         {
             "name": "issue_nr",
             "type": "int32",
             "optional": True,
             "facet": True,
+            "sort": True,
         },
         {
             "name": "article_count",
             "type": "int32",
             "optional": True,
             "facet": True,
+            "sort": True,
         },
         {"name": "places", "type": "string[]", "facet": True, "optional": True},
         {"name": "places_top", "type": "string[]", "facet": True, "optional": True},
@@ -85,11 +90,13 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
     wr_id = f'{x["wr_id"]}'
     item["id"] = f'{x["wr_id"]}'
     item["rec_id"] = f'{x["wr_id"]}'
-    item["title"] = x["full_title"]
+    item["title"] = ", ".join(x["full_title"].split(", ")[:-1])
+    item["order_id"] = counter
     item["year"] = int(x["year"])
     item["issue_nr"] = int(x["issue_number"])
     item["ids"] = list(set(ndf["ID"].tolist()))
     item["article_count"] = len(item["ids"])
+    item["has_fulltext"] = True
     full_text = set()
     try:
         item["full_text"] = ft_dict[wr_id]["text"]
@@ -118,6 +125,7 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
         for eft in item["ids"]:
             try:
                 extra_ft = extra_text[str(eft)]
+                item["has_fulltext"] = True
             except KeyError:
                 extra_ft = ""
             extra_full_text_set.add(extra_ft)
