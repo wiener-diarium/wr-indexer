@@ -1,10 +1,21 @@
 import pandas as pd
 import json
+import requests
 from tqdm import tqdm
 from typesense.api_call import ObjectNotFound
 from acdh_cfts_pyutils import TYPESENSE_CLIENT as client
 from utils import set_default
 
+
+url = "https://wiener-diarium.github.io/wr-transkribus-out/data.jsonl"
+print(f"loading fulltext from {url}")
+r = requests.get("https://wiener-diarium.github.io/wr-transkribus-out/data.jsonl")
+tmp_file = "tmp.jsonl"
+with open(tmp_file, "wb") as fp:
+    fp.write(r.content)
+
+ft_df = pd.read_json(path_or_buf=tmp_file, lines=True).set_index("id")
+ft_dict = ft_df.to_dict("index")
 
 data = "./data/data.csv"
 extra_ft_source = "./legacy_data/_Wien_X_.csv"
@@ -32,6 +43,7 @@ current_schema = {
         {"name": "id", "type": "string"},
         {"name": "rec_id", "type": "string"},
         {"name": "title", "type": "string"},
+        {"name": "full_text", "type": "string"},
         {"name": "extra_full_text", "type": "string"},
         {
             "name": "year",
@@ -70,6 +82,7 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
     item = {}
     cfts_record = {}
     x = ndf.iloc[0]
+    wr_id = f'{x["wr_id"]}'
     item["id"] = f'{x["wr_id"]}'
     item["rec_id"] = f'{x["wr_id"]}'
     item["title"] = x["full_title"]
@@ -78,6 +91,10 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
     item["ids"] = list(set(ndf["ID"].tolist()))
     item["article_count"] = len(item["ids"])
     full_text = set()
+    try:
+        item["full_text"] = ft_dict[wr_id]["text"]
+    except KeyError:
+        item["full_text"] = "kein Volltext vorhanden"
     item["places"] = set()
     item["places_top"] = set()
     item["keywords"] = set()
