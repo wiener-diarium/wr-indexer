@@ -96,7 +96,7 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
     item["issue_nr"] = int(x["issue_number"])
     item["ids"] = list(set(ndf["ID"].tolist()))
     item["article_count"] = len(item["ids"])
-    item["has_fulltext"] = True
+    item["has_fulltext"] = False
     full_text = set()
     try:
         item["full_text"] = ft_dict[wr_id]["text"]
