@@ -47,6 +47,8 @@ current_schema = {
         {"name": "has_fulltext", "type": "bool", "facet": True},
         {"name": "extra_full_text", "type": "string"},
         {"name": "order_id", "type": "int32", "sort": True},
+        {"name": "day", "type": "int32", "sort": True},
+        {"name": "page", "type": "int32", "sort": True},
         {
             "name": "year",
             "type": "int32",
@@ -97,9 +99,12 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
     item["ids"] = list(set(ndf["ID"].tolist()))
     item["article_count"] = len(item["ids"])
     item["has_fulltext"] = False
+    item["day"] = int(x["day"].replace("-", ""))
+    item["page"] = int(x["page"])
     full_text = set()
     try:
         item["full_text"] = ft_dict[wr_id]["text"]
+        item["has_fulltext"] = True
     except KeyError:
         item["full_text"] = "kein Volltext vorhanden"
     item["places"] = set()
@@ -125,7 +130,6 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
         for eft in item["ids"]:
             try:
                 extra_ft = extra_text[str(eft)]
-                item["has_fulltext"] = True
             except KeyError:
                 extra_ft = ""
             extra_full_text_set.add(extra_ft)

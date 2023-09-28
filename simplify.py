@@ -49,7 +49,8 @@ for x in buchstaben:
     df = pd.read_csv(journals)
     df["full_title"] = df.apply(lambda row: make_title(row), axis=1)
     df["year"] = df.apply(lambda row: f"{row['Ausgabe'][:4]}", axis=1)
-    df["page"] = df.apply(lambda row: f"{row['Seite']:0>2}", axis=1)
+    df["page"] = df.apply(lambda row: int(f"{row['Seite']}"), axis=1)
+    df["day"] = df.apply(lambda row: f"{row['Ausgabe'][:10]}", axis=1)
     df["issue_number"] = df.apply(lambda row: f"{row['Nummer']:0>4}", axis=1)
     df["wr_id"] = df.apply(lambda row: make_wr_id(row), axis=1)
     new_df = simple.merge(df, how="left", left_on=f"ID_{x}", right_on="ID")[
@@ -57,6 +58,7 @@ for x in buchstaben:
             "ID",
             "wr_id",
             "full_title",
+            "day",
             "year",
             "full_code",
             "Beschreibung",
