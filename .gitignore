@@ -328,3 +328,4 @@ secret.env
 tmp.jsonl
 tmp*
 /tei
+out_diarim.json

@@ -75,9 +75,6 @@ current_schema = {
         {"name": "keywords_top", "type": "string[]", "facet": True, "optional": True},
     ],
 }
-
-client.collections.create(current_schema)
-
 print("building index")
 records = []
 counter = 0
@@ -145,6 +142,11 @@ with open("out.json", "r", encoding="utf-8") as fp:
         fp,
     )
 
+try:
+    client.collections['companies'].delete()
+except Exception as e:
+    print(e)
+client.collections.create(current_schema)
 make_index = client.collections[ts_index_name].documents.import_(records)
 print(make_index)
 print(f"done with indexing {ts_index_name}")
