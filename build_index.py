@@ -4,7 +4,7 @@ import requests
 from tqdm import tqdm
 from typesense.api_call import ObjectNotFound
 from acdh_cfts_pyutils import TYPESENSE_CLIENT as client
-from utils import set_default
+from utils import set_default, ts_index_name
 
 
 url = "https://wiener-diarium.github.io/wr-transkribus-out/data.jsonl"
@@ -20,7 +20,6 @@ ft_dict = ft_df.to_dict("index")
 data = "./data/data.csv"
 extra_ft_source = "./legacy_data/_Wien_X_.csv"
 df = pd.read_csv(data)
-ts_index_name = "gestrich_index"
 
 print(f"fetching extra full text from {extra_ft_source}")
 extra_df = pd.read_csv(extra_ft_source)
@@ -45,8 +44,8 @@ current_schema = {
         {"name": "title", "type": "string"},
         {"name": "full_text", "type": "string"},
         {"name": "has_fulltext", "type": "bool", "facet": True},
+        {"name": "digitarium_issue", "type": "bool", "facet": True},
         {"name": "extra_full_text", "type": "string"},
-        {"name": "order_id", "type": "int32", "sort": True},
         {"name": "day", "type": "int32", "sort": True},
         {"name": "page", "type": "int32", "sort": True},
         {
@@ -93,12 +92,12 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
     item["id"] = f'{x["wr_id"]}'
     item["rec_id"] = f'{x["wr_id"]}'
     item["title"] = ", ".join(x["full_title"].split(", ")[:-1])
-    item["order_id"] = counter
     item["year"] = int(x["year"])
     item["issue_nr"] = int(x["issue_number"])
     item["ids"] = list(set(ndf["ID"].tolist()))
     item["article_count"] = len(item["ids"])
     item["has_fulltext"] = False
+    item["digitarium_issue"] = False
     item["day"] = int(x["day"].replace("-", ""))
     item["page"] = int(x["page"])
     full_text = set()

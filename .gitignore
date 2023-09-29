@@ -326,3 +326,5 @@ out.json
 env.secret
 secret.env
 tmp.jsonl
+tmp*
+/tei

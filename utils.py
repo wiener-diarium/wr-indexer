@@ -24,3 +24,6 @@ def set_default(obj):
     if isinstance(obj, set):
         return list(obj)
     raise TypeError
+
+
+ts_index_name = "gestrich_index"
