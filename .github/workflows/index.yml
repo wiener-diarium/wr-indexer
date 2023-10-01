@@ -1,0 +1,26 @@
+name: Index the Diarium
+
+on:
+  workflow_dispatch
+
+jobs:
+  build_index:
+    name: Build Typesense Index
+    runs-on: ubuntu-latest
+    env:
+      TYPESENSE_HOST: typesense.acdh-dev.oeaw.ac.at
+      TYPESENSE_PORT: 443
+      TYPESENSE_PROTOCOL: https
+      TYPESENSE_API_KEY: ${{secrets.TYPESENSE_API_KEY}}
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+    - name: Index Gestrich and Transkribus Exports
+      run: python build_index.py
+    - name: Index Digitarium
+      run: python index_digitarium.py
