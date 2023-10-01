@@ -8,13 +8,13 @@ from tqdm import tqdm
 
 from acdh_tei_pyutils.tei import TeiReader
 from acdh_cfts_pyutils import TYPESENSE_CLIENT as client
-from utils import ts_index_name, indexed
+from utils import ts_index_name, indexed_json
 
 
 url = "https://api.github.com/repos/acdh-oeaw/digitarium-data/tarball"
 target_file = "tmp.tar.gz"
 tmp_dir = "tmp"
-with open("indexed", "r", encoding="utf-8") as fp:
+with open(indexed_json, "r", encoding="utf-8") as fp:
     indexed = json.load(fp)
 
 print(f"fetching data from {url}")
