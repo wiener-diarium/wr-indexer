@@ -60,19 +60,11 @@ for x in tqdm(files, total=len(files)):
         if rec_id in indexed:
             record["gestrich"] = True
         else:
-            record = {
-                "extra_full_text": "",
-                "places": [
-                    "keine Orte",
-                ],
-                "places_top": ["keine Orte"],
-                "keywords": [
-                    "keine Schlagworte",
-                ],
-                "keywords_top": [
-                    "keine Schlagworte",
-                ],
-            }
+            record["extra_full_text"] = ""
+            record["places"] = []
+            record["places_top"] = []
+            record["keywords"] = []
+            record["keywords_top"] = []
         records.append(record)
 make_index = client.collections[ts_index_name].documents.import_(
     records, {"action": "upsert"}
