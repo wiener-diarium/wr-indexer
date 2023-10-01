@@ -4,13 +4,14 @@ import requests
 from tqdm import tqdm
 from typesense.api_call import ObjectNotFound
 from acdh_cfts_pyutils import TYPESENSE_CLIENT as client
-from utils import set_default, ts_index_name
+from utils import set_default, ts_index_name, indexed_json
 
 
 url = "https://wiener-diarium.github.io/wr-transkribus-out/data.jsonl"
 print(f"loading fulltext from {url}")
 r = requests.get("https://wiener-diarium.github.io/wr-transkribus-out/data.jsonl")
 tmp_file = "tmp.jsonl"
+indexed = []
 with open(tmp_file, "wb") as fp:
     fp.write(r.content)
 
@@ -45,6 +46,7 @@ current_schema = {
         {"name": "full_text", "type": "string"},
         {"name": "has_fulltext", "type": "bool", "facet": True},
         {"name": "digitarium_issue", "type": "bool", "facet": True},
+        {"name": "gestrich", "type": "bool", "facet": True},
         {"name": "extra_full_text", "type": "string"},
         {"name": "day", "type": "int32", "sort": True},
         {"name": "page", "type": "int32", "sort": True},
@@ -86,6 +88,7 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
     cfts_record = {}
     x = ndf.iloc[0]
     wr_id = f'{x["wr_id"]}'
+    indexed.append(wr_id)
     item["id"] = f'{x["wr_id"]}'
     item["rec_id"] = f'{x["wr_id"]}'
     item["title"] = ", ".join(x["full_title"].split(", ")[:-1])
@@ -95,6 +98,7 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
     item["article_count"] = len(item["ids"])
     item["has_fulltext"] = False
     item["digitarium_issue"] = False
+    item["gestrich"] = True
     item["day"] = int(x["day"].replace("-", ""))
     item["page"] = int(x["page"])
     full_text = set()
@@ -143,13 +147,14 @@ with open("out.json", "r", encoding="utf-8") as fp:
     )
 
 try:
-    client.collections['companies'].delete()
+    client.collections[ts_index_name].delete()
 except Exception as e:
     print(e)
 client.collections.create(current_schema)
 make_index = client.collections[ts_index_name].documents.import_(records)
 print(make_index)
-print(f"done with indexing {ts_index_name}")
+print(f"done with indexing of {counter} documents in {ts_index_name}")
 
-
-print(counter)
+indexed = list(set(indexed))
+with open(indexed_json, "w", encoding="uft-8") as fp:
+    json.dump(indexed, fp, ensure_ascii=False)

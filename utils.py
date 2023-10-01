@@ -1,3 +1,7 @@
+ts_index_name = "gestrich_index"
+indexed_json = "indexed.json"
+
+
 def make_title(row):
     date = row["Ausgabe"].split()[0]
     y, m, d = date.split("-")
@@ -24,6 +28,3 @@ def set_default(obj):
     if isinstance(obj, set):
         return list(obj)
     raise TypeError
-
-
-ts_index_name = "gestrich_index"
