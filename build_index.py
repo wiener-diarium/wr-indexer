@@ -156,5 +156,5 @@ print(make_index)
 print(f"done with indexing of {counter} documents in {ts_index_name}")
 
 indexed = list(set(indexed))
-with open(indexed_json, "w", encoding="uft-8") as fp:
+with open(indexed_json, "w", encoding="utf-8") as fp:
     json.dump(indexed, fp, ensure_ascii=False)
