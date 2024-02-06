@@ -40,7 +40,7 @@ for x in tqdm(files, total=len(files)):
     day = int(date.replace("-", ""))
     year = int(date.split("-")[0])
     doc = TeiReader(x)
-    title = doc.any_xpath(".//tei:titleStmt/tei:title[@type='num' or @level='a']/text()")
+    title = doc.any_xpath(".//tei:titleStmt/tei:title[@type='num' or @level='a']/text()")[0]
     corrections = doc.any_xpath(".//tei:revisionDesc/tei:list/tei:item")
     pb = doc.any_xpath(".//tei:pb")
     for page in pb:
