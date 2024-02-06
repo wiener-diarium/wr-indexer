@@ -47,7 +47,7 @@ for x in tqdm(files, total=len(files)):
         counter += 1
         nr = page.attrib["n"]
         facs = page.attrib["facs"]
-        rec_id = f"wr_{date}__{nr}"
+        rec_id = f"wr_{date}__{nr:0>2}"
         record = {
             "id": rec_id,
             "rec_id": rec_id,
