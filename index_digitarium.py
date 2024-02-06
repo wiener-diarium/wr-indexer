@@ -58,7 +58,7 @@ for x in tqdm(files, total=len(files)):
             "day": day,
             "page": int(nr),
             "year": year,
-            "edition": "Digitarium",
+            "edition": ["Digitarium"],
             "corrections": len(corrections)
         }
         full_text = doc.any_xpath(f""".//tei:div[@type='page'][@n='{page}']|
@@ -80,6 +80,7 @@ for x in tqdm(files, total=len(files)):
             record["keywords"] = []
             record["keywords_top"] = []
         records.append(record)
+
 
 make_index = client.collections[ts_index_name].documents.import_(
     records, {"action": "upsert"}
