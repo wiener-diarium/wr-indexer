@@ -6,7 +6,7 @@ codes = "./legacy_data/_tab_code_.csv"
 
 lookup = {}
 dfs = []
-out = f"./data/data.csv"
+out = "./data/data.csv"
 for x in buchstaben:
     lookup[x] = {}
     g_file = f"./legacy_data/_Wien_{x}_.csv"

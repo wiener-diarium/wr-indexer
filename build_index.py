@@ -9,7 +9,7 @@ from utils import set_default, ts_index_name, indexed_json
 
 url = "https://wiener-diarium.github.io/wr-transkribus-out/data.jsonl"
 print(f"loading fulltext from {url}")
-r = requests.get("https://wiener-diarium.github.io/wr-transkribus-out/data.jsonl")
+r = requests.get(url)
 tmp_file = "tmp.jsonl"
 indexed = []
 with open(tmp_file, "wb") as fp:
@@ -65,6 +65,12 @@ current_schema = {
             "sort": True,
         },
         {
+            'name': 'edition',
+            'type': 'string[]',
+            'optional': True,
+            'facet': True,
+        },
+        {
             "name": "article_count",
             "type": "int32",
             "optional": True,
@@ -75,6 +81,7 @@ current_schema = {
         {"name": "places_top", "type": "string[]", "facet": True, "optional": True},
         {"name": "keywords", "type": "string[]", "facet": True, "optional": True},
         {"name": "keywords_top", "type": "string[]", "facet": True, "optional": True},
+        {"name": "corrections", "type": "int32", "facet": True, "optional": True}
     ],
 }
 print("building index")
@@ -89,6 +96,7 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
     x = ndf.iloc[0]
     wr_id = f'{x["wr_id"]}'
     indexed.append(wr_id)
+    item["edition"] = "Wienerisches Diarium"
     item["id"] = f'{x["wr_id"]}'
     item["rec_id"] = f'{x["wr_id"]}'
     item["title"] = ", ".join(x["full_title"].split(", ")[:-1])
@@ -111,6 +119,7 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
     item["places_top"] = set()
     item["keywords"] = set()
     item["keywords_top"] = set()
+    item["corrections"] = 0
     for i, row in ndf.iterrows():
         for term in ["Beschreibung", "top_concept", "skos_broader"]:
             if isinstance(row[term], str):
