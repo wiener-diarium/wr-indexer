@@ -96,7 +96,7 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
     x = ndf.iloc[0]
     wr_id = f'{x["wr_id"]}'
     indexed.append(wr_id)
-    item["edition"] = ["Wienerisches Diarium"]
+    item["edition"] = ["Dreißigjähriger Krieg"]
     item["id"] = f'{x["wr_id"]}'
     item["rec_id"] = f'{x["wr_id"]}'
     item["title"] = ", ".join(x["full_title"].split(", ")[:-1])

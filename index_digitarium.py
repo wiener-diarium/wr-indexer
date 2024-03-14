@@ -61,8 +61,8 @@ for x in tqdm(files, total=len(files)):
             "edition": ["Digitarium"],
             "corrections": len(corrections)
         }
-        full_text = doc.any_xpath(f""".//tei:div[@type='page'][@n='{page}']|
-                                  //tei:div[@type='article'][tei:*[contains(@facs, '{facs}')]]""")
+        full_text = doc.any_xpath(f""".//tei:body/tei:div[@type='page'][@n='{nr}']|
+                                  .//tei:body/tei:div[@type='article'][tei:*[contains(@facs, '{facs}')]]""")
         record["full_text"] = (
             " ".join(" ".join("".join(p.itertext()).split()) for p in full_text)
             .replace("\n", " ")
