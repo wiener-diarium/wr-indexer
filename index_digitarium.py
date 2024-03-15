@@ -58,7 +58,7 @@ for x in tqdm(files, total=len(files)):
             "day": day,
             "page": int(nr),
             "year": year,
-            "edition": ["Digitarium"],
+            "edition": ["Ausgewählte Ausgaben: 18. Jahrhundert"],
             "corrections": len(corrections)
         }
         full_text = doc.any_xpath(f""".//tei:body/tei:div[@type='page'][@n='{nr}']|
