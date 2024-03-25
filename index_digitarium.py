@@ -40,6 +40,7 @@ for x in tqdm(files, total=len(files)):
     day = int(date.replace("-", ""))
     year = int(date.split("-")[0])
     doc = TeiReader(x)
+    confidence = doc.any_xpath(".//tei:text/@cert")[0]
     title = doc.any_xpath(".//tei:titleStmt/tei:title[@type='num' or @level='a']/text()")[0]
     corrections = doc.any_xpath(".//tei:revisionDesc/tei:list/tei:item")
     pb = doc.any_xpath(".//tei:pb")
@@ -59,7 +60,8 @@ for x in tqdm(files, total=len(files)):
             "page": int(nr),
             "year": year,
             "edition": ["Ausgewählte Ausgaben: 18. Jahrhundert"],
-            "corrections": len(corrections)
+            "corrections": len(corrections),
+            "confidence": float(confidence),
         }
         full_text = doc.any_xpath(f""".//tei:body/tei:div[@type='page'][@n='{nr}']|
                                   .//tei:body/tei:div[@type='article'][tei:*[contains(@facs, '{facs}')]]""")
@@ -90,5 +92,5 @@ print(f"done with indexing {counter} new documents for {ts_index_name}")
 
 shutil.rmtree(tmp_dir)
 
-with open("out_diarim.json", "w", encoding="utf-8") as fp:
+with open("out_diarium.json", "w", encoding="utf-8") as fp:
     json.dump(records, fp, ensure_ascii=False, indent=2)

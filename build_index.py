@@ -1,19 +1,31 @@
 import pandas as pd
 import json
 import requests
+import zipfile
 from tqdm import tqdm
 from typesense.api_call import ObjectNotFound
 from acdh_cfts_pyutils import TYPESENSE_CLIENT as client
 from utils import set_default, ts_index_name, indexed_json
 
 
-url = "https://wiener-diarium.github.io/wr-transkribus-out/data.jsonl"
+url = "https://wiener-diarium.github.io/wr-transkribus-out/data.zip"
 print(f"loading fulltext from {url}")
-r = requests.get(url)
+
+
+def download_url(url, save_path, chunk_size=128):
+    r = requests.get(url, stream=True)
+    with open(save_path, 'wb') as fd:
+        for chunk in r.iter_content(chunk_size=chunk_size):
+            fd.write(chunk)
+
+
+download_url(url, "data.zip")
 tmp_file = "tmp.jsonl"
 indexed = []
 with open(tmp_file, "wb") as fp:
-    fp.write(r.content)
+    with zipfile.ZipFile('data.zip', "r", zipfile.ZIP_DEFLATED) as myzip:
+        with myzip.open('data.jsonl') as myfile:
+            fp.write(myfile.read())
 
 ft_df = pd.read_json(path_or_buf=tmp_file, lines=True).set_index("id")
 ft_dict = ft_df.to_dict("index")
@@ -81,7 +93,8 @@ current_schema = {
         {"name": "places_top", "type": "string[]", "facet": True, "optional": True},
         {"name": "keywords", "type": "string[]", "facet": True, "optional": True},
         {"name": "keywords_top", "type": "string[]", "facet": True, "optional": True},
-        {"name": "corrections", "type": "int32", "facet": True, "optional": True}
+        {"name": "corrections", "type": "int32", "facet": True, "optional": True},
+        {"name": "confidence", "type": "int32", "optional": True}
     ],
 }
 print("building index")
