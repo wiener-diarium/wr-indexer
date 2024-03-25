@@ -328,6 +328,8 @@ secret.env
 tmp.jsonl
 tmp*
 /tei
-out_diarim.json
+out_diarium.json
 indexed.json
 data.zip
+data.jsonl
+data/editions

@@ -1,37 +1,20 @@
 import pandas as pd
 import json
-import requests
-import zipfile
+import os
 from tqdm import tqdm
 from typesense.api_call import ObjectNotFound
 from acdh_cfts_pyutils import TYPESENSE_CLIENT as client
 from utils import set_default, ts_index_name, indexed_json
 
 
-url = "https://wiener-diarium.github.io/wr-transkribus-out/data.zip"
-print(f"loading fulltext from {url}")
-
-
-def download_url(url, save_path, chunk_size=128):
-    r = requests.get(url, stream=True)
-    with open(save_path, 'wb') as fd:
-        for chunk in r.iter_content(chunk_size=chunk_size):
-            fd.write(chunk)
-
-
-download_url(url, "data.zip")
-tmp_file = "tmp.jsonl"
+tmp_file = os.path.join("data", "data.jsonl")
 indexed = []
-with open(tmp_file, "wb") as fp:
-    with zipfile.ZipFile('data.zip', "r", zipfile.ZIP_DEFLATED) as myzip:
-        with myzip.open('data.jsonl') as myfile:
-            fp.write(myfile.read())
 
 ft_df = pd.read_json(path_or_buf=tmp_file, lines=True).set_index("id")
 ft_dict = ft_df.to_dict("index")
 
-data = "./data/data.csv"
-extra_ft_source = "./legacy_data/_Wien_X_.csv"
+data = os.path.join("data", "data.csv")
+extra_ft_source = os.path.join("legacy_data", "_Wien_X_.csv")
 df = pd.read_csv(data)
 
 print(f"fetching extra full text from {extra_ft_source}")
@@ -93,8 +76,7 @@ current_schema = {
         {"name": "places_top", "type": "string[]", "facet": True, "optional": True},
         {"name": "keywords", "type": "string[]", "facet": True, "optional": True},
         {"name": "keywords_top", "type": "string[]", "facet": True, "optional": True},
-        {"name": "corrections", "type": "int32", "facet": True, "optional": True},
-        {"name": "confidence", "type": "int32", "optional": True}
+        {"name": "corrections", "type": "int32", "facet": True, "optional": True}
     ],
 }
 print("building index")
@@ -109,7 +91,6 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
     x = ndf.iloc[0]
     wr_id = f'{x["wr_id"]}'
     indexed.append(wr_id)
-    item["edition"] = ["Alle Ausgaben: Siebenjähriger Krieg"]
     item["id"] = f'{x["wr_id"]}'
     item["rec_id"] = f'{x["wr_id"]}'
     item["title"] = ", ".join(x["full_title"].split(", ")[:-1])
@@ -124,10 +105,23 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
     item["page"] = int(x["page"])
     full_text = set()
     try:
-        item["full_text"] = ft_dict[wr_id]["text"]
-        item["has_fulltext"] = True
+        index_matched = ft_dict[wr_id]
     except KeyError:
-        item["full_text"] = "kein Volltext vorhanden"
+        index_matched = False
+    if index_matched:
+        item["full_text"] = ft_dict[wr_id]["text"]
+        if len(item["full_text"]) > 0:
+            item["has_fulltext"] = True
+        else:
+            item["full_text"] = "kein Volltext vorhanden"
+        item["edition"] = ["Alle Ausgaben: Siebenjähriger Krieg"]
+        try:
+            item["confidence"] = ft_dict[wr_id]["confidence"]
+        except KeyError:
+            print("no confidence for", wr_id)
+    else:
+        item["edition"] = ["Gestrich"]
+        print("no index match for", wr_id)
     item["places"] = set()
     item["places_top"] = set()
     item["keywords"] = set()

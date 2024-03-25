@@ -20,6 +20,8 @@ jobs:
         python-version: "3.10"
     - name: Install dependencies
       run: pip install -r requirements.txt
+    - name: Fetch data
+      run: ./shellscripts/fetch_data.sh
     - name: Index Gestrich and Transkribus Exports
       run: python build_index.py
     - name: Index Digitarium
