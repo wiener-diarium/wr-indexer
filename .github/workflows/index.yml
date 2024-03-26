@@ -23,8 +23,8 @@ jobs:
     - name: Fetch data
       run: ./shellscripts/fetch_data.sh
     - name: Build gestrich index data.jsonl
-      run: python index_7jaehriger_krieg.py
+      run: python typesense/index_7jaehriger_krieg.py
     - name: Index Gestrich and Transkribus Exports
-      run: python build_index.py
+      run: python typesense/build_index.py
     - name: Index Digitarium
-      run: python index_digitarium.py
+      run: python typesense/index_digitarium.py
