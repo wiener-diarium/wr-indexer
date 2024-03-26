@@ -76,7 +76,8 @@ current_schema = {
         {"name": "places_top", "type": "string[]", "facet": True, "optional": True},
         {"name": "keywords", "type": "string[]", "facet": True, "optional": True},
         {"name": "keywords_top", "type": "string[]", "facet": True, "optional": True},
-        {"name": "corrections", "type": "int32", "facet": True, "optional": True}
+        {"name": "corrections", "type": "int32", "facet": True, "optional": True},
+        {"name": "confidence", "type": "float", "facet": True, "optional": True}
     ],
 }
 print("building index")
