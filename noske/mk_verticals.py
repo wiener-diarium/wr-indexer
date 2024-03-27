@@ -26,7 +26,17 @@ def process_xml_files(input_filepath, output_filepath):
     # Iterate through each XML file
     for xml_file_path in tqdm(xml_files, total=len(xml_files)):
         doc = TeiReader(xml_file_path)
-        doc_id = doc.any_xpath('@xml:id')[0]
+        doc_id = doc.any_xpath('@xml:id')[0].replace(".xml", "")
+        if "edoc" in doc_id:
+            year = doc_id.split("_")[2].split("-")[0]
+            month = doc_id.split("_")[2].split("-")[1]
+            day = doc_id.split("_")[2].split("-")[2]
+            col = "1"
+        else:
+            year = doc_id.split("_")[1].split("-")[0]
+            month = doc_id.split("_")[1].split("-")[1]
+            day = doc_id.split("_")[1].split("-")[2]
+            col = "2"
         # find all "tei:w" tags
         wrapper = doc.any_xpath('.//tei:body//tei:p|.//tei:body//tei:list|.//tei:body//tei:head')
         # Write the verticals list to a TSV file
@@ -38,7 +48,7 @@ def process_xml_files(input_filepath, output_filepath):
             )[0] + ".tsv"
         )
         with open(output_file, "a", encoding="utf-8") as f:
-            f.write(f'<doc id="{doc_id}" attrs="word">\n')
+            f.write(f'<doc id="{doc_id}" attrs="word" year="{year}" month="{month}" day="{day}" corpus="{col}">\n')
             for x in wrapper:
                 name = x.tag
                 try:
@@ -56,23 +66,25 @@ def process_xml_files(input_filepath, output_filepath):
                         element_id = teiw_tag.xpath("@xml:id", namespaces=ns)[0]
                     except IndexError:
                         element_id = ""
-                    if idx > 0:
-                        f.write("<connecteds>\n")
                     if teiw_tag.tag == '{http://www.tei-c.org/ns/1.0}pc':
                         f.write("<g/>\n")
-                    verticals.append(
-                        '\t'.join(
-                            [
-                                text,
-                                element_id,
-                            ]
+                        verticals.append(
+                            '\t'.join(
+                                [
+                                    text
+                                ]
+                            )
                         )
-                    )
+                    else:
+                        verticals.append(
+                            '\t'.join(
+                                [
+                                    text,
+                                    element_id,
+                                ]
+                            )
+                        )
                     f.write('\t'.join(verticals) + '\n')
-                    if teiw_tag.tag == '{http://www.tei-c.org/ns/1.0}pc':
-                        f.write("<g/>\n")
-                    if idx > 0:
-                        f.write("</connecteds>\n")
                 f.write(f"</{name.replace('{http://www.tei-c.org/ns/1.0}', '')}>\n")
             f.write("</doc>\n")
 

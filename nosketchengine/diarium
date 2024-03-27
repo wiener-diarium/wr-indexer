@@ -40,6 +40,30 @@ STRUCTURE "doc" {
         #   MULTISEP " "
 	}
 
+	ATTRIBUTE "year" {
+		TYPE "MD_MI"
+ 	  #	MULTIVALUE y
+        #   MULTISEP " "
+	}
+
+	ATTRIBUTE "month" {
+		TYPE "MD_MI"
+ 	  #	MULTIVALUE y
+        #   MULTISEP " "
+	}
+
+	ATTRIBUTE "day" {
+		TYPE "MD_MI"
+ 	  #	MULTIVALUE y
+        #   MULTISEP " "
+	}
+
+	ATTRIBUTE "corpus" {
+		TYPE "MD_MI"
+ 	  #	MULTIVALUE y
+        #   MULTISEP " "
+	}
+
 }
 
 STRUCTURE "head" {
@@ -75,11 +99,6 @@ STRUCTURE "list" {
 
 }
 
-STRUCTURE "connecteds" {
-	TYPE "map32"
-
-}
-
 STRUCTURE "g" {
     DISPLAYTAG 0
     DISPLAYBEGIN "_EMPTY_"
@@ -87,11 +106,11 @@ STRUCTURE "g" {
 
 ################ PARAMETERS for CONTROLLING DISPLAY 
 ## In the Detail view at the bottom: linebreak at every <p>
-WRAPDETAIL u 
+WRAPDETAIL p
 
 ## In the Detail view at the bottom: creates new link "show whole document" 
 STRUCTCTX doc
-MAXCONTENT 200
+MAXCONTENT 80
 MAXDETAIL 0
 
 # SHORTREF
