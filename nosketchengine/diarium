@@ -64,6 +64,34 @@ STRUCTURE "doc" {
         #   MULTISEP " "
 	}
 
+	ATTRIBUTE "cert" {
+		TYPE "MD_MI"
+ 	  #	MULTIVALUE y
+        #   MULTISEP " "
+	}
+
+}
+
+STRUCTURE "docTitle" {
+	TYPE "map32"
+
+	ATTRIBUTE "id" {
+		TYPE "MD_MI"
+ 	  #	MULTIVALUE y
+        #   MULTISEP " "
+	}
+
+}
+
+STRUCTURE "imprimatur" {
+	TYPE "map32"
+
+	ATTRIBUTE "id" {
+		TYPE "MD_MI"
+ 	  #	MULTIVALUE y
+        #   MULTISEP " "
+	}
+
 }
 
 STRUCTURE "head" {

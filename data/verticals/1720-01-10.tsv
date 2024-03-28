@@ -1,356 +1,463 @@
-<doc id="edoc_wd_1720-01-10" attrs="word" year="1720" month="01" day="10" corpus="1">
+<doc id="edoc_wd_1720-01-10" attrs="word" year="1720" month="01" day="10" corpus="1" cert="1.00">
+<docTitle id="docTitle_1">
+Num	w1	NOHI	NOLAB	1.00
+<g/>
+.
+1716	w3	NOHI	NOLAB	1.00
+<g/>
+.
+Wienerisches	w5	NOHI	NOLAB	1.00
+Diarium	w6	NOHI	NOLAB	1.00
+<g/>
+,
+Enthaltend	w8	NOHI	NOLAB	1.00
+alles	w9	NOHI	NOLAB	1.00
+dasjenige	w10	NOHI	NOLAB	1.00
+<g/>
+/
+was	w12	NOHI	NOLAB	1.00
+von	w13	NOHI	NOLAB	1.00
+Tag	w14	NOHI	NOLAB	1.00
+zu	w15	NOHI	NOLAB	1.00
+Tag	w16	NOHI	NOLAB	1.00
+<g/>
+/
+sowohl	w18	NOHI	NOLAB	1.00
+in	w19	NOHI	NOLAB	1.00
+dieser	w20	NOHI	NOLAB	1.00
+Residenz	w21	NOHI	NOLAB	1.00
+<g/>
+=
+Stadt	w23	NOHI	NOLAB	1.00
+Wien	w24	NOHI	NOLAB	1.00
+Denkwürdiges	w25	NOHI	NOLAB	1.00
+<g/>
+/
+und	w27	NOHI	NOLAB	1.00
+zugetragen	w28	NOHI	NOLAB	1.00
+<g/>
+;
+Als	w30	NOHI	NOLAB	1.00
+auch	w31	NOHI	NOLAB	1.00
+<g/>
+/
+was	w33	NOHI	NOLAB	1.00
+dergleichen	w34	NOHI	NOLAB	1.00
+nachrichtlich	w35	NOHI	NOLAB	1.00
+alda	w36	NOHI	NOLAB	1.00
+eingeloffen	w37	NOHI	NOLAB	1.00
+<g/>
+/
+samt	w39	NOHI	NOLAB	1.00
+einem	w40	NOHI	NOLAB	1.00
+Anhang	w41	NOHI	NOLAB	1.00
+jedermaliger	w42	NOHI	NOLAB	1.00
+Verzeichnuß	w43	NOHI	NOLAB	1.00
+<g/>
+:
+Erstlich	w45	NOHI	NOLAB	1.00
+deren	w46	NOHI	NOLAB	1.00
+täglich	w47	NOHI	NOLAB	1.00
+alhier	w48	NOHI	NOLAB	1.00
+Ankom=menden	w49	NOHI	NOLAB	1.00
+<g/>
+=
+<g/>
+:
+Zweytens	w52	NOHI	NOLAB	1.00
+deren	w53	NOHI	NOLAB	1.00
+in	w54	NOHI	NOLAB	1.00
+<g/>
+=
+und	w56	NOHI	NOLAB	1.00
+vor	w57	NOHI	NOLAB	1.00
+der	w58	NOHI	NOLAB	1.00
+Stadt	w59	NOHI	NOLAB	1.00
+getauften	w60	NOHI	NOLAB	1.00
+Kindern	w61	NOHI	NOLAB	1.00
+<g/>
+:
+Drittens	w63	NOHI	NOLAB	1.00
+derer	w64	NOHI	NOLAB	1.00
+Verehlichten	w65	NOHI	NOLAB	1.00
+<g/>
+/
+und	w67	NOHI	NOLAB	1.00
+Vierdtens	w68	NOHI	NOLAB	1.00
+deren	w69	NOHI	NOLAB	1.00
+verstorbenen	w70	NOHI	NOLAB	1.00
+Personen	w71	NOHI	NOLAB	1.00
+<g/>
+.
+</docTitle>
+<imprimatur id="tit4">
+Mit	w73	NOHI	NOLAB	1.00
+Jhrer	w74	NOHI	NOLAB	1.00
+Römisch	w75	NOHI	NOLAB	1.00
+<g/>
+=
+Kaiserlich	w77	NOHI	NOLAB	1.00
+<g/>
+=
+und	w79	NOHI	NOLAB	1.00
+Catholischen	w80	NOHI	NOLAB	1.00
+Majestät	w81	NOHI	NOLAB	1.00
+Freyheit	w82	NOHI	NOLAB	1.00
+<g/>
+/
+</imprimatur>
 <head id="hl1">
-Wien	w100
+Wien	w100	NOHI	NOLAB	1.00
 <g/>
 /
-vom	w102
-10	w103
+vom	w102	NOHI	NOLAB	1.00
+10	w103	NOHI	NOLAB	1.00
 <g/>
 .
-bis	w105
-12	w106
+bis	w105	NOHI	NOLAB	1.00
+12	w106	NOHI	NOLAB	1.00
 <g/>
 .
-Jenner	w108
+Jenner	w108	NOHI	NOLAB	1.00
 <g/>
 /
-1720	w110
+1720	w110	NOHI	NOLAB	1.00
 <g/>
 .
 </head>
 <p id="p4">
-MJttwoch	w112
+MJttwoch	w112	NOHI	NOLAB	1.00
 <g/>
 /
-den	w114
-10	w115
+den	w114	NOHI	NOLAB	1.00
+10	w115	NOHI	NOLAB	1.00
 <g/>
 .
-Jenner	w117
+Jenner	w117	NOHI	NOLAB	1.00
 <g/>
 .
-Es	w119
-seynd	w120
-die	w121
-vor	w122
-einem	w123
-Jahr	w124
-von	w125
-A	w126
+Es	w119	NOHI	NOLAB	1.00
+seynd	w120	NOHI	NOLAB	1.00
+die	w121	NOHI	NOLAB	1.00
+vor	w122	NOHI	NOLAB	1.00
+einem	w123	NOHI	NOLAB	1.00
+Jahr	w124	NOHI	NOLAB	1.00
+von	w125	NOHI	NOLAB	1.00
+A	w126	NOHI	NOLAB	1.00
 <g/>
 .
-R	w128
+R	w128	NOHI	NOLAB	1.00
 <g/>
 .
-P	w130
+P	w130	NOHI	NOLAB	1.00
 <g/>
 .
-Francisco	w132
-Caccia	w133
+Francisco	w132	NOHI	NOLAB	1.00
+Caccia	w133	NOHI	NOLAB	1.00
 <g/>
 ,
-O	w135
+O	w135	NOHI	NOLAB	1.00
 <g/>
 .
-S	w137
+S	w137	NOHI	NOLAB	1.00
 <g/>
 .
-Franc	w139
+Franc	w139	NOHI	NOLAB	1.00
 <g/>
 .
-Comissario	w141
-Generali	w142
-Terræ Terrae	w143
-Sanƈtæ Sanƈtae	w144
+Comissario	w141	NOHI	NOLAB	1.00
+Generali	w142	NOHI	NOLAB	1.00
+Terrae	w143	NOHI	NOLAB	1.00
+Sanƈtae	w144	NOHI	NOLAB	1.00
 <g/>
 ,
 <g/>
 &
-Theol	w147
+Theol	w147	NOHI	NOLAB	1.00
 <g/>
 .
-Cæs Caes	w149
+Caes	w149	NOHI	NOLAB	1.00
 <g/>
 .
-von	w151
-hier	w152
-in	w153
-das	w154
-H	w155
+von	w151	NOHI	NOLAB	1.00
+hier	w152	NOHI	NOLAB	1.00
+in	w153	NOHI	NOLAB	1.00
+das	w154	NOHI	NOLAB	1.00
+H	w155	NOHI	NOLAB	1.00
 <g/>
 .
-Land	w157
-abge=schickte	w158
+Land	w157	NOHI	NOLAB	1.00
+abge=schickte	w158	NOHI	NOLAB	1.00
 <g/>
 =
-zwey	w160
-Geistliche	w161
-Franciscaner	w162
-der	w163
-Oesterreicherischen	w164
-Provinz	w165
+zwey	w160	NOHI	NOLAB	1.00
+Geistliche	w161	NOHI	NOLAB	1.00
+Franciscaner	w162	NOHI	NOLAB	1.00
+der	w163	NOHI	NOLAB	1.00
+Oesterreicherischen	w164	NOHI	NOLAB	1.00
+Provinz	w165	NOHI	NOLAB	1.00
 <g/>
 /
-als	w167
-R	w168
+als	w167	NOHI	NOLAB	1.00
+R	w168	NOHI	NOLAB	1.00
 <g/>
 .
-P	w170
+P	w170	NOHI	NOLAB	1.00
 <g/>
 .
-Electus	w172
-Rechertshimer	w173
+Electus	w172	NOHI	NOLAB	1.00
+Rechertshimer	w173	NOHI	NOLAB	1.00
 <g/>
 ,
-in	w175
-Ober	w176
+in	w175	NOHI	NOLAB	1.00
+Ober	w176	NOHI	NOLAB	1.00
 <g/>
 =
-Oesterzeich	w178
-gebürtig	w179
+Oesterzeich	w178	NOHI	NOLAB	1.00
+gebürtig	w179	NOHI	NOLAB	1.00
 <g/>
 /
-und	w181
-Fr	w182
+und	w181	NOHI	NOLAB	1.00
+Fr	w182	NOHI	NOLAB	1.00
 <g/>
 .
-Probus	w184
-Werendle	w185
+Probus	w184	NOHI	NOLAB	1.00
+Werendle	w185	NOHI	NOLAB	1.00
 <g/>
 ,
-in	w187
-Tyrol	w188
-gebürtig	w189
+in	w187	NOHI	NOLAB	1.00
+Tyrol	w188	NOHI	NOLAB	1.00
+gebürtig	w189	NOHI	NOLAB	1.00
 <g/>
 /
-wiederum	w191
-von	w192
-dorten	w193
-da=hier	w194
+wiederum	w191	NOHI	NOLAB	1.00
+von	w192	NOHI	NOLAB	1.00
+dorten	w193	NOHI	NOLAB	1.00
+da=hier	w194	NOHI	NOLAB	1.00
 <g/>
 =
-angelanget	w196
+angelanget	w196	NOHI	NOLAB	1.00
 <g/>
 ;
-Nachdeme	w198
-sie	w199
-das	w200
-durch	w201
-das	w202
-Heil	w203
+Nachdeme	w198	NOHI	NOLAB	1.00
+sie	w199	NOHI	NOLAB	1.00
+das	w200	NOHI	NOLAB	1.00
+durch	w201	NOHI	NOLAB	1.00
+das	w202	NOHI	NOLAB	1.00
+Heil	w203	NOHI	NOLAB	1.00
 <g/>
 .
-Römische	w205
-Reich	w206
-gesamlete	w207
-Almosen	w208
-in	w209
-die	w210
-Heil	w211
+Römische	w205	NOHI	NOLAB	1.00
+Reich	w206	NOHI	NOLAB	1.00
+gesamlete	w207	NOHI	NOLAB	1.00
+Almosen	w208	NOHI	NOLAB	1.00
+in	w209	NOHI	NOLAB	1.00
+die	w210	NOHI	NOLAB	1.00
+Heil	w211	NOHI	NOLAB	1.00
 <g/>
 .
-Stadt	w213
-Jerusalem	w214
-glücklich	w215
-überbracht	w216
+Stadt	w213	NOHI	NOLAB	1.00
+Jerusalem	w214	NOHI	NOLAB	1.00
+glücklich	w215	NOHI	NOLAB	1.00
+überbracht	w216	NOHI	NOLAB	1.00
 <g/>
 ;
-Bey	w218
-welcher	w219
-Uberbringung	w220
-diese	w221
-gute	w222
-Geistlichen	w223
-so	w224
-wohl	w225
-zu	w226
-Land	w227
+Bey	w218	NOHI	NOLAB	1.00
+welcher	w219	NOHI	NOLAB	1.00
+Uberbringung	w220	NOHI	NOLAB	1.00
+diese	w221	NOHI	NOLAB	1.00
+gute	w222	NOHI	NOLAB	1.00
+Geistlichen	w223	NOHI	NOLAB	1.00
+so	w224	NOHI	NOLAB	1.00
+wohl	w225	NOHI	NOLAB	1.00
+zu	w226	NOHI	NOLAB	1.00
+Land	w227	NOHI	NOLAB	1.00
 <g/>
 /
-als	w229
-zu	w230
-Wasser	w231
-unbeschreibliche	w232
-Gefahren	w233
-ausgestanden	w234
+als	w229	NOHI	NOLAB	1.00
+zu	w230	NOHI	NOLAB	1.00
+Wasser	w231	NOHI	NOLAB	1.00
+unbeschreibliche	w232	NOHI	NOLAB	1.00
+Gefahren	w233	NOHI	NOLAB	1.00
+ausgestanden	w234	NOHI	NOLAB	1.00
 <g/>
 ;
-Jedoch	w236
-waren	w237
-sie	w238
-mit	w239
-ihrem	w240
-Schiff	w241
+Jedoch	w236	NOHI	NOLAB	1.00
+waren	w237	NOHI	NOLAB	1.00
+sie	w238	NOHI	NOLAB	1.00
+mit	w239	NOHI	NOLAB	1.00
+ihrem	w240	NOHI	NOLAB	1.00
+Schiff	w241	NOHI	NOLAB	1.00
 <g/>
 /
-Carolus	w243
-Sextus	w244
-genant	w245
+Carolus	w243	NOHI	NOLAB	1.00
+Sextus	w244	NOHI	NOLAB	1.00
+genant	w245	NOHI	NOLAB	1.00
 <g/>
 /
-so	w247
-dermalen	w248
-das	w249
-erste	w250
-gewe=sen	w251
+so	w247	NOHI	NOLAB	1.00
+dermalen	w248	NOHI	NOLAB	1.00
+das	w249	NOHI	NOLAB	1.00
+erste	w250	NOHI	NOLAB	1.00
+gewe=sen	w251	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 /
-welches	w254
-nach	w255
-Cypern	w256
-gesegiet	w257
+welches	w254	NOHI	NOLAB	1.00
+nach	w255	NOHI	NOLAB	1.00
+Cypern	w256	NOHI	NOLAB	1.00
+gesegiet	w257	NOHI	NOLAB	1.00
 <g/>
 /
-dem	w259
-augenscheinlichen	w260
-Schif	w261
+dem	w259	NOHI	NOLAB	1.00
+augenscheinlichen	w260	NOHI	NOLAB	1.00
+Schif	w261	NOHI	NOLAB	1.00
 <g/>
 =
-Bruch	w263
-durch	w264
-GOttes	w265
-Hülf	w266
-entrunnen	w267
+Bruch	w263	NOHI	NOLAB	1.00
+durch	w264	NOHI	NOLAB	1.00
+GOttes	w265	NOHI	NOLAB	1.00
+Hülf	w266	NOHI	NOLAB	1.00
+entrunnen	w267	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p5">
-Heute	w269
-war	w270
-hierbeygehendes	w271
-Banco	w272
+Heute	w269	NOHI	NOLAB	1.00
+war	w270	NOHI	NOLAB	1.00
+hierbeygehendes	w271	NOHI	NOLAB	1.00
+Banco	w272	NOHI	NOLAB	1.00
 <g/>
 =
-Edict	w274
-ergangen	w275
+Edict	w274	NOHI	NOLAB	1.00
+ergangen	w275	NOHI	NOLAB	1.00
 <g/>
 /
-zufolg	w277
-deme	w278
-die	w279
-Einnahm	w280
-des	w281
-Taback	w282
+zufolg	w277	NOHI	NOLAB	1.00
+deme	w278	NOHI	NOLAB	1.00
+die	w279	NOHI	NOLAB	1.00
+Einnahm	w280	NOHI	NOLAB	1.00
+des	w281	NOHI	NOLAB	1.00
+Taback	w282	NOHI	NOLAB	1.00
 <g/>
 =
-Aufschlags	w284
-in	w285
-den	w286
-Kaiserlichen	w287
-Erb	w288
+Aufschlags	w284	NOHI	NOLAB	1.00
+in	w285	NOHI	NOLAB	1.00
+den	w286	NOHI	NOLAB	1.00
+Kaiserlichen	w287	NOHI	NOLAB	1.00
+Erb	w288	NOHI	NOLAB	1.00
 <g/>
 =
-Landen	w290
+Landen	w290	NOHI	NOLAB	1.00
 <g/>
 /
-vom	w292
-1	w293
+vom	w292	NOHI	NOLAB	1.00
+1	w293	NOHI	NOLAB	1.00
 <g/>
 .
-July	w295
-1722	w296
+July	w295	NOHI	NOLAB	1.00
+1722	w296	NOHI	NOLAB	1.00
 <g/>
 .
-anzufangen	w298
+anzufangen	w298	NOHI	NOLAB	1.00
 <g/>
 /
-vermög	w300
-der	w301
-Kaiserlichen	w302
-General	w303
+vermög	w300	NOHI	NOLAB	1.00
+der	w301	NOHI	NOLAB	1.00
+Kaiserlichen	w302	NOHI	NOLAB	1.00
+General	w303	NOHI	NOLAB	1.00
 <g/>
 =
-Appalto	w305
+Appalto	w305	NOHI	NOLAB	1.00
 <g/>
 =
-Ordnung	w307
+Ordnung	w307	NOHI	NOLAB	1.00
 <g/>
 /
-dem	w309
-Meistbiehtenden	w310
-gegen	w311
-ein	w312
-gewisse	w313
-Summa	w314
-Gelts	w315
+dem	w309	NOHI	NOLAB	1.00
+Meistbiehtenden	w310	NOHI	NOLAB	1.00
+gegen	w311	NOHI	NOLAB	1.00
+ein	w312	NOHI	NOLAB	1.00
+gewisse	w313	NOHI	NOLAB	1.00
+Summa	w314	NOHI	NOLAB	1.00
+Gelts	w315	NOHI	NOLAB	1.00
 <g/>
 /
-und	w317
-erforderliche	w318
-Caution	w319
-in	w320
-Bestond	w321
-verlassen	w322
-werden	w323
-solle	w324
+und	w317	NOHI	NOLAB	1.00
+erforderliche	w318	NOHI	NOLAB	1.00
+Caution	w319	NOHI	NOLAB	1.00
+in	w320	NOHI	NOLAB	1.00
+Bestond	w321	NOHI	NOLAB	1.00
+verlassen	w322	NOHI	NOLAB	1.00
+werden	w323	NOHI	NOLAB	1.00
+solle	w324	NOHI	NOLAB	1.00
 <g/>
 ;
-Zu	w326
-dem	w327
-Ende	w328
-dan	w329
-dahier	w330
-bey	w331
-der	w332
-Hochlöblich	w333
+Zu	w326	NOHI	NOLAB	1.00
+dem	w327	NOHI	NOLAB	1.00
+Ende	w328	NOHI	NOLAB	1.00
+dan	w329	NOHI	NOLAB	1.00
+dahier	w330	NOHI	NOLAB	1.00
+bey	w331	NOHI	NOLAB	1.00
+der	w332	NOHI	NOLAB	1.00
+Hochlöblich	w333	NOHI	NOLAB	1.00
 <g/>
 =
-Kaiserlichen	w335
-Ministe=rial	w336
+Kaiserlichen	w335	NOHI	NOLAB	1.00
+Ministe=rial	w336	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 =
-Banco	w339
+Banco	w339	NOHI	NOLAB	1.00
 <g/>
 =
-Deputation	w341
-auf	w342
-den	w343
-1	w344
+Deputation	w341	NOHI	NOLAB	1.00
+auf	w342	NOHI	NOLAB	1.00
+den	w343	NOHI	NOLAB	1.00
+1	w344	NOHI	NOLAB	1.00
 <g/>
 .
-February	w346
-dieses	w347
-Jahr	w348
-eine	w349
-Com=mission	w350
+February	w346	NOHI	NOLAB	1.00
+dieses	w347	NOHI	NOLAB	1.00
+Jahr	w348	NOHI	NOLAB	1.00
+eine	w349	NOHI	NOLAB	1.00
+Com=mission	w350	NOHI	NOLAB	1.00
 <g/>
 =
-angeordnet	w352
-worde	w353
+angeordnet	w352	NOHI	NOLAB	1.00
+worde	w353	NOHI	NOLAB	1.00
 </p>
 <p id="p6">
-Donnerstag	w354
+Donnerstag	w354	NOHI	NOLAB	1.00
 <g/>
 /
-den	w356
-11	w357
+den	w356	NOHI	NOLAB	1.00
+11	w357	NOHI	NOLAB	1.00
 <g/>
 .
-Jenner	w359
+Jenner	w359	NOHI	NOLAB	1.00
 <g/>
 .
-Heute	w361
-Fruh	w362
-ware	w363
-der	w364
-Kaiserliche	w365
-Obrist	w366
+Heute	w361	NOHI	NOLAB	1.00
+Fruh	w362	NOHI	NOLAB	1.00
+ware	w363	NOHI	NOLAB	1.00
+der	w364	NOHI	NOLAB	1.00
+Kaiserliche	w365	NOHI	NOLAB	1.00
+Obrist	w366	NOHI	NOLAB	1.00
 <g/>
 =
-Lieutenant	w368
-von	w369
-dem	w370
-löblich	w371
+Lieutenant	w368	NOHI	NOLAB	1.00
+von	w369	NOHI	NOLAB	1.00
+dem	w370	NOHI	NOLAB	1.00
+löblich	w371	NOHI	NOLAB	1.00
 <g/>
 =
-Lothringischen	w373
-Regiment	w374
-zu	w375
-Fuß	w376
+Lothringischen	w373	NOHI	NOLAB	1.00
+Regiment	w374	NOHI	NOLAB	1.00
+zu	w375	NOHI	NOLAB	1.00
+Fuß	w376	NOHI	NOLAB	1.00
 <g/>
 /
 </p>
@@ -359,3655 +466,3655 @@ Fuß	w376
 )(
 </p>
 <p id="p8">
-Herr	w379
+Herr	w379	NOHI	NOLAB	1.00
 </p>
 <p id="p9">
-Herr	w380
-Graf	w381
-de	w382
-Luneville	w383
+Herr	w380	NOHI	NOLAB	1.00
+Graf	w381	NOHI	NOLAB	1.00
+de	w382	NOHI	NOLAB	1.00
+Luneville	w383	NOHI	NOLAB	1.00
 <g/>
 ,
-so	w385
-den	w386
-4	w387
+so	w385	NOHI	NOLAB	1.00
+den	w386	NOHI	NOLAB	1.00
+4	w387	NOHI	NOLAB	1.00
 <g/>
 .
-November	w389
-verwichenes	w390
-Jahrs	w391
-dem	w392
-Kaiserlichen	w393
-Hof	w394
-die	w395
-Nachricht	w396
-wegen	w397
-Eroberung	w398
-des	w399
-Citadels	w400
-von	w401
-Messina	w402
-überbracht	w403
+November	w389	NOHI	NOLAB	1.00
+verwichenes	w390	NOHI	NOLAB	1.00
+Jahrs	w391	NOHI	NOLAB	1.00
+dem	w392	NOHI	NOLAB	1.00
+Kaiserlichen	w393	NOHI	NOLAB	1.00
+Hof	w394	NOHI	NOLAB	1.00
+die	w395	NOHI	NOLAB	1.00
+Nachricht	w396	NOHI	NOLAB	1.00
+wegen	w397	NOHI	NOLAB	1.00
+Eroberung	w398	NOHI	NOLAB	1.00
+des	w399	NOHI	NOLAB	1.00
+Citadels	w400	NOHI	NOLAB	1.00
+von	w401	NOHI	NOLAB	1.00
+Messina	w402	NOHI	NOLAB	1.00
+überbracht	w403	NOHI	NOLAB	1.00
 <g/>
 /
-wieder	w405
-mit	w406
-einiger	w407
-Verrichtung	w408
-an	w409
-den	w410
-Comman=direnden	w411
+wieder	w405	NOHI	NOLAB	1.00
+mit	w406	NOHI	NOLAB	1.00
+einiger	w407	NOHI	NOLAB	1.00
+Verrichtung	w408	NOHI	NOLAB	1.00
+an	w409	NOHI	NOLAB	1.00
+den	w410	NOHI	NOLAB	1.00
+Comman=direnden	w411	NOHI	NOLAB	1.00
 <g/>
 =
-Herrn	w413
-General	w414
+Herrn	w413	NOHI	NOLAB	1.00
+General	w414	NOHI	NOLAB	1.00
 <g/>
 /
-Grafen	w416
-von	w417
-Mercy	w418
+Grafen	w416	NOHI	NOLAB	1.00
+von	w417	NOHI	NOLAB	1.00
+Mercy	w418	NOHI	NOLAB	1.00
 <g/>
 ,
-nacher	w420
-Sicilien	w421
-abge=schicket	w422
+nacher	w420	NOHI	NOLAB	1.00
+Sicilien	w421	NOHI	NOLAB	1.00
+abge=schicket	w422	NOHI	NOLAB	1.00
 <g/>
 =
-worden	w424
+worden	w424	NOHI	NOLAB	1.00
 <g/>
 :
-Von	w426
-dar	w427
+Von	w426	NOHI	NOLAB	1.00
+dar	w427	NOHI	NOLAB	1.00
 <g/>
 /
-nemlichen	w429
-aus	w430
-Messina	w431
+nemlichen	w429	NOHI	NOLAB	1.00
+aus	w430	NOHI	NOLAB	1.00
+Messina	w431	NOHI	NOLAB	1.00
 <g/>
 ,
-in	w433
-Sicilien	w434
+in	w433	NOHI	NOLAB	1.00
+Sicilien	w434	NOHI	NOLAB	1.00
 <g/>
 /
-war	w436
-abermal	w437
-hierbeyksmmende	w438
-Continuatio	w439
-Diarii	w440
+war	w436	NOHI	NOLAB	1.00
+abermal	w437	NOHI	NOLAB	1.00
+hierbeyksmmende	w438	NOHI	NOLAB	1.00
+Continuatio	w439	NOHI	NOLAB	1.00
+Diarii	w440	NOHI	NOLAB	1.00
 <g/>
 ,
-von	w442
-dem	w443
-13	w444
+von	w442	NOHI	NOLAB	1.00
+dem	w443	NOHI	NOLAB	1.00
+13	w444	NOHI	NOLAB	1.00
 <g/>
 .
-bis	w446
-19	w447
+bis	w446	NOHI	NOLAB	1.00
+19	w447	NOHI	NOLAB	1.00
 <g/>
 .
-December	w449
+December	w449	NOHI	NOLAB	1.00
 <g/>
 /
-1719	w451
+1719	w451	NOHI	NOLAB	1.00
 <g/>
 .
-dahier	w453
-eingelanget	w454
+dahier	w453	NOHI	NOLAB	1.00
+eingelanget	w454	NOHI	NOLAB	1.00
 <g/>
 ;
-Daraus	w456
-unter	w457
-andern	w458
-zu=sehen	w459
+Daraus	w456	NOHI	NOLAB	1.00
+unter	w457	NOHI	NOLAB	1.00
+andern	w458	NOHI	NOLAB	1.00
+zu=sehen	w459	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 /
-was	w462
-Massen	w463
-ein	w464
-Theil	w465
-derer	w466
-Schiffen	w467
+was	w462	NOHI	NOLAB	1.00
+Massen	w463	NOHI	NOLAB	1.00
+ein	w464	NOHI	NOLAB	1.00
+Theil	w465	NOHI	NOLAB	1.00
+derer	w466	NOHI	NOLAB	1.00
+Schiffen	w467	NOHI	NOLAB	1.00
 <g/>
 /
-so	w469
-das	w470
-Zumjungische	w471
-Cor-po	w472
+so	w469	NOHI	NOLAB	1.00
+das	w470	NOHI	NOLAB	1.00
+Zumjungische	w471	NOHI	NOLAB	1.00
+Cor-po	w472	NOHI	NOLAB	1.00
 <g/>
 -
-jüngstens	w474
-nach	w475
-Trapani	w476
-geführet	w477
+jüngstens	w474	NOHI	NOLAB	1.00
+nach	w475	NOHI	NOLAB	1.00
+Trapani	w476	NOHI	NOLAB	1.00
+geführet	w477	NOHI	NOLAB	1.00
 <g/>
 /
-zu	w479
-besagtem	w480
-Messina	w481
-den	w482
-19	w483
+zu	w479	NOHI	NOLAB	1.00
+besagtem	w480	NOHI	NOLAB	1.00
+Messina	w481	NOHI	NOLAB	1.00
+den	w482	NOHI	NOLAB	1.00
+19	w483	NOHI	NOLAB	1.00
 <g/>
 .
-Dito	w485
-glücklich	w486
-zuruckeingeloffen	w487
+Dito	w485	NOHI	NOLAB	1.00
+glücklich	w486	NOHI	NOLAB	1.00
+zuruckeingeloffen	w487	NOHI	NOLAB	1.00
 <g/>
 :
-hingegen	w489
-Tags	w490
-vorhero	w491
-wieder	w492
-ein	w493
-frische	w494
-Convoy	w495
-mit	w496
-Volk	w497
-von	w498
-Messina	w499
-nach	w500
-berührtem	w501
-Trapani	w502
-abgangen	w503
-seye	w504
+hingegen	w489	NOHI	NOLAB	1.00
+Tags	w490	NOHI	NOLAB	1.00
+vorhero	w491	NOHI	NOLAB	1.00
+wieder	w492	NOHI	NOLAB	1.00
+ein	w493	NOHI	NOLAB	1.00
+frische	w494	NOHI	NOLAB	1.00
+Convoy	w495	NOHI	NOLAB	1.00
+mit	w496	NOHI	NOLAB	1.00
+Volk	w497	NOHI	NOLAB	1.00
+von	w498	NOHI	NOLAB	1.00
+Messina	w499	NOHI	NOLAB	1.00
+nach	w500	NOHI	NOLAB	1.00
+berührtem	w501	NOHI	NOLAB	1.00
+Trapani	w502	NOHI	NOLAB	1.00
+abgangen	w503	NOHI	NOLAB	1.00
+seye	w504	NOHI	NOLAB	1.00
 <g/>
 /
-um	w506
-daselbsten	w507
-zu	w508
-dem	w509
-Zumjungischen	w510
-Corpo	w511
-zustossen	w512
+um	w506	NOHI	NOLAB	1.00
+daselbsten	w507	NOHI	NOLAB	1.00
+zu	w508	NOHI	NOLAB	1.00
+dem	w509	NOHI	NOLAB	1.00
+Zumjungischen	w510	NOHI	NOLAB	1.00
+Corpo	w511	NOHI	NOLAB	1.00
+zustossen	w512	NOHI	NOLAB	1.00
 <g/>
 ;
-Als	w514
-dorthin	w515
-nach	w516
-Anlangung	w517
-derer	w518
-von	w519
-Neapel	w520
-erwartenden	w521
-Truppen	w522
-noch	w523
-meh=rere	w524
+Als	w514	NOHI	NOLAB	1.00
+dorthin	w515	NOHI	NOLAB	1.00
+nach	w516	NOHI	NOLAB	1.00
+Anlangung	w517	NOHI	NOLAB	1.00
+derer	w518	NOHI	NOLAB	1.00
+von	w519	NOHI	NOLAB	1.00
+Neapel	w520	NOHI	NOLAB	1.00
+erwartenden	w521	NOHI	NOLAB	1.00
+Truppen	w522	NOHI	NOLAB	1.00
+noch	w523	NOHI	NOLAB	1.00
+meh=rere	w524	NOHI	NOLAB	1.00
 <g/>
 =
-Mannschaft	w526
-abfahren	w527
-solle	w528
+Mannschaft	w526	NOHI	NOLAB	1.00
+abfahren	w527	NOHI	NOLAB	1.00
+solle	w528	NOHI	NOLAB	1.00
 <g/>
 ;
-Demnach	w530
-bald	w531
-von	w532
-dorten	w533
-auch	w534
-etwas	w535
-mehrers	w536
-zuvernehmen	w537
-seyn	w538
-dörfte	w539
+Demnach	w530	NOHI	NOLAB	1.00
+bald	w531	NOHI	NOLAB	1.00
+von	w532	NOHI	NOLAB	1.00
+dorten	w533	NOHI	NOLAB	1.00
+auch	w534	NOHI	NOLAB	1.00
+etwas	w535	NOHI	NOLAB	1.00
+mehrers	w536	NOHI	NOLAB	1.00
+zuvernehmen	w537	NOHI	NOLAB	1.00
+seyn	w538	NOHI	NOLAB	1.00
+dörfte	w539	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p10">
-Freytag	w541
+Freytag	w541	NOHI	NOLAB	1.00
 <g/>
 /
-den	w543
-12	w544
+den	w543	NOHI	NOLAB	1.00
+12	w544	NOHI	NOLAB	1.00
 <g/>
 .
-Jenner	w546
+Jenner	w546	NOHI	NOLAB	1.00
 <g/>
 .
-Jhre	w548
-Majestät	w549
+Jhre	w548	NOHI	NOLAB	1.00
+Majestät	w549	NOHI	NOLAB	1.00
 <g/>
 /
-die	w551
-Verwittibt	w552
+die	w551	NOHI	NOLAB	1.00
+Verwittibt	w552	NOHI	NOLAB	1.00
 <g/>
 =
-Rö=mische	w554
+Rö=mische	w554	NOHI	NOLAB	1.00
 <g/>
 =
-Kaiserin	w556
+Kaiserin	w556	NOHI	NOLAB	1.00
 <g/>
 /
-Eleonora	w558
-Magdalena	w559
-Theresia	w560
+Eleonora	w558	NOHI	NOLAB	1.00
+Magdalena	w559	NOHI	NOLAB	1.00
+Theresia	w560	NOHI	NOLAB	1.00
 <g/>
 /
-befinden	w562
-sich	w563
-noch	w564
-immer	w565
-sehr	w566
-schwach	w567
+befinden	w562	NOHI	NOLAB	1.00
+sich	w563	NOHI	NOLAB	1.00
+noch	w564	NOHI	NOLAB	1.00
+immer	w565	NOHI	NOLAB	1.00
+sehr	w566	NOHI	NOLAB	1.00
+schwach	w567	NOHI	NOLAB	1.00
 <g/>
 /
-dahero	w569
-für	w570
-dieselbe	w571
-die	w572
-Göttliche	w573
-Güte	w574
-mit	w575
-dem	w576
-eifrigen	w577
-Gebeht	w578
-unabläslich	w579
-angeflehet	w580
-wird	w581
+dahero	w569	NOHI	NOLAB	1.00
+für	w570	NOHI	NOLAB	1.00
+dieselbe	w571	NOHI	NOLAB	1.00
+die	w572	NOHI	NOLAB	1.00
+Göttliche	w573	NOHI	NOLAB	1.00
+Güte	w574	NOHI	NOLAB	1.00
+mit	w575	NOHI	NOLAB	1.00
+dem	w576	NOHI	NOLAB	1.00
+eifrigen	w577	NOHI	NOLAB	1.00
+Gebeht	w578	NOHI	NOLAB	1.00
+unabläslich	w579	NOHI	NOLAB	1.00
+angeflehet	w580	NOHI	NOLAB	1.00
+wird	w581	NOHI	NOLAB	1.00
 <g/>
 ;
-Jndessen	w583
-werden	w584
-auch	w585
-Allerhöchstgedacht	w586
+Jndessen	w583	NOHI	NOLAB	1.00
+werden	w584	NOHI	NOLAB	1.00
+auch	w585	NOHI	NOLAB	1.00
+Allerhöchstgedacht	w586	NOHI	NOLAB	1.00
 <g/>
 =
-Verwittibt	w588
+Verwittibt	w588	NOHI	NOLAB	1.00
 <g/>
 =
-Kaiserliche	w590
-Majestät	w591
-sowohl	w592
-von	w593
-denen	w594
-Regierend	w595
+Kaiserliche	w590	NOHI	NOLAB	1.00
+Majestät	w591	NOHI	NOLAB	1.00
+sowohl	w592	NOHI	NOLAB	1.00
+von	w593	NOHI	NOLAB	1.00
+denen	w594	NOHI	NOLAB	1.00
+Regierend	w595	NOHI	NOLAB	1.00
 <g/>
 =
-Kaiserlich	w597
+Kaiserlich	w597	NOHI	NOLAB	1.00
 <g/>
 =
-und	w599
-Catholischen	w600
-Majestäten	w601
+und	w599	NOHI	NOLAB	1.00
+Catholischen	w600	NOHI	NOLAB	1.00
+Majestäten	w601	NOHI	NOLAB	1.00
 <g/>
 /
-als	w603
-Jhro	w604
-Maje=stät	w605
+als	w603	NOHI	NOLAB	1.00
+Jhro	w604	NOHI	NOLAB	1.00
+Maje=stät	w605	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 /
-der	w608
-Lezt	w609
+der	w608	NOHI	NOLAB	1.00
+Lezt	w609	NOHI	NOLAB	1.00
 <g/>
 =
-Verwittibt	w611
+Verwittibt	w611	NOHI	NOLAB	1.00
 <g/>
 =
-Römischen	w613
-Kaiserin	w614
+Römischen	w613	NOHI	NOLAB	1.00
+Kaiserin	w614	NOHI	NOLAB	1.00
 <g/>
 /
-Amalia	w616
-Wilhelmina	w617
+Amalia	w616	NOHI	NOLAB	1.00
+Wilhelmina	w617	NOHI	NOLAB	1.00
 <g/>
 /
-und	w619
-den	w620
-Durchleuchtigsten	w621
-Erz	w622
+und	w619	NOHI	NOLAB	1.00
+den	w620	NOHI	NOLAB	1.00
+Durchleuchtigsten	w621	NOHI	NOLAB	1.00
+Erz	w622	NOHI	NOLAB	1.00
 <g/>
 =
-Herzoginnen	w624
-stätshin	w625
-besuchet	w626
+Herzoginnen	w624	NOHI	NOLAB	1.00
+stätshin	w625	NOHI	NOLAB	1.00
+besuchet	w626	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p11">
-Dito	w628
-hat	w629
-bey	w630
-Jhro	w631
-Kaiserlich	w632
+Dito	w628	NOHI	NOLAB	1.00
+hat	w629	NOHI	NOLAB	1.00
+bey	w630	NOHI	NOLAB	1.00
+Jhro	w631	NOHI	NOLAB	1.00
+Kaiserlich	w632	NOHI	NOLAB	1.00
 <g/>
 =
-und	w634
-Catholischen	w635
-Majestät	w636
-der	w637
-Kö=niglich	w638
+und	w634	NOHI	NOLAB	1.00
+Catholischen	w635	NOHI	NOLAB	1.00
+Majestät	w636	NOHI	NOLAB	1.00
+der	w637	NOHI	NOLAB	1.00
+Kö=niglich	w638	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 =
-Schwedisch	w641
+Schwedisch	w641	NOHI	NOLAB	1.00
 <g/>
 =
-ausserordentliche	w643
-Gesandter	w644
+ausserordentliche	w643	NOHI	NOLAB	1.00
+Gesandter	w644	NOHI	NOLAB	1.00
 <g/>
 /
-Herr	w646
-General	w647
+Herr	w646	NOHI	NOLAB	1.00
+General	w647	NOHI	NOLAB	1.00
 <g/>
 /
-Graf	w649
-von	w650
-Sparr	w651
+Graf	w649	NOHI	NOLAB	1.00
+von	w650	NOHI	NOLAB	1.00
+Sparr	w651	NOHI	NOLAB	1.00
 <g/>
 /
-die	w653
-Urlaubs	w654
+die	w653	NOHI	NOLAB	1.00
+Urlaubs	w654	NOHI	NOLAB	1.00
 <g/>
 =
-Audienz	w656
-gehabt	w657
+Audienz	w656	NOHI	NOLAB	1.00
+gehabt	w657	NOHI	NOLAB	1.00
 <g/>
 ;
-Und	w659
-stehet	w660
-demnach	w661
-bereit	w662
+Und	w659	NOHI	NOLAB	1.00
+stehet	w660	NOHI	NOLAB	1.00
+demnach	w661	NOHI	NOLAB	1.00
+bereit	w662	NOHI	NOLAB	1.00
 <g/>
 /
-nächstens	w664
-seine	w665
-Reiß	w666
-nach	w667
-Frankreich	w668
-anzutretten	w669
+nächstens	w664	NOHI	NOLAB	1.00
+seine	w665	NOHI	NOLAB	1.00
+Reiß	w666	NOHI	NOLAB	1.00
+nach	w667	NOHI	NOLAB	1.00
+Frankreich	w668	NOHI	NOLAB	1.00
+anzutretten	w669	NOHI	NOLAB	1.00
 </p>
 <p id="p12">
-Aus	w670
-Polen	w671
+Aus	w670	NOHI	NOLAB	1.00
+Polen	w671	NOHI	NOLAB	1.00
 <g/>
 /
-von	w673
-dem	w674
-5	w675
+von	w673	NOHI	NOLAB	1.00
+dem	w674	NOHI	NOLAB	1.00
+5	w675	NOHI	NOLAB	1.00
 <g/>
 .
-Jenner	w677
+Jenner	w677	NOHI	NOLAB	1.00
 <g/>
 .
-Daß	w679
-zu	w680
-Warschau	w681
-man	w682
-be=schlossemhabe	w683
+Daß	w679	NOHI	NOLAB	1.00
+zu	w680	NOHI	NOLAB	1.00
+Warschau	w681	NOHI	NOLAB	1.00
+man	w682	NOHI	NOLAB	1.00
+be=schlossemhabe	w683	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 /
-einige	w686
-Deputirten	w687
-an	w688
-den	w689
-daselbst	w690
-sich	w691
-befindlich	w692
+einige	w686	NOHI	NOLAB	1.00
+Deputirten	w687	NOHI	NOLAB	1.00
+an	w688	NOHI	NOLAB	1.00
+den	w689	NOHI	NOLAB	1.00
+daselbst	w690	NOHI	NOLAB	1.00
+sich	w691	NOHI	NOLAB	1.00
+befindlich	w692	NOHI	NOLAB	1.00
 <g/>
 =
-Czaari=schen	w694
+Czaari=schen	w694	NOHI	NOLAB	1.00
 <g/>
 =
-Gesandten	w696
+Gesandten	w696	NOHI	NOLAB	1.00
 <g/>
 /
-Fürsten	w698
-Dolhoruki	w699
+Fürsten	w698	NOHI	NOLAB	1.00
+Dolhoruki	w699	NOHI	NOLAB	1.00
 <g/>
 ,
-abzuschicken	w701
+abzuschicken	w701	NOHI	NOLAB	1.00
 <g/>
 /
-sich	w703
-bey	w704
-ihme	w705
-von	w706
-ein	w707
+sich	w703	NOHI	NOLAB	1.00
+bey	w704	NOHI	NOLAB	1.00
+ihme	w705	NOHI	NOLAB	1.00
+von	w706	NOHI	NOLAB	1.00
+ein	w707	NOHI	NOLAB	1.00
 <g/>
 =
-und	w709
-anderm	w710
-zuerkündigen	w711
+und	w709	NOHI	NOLAB	1.00
+anderm	w710	NOHI	NOLAB	1.00
+zuerkündigen	w711	NOHI	NOLAB	1.00
 <g/>
 /
-sodan	w713
-dem	w714
-Senat	w715
-die	w716
-Nachricht	w717
-wie=der	w718
+sodan	w713	NOHI	NOLAB	1.00
+dem	w714	NOHI	NOLAB	1.00
+Senat	w715	NOHI	NOLAB	1.00
+die	w716	NOHI	NOLAB	1.00
+Nachricht	w717	NOHI	NOLAB	1.00
+wie=der	w718	NOHI	NOLAB	1.00
 <g/>
 =
-zuüberbringen	w720
+zuüberbringen	w720	NOHI	NOLAB	1.00
 <g/>
 .
-Jn	w722
-Curland	w723
-hätten	w724
-die	w725
-Czaarische	w726
-Truppen	w727
-wie=derholten	w728
+Jn	w722	NOHI	NOLAB	1.00
+Curland	w723	NOHI	NOLAB	1.00
+hätten	w724	NOHI	NOLAB	1.00
+die	w725	NOHI	NOLAB	1.00
+Czaarische	w726	NOHI	NOLAB	1.00
+Truppen	w727	NOHI	NOLAB	1.00
+wie=derholten	w728	NOHI	NOLAB	1.00
 <g/>
 =
-Befehl	w730
-empfangen	w731
+Befehl	w730	NOHI	NOLAB	1.00
+empfangen	w731	NOHI	NOLAB	1.00
 <g/>
 /
-sich	w733
-stündlich	w734
-bereit	w735
-zuhalten	w736
+sich	w733	NOHI	NOLAB	1.00
+stündlich	w734	NOHI	NOLAB	1.00
+bereit	w735	NOHI	NOLAB	1.00
+zuhalten	w736	NOHI	NOLAB	1.00
 <g/>
 /
-um	w738
-auf	w739
-allen	w740
-Fall	w741
-ein	w742
+um	w738	NOHI	NOLAB	1.00
+auf	w739	NOHI	NOLAB	1.00
+allen	w740	NOHI	NOLAB	1.00
+Fall	w741	NOHI	NOLAB	1.00
+ein	w742	NOHI	NOLAB	1.00
 <g/>
 =
-und	w744
-andere	w745
-Bewegung	w746
-vornehmen	w747
-zukönnen	w748
+und	w744	NOHI	NOLAB	1.00
+andere	w745	NOHI	NOLAB	1.00
+Bewegung	w746	NOHI	NOLAB	1.00
+vornehmen	w747	NOHI	NOLAB	1.00
+zukönnen	w748	NOHI	NOLAB	1.00
 <g/>
 ;
-Welche	w750
-Ordre	w751
-die	w752
-Czaarische	w753
-Völker	w754
-auch	w755
-anderwärtig	w756
-empfangen	w757
+Welche	w750	NOHI	NOLAB	1.00
+Ordre	w751	NOHI	NOLAB	1.00
+die	w752	NOHI	NOLAB	1.00
+Czaarische	w753	NOHI	NOLAB	1.00
+Völker	w754	NOHI	NOLAB	1.00
+auch	w755	NOHI	NOLAB	1.00
+anderwärtig	w756	NOHI	NOLAB	1.00
+empfangen	w757	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p13">
-Aus	w759
-Spannien	w760
+Aus	w759	NOHI	NOLAB	1.00
+Spannien	w760	NOHI	NOLAB	1.00
 <g/>
 /
-von	w762
-dem	w763
-12	w764
+von	w762	NOHI	NOLAB	1.00
+dem	w763	NOHI	NOLAB	1.00
+12	w764	NOHI	NOLAB	1.00
 <g/>
 .
-December	w766
+December	w766	NOHI	NOLAB	1.00
 <g/>
 .
-Daß	w768
-der	w769
-Herzog	w770
-von	w771
-Anjou	w772
-den	w773
-5	w774
+Daß	w768	NOHI	NOLAB	1.00
+der	w769	NOHI	NOLAB	1.00
+Herzog	w770	NOHI	NOLAB	1.00
+von	w771	NOHI	NOLAB	1.00
+Anjou	w772	NOHI	NOLAB	1.00
+den	w773	NOHI	NOLAB	1.00
+5	w774	NOHI	NOLAB	1.00
 <g/>
 .
-dieses	w776
-zu	w777
-Madrit	w778
-ein	w779
-Handbriefel	w780
-durch	w781
-den	w782
-Staats	w783
+dieses	w776	NOHI	NOLAB	1.00
+zu	w777	NOHI	NOLAB	1.00
+Madrit	w778	NOHI	NOLAB	1.00
+ein	w779	NOHI	NOLAB	1.00
+Handbriefel	w780	NOHI	NOLAB	1.00
+durch	w781	NOHI	NOLAB	1.00
+den	w782	NOHI	NOLAB	1.00
+Staats	w783	NOHI	NOLAB	1.00
 <g/>
 =
-Secretari	w785
-derer	w786
-Ausländischen	w787
-Geschäften	w788
-dem	w789
-Cardinal	w790
-Alberoni	w791
-über=schicket	w792
+Secretari	w785	NOHI	NOLAB	1.00
+derer	w786	NOHI	NOLAB	1.00
+Ausländischen	w787	NOHI	NOLAB	1.00
+Geschäften	w788	NOHI	NOLAB	1.00
+dem	w789	NOHI	NOLAB	1.00
+Cardinal	w790	NOHI	NOLAB	1.00
+Alberoni	w791	NOHI	NOLAB	1.00
+über=schicket	w792	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 :
-und	w795
-zufordrist	w796
-sich	w797
-gegen	w798
-ihme	w799
-wegen	w800
-seiner	w801
-Diensten	w802
-bedanket	w803
+und	w795	NOHI	NOLAB	1.00
+zufordrist	w796	NOHI	NOLAB	1.00
+sich	w797	NOHI	NOLAB	1.00
+gegen	w798	NOHI	NOLAB	1.00
+ihme	w799	NOHI	NOLAB	1.00
+wegen	w800	NOHI	NOLAB	1.00
+seiner	w801	NOHI	NOLAB	1.00
+Diensten	w802	NOHI	NOLAB	1.00
+bedanket	w803	NOHI	NOLAB	1.00
 <g/>
 :
 </p>
 <p id="p14">
-sodan	w806
-demselben	w807
-bedeutet	w808
-habe	w809
+sodan	w806	NOHI	NOLAB	1.00
+demselben	w807	NOHI	NOLAB	1.00
+bedeutet	w808	NOHI	NOLAB	1.00
+habe	w809	NOHI	NOLAB	1.00
 <g/>
 /
-in	w811
-8	w812
+in	w811	NOHI	NOLAB	1.00
+8	w812	NOHI	NOLAB	1.00
 <g/>
 .
-Tägen	w814
-Madrit	w815
+Tägen	w814	NOHI	NOLAB	1.00
+Madrit	w815	NOHI	NOLAB	1.00
 <g/>
 :
-und	w817
-folglichen	w818
-in	w819
-3	w820
+und	w817	NOHI	NOLAB	1.00
+folglichen	w818	NOHI	NOLAB	1.00
+in	w819	NOHI	NOLAB	1.00
+3	w820	NOHI	NOLAB	1.00
 <g/>
 .
-Wochen	w822
-ganz	w823
-Spannien	w824
-zuraumen	w825
+Wochen	w822	NOHI	NOLAB	1.00
+ganz	w823	NOHI	NOLAB	1.00
+Spannien	w824	NOHI	NOLAB	1.00
+zuraumen	w825	NOHI	NOLAB	1.00
 <g/>
 /
-ohne	w827
-den	w828
-Herzogen	w829
+ohne	w827	NOHI	NOLAB	1.00
+den	w828	NOHI	NOLAB	1.00
+Herzogen	w829	NOHI	NOLAB	1.00
 <g/>
 /
-oder	w831
-seine	w832
-Gemahlin	w833
+oder	w831	NOHI	NOLAB	1.00
+seine	w832	NOHI	NOLAB	1.00
+Gemahlin	w833	NOHI	NOLAB	1.00
 <g/>
 /
-und	w835
-junge	w836
-Herrschaft	w837
-mehr	w838
-zusehen	w839
+und	w835	NOHI	NOLAB	1.00
+junge	w836	NOHI	NOLAB	1.00
+Herrschaft	w837	NOHI	NOLAB	1.00
+mehr	w838	NOHI	NOLAB	1.00
+zusehen	w839	NOHI	NOLAB	1.00
 <g/>
 /
-noch	w841
-auch	w842
-mit	w843
-einem	w844
-Minister	w845
-zureden	w846
+noch	w841	NOHI	NOLAB	1.00
+auch	w842	NOHI	NOLAB	1.00
+mit	w843	NOHI	NOLAB	1.00
+einem	w844	NOHI	NOLAB	1.00
+Minister	w845	NOHI	NOLAB	1.00
+zureden	w846	NOHI	NOLAB	1.00
 <g/>
 ;
-Welchemnach	w848
-besagter	w849
-Cardinal	w850
-obigen	w851
-12	w852
+Welchemnach	w848	NOHI	NOLAB	1.00
+besagter	w849	NOHI	NOLAB	1.00
+Cardinal	w850	NOHI	NOLAB	1.00
+obigen	w851	NOHI	NOLAB	1.00
+12	w852	NOHI	NOLAB	1.00
 <g/>
 .
-December	w854
+December	w854	NOHI	NOLAB	1.00
 <g/>
 /
-nachdem	w856
-er	w857
-seine	w858
-Sachen	w859
-vorausgeschicket	w860
+nachdem	w856	NOHI	NOLAB	1.00
+er	w857	NOHI	NOLAB	1.00
+seine	w858	NOHI	NOLAB	1.00
+Sachen	w859	NOHI	NOLAB	1.00
+vorausgeschicket	w860	NOHI	NOLAB	1.00
 <g/>
 /
-die	w862
-Reiß	w863
-nach	w864
-Catalonien	w865
-angetretten	w866
+die	w862	NOHI	NOLAB	1.00
+Reiß	w863	NOHI	NOLAB	1.00
+nach	w864	NOHI	NOLAB	1.00
+Catalonien	w865	NOHI	NOLAB	1.00
+angetretten	w866	NOHI	NOLAB	1.00
 <g/>
 /
-um	w868
-von	w869
-dar	w870
-durch	w871
-Frankreich	w872
-nach	w873
-Jtalien	w874
+um	w868	NOHI	NOLAB	1.00
+von	w869	NOHI	NOLAB	1.00
+dar	w870	NOHI	NOLAB	1.00
+durch	w871	NOHI	NOLAB	1.00
+Frankreich	w872	NOHI	NOLAB	1.00
+nach	w873	NOHI	NOLAB	1.00
+Jtalien	w874	NOHI	NOLAB	1.00
 <g/>
 /
-oder	w876
-sonsten	w877
-sich	w878
-zubegeben	w879
+oder	w876	NOHI	NOLAB	1.00
+sonsten	w877	NOHI	NOLAB	1.00
+sich	w878	NOHI	NOLAB	1.00
+zubegeben	w879	NOHI	NOLAB	1.00
 <g/>
 ;
-Dieser	w881
-Streich	w882
-habe	w883
-nicht	w884
-allein	w885
-zu	w886
-Ma=drit	w887
+Dieser	w881	NOHI	NOLAB	1.00
+Streich	w882	NOHI	NOLAB	1.00
+habe	w883	NOHI	NOLAB	1.00
+nicht	w884	NOHI	NOLAB	1.00
+allein	w885	NOHI	NOLAB	1.00
+zu	w886	NOHI	NOLAB	1.00
+Ma=drit	w887	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 /
-sondern	w890
-auch	w891
-in	w892
-ganz	w893
-Spannien	w894
-ein	w895
-unbeschreibliche	w896
-Freud	w897
-erwecket	w898
+sondern	w890	NOHI	NOLAB	1.00
+auch	w891	NOHI	NOLAB	1.00
+in	w892	NOHI	NOLAB	1.00
+ganz	w893	NOHI	NOLAB	1.00
+Spannien	w894	NOHI	NOLAB	1.00
+ein	w895	NOHI	NOLAB	1.00
+unbeschreibliche	w896	NOHI	NOLAB	1.00
+Freud	w897	NOHI	NOLAB	1.00
+erwecket	w898	NOHI	NOLAB	1.00
 <g/>
 /
-in	w900
-der	w901
-Hofnung	w902
+in	w900	NOHI	NOLAB	1.00
+der	w901	NOHI	NOLAB	1.00
+Hofnung	w902	NOHI	NOLAB	1.00
 <g/>
 /
-daß	w904
-nunmehr	w905
+daß	w904	NOHI	NOLAB	1.00
+nunmehr	w905	NOHI	NOLAB	1.00
 <g/>
 /
-und	w907
-zwar	w908
-längstens	w909
-in	w910
-zwey	w911
-Mona=ten	w912
+und	w907	NOHI	NOLAB	1.00
+zwar	w908	NOHI	NOLAB	1.00
+längstens	w909	NOHI	NOLAB	1.00
+in	w910	NOHI	NOLAB	1.00
+zwey	w911	NOHI	NOLAB	1.00
+Mona=ten	w912	NOHI	NOLAB	1.00
 <g/>
 =
-die	w914
-Ruh	w915
-und	w916
-der	w917
-Fried	w918
-erfolgen	w919
-werde	w920
+die	w914	NOHI	NOLAB	1.00
+Ruh	w915	NOHI	NOLAB	1.00
+und	w916	NOHI	NOLAB	1.00
+der	w917	NOHI	NOLAB	1.00
+Fried	w918	NOHI	NOLAB	1.00
+erfolgen	w919	NOHI	NOLAB	1.00
+werde	w920	NOHI	NOLAB	1.00
 <g/>
 ;
-Zumalen	w922
-man	w923
-vernom=men	w924
+Zumalen	w922	NOHI	NOLAB	1.00
+man	w923	NOHI	NOLAB	1.00
+vernom=men	w924	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 /
-daß	w927
-der	w928
-König	w929
-in	w930
-Portugall	w931
-auch	w932
-der	w933
-Ouadruppel	w934
+daß	w927	NOHI	NOLAB	1.00
+der	w928	NOHI	NOLAB	1.00
+König	w929	NOHI	NOLAB	1.00
+in	w930	NOHI	NOLAB	1.00
+Portugall	w931	NOHI	NOLAB	1.00
+auch	w932	NOHI	NOLAB	1.00
+der	w933	NOHI	NOLAB	1.00
+Ouadruppel	w934	NOHI	NOLAB	1.00
 <g/>
 =
-Allianz	w936
-schon	w937
-beyzutretten	w938
-geneigt	w939
+Allianz	w936	NOHI	NOLAB	1.00
+schon	w937	NOHI	NOLAB	1.00
+beyzutretten	w938	NOHI	NOLAB	1.00
+geneigt	w939	NOHI	NOLAB	1.00
 <g/>
 ;
-Welchemnach	w941
-der	w942
-Marchese	w943
-Scotti	w944
-nächstens	w945
-nach	w946
-Frankreich	w947
-kehren	w948
+Welchemnach	w941	NOHI	NOLAB	1.00
+der	w942	NOHI	NOLAB	1.00
+Marchese	w943	NOHI	NOLAB	1.00
+Scotti	w944	NOHI	NOLAB	1.00
+nächstens	w945	NOHI	NOLAB	1.00
+nach	w946	NOHI	NOLAB	1.00
+Frankreich	w947	NOHI	NOLAB	1.00
+kehren	w948	NOHI	NOLAB	1.00
 <g/>
 :
-und	w950
-den	w951
-Frieden	w952
-richtig	w953
-machen	w954
-solle	w955
+und	w950	NOHI	NOLAB	1.00
+den	w951	NOHI	NOLAB	1.00
+Frieden	w952	NOHI	NOLAB	1.00
+richtig	w953	NOHI	NOLAB	1.00
+machen	w954	NOHI	NOLAB	1.00
+solle	w955	NOHI	NOLAB	1.00
 <g/>
 ;
-Da	w957
-im=mittels	w958
+Da	w957	NOHI	NOLAB	1.00
+im=mittels	w958	NOHI	NOLAB	1.00
 <g/>
 =
-der	w960
-Comte	w961
-d'Aguilar	w962
+der	w960	NOHI	NOLAB	1.00
+Comte	w961	NOHI	NOLAB	1.00
+d'Aguilar	w962	NOHI	NOLAB	1.00
 <g/>
 ,
-Marchese	w964
-de	w965
-Bedmar	w966
+Marchese	w964	NOHI	NOLAB	1.00
+de	w965	NOHI	NOLAB	1.00
+Bedmar	w966	NOHI	NOLAB	1.00
 <g/>
 .
 <g/>
 ,
-Duca	w969
-di	w970
-Popoli	w971
+Duca	w969	NOHI	NOLAB	1.00
+di	w970	NOHI	NOLAB	1.00
+Popoli	w971	NOHI	NOLAB	1.00
 <g/>
 ,
-und	w973
-Prencipe	w974
-di	w975
-Cellemare	w976
+und	w973	NOHI	NOLAB	1.00
+Prencipe	w974	NOHI	NOLAB	1.00
+di	w975	NOHI	NOLAB	1.00
+Cellemare	w976	NOHI	NOLAB	1.00
 <g/>
 ,
-welch	w978
+welch	w978	NOHI	NOLAB	1.00
 <g/>
 =
-alle	w980
-der	w981
-Cardinal	w982
-Alberoni	w983
-theils	w984
-absetzen	w985
+alle	w980	NOHI	NOLAB	1.00
+der	w981	NOHI	NOLAB	1.00
+Cardinal	w982	NOHI	NOLAB	1.00
+Alberoni	w983	NOHI	NOLAB	1.00
+theils	w984	NOHI	NOLAB	1.00
+absetzen	w985	NOHI	NOLAB	1.00
 <g/>
 :
-und	w987
-theils	w988
-von	w989
-Madrit	w990
-verbannen	w991
-helffen	w992
+und	w987	NOHI	NOLAB	1.00
+theils	w988	NOHI	NOLAB	1.00
+von	w989	NOHI	NOLAB	1.00
+Madrit	w990	NOHI	NOLAB	1.00
+verbannen	w991	NOHI	NOLAB	1.00
+helffen	w992	NOHI	NOLAB	1.00
 <g/>
 /
-ihr	w994
-vorige	w995
-Aemter	w996
-wieder	w997
-erhalten	w998
-dörften	w999
+ihr	w994	NOHI	NOLAB	1.00
+vorige	w995	NOHI	NOLAB	1.00
+Aemter	w996	NOHI	NOLAB	1.00
+wieder	w997	NOHI	NOLAB	1.00
+erhalten	w998	NOHI	NOLAB	1.00
+dörften	w999	NOHI	NOLAB	1.00
 <g/>
 ;
-Zu	w1001
-besagtem	w1002
-Madrit	w1003
-wären	w1004
-zwar	w1005
-noch	w1006
-einige	w1007
-von	w1008
-des	w1009
-Cardinals	w1010
-Anhang	w1011
-zuruckgeblieben	w1012
+Zu	w1001	NOHI	NOLAB	1.00
+besagtem	w1002	NOHI	NOLAB	1.00
+Madrit	w1003	NOHI	NOLAB	1.00
+wären	w1004	NOHI	NOLAB	1.00
+zwar	w1005	NOHI	NOLAB	1.00
+noch	w1006	NOHI	NOLAB	1.00
+einige	w1007	NOHI	NOLAB	1.00
+von	w1008	NOHI	NOLAB	1.00
+des	w1009	NOHI	NOLAB	1.00
+Cardinals	w1010	NOHI	NOLAB	1.00
+Anhang	w1011	NOHI	NOLAB	1.00
+zuruckgeblieben	w1012	NOHI	NOLAB	1.00
 <g/>
 /
-allein	w1014
+allein	w1014	NOHI	NOLAB	1.00
 <g/>
 /
-gleichwie	w1016
-ein	w1017
-gros=ser	w1018
+gleichwie	w1016	NOHI	NOLAB	1.00
+ein	w1017	NOHI	NOLAB	1.00
+gros=ser	w1018	NOHI	NOLAB	1.00
 <g/>
 =
-Baum	w1020
+Baum	w1020	NOHI	NOLAB	1.00
 <g/>
 /
-wan	w1022
-er	w1023
-falle	w1024
+wan	w1022	NOHI	NOLAB	1.00
+er	w1023	NOHI	NOLAB	1.00
+falle	w1024	NOHI	NOLAB	1.00
 <g/>
 /
-gemeiniglich	w1026
-viel	w1027
-kleine	w1028
-mit	w1029
-sich	w1030
-niederschlage	w1031
+gemeiniglich	w1026	NOHI	NOLAB	1.00
+viel	w1027	NOHI	NOLAB	1.00
+kleine	w1028	NOHI	NOLAB	1.00
+mit	w1029	NOHI	NOLAB	1.00
+sich	w1030	NOHI	NOLAB	1.00
+niederschlage	w1031	NOHI	NOLAB	1.00
 <g/>
 /
-stünden	w1033
-dieselbe	w1034
-auch	w1035
-auf	w1036
-Hem	w1037
-Fall	w1038
+stünden	w1033	NOHI	NOLAB	1.00
+dieselbe	w1034	NOHI	NOLAB	1.00
+auch	w1035	NOHI	NOLAB	1.00
+auf	w1036	NOHI	NOLAB	1.00
+Hem	w1037	NOHI	NOLAB	1.00
+Fall	w1038	NOHI	NOLAB	1.00
 <g/>
 ;
-Wiedan	w1040
-von	w1041
-des	w1042
-Cardinals	w1043
-seiner	w1044
-Nation	w1045
-sich	w1046
-auch	w1047
-niemand	w1048
-blicken	w1049
-lassen	w1050
-dörffe	w1051
+Wiedan	w1040	NOHI	NOLAB	1.00
+von	w1041	NOHI	NOLAB	1.00
+des	w1042	NOHI	NOLAB	1.00
+Cardinals	w1043	NOHI	NOLAB	1.00
+seiner	w1044	NOHI	NOLAB	1.00
+Nation	w1045	NOHI	NOLAB	1.00
+sich	w1046	NOHI	NOLAB	1.00
+auch	w1047	NOHI	NOLAB	1.00
+niemand	w1048	NOHI	NOLAB	1.00
+blicken	w1049	NOHI	NOLAB	1.00
+lassen	w1050	NOHI	NOLAB	1.00
+dörffe	w1051	NOHI	NOLAB	1.00
 <g/>
 /
-um	w1053
-nicht	w1054
-gestür=met	w1055
+um	w1053	NOHI	NOLAB	1.00
+nicht	w1054	NOHI	NOLAB	1.00
+gestür=met	w1055	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 :
-oder	w1058
-offentlich	w1059
-angefallen	w1060
+oder	w1058	NOHI	NOLAB	1.00
+offentlich	w1059	NOHI	NOLAB	1.00
+angefallen	w1060	NOHI	NOLAB	1.00
 <g/>
 :
-ja	w1062
-gar	w1063
-umgebracht	w1064
-zuwerden	w1065
+ja	w1062	NOHI	NOLAB	1.00
+gar	w1063	NOHI	NOLAB	1.00
+umgebracht	w1064	NOHI	NOLAB	1.00
+zuwerden	w1065	NOHI	NOLAB	1.00
 <g/>
 ;
-Und	w1067
-könne	w1068
-man	w1069
-dem	w1070
-Cardmal	w1071
-nicht	w1072
-vergessen	w1073
+Und	w1067	NOHI	NOLAB	1.00
+könne	w1068	NOHI	NOLAB	1.00
+man	w1069	NOHI	NOLAB	1.00
+dem	w1070	NOHI	NOLAB	1.00
+Cardmal	w1071	NOHI	NOLAB	1.00
+nicht	w1072	NOHI	NOLAB	1.00
+vergessen	w1073	NOHI	NOLAB	1.00
 <g/>
 /
-daß	w1075
-er	w1076
-noch	w1077
-die	w1078
-lezte	w1079
-Ur=sach	w1080
+daß	w1075	NOHI	NOLAB	1.00
+er	w1076	NOHI	NOLAB	1.00
+noch	w1077	NOHI	NOLAB	1.00
+die	w1078	NOHI	NOLAB	1.00
+lezte	w1079	NOHI	NOLAB	1.00
+Ur=sach	w1080	NOHI	NOLAB	1.00
 <g/>
 =
-seye	w1082
+seye	w1082	NOHI	NOLAB	1.00
 <g/>
 /
-daß	w1084
-die	w1085
-Anjouinische	w1086
-Prinzen	w1087
-die	w1088
-Hofnung	w1089
-zu	w1090
-Toscana	w1091
+daß	w1084	NOHI	NOLAB	1.00
+die	w1085	NOHI	NOLAB	1.00
+Anjouinische	w1086	NOHI	NOLAB	1.00
+Prinzen	w1087	NOHI	NOLAB	1.00
+die	w1088	NOHI	NOLAB	1.00
+Hofnung	w1089	NOHI	NOLAB	1.00
+zu	w1090	NOHI	NOLAB	1.00
+Toscana	w1091	NOHI	NOLAB	1.00
 <g/>
 ,
-Parma	w1093
+Parma	w1093	NOHI	NOLAB	1.00
 <g/>
 ,
-und	w1095
-anders	w1096
-mehr	w1097
-verlohren	w1098
+und	w1095	NOHI	NOLAB	1.00
+anders	w1096	NOHI	NOLAB	1.00
+mehr	w1097	NOHI	NOLAB	1.00
+verlohren	w1098	NOHI	NOLAB	1.00
 <g/>
 .
-Sonsten	w1100
-hab	w1101
-aus	w1102
-Galicien	w1103
-verlauten	w1104
-wollen	w1105
+Sonsten	w1100	NOHI	NOLAB	1.00
+hab	w1101	NOHI	NOLAB	1.00
+aus	w1102	NOHI	NOLAB	1.00
+Galicien	w1103	NOHI	NOLAB	1.00
+verlauten	w1104	NOHI	NOLAB	1.00
+wollen	w1105	NOHI	NOLAB	1.00
 <g/>
 /
-daß	w1107
+daß	w1107	NOHI	NOLAB	1.00
 <g/>
 /
-nachdeme	w1109
-von	w1110
-dorten	w1111
-die	w1112
-Engellische	w1113
-Flotta	w1114
-nach	w1115
-Hauß	w1116
-gekehret	w1117
+nachdeme	w1109	NOHI	NOLAB	1.00
+von	w1110	NOHI	NOLAB	1.00
+dorten	w1111	NOHI	NOLAB	1.00
+die	w1112	NOHI	NOLAB	1.00
+Engellische	w1113	NOHI	NOLAB	1.00
+Flotta	w1114	NOHI	NOLAB	1.00
+nach	w1115	NOHI	NOLAB	1.00
+Hauß	w1116	NOHI	NOLAB	1.00
+gekehret	w1117	NOHI	NOLAB	1.00
 <g/>
 /
-die	w1119
-Kauffarten	w1120
+die	w1119	NOHI	NOLAB	1.00
+Kauffarten	w1120	NOHI	NOLAB	1.00
 <g/>
 =
-Schiffe	w1122
-von	w1123
-Cadix	w1124
+Schiffe	w1122	NOHI	NOLAB	1.00
+von	w1123	NOHI	NOLAB	1.00
+Cadix	w1124	NOHI	NOLAB	1.00
 <g/>
 ,
-wie	w1126
-auch	w1127
-die	w1128
-nach	w1129
-Por=tugall	w1130
+wie	w1126	NOHI	NOLAB	1.00
+auch	w1127	NOHI	NOLAB	1.00
+die	w1128	NOHI	NOLAB	1.00
+nach	w1129	NOHI	NOLAB	1.00
+Por=tugall	w1130	NOHI	NOLAB	1.00
 <g/>
 =
-geflüchtete	w1132
-Kaufleuthe	w1133
-wieder	w1134
-zu	w1135
-Vigos	w1136
-sich	w1137
-eingefunden	w1138
-hätten	w1139
+geflüchtete	w1132	NOHI	NOLAB	1.00
+Kaufleuthe	w1133	NOHI	NOLAB	1.00
+wieder	w1134	NOHI	NOLAB	1.00
+zu	w1135	NOHI	NOLAB	1.00
+Vigos	w1136	NOHI	NOLAB	1.00
+sich	w1137	NOHI	NOLAB	1.00
+eingefunden	w1138	NOHI	NOLAB	1.00
+hätten	w1139	NOHI	NOLAB	1.00
 <g/>
 ;
-Daselbstige	w1141
-Guverneurstell	w1142
-D	w1143
+Daselbstige	w1141	NOHI	NOLAB	1.00
+Guverneurstell	w1142	NOHI	NOLAB	1.00
+D	w1143	NOHI	NOLAB	1.00
 <g/>
 .
-Manucl	w1145
-Rodriquez	w1146
-Carbonel	w1147
-erhalten	w1148
+Manucl	w1145	NOHI	NOLAB	1.00
+Rodriquez	w1146	NOHI	NOLAB	1.00
+Carbonel	w1147	NOHI	NOLAB	1.00
+erhalten	w1148	NOHI	NOLAB	1.00
 <g/>
 /
-und	w1150
-beschäftiget	w1151
-seye	w1152
+und	w1150	NOHI	NOLAB	1.00
+beschäftiget	w1151	NOHI	NOLAB	1.00
+seye	w1152	NOHI	NOLAB	1.00
 <g/>
 /
-besagtes	w1154
-Vigos	w1155
-wieder	w1156
-zubefestigen	w1157
+besagtes	w1154	NOHI	NOLAB	1.00
+Vigos	w1155	NOHI	NOLAB	1.00
+wieder	w1156	NOHI	NOLAB	1.00
+zubefestigen	w1157	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p15">
-Aus	w1159
-Groß	w1160
-Britannien	w1161
+Aus	w1159	NOHI	NOLAB	1.00
+Groß	w1160	NOHI	NOLAB	1.00
+Britannien	w1161	NOHI	NOLAB	1.00
 <g/>
 /
-von	w1163
-dem	w1164
-26	w1165
+von	w1163	NOHI	NOLAB	1.00
+dem	w1164	NOHI	NOLAB	1.00
+26	w1165	NOHI	NOLAB	1.00
 <g/>
 .
-December	w1167
+December	w1167	NOHI	NOLAB	1.00
 <g/>
 .
-Daß	w1169
-zu	w1170
-Lon=den	w1171
+Daß	w1169	NOHI	NOLAB	1.00
+zu	w1170	NOHI	NOLAB	1.00
+Lon=den	w1171	NOHI	NOLAB	1.00
 <g/>
 =
-der	w1173
-Königlich	w1174
+der	w1173	NOHI	NOLAB	1.00
+Königlich	w1174	NOHI	NOLAB	1.00
 <g/>
 =
-Preussische	w1176
-Cammerer	w1177
+Preussische	w1176	NOHI	NOLAB	1.00
+Cammerer	w1177	NOHI	NOLAB	1.00
 <g/>
 /
-Herr	w1179
-von	w1180
-Wallenraht	w1181
+Herr	w1179	NOHI	NOLAB	1.00
+von	w1180	NOHI	NOLAB	1.00
+Wallenraht	w1181	NOHI	NOLAB	1.00
 <g/>
 /
-als	w1183
-Gesandter	w1184
+als	w1183	NOHI	NOLAB	1.00
+Gesandter	w1184	NOHI	NOLAB	1.00
 <g/>
 /
-angekommen	w1186
+angekommen	w1186	NOHI	NOLAB	1.00
 <g/>
 /
-und	w1188
-bereits	w1189
-bey	w1190
-Jhro	w1191
-Groß	w1192
+und	w1188	NOHI	NOLAB	1.00
+bereits	w1189	NOHI	NOLAB	1.00
+bey	w1190	NOHI	NOLAB	1.00
+Jhro	w1191	NOHI	NOLAB	1.00
+Groß	w1192	NOHI	NOLAB	1.00
 <g/>
 =
-Britannischen	w1194
-Majestät	w1195
-den	w1196
-24	w1197
+Britannischen	w1194	NOHI	NOLAB	1.00
+Majestät	w1195	NOHI	NOLAB	1.00
+den	w1196	NOHI	NOLAB	1.00
+24	w1197	NOHI	NOLAB	1.00
 <g/>
 .
-Dito	w1199
-Audienz	w1200
-gehabt	w1201
+Dito	w1199	NOHI	NOLAB	1.00
+Audienz	w1200	NOHI	NOLAB	1.00
+gehabt	w1201	NOHI	NOLAB	1.00
 <g/>
 ;
-Der	w1203
-Czaarische	w1204
-Resident	w1205
+Der	w1203	NOHI	NOLAB	1.00
+Czaarische	w1204	NOHI	NOLAB	1.00
+Resident	w1205	NOHI	NOLAB	1.00
 <g/>
 /
-Herr	w1207
-Wesselowsky	w1208
+Herr	w1207	NOHI	NOLAB	1.00
+Wesselowsky	w1208	NOHI	NOLAB	1.00
 <g/>
 /
-hab	w1210
-ein	w1211
-ausführliches	w1212
-Schreiben	w1213
+hab	w1210	NOHI	NOLAB	1.00
+ein	w1211	NOHI	NOLAB	1.00
+ausführliches	w1212	NOHI	NOLAB	1.00
+Schreiben	w1213	NOHI	NOLAB	1.00
 <g/>
 /
-Namen	w1215
-seines	w1216
-höchsten	w1217
-Principalen	w1218
-dem	w1219
-Staats	w1220
-Secretari	w1221
-Stanhoppe	w1222
-überreichet	w1223
+Namen	w1215	NOHI	NOLAB	1.00
+seines	w1216	NOHI	NOLAB	1.00
+höchsten	w1217	NOHI	NOLAB	1.00
+Principalen	w1218	NOHI	NOLAB	1.00
+dem	w1219	NOHI	NOLAB	1.00
+Staats	w1220	NOHI	NOLAB	1.00
+Secretari	w1221	NOHI	NOLAB	1.00
+Stanhoppe	w1222	NOHI	NOLAB	1.00
+überreichet	w1223	NOHI	NOLAB	1.00
 <g/>
 :
-und	w1225
-darinnen	w1226
-verschiedene	w1227
-Sachen	w1228
+und	w1225	NOHI	NOLAB	1.00
+darinnen	w1226	NOHI	NOLAB	1.00
+verschiedene	w1227	NOHI	NOLAB	1.00
+Sachen	w1228	NOHI	NOLAB	1.00
 <g/>
 /
-das	w1230
-Nordische	w1231
-Weesen	w1232
+das	w1230	NOHI	NOLAB	1.00
+Nordische	w1231	NOHI	NOLAB	1.00
+Weesen	w1232	NOHI	NOLAB	1.00
 <g/>
 /
-wie	w1234
-auch	w1235
-seines	w1236
-Herrn	w1237
-tragende	w1238
-Neigung	w1239
-zum	w1240
-Frieben	w1241
-betreflich	w1242
+wie	w1234	NOHI	NOLAB	1.00
+auch	w1235	NOHI	NOLAB	1.00
+seines	w1236	NOHI	NOLAB	1.00
+Herrn	w1237	NOHI	NOLAB	1.00
+tragende	w1238	NOHI	NOLAB	1.00
+Neigung	w1239	NOHI	NOLAB	1.00
+zum	w1240	NOHI	NOLAB	1.00
+Frieben	w1241	NOHI	NOLAB	1.00
+betreflich	w1242	NOHI	NOLAB	1.00
 <g/>
 /
-vorgetragen	w1244
+vorgetragen	w1244	NOHI	NOLAB	1.00
 <g/>
 ;
-Zu	w1246
-besagtem	w1247
-Londen	w1248
-sey	w1249
-auch	w1250
-ein	w1251
-Curtier	w1252
-aus	w1253
-Frankreich	w1254
-angelanget	w1255
+Zu	w1246	NOHI	NOLAB	1.00
+besagtem	w1247	NOHI	NOLAB	1.00
+Londen	w1248	NOHI	NOLAB	1.00
+sey	w1249	NOHI	NOLAB	1.00
+auch	w1250	NOHI	NOLAB	1.00
+ein	w1251	NOHI	NOLAB	1.00
+Curtier	w1252	NOHI	NOLAB	1.00
+aus	w1253	NOHI	NOLAB	1.00
+Frankreich	w1254	NOHI	NOLAB	1.00
+angelanget	w1255	NOHI	NOLAB	1.00
 <g/>
 /
 </p>
 <p id="p16">
-mit	w1260
-der	w1261
-Zeitung	w1262
+mit	w1260	NOHI	NOLAB	1.00
+der	w1261	NOHI	NOLAB	1.00
+Zeitung	w1262	NOHI	NOLAB	1.00
 <g/>
 :
-daß	w1264
-der	w1265
-Herzog	w1266
-von	w1267
-Orleans	w1268
+daß	w1264	NOHI	NOLAB	1.00
+der	w1265	NOHI	NOLAB	1.00
+Herzog	w1266	NOHI	NOLAB	1.00
+von	w1267	NOHI	NOLAB	1.00
+Orleans	w1268	NOHI	NOLAB	1.00
 <g/>
 /
-Regent	w1270
-von	w1271
-Frank=reich	w1272
+Regent	w1270	NOHI	NOLAB	1.00
+von	w1271	NOHI	NOLAB	1.00
+Frank=reich	w1272	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 /
-die	w1275
-Nachricht	w1276
-erhalten	w1277
+die	w1275	NOHI	NOLAB	1.00
+Nachricht	w1276	NOHI	NOLAB	1.00
+erhalten	w1277	NOHI	NOLAB	1.00
 <g/>
 /
-wie	w1279
-nemlichen	w1280
-der	w1281
-Herzog	w1282
-von	w1283
-Anjou	w1284
-den	w1285
-Cardinal	w1286
+wie	w1279	NOHI	NOLAB	1.00
+nemlichen	w1280	NOHI	NOLAB	1.00
+der	w1281	NOHI	NOLAB	1.00
+Herzog	w1282	NOHI	NOLAB	1.00
+von	w1283	NOHI	NOLAB	1.00
+Anjou	w1284	NOHI	NOLAB	1.00
+den	w1285	NOHI	NOLAB	1.00
+Cardinal	w1286	NOHI	NOLAB	1.00
 <g/>
 .
-Alberoni	w1288
-aus	w1289
-Madrit	w1290
-und	w1291
-ganz	w1292
-Spannien	w1293
-fortgeschaf=fet	w1294
+Alberoni	w1288	NOHI	NOLAB	1.00
+aus	w1289	NOHI	NOLAB	1.00
+Madrit	w1290	NOHI	NOLAB	1.00
+und	w1291	NOHI	NOLAB	1.00
+ganz	w1292	NOHI	NOLAB	1.00
+Spannien	w1293	NOHI	NOLAB	1.00
+fortgeschaf=fet	w1294	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 ;
-Welche	w1297
-Fortschaffung	w1298
+Welche	w1297	NOHI	NOLAB	1.00
+Fortschaffung	w1298	NOHI	NOLAB	1.00
 <g/>
 /
-so	w1300
-man	w1301
-nicht	w1302
-ungern	w1303
-vernommen	w1304
+so	w1300	NOHI	NOLAB	1.00
+man	w1301	NOHI	NOLAB	1.00
+nicht	w1302	NOHI	NOLAB	1.00
+ungern	w1303	NOHI	NOLAB	1.00
+vernommen	w1304	NOHI	NOLAB	1.00
 <g/>
 /
-zu	w1306
-Lon=den	w1307
+zu	w1306	NOHI	NOLAB	1.00
+Lon=den	w1307	NOHI	NOLAB	1.00
 <g/>
 =
-schon	w1309
-für	w1310
-Præliminarien Praeliminarien	w1311
-des	w1312
-algemeinen	w1313
-Frieden	w1314
-gehalten	w1315
-werde	w1316
+schon	w1309	NOHI	NOLAB	1.00
+für	w1310	NOHI	NOLAB	1.00
+Praeliminarien	w1311	NOHI	NOLAB	1.00
+des	w1312	NOHI	NOLAB	1.00
+algemeinen	w1313	NOHI	NOLAB	1.00
+Frieden	w1314	NOHI	NOLAB	1.00
+gehalten	w1315	NOHI	NOLAB	1.00
+werde	w1316	NOHI	NOLAB	1.00
 <g/>
 ;
-Sonsten	w1318
-wäro	w1319
-bey	w1320
-dem	w1321
-Prinzen	w1322
-von	w1323
-Wallis	w1324
-kürzlich	w1325
-ein	w1326
-grosse	w1327
-Versamlung	w1328
-derer	w1329
-vornehmsten	w1330
-Mylords	w1331
-gewesen	w1332
+Sonsten	w1318	NOHI	NOLAB	1.00
+wäro	w1319	NOHI	NOLAB	1.00
+bey	w1320	NOHI	NOLAB	1.00
+dem	w1321	NOHI	NOLAB	1.00
+Prinzen	w1322	NOHI	NOLAB	1.00
+von	w1323	NOHI	NOLAB	1.00
+Wallis	w1324	NOHI	NOLAB	1.00
+kürzlich	w1325	NOHI	NOLAB	1.00
+ein	w1326	NOHI	NOLAB	1.00
+grosse	w1327	NOHI	NOLAB	1.00
+Versamlung	w1328	NOHI	NOLAB	1.00
+derer	w1329	NOHI	NOLAB	1.00
+vornehmsten	w1330	NOHI	NOLAB	1.00
+Mylords	w1331	NOHI	NOLAB	1.00
+gewesen	w1332	NOHI	NOLAB	1.00
 <g/>
 /
-um	w1334
-wegen	w1335
-der	w1336
-Bill	w1337
+um	w1334	NOHI	NOLAB	1.00
+wegen	w1335	NOHI	NOLAB	1.00
+der	w1336	NOHI	NOLAB	1.00
+Bill	w1337	NOHI	NOLAB	1.00
 <g/>
 /
-noch	w1339
-mehrere	w1340
-Pairs	w1341
-zumachen	w1342
+noch	w1339	NOHI	NOLAB	1.00
+mehrere	w1340	NOHI	NOLAB	1.00
+Pairs	w1341	NOHI	NOLAB	1.00
+zumachen	w1342	NOHI	NOLAB	1.00
 <g/>
 /
-so	w1344
-das	w1345
-Unter	w1346
+so	w1344	NOHI	NOLAB	1.00
+das	w1345	NOHI	NOLAB	1.00
+Unter	w1346	NOHI	NOLAB	1.00
 <g/>
 =
-Hauß	w1348
-verworffen	w1349
+Hauß	w1348	NOHI	NOLAB	1.00
+verworffen	w1349	NOHI	NOLAB	1.00
 <g/>
 /
-ein	w1351
-Mittel	w1352
-auszufinden	w1353
+ein	w1351	NOHI	NOLAB	1.00
+Mittel	w1352	NOHI	NOLAB	1.00
+auszufinden	w1353	NOHI	NOLAB	1.00
 <g/>
 ;
-Wegen	w1355
-des	w1356
-Herrn	w1357
-Laws	w1358
-seinen	w1359
-Actien	w1360
-in	w1361
-Frank=reich	w1362
+Wegen	w1355	NOHI	NOLAB	1.00
+des	w1356	NOHI	NOLAB	1.00
+Herrn	w1357	NOHI	NOLAB	1.00
+Laws	w1358	NOHI	NOLAB	1.00
+seinen	w1359	NOHI	NOLAB	1.00
+Actien	w1360	NOHI	NOLAB	1.00
+in	w1361	NOHI	NOLAB	1.00
+Frank=reich	w1362	NOHI	NOLAB	1.00
 <g/>
 =
-geb	w1364
-es	w1365
-in	w1366
-Londen	w1367
-viel	w1368
-zureden	w1369
+geb	w1364	NOHI	NOLAB	1.00
+es	w1365	NOHI	NOLAB	1.00
+in	w1366	NOHI	NOLAB	1.00
+Londen	w1367	NOHI	NOLAB	1.00
+viel	w1368	NOHI	NOLAB	1.00
+zureden	w1369	NOHI	NOLAB	1.00
 <g/>
 ;
-Und	w1371
-wolle	w1372
-verlauten	w1373
+Und	w1371	NOHI	NOLAB	1.00
+wolle	w1372	NOHI	NOLAB	1.00
+verlauten	w1373	NOHI	NOLAB	1.00
 <g/>
 /
-daß	w1375
-er	w1376
-diese	w1377
-Sachen	w1378
-vorlängstens	w1379
-dem	w1380
-Schottischen	w1381
-Parlement	w1382
-angetragen	w1383
+daß	w1375	NOHI	NOLAB	1.00
+er	w1376	NOHI	NOLAB	1.00
+diese	w1377	NOHI	NOLAB	1.00
+Sachen	w1378	NOHI	NOLAB	1.00
+vorlängstens	w1379	NOHI	NOLAB	1.00
+dem	w1380	NOHI	NOLAB	1.00
+Schottischen	w1381	NOHI	NOLAB	1.00
+Parlement	w1382	NOHI	NOLAB	1.00
+angetragen	w1383	NOHI	NOLAB	1.00
 <g/>
 :
-selbi=ges	w1385
+selbi=ges	w1385	NOHI	NOLAB	1.00
 <g/>
 =
-aber	w1387
-habe	w1388
-solche	w1389
-nicht	w1390
-geachtet	w1391
-gehabt	w1392
+aber	w1387	NOHI	NOLAB	1.00
+habe	w1388	NOHI	NOLAB	1.00
+solche	w1389	NOHI	NOLAB	1.00
+nicht	w1390	NOHI	NOLAB	1.00
+geachtet	w1391	NOHI	NOLAB	1.00
+gehabt	w1392	NOHI	NOLAB	1.00
 <g/>
 ;
-Jmmittels	w1394
-habe	w1395
-man	w1396
-in	w1397
-den	w1398
-Engellischen	w1399
-Häven	w1400
-alle	w1401
-Künstler	w1402
-und	w1403
-Handwerksleuthe	w1404
+Jmmittels	w1394	NOHI	NOLAB	1.00
+habe	w1395	NOHI	NOLAB	1.00
+man	w1396	NOHI	NOLAB	1.00
+in	w1397	NOHI	NOLAB	1.00
+den	w1398	NOHI	NOLAB	1.00
+Engellischen	w1399	NOHI	NOLAB	1.00
+Häven	w1400	NOHI	NOLAB	1.00
+alle	w1401	NOHI	NOLAB	1.00
+Künstler	w1402	NOHI	NOLAB	1.00
+und	w1403	NOHI	NOLAB	1.00
+Handwerksleuthe	w1404	NOHI	NOLAB	1.00
 <g/>
 /
-wie	w1406
-auch	w1407
-Boots	w1408
+wie	w1406	NOHI	NOLAB	1.00
+auch	w1407	NOHI	NOLAB	1.00
+Boots	w1408	NOHI	NOLAB	1.00
 <g/>
 =
-Knechten	w1410
-in	w1411
-Verhaft	w1412
-genommen	w1413
+Knechten	w1410	NOHI	NOLAB	1.00
+in	w1411	NOHI	NOLAB	1.00
+Verhaft	w1412	NOHI	NOLAB	1.00
+genommen	w1413	NOHI	NOLAB	1.00
 <g/>
 /
-welche	w1415
-nach	w1416
+welche	w1415	NOHI	NOLAB	1.00
+nach	w1416	NOHI	NOLAB	1.00
 <g/>
 =
-Frankreicht	w1418
-und	w1419
-von	w1420
-dar	w1421
-nach	w1422
-Mississipi	w1423
-sich	w1424
-begeben	w1425
-wollen	w1426
+Frankreicht	w1418	NOHI	NOLAB	1.00
+und	w1419	NOHI	NOLAB	1.00
+von	w1420	NOHI	NOLAB	1.00
+dar	w1421	NOHI	NOLAB	1.00
+nach	w1422	NOHI	NOLAB	1.00
+Mississipi	w1423	NOHI	NOLAB	1.00
+sich	w1424	NOHI	NOLAB	1.00
+begeben	w1425	NOHI	NOLAB	1.00
+wollen	w1426	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p17">
-Aus	w1428
-Frankreich	w1429
+Aus	w1428	NOHI	NOLAB	1.00
+Frankreich	w1429	NOHI	NOLAB	1.00
 <g/>
 /
-von	w1431
-dem	w1432
-29	w1433
+von	w1431	NOHI	NOLAB	1.00
+dem	w1432	NOHI	NOLAB	1.00
+29	w1433	NOHI	NOLAB	1.00
 <g/>
 .
-December	w1435
+December	w1435	NOHI	NOLAB	1.00
 <g/>
 .
-Daß	w1437
-zu	w1438
-Pariß	w1439
-ver=laute	w1440
+Daß	w1437	NOHI	NOLAB	1.00
+zu	w1438	NOHI	NOLAB	1.00
+Pariß	w1439	NOHI	NOLAB	1.00
+ver=laute	w1440	NOHI	NOLAB	1.00
 <g/>
 =
-als	w1442
-ob	w1443
-es	w1444
-anjezo	w1445
-dem	w1446
-Herzogen	w1447
-von	w1448
-Anjou	w1449
-Ernst	w1450
-seye	w1451
+als	w1442	NOHI	NOLAB	1.00
+ob	w1443	NOHI	NOLAB	1.00
+es	w1444	NOHI	NOLAB	1.00
+anjezo	w1445	NOHI	NOLAB	1.00
+dem	w1446	NOHI	NOLAB	1.00
+Herzogen	w1447	NOHI	NOLAB	1.00
+von	w1448	NOHI	NOLAB	1.00
+Anjou	w1449	NOHI	NOLAB	1.00
+Ernst	w1450	NOHI	NOLAB	1.00
+seye	w1451	NOHI	NOLAB	1.00
 <g/>
 /
-Friede	w1453
-zumachen	w1454
+Friede	w1453	NOHI	NOLAB	1.00
+zumachen	w1454	NOHI	NOLAB	1.00
 <g/>
 ;
-und	w1456
-solte	w1457
-deswegen	w1458
-der	w1459
-Staats	w1460
-Secretarius	w1461
-de	w1462
-Torcy	w1463
-nach	w1464
-Madrit	w1465
+und	w1456	NOHI	NOLAB	1.00
+solte	w1457	NOHI	NOLAB	1.00
+deswegen	w1458	NOHI	NOLAB	1.00
+der	w1459	NOHI	NOLAB	1.00
+Staats	w1460	NOHI	NOLAB	1.00
+Secretarius	w1461	NOHI	NOLAB	1.00
+de	w1462	NOHI	NOLAB	1.00
+Torcy	w1463	NOHI	NOLAB	1.00
+nach	w1464	NOHI	NOLAB	1.00
+Madrit	w1465	NOHI	NOLAB	1.00
 <g/>
 :
-hingegen	w1467
-von	w1468
-dannen	w1469
-der	w1470
-Marchese	w1471
-Scotti	w1472
-wieder	w1473
-nach	w1474
-Pariß	w1475
-gehen	w1476
+hingegen	w1467	NOHI	NOLAB	1.00
+von	w1468	NOHI	NOLAB	1.00
+dannen	w1469	NOHI	NOLAB	1.00
+der	w1470	NOHI	NOLAB	1.00
+Marchese	w1471	NOHI	NOLAB	1.00
+Scotti	w1472	NOHI	NOLAB	1.00
+wieder	w1473	NOHI	NOLAB	1.00
+nach	w1474	NOHI	NOLAB	1.00
+Pariß	w1475	NOHI	NOLAB	1.00
+gehen	w1476	NOHI	NOLAB	1.00
 <g/>
 ;
-Zu	w1478
-Pariß	w1479
-seye	w1480
-die	w1481
-einige	w1482
-Tochter	w1483
-des	w1484
-Herrn	w1485
-Lavs	w1486
-dem	w1487
-Exem=pel	w1488
+Zu	w1478	NOHI	NOLAB	1.00
+Pariß	w1479	NOHI	NOLAB	1.00
+seye	w1480	NOHI	NOLAB	1.00
+die	w1481	NOHI	NOLAB	1.00
+einige	w1482	NOHI	NOLAB	1.00
+Tochter	w1483	NOHI	NOLAB	1.00
+des	w1484	NOHI	NOLAB	1.00
+Herrn	w1485	NOHI	NOLAB	1.00
+Lavs	w1486	NOHI	NOLAB	1.00
+dem	w1487	NOHI	NOLAB	1.00
+Exem=pel	w1488	NOHI	NOLAB	1.00
 <g/>
 =
-ihres	w1490
-Herrn	w1491
-Vaters	w1492
-auch	w1493
-gefolget	w1494
+ihres	w1490	NOHI	NOLAB	1.00
+Herrn	w1491	NOHI	NOLAB	1.00
+Vaters	w1492	NOHI	NOLAB	1.00
+auch	w1493	NOHI	NOLAB	1.00
+gefolget	w1494	NOHI	NOLAB	1.00
 <g/>
 /
-und	w1496
-habe	w1497
-sich	w1498
-zur	w1499
-Catholischen	w1500
-Religion	w1501
-bekennet	w1502
+und	w1496	NOHI	NOLAB	1.00
+habe	w1497	NOHI	NOLAB	1.00
+sich	w1498	NOHI	NOLAB	1.00
+zur	w1499	NOHI	NOLAB	1.00
+Catholischen	w1500	NOHI	NOLAB	1.00
+Religion	w1501	NOHI	NOLAB	1.00
+bekennet	w1502	NOHI	NOLAB	1.00
 <g/>
 /
-nebst	w1504
-dem	w1505
-verlaute	w1506
+nebst	w1504	NOHI	NOLAB	1.00
+dem	w1505	NOHI	NOLAB	1.00
+verlaute	w1506	NOHI	NOLAB	1.00
 <g/>
 /
-daß	w1508
-dieselbe	w1509
-in	w1510
-einer	w1511
-Ehe	w1512
+daß	w1508	NOHI	NOLAB	1.00
+dieselbe	w1509	NOHI	NOLAB	1.00
+in	w1510	NOHI	NOLAB	1.00
+einer	w1511	NOHI	NOLAB	1.00
+Ehe	w1512	NOHI	NOLAB	1.00
 <g/>
 =
-Verlöbnuß	w1514
-mit	w1515
-einem	w1516
-Prinzen	w1517
-stehen	w1518
-solle	w1519
+Verlöbnuß	w1514	NOHI	NOLAB	1.00
+mit	w1515	NOHI	NOLAB	1.00
+einem	w1516	NOHI	NOLAB	1.00
+Prinzen	w1517	NOHI	NOLAB	1.00
+stehen	w1518	NOHI	NOLAB	1.00
+solle	w1519	NOHI	NOLAB	1.00
 <g/>
 ;
-Besagter	w1521
-Herr	w1522
-Laus	w1523
+Besagter	w1521	NOHI	NOLAB	1.00
+Herr	w1522	NOHI	NOLAB	1.00
+Laus	w1523	NOHI	NOLAB	1.00
 <g/>
 ,
-so	w1525
-jüngstens	w1526
-zur	w1527
-Ausbauung	w1528
-der	w1529
-Kirche	w1530
-des	w1531
-Heil	w1532
+so	w1525	NOHI	NOLAB	1.00
+jüngstens	w1526	NOHI	NOLAB	1.00
+zur	w1527	NOHI	NOLAB	1.00
+Ausbauung	w1528	NOHI	NOLAB	1.00
+der	w1529	NOHI	NOLAB	1.00
+Kirche	w1530	NOHI	NOLAB	1.00
+des	w1531	NOHI	NOLAB	1.00
+Heil	w1532	NOHI	NOLAB	1.00
 <g/>
 .
-Rochus	w1534
-zu	w1535
-Pariß	w1536
-100000	w1537
+Rochus	w1534	NOHI	NOLAB	1.00
+zu	w1535	NOHI	NOLAB	1.00
+Pariß	w1536	NOHI	NOLAB	1.00
+100000	w1537	NOHI	NOLAB	1.00
 <g/>
 .
-Reichsthir	w1539
+Reichsthir	w1539	NOHI	NOLAB	1.00
 <g/>
 .
-baar	w1541
-Gelt	w1542
-verehret	w1543
+baar	w1541	NOHI	NOLAB	1.00
+Gelt	w1542	NOHI	NOLAB	1.00
+verehret	w1543	NOHI	NOLAB	1.00
 <g/>
 /
-solle	w1545
-nächstens	w1546
-Groß	w1547
+solle	w1545	NOHI	NOLAB	1.00
+nächstens	w1546	NOHI	NOLAB	1.00
+Groß	w1547	NOHI	NOLAB	1.00
 <g/>
 =
-Schaz	w1549
+Schaz	w1549	NOHI	NOLAB	1.00
 <g/>
 =
-Maister	w1551
-von	w1552
-Frankreich	w1553
+Maister	w1551	NOHI	NOLAB	1.00
+von	w1552	NOHI	NOLAB	1.00
+Frankreich	w1553	NOHI	NOLAB	1.00
 <g/>
 :
-und	w1555
-dabey	w1556
-all	w1557
-sogenante	w1558
-Honneur	w1559
-du	w1560
-Lou-vre	w1561
+und	w1555	NOHI	NOLAB	1.00
+dabey	w1556	NOHI	NOLAB	1.00
+all	w1557	NOHI	NOLAB	1.00
+sogenante	w1558	NOHI	NOLAB	1.00
+Honneur	w1559	NOHI	NOLAB	1.00
+du	w1560	NOHI	NOLAB	1.00
+Lou-vre	w1561	NOHI	NOLAB	1.00
 <g/>
 -
-geniesen	w1563
+geniesen	w1563	NOHI	NOLAB	1.00
 <g/>
 :
-Uber	w1565
-dieses	w1566
-Herrn	w1567
-sein	w1568
-Glück	w1569
+Uber	w1565	NOHI	NOLAB	1.00
+dieses	w1566	NOHI	NOLAB	1.00
+Herrn	w1567	NOHI	NOLAB	1.00
+sein	w1568	NOHI	NOLAB	1.00
+Glück	w1569	NOHI	NOLAB	1.00
 <g/>
 /
-Ehr	w1571
-und	w1572
-Reichtum	w1573
+Ehr	w1571	NOHI	NOLAB	1.00
+und	w1572	NOHI	NOLAB	1.00
+Reichtum	w1573	NOHI	NOLAB	1.00
 <g/>
 /
-da	w1575
-er	w1576
-in	w1577
-kurzer	w1578
-Zeit	w1579
-13	w1580
+da	w1575	NOHI	NOLAB	1.00
+er	w1576	NOHI	NOLAB	1.00
+in	w1577	NOHI	NOLAB	1.00
+kurzer	w1578	NOHI	NOLAB	1.00
+Zeit	w1579	NOHI	NOLAB	1.00
+13	w1580	NOHI	NOLAB	1.00
 <g/>
 .
-grosse	w1582
-Herrschaften	w1583
-gekaufet	w1584
+grosse	w1582	NOHI	NOLAB	1.00
+Herrschaften	w1583	NOHI	NOLAB	1.00
+gekaufet	w1584	NOHI	NOLAB	1.00
 <g/>
 /
-auch	w1586
-über	w1587
-ein	w1588
-Mil=lion	w1589
+auch	w1586	NOHI	NOLAB	1.00
+über	w1587	NOHI	NOLAB	1.00
+ein	w1588	NOHI	NOLAB	1.00
+Mil=lion	w1589	NOHI	NOLAB	1.00
 <g/>
 =
-Reichsthlr	w1591
+Reichsthlr	w1591	NOHI	NOLAB	1.00
 <g/>
 .
-verschenket	w1593
+verschenket	w1593	NOHI	NOLAB	1.00
 <g/>
 /
-könne	w1595
-sich	w1596
-die	w1597
-Welt	w1598
-nicht	w1599
-gnugsam	w1600
-ver=wundern	w1601
+könne	w1595	NOHI	NOLAB	1.00
+sich	w1596	NOHI	NOLAB	1.00
+die	w1597	NOHI	NOLAB	1.00
+Welt	w1598	NOHI	NOLAB	1.00
+nicht	w1599	NOHI	NOLAB	1.00
+gnugsam	w1600	NOHI	NOLAB	1.00
+ver=wundern	w1601	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 .
 </p>
 <p id="p18">
-Aus	w1604
-Holland	w1605
+Aus	w1604	NOHI	NOLAB	1.00
+Holland	w1605	NOHI	NOLAB	1.00
 <g/>
 /
-von	w1607
-dem	w1608
-2	w1609
+von	w1607	NOHI	NOLAB	1.00
+dem	w1608	NOHI	NOLAB	1.00
+2	w1609	NOHI	NOLAB	1.00
 <g/>
 .
-Jenner	w1611
+Jenner	w1611	NOHI	NOLAB	1.00
 <g/>
 .
-Daß	w1613
-man	w1614
-in	w1615
-dem	w1616
-Haag	w1617
-vermuhte	w1618
+Daß	w1613	NOHI	NOLAB	1.00
+man	w1614	NOHI	NOLAB	1.00
+in	w1615	NOHI	NOLAB	1.00
+dem	w1616	NOHI	NOLAB	1.00
+Haag	w1617	NOHI	NOLAB	1.00
+vermuhte	w1618	NOHI	NOLAB	1.00
 <g/>
 /
-als	w1620
-dörfte	w1621
-baldest	w1622
-der	w1623
-Fried	w1624
-zwischen	w1625
-denen	w1626
-in	w1627
-der	w1628
-Qua=druppel	w1629
+als	w1620	NOHI	NOLAB	1.00
+dörfte	w1621	NOHI	NOLAB	1.00
+baldest	w1622	NOHI	NOLAB	1.00
+der	w1623	NOHI	NOLAB	1.00
+Fried	w1624	NOHI	NOLAB	1.00
+zwischen	w1625	NOHI	NOLAB	1.00
+denen	w1626	NOHI	NOLAB	1.00
+in	w1627	NOHI	NOLAB	1.00
+der	w1628	NOHI	NOLAB	1.00
+Qua=druppel	w1629	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 =
-Allianz	w1632
-befindlich	w1633
+Allianz	w1632	NOHI	NOLAB	1.00
+befindlich	w1633	NOHI	NOLAB	1.00
 <g/>
 =
-Höchsten	w1635
-Mächten	w1636
-und	w1637
-dem	w1638
-Herzogen	w1639
-von	w1640
-An=jou	w1641
+Höchsten	w1635	NOHI	NOLAB	1.00
+Mächten	w1636	NOHI	NOLAB	1.00
+und	w1637	NOHI	NOLAB	1.00
+dem	w1638	NOHI	NOLAB	1.00
+Herzogen	w1639	NOHI	NOLAB	1.00
+von	w1640	NOHI	NOLAB	1.00
+An=jou	w1641	NOHI	NOLAB	1.00
 <g/>
 =
-erfolgen	w1643
+erfolgen	w1643	NOHI	NOLAB	1.00
 <g/>
 ;
-Zumalen	w1645
+Zumalen	w1645	NOHI	NOLAB	1.00
 <g/>
 /
-da	w1647
-die	w1648
-Herren	w1649
-Staaten	w1650
-mittels	w1651
-eines	w1652
-Schrei=ben	w1653
+da	w1647	NOHI	NOLAB	1.00
+die	w1648	NOHI	NOLAB	1.00
+Herren	w1649	NOHI	NOLAB	1.00
+Staaten	w1650	NOHI	NOLAB	1.00
+mittels	w1651	NOHI	NOLAB	1.00
+eines	w1652	NOHI	NOLAB	1.00
+Schrei=ben	w1653	NOHI	NOLAB	1.00
 <g/>
 =
-dem	w1655
-Herzogen	w1656
-von	w1657
-Anjou	w1658
-zuverstehen	w1659
-gegeben	w1660
+dem	w1655	NOHI	NOLAB	1.00
+Herzogen	w1656	NOHI	NOLAB	1.00
+von	w1657	NOHI	NOLAB	1.00
+Anjou	w1658	NOHI	NOLAB	1.00
+zuverstehen	w1659	NOHI	NOLAB	1.00
+gegeben	w1660	NOHI	NOLAB	1.00
 <g/>
 :
-was	w1662
-Massen	w1663
-die=selbe	w1664
+was	w1662	NOHI	NOLAB	1.00
+Massen	w1663	NOHI	NOLAB	1.00
+die=selbe	w1664	NOHI	NOLAB	1.00
 <g/>
 =
-den	w1666
-ernstlichen	w1667
-Vorstellungen	w1668
-und	w1669
-Erklärungen	w1670
-höchstge=dachter	w1671
+den	w1666	NOHI	NOLAB	1.00
+ernstlichen	w1667	NOHI	NOLAB	1.00
+Vorstellungen	w1668	NOHI	NOLAB	1.00
+und	w1669	NOHI	NOLAB	1.00
+Erklärungen	w1670	NOHI	NOLAB	1.00
+höchstge=dachter	w1671	NOHI	NOLAB	1.00
 <g/>
 =
-Mächten	w1673
-unmöglich	w1674
-länger	w1675
-zu	w1676
-wiederstehen	w1677
-vermöget	w1678
+Mächten	w1673	NOHI	NOLAB	1.00
+unmöglich	w1674	NOHI	NOLAB	1.00
+länger	w1675	NOHI	NOLAB	1.00
+zu	w1676	NOHI	NOLAB	1.00
+wiederstehen	w1677	NOHI	NOLAB	1.00
+vermöget	w1678	NOHI	NOLAB	1.00
 <g/>
 ;
-Dero=halben	w1680
+Dero=halben	w1680	NOHI	NOLAB	1.00
 <g/>
 =
-die	w1682
-Herren	w1683
-Staaten	w1684
-den	w1685
-Herzogen	w1686
-von	w1687
-Anjou	w1688
-ermahnet	w1689
-haben	w1690
-molten	w1691
+die	w1682	NOHI	NOLAB	1.00
+Herren	w1683	NOHI	NOLAB	1.00
+Staaten	w1684	NOHI	NOLAB	1.00
+den	w1685	NOHI	NOLAB	1.00
+Herzogen	w1686	NOHI	NOLAB	1.00
+von	w1687	NOHI	NOLAB	1.00
+Anjou	w1688	NOHI	NOLAB	1.00
+ermahnet	w1689	NOHI	NOLAB	1.00
+haben	w1690	NOHI	NOLAB	1.00
+molten	w1691	NOHI	NOLAB	1.00
 <g/>
 /
-so	w1693
-fern	w1694
-ihm	w1695
-doch	w1696
-Ernst	w1697
-seye	w1698
+so	w1693	NOHI	NOLAB	1.00
+fern	w1694	NOHI	NOLAB	1.00
+ihm	w1695	NOHI	NOLAB	1.00
+doch	w1696	NOHI	NOLAB	1.00
+Ernst	w1697	NOHI	NOLAB	1.00
+seye	w1698	NOHI	NOLAB	1.00
 <g/>
 /
-einen	w1700
-Frieden	w1701
-zuschliesen	w1702
+einen	w1700	NOHI	NOLAB	1.00
+Frieden	w1701	NOHI	NOLAB	1.00
+zuschliesen	w1702	NOHI	NOLAB	1.00
 <g/>
 /
-der derselbe	w1704
+derselbe	w1704	NOHI	NOLAB	1.00
 <g/>
 =
 </p>
 <p id="p19">
-selbe	w1707
-sich	w1708
-keiner	w1709
-Dingen	w1710
-mehr	w1711
-verweilen	w1712
-wolle	w1713
+selbe	w1707	NOHI	NOLAB	1.00
+sich	w1708	NOHI	NOLAB	1.00
+keiner	w1709	NOHI	NOLAB	1.00
+Dingen	w1710	NOHI	NOLAB	1.00
+mehr	w1711	NOHI	NOLAB	1.00
+verweilen	w1712	NOHI	NOLAB	1.00
+wolle	w1713	NOHI	NOLAB	1.00
 <g/>
 ;
-Widrigenfals	w1715
-man	w1716
-würde	w1717
-genöhtiget	w1718
-seyn	w1719
+Widrigenfals	w1715	NOHI	NOLAB	1.00
+man	w1716	NOHI	NOLAB	1.00
+würde	w1717	NOHI	NOLAB	1.00
+genöhtiget	w1718	NOHI	NOLAB	1.00
+seyn	w1719	NOHI	NOLAB	1.00
 <g/>
 /
-von	w1721
-der	w1722
-guten	w1723
-Meinung	w1724
+von	w1721	NOHI	NOLAB	1.00
+der	w1722	NOHI	NOLAB	1.00
+guten	w1723	NOHI	NOLAB	1.00
+Meinung	w1724	NOHI	NOLAB	1.00
 <g/>
 /
-welche	w1726
-man	w1727
-sonst	w1728
-bis	w1729
-daher	w1730
-noch	w1731
-immer	w1732
-für	w1733
-denselben	w1734
-geheget	w1735
+welche	w1726	NOHI	NOLAB	1.00
+man	w1727	NOHI	NOLAB	1.00
+sonst	w1728	NOHI	NOLAB	1.00
+bis	w1729	NOHI	NOLAB	1.00
+daher	w1730	NOHI	NOLAB	1.00
+noch	w1731	NOHI	NOLAB	1.00
+immer	w1732	NOHI	NOLAB	1.00
+für	w1733	NOHI	NOLAB	1.00
+denselben	w1734	NOHI	NOLAB	1.00
+geheget	w1735	NOHI	NOLAB	1.00
 <g/>
 /
-blosser	w1737
-Sachen	w1738
-abzu=lassen	w1739
+blosser	w1737	NOHI	NOLAB	1.00
+Sachen	w1738	NOHI	NOLAB	1.00
+abzu=lassen	w1739	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 .
 </p>
 <p id="p20">
-Aus	w1742
-Brabant	w1743
+Aus	w1742	NOHI	NOLAB	1.00
+Brabant	w1743	NOHI	NOLAB	1.00
 <g/>
 /
-von	w1745
-dem	w1746
-2	w1747
+von	w1745	NOHI	NOLAB	1.00
+dem	w1746	NOHI	NOLAB	1.00
+2	w1747	NOHI	NOLAB	1.00
 <g/>
 .
-Jenner	w1749
+Jenner	w1749	NOHI	NOLAB	1.00
 <g/>
 .
-Daß	w1751
-der	w1752
-Kaiserliche	w1753
-Ad=ministrator	w1754
+Daß	w1751	NOHI	NOLAB	1.00
+der	w1752	NOHI	NOLAB	1.00
+Kaiserliche	w1753	NOHI	NOLAB	1.00
+Ad=ministrator	w1754	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 /
-Herr	w1757
-Marchese	w1758
-de	w1759
-Prie	w1760
+Herr	w1757	NOHI	NOLAB	1.00
+Marchese	w1758	NOHI	NOLAB	1.00
+de	w1759	NOHI	NOLAB	1.00
+Prie	w1760	NOHI	NOLAB	1.00
 <g/>
 ,
-zu	w1762
-Brüssel	w1763
-die	w1764
-Anstalten	w1765
-verfü=gen	w1766
+zu	w1762	NOHI	NOLAB	1.00
+Brüssel	w1763	NOHI	NOLAB	1.00
+die	w1764	NOHI	NOLAB	1.00
+Anstalten	w1765	NOHI	NOLAB	1.00
+verfü=gen	w1766	NOHI	NOLAB	1.00
 <g/>
 =
-lassen	w1768
+lassen	w1768	NOHI	NOLAB	1.00
 <g/>
 /
-um	w1770
-Dornick	w1771
-und	w1772
-andere	w1773
-Pläz	w1774
-Namens	w1775
-Jhrer	w1776
-Kaiserlichen	w1777
-Majestät	w1778
-nächster	w1779
-Tagen	w1780
-in	w1781
-Besiz	w1782
-zunehmen	w1783
+um	w1770	NOHI	NOLAB	1.00
+Dornick	w1771	NOHI	NOLAB	1.00
+und	w1772	NOHI	NOLAB	1.00
+andere	w1773	NOHI	NOLAB	1.00
+Pläz	w1774	NOHI	NOLAB	1.00
+Namens	w1775	NOHI	NOLAB	1.00
+Jhrer	w1776	NOHI	NOLAB	1.00
+Kaiserlichen	w1777	NOHI	NOLAB	1.00
+Majestät	w1778	NOHI	NOLAB	1.00
+nächster	w1779	NOHI	NOLAB	1.00
+Tagen	w1780	NOHI	NOLAB	1.00
+in	w1781	NOHI	NOLAB	1.00
+Besiz	w1782	NOHI	NOLAB	1.00
+zunehmen	w1783	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p21">
-Von	w1785
-dem	w1786
-Nieder	w1787
+Von	w1785	NOHI	NOLAB	1.00
+dem	w1786	NOHI	NOLAB	1.00
+Nieder	w1787	NOHI	NOLAB	1.00
 <g/>
 =
-Rheinstrom	w1789
+Rheinstrom	w1789	NOHI	NOLAB	1.00
 <g/>
 /
-vom	w1791
-4	w1792
+vom	w1791	NOHI	NOLAB	1.00
+4	w1792	NOHI	NOLAB	1.00
 <g/>
 .
-Jenner	w1794
+Jenner	w1794	NOHI	NOLAB	1.00
 <g/>
 .
-Daß	w1796
-man	w1797
-zu	w1798
-Cöllen	w1799
-die	w1800
-jüngst	w1801
-aldort	w1802
-mit	w1803
-einem	w1804
-Oberländischen	w1805
-Schiff	w1806
-angelangte	w1807
-Bomben	w1808
+Daß	w1796	NOHI	NOLAB	1.00
+man	w1797	NOHI	NOLAB	1.00
+zu	w1798	NOHI	NOLAB	1.00
+Cöllen	w1799	NOHI	NOLAB	1.00
+die	w1800	NOHI	NOLAB	1.00
+jüngst	w1801	NOHI	NOLAB	1.00
+aldort	w1802	NOHI	NOLAB	1.00
+mit	w1803	NOHI	NOLAB	1.00
+einem	w1804	NOHI	NOLAB	1.00
+Oberländischen	w1805	NOHI	NOLAB	1.00
+Schiff	w1806	NOHI	NOLAB	1.00
+angelangte	w1807	NOHI	NOLAB	1.00
+Bomben	w1808	NOHI	NOLAB	1.00
 <g/>
 /
-Kuglen	w1810
+Kuglen	w1810	NOHI	NOLAB	1.00
 <g/>
 /
-und	w1812
-anders	w1813
-Kriegs	w1814
+und	w1812	NOHI	NOLAB	1.00
+anders	w1813	NOHI	NOLAB	1.00
+Kriegs	w1814	NOHI	NOLAB	1.00
 <g/>
 =
-Gezeng	w1816
-aus	w1817
+Gezeng	w1816	NOHI	NOLAB	1.00
+aus	w1817	NOHI	NOLAB	1.00
 <g/>
 :
-und	w1819
-in	w1820
-ein	w1821
-Hol=ländisches	w1822
+und	w1819	NOHI	NOLAB	1.00
+in	w1820	NOHI	NOLAB	1.00
+ein	w1821	NOHI	NOLAB	1.00
+Hol=ländisches	w1822	NOHI	NOLAB	1.00
 <g/>
 =
-Schiff	w1824
-geladen	w1825
-habe	w1826
+Schiff	w1824	NOHI	NOLAB	1.00
+geladen	w1825	NOHI	NOLAB	1.00
+habe	w1826	NOHI	NOLAB	1.00
 <g/>
 /
-um	w1828
-ferners	w1829
-nach	w1830
-Nieder	w1831
+um	w1828	NOHI	NOLAB	1.00
+ferners	w1829	NOHI	NOLAB	1.00
+nach	w1830	NOHI	NOLAB	1.00
+Nieder	w1831	NOHI	NOLAB	1.00
 <g/>
 =
-Wesel	w1833
-geführet	w1834
-zu	w1835
-werden	w1836
+Wesel	w1833	NOHI	NOLAB	1.00
+geführet	w1834	NOHI	NOLAB	1.00
+zu	w1835	NOHI	NOLAB	1.00
+werden	w1836	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p22">
-Von	w1838
-dem	w1839
-Ober	w1840
+Von	w1838	NOHI	NOLAB	1.00
+dem	w1839	NOHI	NOLAB	1.00
+Ober	w1840	NOHI	NOLAB	1.00
 <g/>
 =
-Rheinstrom	w1842
+Rheinstrom	w1842	NOHI	NOLAB	1.00
 <g/>
 /
-vom	w1844
-6	w1845
+vom	w1844	NOHI	NOLAB	1.00
+6	w1845	NOHI	NOLAB	1.00
 <g/>
 .
-Jenner	w1847
+Jenner	w1847	NOHI	NOLAB	1.00
 <g/>
 .
-Daß	w1849
-aus	w1850
-dem	w1851
-Elsaß	w1852
-die	w1853
-Nachricht	w1854
-kommen	w1855
+Daß	w1849	NOHI	NOLAB	1.00
+aus	w1850	NOHI	NOLAB	1.00
+dem	w1851	NOHI	NOLAB	1.00
+Elsaß	w1852	NOHI	NOLAB	1.00
+die	w1853	NOHI	NOLAB	1.00
+Nachricht	w1854	NOHI	NOLAB	1.00
+kommen	w1855	NOHI	NOLAB	1.00
 <g/>
 /
-wie	w1857
-nemlichen	w1858
-nicht	w1859
-allein	w1860
-die	w1861
-den	w1862
-ehe=mals	w1863
+wie	w1857	NOHI	NOLAB	1.00
+nemlichen	w1858	NOHI	NOLAB	1.00
+nicht	w1859	NOHI	NOLAB	1.00
+allein	w1860	NOHI	NOLAB	1.00
+die	w1861	NOHI	NOLAB	1.00
+den	w1862	NOHI	NOLAB	1.00
+ehe=mals	w1863	NOHI	NOLAB	1.00
 <g/>
 =
-vertriebenen	w1865
-Reformirten	w1866
-unlängst	w1867
-gegebene	w1868
-Freyheit	w1869
+vertriebenen	w1865	NOHI	NOLAB	1.00
+Reformirten	w1866	NOHI	NOLAB	1.00
+unlängst	w1867	NOHI	NOLAB	1.00
+gegebene	w1868	NOHI	NOLAB	1.00
+Freyheit	w1869	NOHI	NOLAB	1.00
 <g/>
 /
-um	w1871
-nach	w1872
-Frankreich	w1873
-zukehren	w1874
+um	w1871	NOHI	NOLAB	1.00
+nach	w1872	NOHI	NOLAB	1.00
+Frankreich	w1873	NOHI	NOLAB	1.00
+zukehren	w1874	NOHI	NOLAB	1.00
 <g/>
 /
-und	w1876
-ihre	w1877
-Gühter	w1878
-verkauffen	w1879
-zudörffen	w1880
+und	w1876	NOHI	NOLAB	1.00
+ihre	w1877	NOHI	NOLAB	1.00
+Gühter	w1878	NOHI	NOLAB	1.00
+verkauffen	w1879	NOHI	NOLAB	1.00
+zudörffen	w1880	NOHI	NOLAB	1.00
 <g/>
 /
-nicht	w1882
-allein	w1883
-wieder	w1884
-aufgehoben	w1885
+nicht	w1882	NOHI	NOLAB	1.00
+allein	w1883	NOHI	NOLAB	1.00
+wieder	w1884	NOHI	NOLAB	1.00
+aufgehoben	w1885	NOHI	NOLAB	1.00
 <g/>
 :
-sondern	w1887
-auch	w1888
-Kraft	w1889
-eines	w1890
-Königlichen	w1891
-Befehls	w1892
-die	w1893
-von	w1894
-den	w1895
-Reformirten	w1896
-im	w1897
-Jahr	w1898
-1700	w1899
+sondern	w1887	NOHI	NOLAB	1.00
+auch	w1888	NOHI	NOLAB	1.00
+Kraft	w1889	NOHI	NOLAB	1.00
+eines	w1890	NOHI	NOLAB	1.00
+Königlichen	w1891	NOHI	NOLAB	1.00
+Befehls	w1892	NOHI	NOLAB	1.00
+die	w1893	NOHI	NOLAB	1.00
+von	w1894	NOHI	NOLAB	1.00
+den	w1895	NOHI	NOLAB	1.00
+Reformirten	w1896	NOHI	NOLAB	1.00
+im	w1897	NOHI	NOLAB	1.00
+Jahr	w1898	NOHI	NOLAB	1.00
+1700	w1899	NOHI	NOLAB	1.00
 <g/>
 .
-in	w1901
-dem	w1902
-Fürstentum	w1903
-Oranien	w1904
-neuerbaut	w1905
+in	w1901	NOHI	NOLAB	1.00
+dem	w1902	NOHI	NOLAB	1.00
+Fürstentum	w1903	NOHI	NOLAB	1.00
+Oranien	w1904	NOHI	NOLAB	1.00
+neuerbaut	w1905	NOHI	NOLAB	1.00
 <g/>
 =
-schön	w1907
-und	w1908
-herrliche	w1909
-Kirch	w1910
+schön	w1907	NOHI	NOLAB	1.00
+und	w1908	NOHI	NOLAB	1.00
+herrliche	w1909	NOHI	NOLAB	1.00
+Kirch	w1910	NOHI	NOLAB	1.00
 <g/>
 /
-so	w1912
-die	w1913
-einzig	w1914
-und	w1915
-leztere	w1916
-in	w1917
-ganz	w1918
-Frankreich	w1919
-gewesen	w1920
+so	w1912	NOHI	NOLAB	1.00
+die	w1913	NOHI	NOLAB	1.00
+einzig	w1914	NOHI	NOLAB	1.00
+und	w1915	NOHI	NOLAB	1.00
+leztere	w1916	NOHI	NOLAB	1.00
+in	w1917	NOHI	NOLAB	1.00
+ganz	w1918	NOHI	NOLAB	1.00
+Frankreich	w1919	NOHI	NOLAB	1.00
+gewesen	w1920	NOHI	NOLAB	1.00
 <g/>
 /
-den	w1922
-Reformirten	w1923
-abgenommen	w1924
+den	w1922	NOHI	NOLAB	1.00
+Reformirten	w1923	NOHI	NOLAB	1.00
+abgenommen	w1924	NOHI	NOLAB	1.00
 <g/>
 :
-sodan	w1926
-solche	w1927
-den	w1928
-7	w1929
+sodan	w1926	NOHI	NOLAB	1.00
+solche	w1927	NOHI	NOLAB	1.00
+den	w1928	NOHI	NOLAB	1.00
+7	w1929	NOHI	NOLAB	1.00
 <g/>
 .
-December	w1931
-von	w1932
-dasigem	w1933
-Bischoffen	w1934
-Catholischem	w1935
-Gebrauchnach	w1936
-einge=weihet	w1937
+December	w1931	NOHI	NOLAB	1.00
+von	w1932	NOHI	NOLAB	1.00
+dasigem	w1933	NOHI	NOLAB	1.00
+Bischoffen	w1934	NOHI	NOLAB	1.00
+Catholischem	w1935	NOHI	NOLAB	1.00
+Gebrauchnach	w1936	NOHI	NOLAB	1.00
+einge=weihet	w1937	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 ;
-und	w1940
-folglichen	w1941
-den	w1942
-sogenanten	w1943
-Patribus	w1944
-von	w1945
-der	w1946
-Christlichen	w1947
-Lehr	w1948
-übergeben	w1949
-worden	w1950
+und	w1940	NOHI	NOLAB	1.00
+folglichen	w1941	NOHI	NOLAB	1.00
+den	w1942	NOHI	NOLAB	1.00
+sogenanten	w1943	NOHI	NOLAB	1.00
+Patribus	w1944	NOHI	NOLAB	1.00
+von	w1945	NOHI	NOLAB	1.00
+der	w1946	NOHI	NOLAB	1.00
+Christlichen	w1947	NOHI	NOLAB	1.00
+Lehr	w1948	NOHI	NOLAB	1.00
+übergeben	w1949	NOHI	NOLAB	1.00
+worden	w1950	NOHI	NOLAB	1.00
 <g/>
 ;
-Und	w1952
-wäre	w1953
-man	w1954
-nicht	w1955
-wenig	w1956
-zu	w1957
-Strasburg	w1958
+Und	w1952	NOHI	NOLAB	1.00
+wäre	w1953	NOHI	NOLAB	1.00
+man	w1954	NOHI	NOLAB	1.00
+nicht	w1955	NOHI	NOLAB	1.00
+wenig	w1956	NOHI	NOLAB	1.00
+zu	w1957	NOHI	NOLAB	1.00
+Strasburg	w1958	NOHI	NOLAB	1.00
 <g/>
 /
-Landau	w1960
+Landau	w1960	NOHI	NOLAB	1.00
 <g/>
 /
-und	w1962
-in	w1963
-ganz	w1964
-Eisaß	w1965
-wegen	w1966
-derer	w1967
-Protestirenden	w1968
-Kirchen	w1969
-be=kümmert	w1970
+und	w1962	NOHI	NOLAB	1.00
+in	w1963	NOHI	NOLAB	1.00
+ganz	w1964	NOHI	NOLAB	1.00
+Eisaß	w1965	NOHI	NOLAB	1.00
+wegen	w1966	NOHI	NOLAB	1.00
+derer	w1967	NOHI	NOLAB	1.00
+Protestirenden	w1968	NOHI	NOLAB	1.00
+Kirchen	w1969	NOHI	NOLAB	1.00
+be=kümmert	w1970	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 /
-daß	w1973
-es	w1974
-ihnen	w1975
-ebenfals	w1976
-so	w1977
-ergehen	w1978
-möge	w1979
+daß	w1973	NOHI	NOLAB	1.00
+es	w1974	NOHI	NOLAB	1.00
+ihnen	w1975	NOHI	NOLAB	1.00
+ebenfals	w1976	NOHI	NOLAB	1.00
+so	w1977	NOHI	NOLAB	1.00
+ergehen	w1978	NOHI	NOLAB	1.00
+möge	w1979	NOHI	NOLAB	1.00
 <g/>
 ;
-Gleichwie	w1981
-auch	w1982
-in	w1983
-berührtem	w1984
-Elsaß	w1985
-viel	w1986
-tausend	w1987
-Franzoßen	w1988
-sich	w1989
-marschfertig	w1990
-zuhalten	w1991
-beordret	w1992
-worden	w1993
+Gleichwie	w1981	NOHI	NOLAB	1.00
+auch	w1982	NOHI	NOLAB	1.00
+in	w1983	NOHI	NOLAB	1.00
+berührtem	w1984	NOHI	NOLAB	1.00
+Elsaß	w1985	NOHI	NOLAB	1.00
+viel	w1986	NOHI	NOLAB	1.00
+tausend	w1987	NOHI	NOLAB	1.00
+Franzoßen	w1988	NOHI	NOLAB	1.00
+sich	w1989	NOHI	NOLAB	1.00
+marschfertig	w1990	NOHI	NOLAB	1.00
+zuhalten	w1991	NOHI	NOLAB	1.00
+beordret	w1992	NOHI	NOLAB	1.00
+worden	w1993	NOHI	NOLAB	1.00
 <g/>
 ;
-Als	w1995
-hätten	w1996
-die	w1997
-an	w1998
-dem	w1999
-Saar	w2000
+Als	w1995	NOHI	NOLAB	1.00
+hätten	w1996	NOHI	NOLAB	1.00
+die	w1997	NOHI	NOLAB	1.00
+an	w1998	NOHI	NOLAB	1.00
+dem	w1999	NOHI	NOLAB	1.00
+Saar	w2000	NOHI	NOLAB	1.00
 <g/>
 =
-und	w2002
-Mosel	w2003
+und	w2002	NOHI	NOLAB	1.00
+Mosel	w2003	NOHI	NOLAB	1.00
 <g/>
 =
-Strom	w2005
-im	w2006
-Quartier	w2007
-liegend	w2008
+Strom	w2005	NOHI	NOLAB	1.00
+im	w2006	NOHI	NOLAB	1.00
+Quartier	w2007	NOHI	NOLAB	1.00
+liegend	w2008	NOHI	NOLAB	1.00
 <g/>
 =
-Französische	w2010
-Truppen	w2011
-ebenfals	w2012
-die	w2013
-Ordre	w2014
-bekom=men	w2015
+Französische	w2010	NOHI	NOLAB	1.00
+Truppen	w2011	NOHI	NOLAB	1.00
+ebenfals	w2012	NOHI	NOLAB	1.00
+die	w2013	NOHI	NOLAB	1.00
+Ordre	w2014	NOHI	NOLAB	1.00
+bekom=men	w2015	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 /
-sich	w2018
-zum	w2019
-Aufbruch	w2020
-bereit	w2021
-zumachen	w2022
+sich	w2018	NOHI	NOLAB	1.00
+zum	w2019	NOHI	NOLAB	1.00
+Aufbruch	w2020	NOHI	NOLAB	1.00
+bereit	w2021	NOHI	NOLAB	1.00
+zumachen	w2022	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p23">
-Aus	w2024
-Schwaben	w2025
+Aus	w2024	NOHI	NOLAB	1.00
+Schwaben	w2025	NOHI	NOLAB	1.00
 <g/>
 /
-von	w2027
-dem	w2028
-8	w2029
+von	w2027	NOHI	NOLAB	1.00
+dem	w2028	NOHI	NOLAB	1.00
+8	w2029	NOHI	NOLAB	1.00
 <g/>
 .
-Jenner	w2031
+Jenner	w2031	NOHI	NOLAB	1.00
 <g/>
 .
-Daß	w2033
-jüngstens	w2034
-zu	w2035
-Haar=burg	w2036
+Daß	w2033	NOHI	NOLAB	1.00
+jüngstens	w2034	NOHI	NOLAB	1.00
+zu	w2035	NOHI	NOLAB	1.00
+Haar=burg	w2036	NOHI	NOLAB	1.00
 <g/>
 =
-bey	w2038
-Abbrechung	w2039
-eines	w2040
-Altars	w2041
-ein	w2042
-Kästlein	w2043
-gefunden	w2044
-worden	w2045
+bey	w2038	NOHI	NOLAB	1.00
+Abbrechung	w2039	NOHI	NOLAB	1.00
+eines	w2040	NOHI	NOLAB	1.00
+Altars	w2041	NOHI	NOLAB	1.00
+ein	w2042	NOHI	NOLAB	1.00
+Kästlein	w2043	NOHI	NOLAB	1.00
+gefunden	w2044	NOHI	NOLAB	1.00
+worden	w2045	NOHI	NOLAB	1.00
 <g/>
 /
-so	w2047
-mit	w2048
-Jubelen	w2049
-besetzet	w2050
+so	w2047	NOHI	NOLAB	1.00
+mit	w2048	NOHI	NOLAB	1.00
+Jubelen	w2049	NOHI	NOLAB	1.00
+besetzet	w2050	NOHI	NOLAB	1.00
 <g/>
 :
-und	w2052
-darinnen	w2053
-sehr	w2054
-schöne	w2055
-Reuiquien	w2056
-verwahret	w2057
+und	w2052	NOHI	NOLAB	1.00
+darinnen	w2053	NOHI	NOLAB	1.00
+sehr	w2054	NOHI	NOLAB	1.00
+schöne	w2055	NOHI	NOLAB	1.00
+Reuiquien	w2056	NOHI	NOLAB	1.00
+verwahret	w2057	NOHI	NOLAB	1.00
 <g/>
 :
-und	w2059
-zwar	w2060
-unter	w2061
-anderen	w2062
-einige	w2063
-Gebeiner	w2064
-von	w2065
-St	w2066
+und	w2059	NOHI	NOLAB	1.00
+zwar	w2060	NOHI	NOLAB	1.00
+unter	w2061	NOHI	NOLAB	1.00
+anderen	w2062	NOHI	NOLAB	1.00
+einige	w2063	NOHI	NOLAB	1.00
+Gebeiner	w2064	NOHI	NOLAB	1.00
+von	w2065	NOHI	NOLAB	1.00
+St	w2066	NOHI	NOLAB	1.00
 <g/>
 .
-Johannes	w2068
-dem	w2069
-Taufer	w2070
+Johannes	w2068	NOHI	NOLAB	1.00
+dem	w2069	NOHI	NOLAB	1.00
+Taufer	w2070	NOHI	NOLAB	1.00
 <g/>
 /
-auch	w2072
-einig	w2073
+auch	w2072	NOHI	NOLAB	1.00
+einig	w2073	NOHI	NOLAB	1.00
 <g/>
 =
-andern	w2075
-Heiligen	w2076
-Apostelen	w2077
+andern	w2075	NOHI	NOLAB	1.00
+Heiligen	w2076	NOHI	NOLAB	1.00
+Apostelen	w2077	NOHI	NOLAB	1.00
 <g/>
 /
-dan	w2079
-der	w2080
-Schwam	w2081
+dan	w2079	NOHI	NOLAB	1.00
+der	w2080	NOHI	NOLAB	1.00
+Schwam	w2081	NOHI	NOLAB	1.00
 <g/>
 /
-womit	w2083
-unser	w2084
-Heiland	w2085
-am	w2086
-Creutz	w2087
-getränket	w2088
-worden	w2089
+womit	w2083	NOHI	NOLAB	1.00
+unser	w2084	NOHI	NOLAB	1.00
+Heiland	w2085	NOHI	NOLAB	1.00
+am	w2086	NOHI	NOLAB	1.00
+Creutz	w2087	NOHI	NOLAB	1.00
+getränket	w2088	NOHI	NOLAB	1.00
+worden	w2089	NOHI	NOLAB	1.00
 <g/>
 /
-wie	w2091
-ingleichem	w2092
-ei=nige	w2093
+wie	w2091	NOHI	NOLAB	1.00
+ingleichem	w2092	NOHI	NOLAB	1.00
+ei=nige	w2093	NOHI	NOLAB	1.00
 <g/>
 =
-Stuck	w2095
-vom	w2096
-Creutz	w2097
-Christi	w2098
+Stuck	w2095	NOHI	NOLAB	1.00
+vom	w2096	NOHI	NOLAB	1.00
+Creutz	w2097	NOHI	NOLAB	1.00
+Christi	w2098	NOHI	NOLAB	1.00
 <g/>
 /
-ꝛc	w2100
+ꝛc	w2100	NOHI	NOLAB	1.00
 <g/>
 .
-und	w2102
-bey	w2103
-jeden	w2104
-wegen	w2105
-derer	w2106
-Beweh=rung	w2107
+und	w2102	NOHI	NOLAB	1.00
+bey	w2103	NOHI	NOLAB	1.00
+jeden	w2104	NOHI	NOLAB	1.00
+wegen	w2105	NOHI	NOLAB	1.00
+derer	w2106	NOHI	NOLAB	1.00
+Beweh=rung	w2107	NOHI	NOLAB	1.00
 <g/>
 =
-ein	w2109
-Zettel	w2110
-gewesen	w2111
+ein	w2109	NOHI	NOLAB	1.00
+Zettel	w2110	NOHI	NOLAB	1.00
+gewesen	w2111	NOHI	NOLAB	1.00
 <g/>
 ;
-Diese	w2113
-Heilige	w2114
-Reliquien	w2115
+Diese	w2113	NOHI	NOLAB	1.00
+Heilige	w2114	NOHI	NOLAB	1.00
+Reliquien	w2115	NOHI	NOLAB	1.00
 <g/>
 /
-derer	w2117
-so	w2118
-kostbarer	w2119
-Einfässung	w2120
-von	w2121
-Jubelen	w2122
-man	w2123
-über	w2124
-ein	w2125
-Million	w2126
-schäze	w2127
+derer	w2117	NOHI	NOLAB	1.00
+so	w2118	NOHI	NOLAB	1.00
+kostbarer	w2119	NOHI	NOLAB	1.00
+Einfässung	w2120	NOHI	NOLAB	1.00
+von	w2121	NOHI	NOLAB	1.00
+Jubelen	w2122	NOHI	NOLAB	1.00
+man	w2123	NOHI	NOLAB	1.00
+über	w2124	NOHI	NOLAB	1.00
+ein	w2125	NOHI	NOLAB	1.00
+Million	w2126	NOHI	NOLAB	1.00
+schäze	w2127	NOHI	NOLAB	1.00
 <g/>
 /
-soll	w2129
-ein	w2130
-Stam StamVater	w2131
+soll	w2129	NOHI	NOLAB	1.00
+ein	w2130	NOHI	NOLAB	1.00
+StamVater	w2131	NOHI	NOLAB	1.00
 <g/>
 =
 </p>
 <p id="p24">
-Vater	w2136
-von	w2137
-dem	w2138
-Hauß	w2139
-Oettingen	w2140
+Vater	w2136	NOHI	NOLAB	1.00
+von	w2137	NOHI	NOLAB	1.00
+dem	w2138	NOHI	NOLAB	1.00
+Hauß	w2139	NOHI	NOLAB	1.00
+Oettingen	w2140	NOHI	NOLAB	1.00
 <g/>
 /
-welcher	w2142
-bey	w2143
-der	w2144
-Creutzigung	w2145
-Christi	w2146
-gewesen	w2147
+welcher	w2142	NOHI	NOLAB	1.00
+bey	w2143	NOHI	NOLAB	1.00
+der	w2144	NOHI	NOLAB	1.00
+Creutzigung	w2145	NOHI	NOLAB	1.00
+Christi	w2146	NOHI	NOLAB	1.00
+gewesen	w2147	NOHI	NOLAB	1.00
 <g/>
 /
-von	w2149
-Jerusalem	w2150
-mitgebracht	w2151
-haben	w2152
+von	w2149	NOHI	NOLAB	1.00
+Jerusalem	w2150	NOHI	NOLAB	1.00
+mitgebracht	w2151	NOHI	NOLAB	1.00
+haben	w2152	NOHI	NOLAB	1.00
 <g/>
 :
-und	w2154
-in	w2155
-diesen	w2156
-Altar	w2157
-vermau=ren	w2158
+und	w2154	NOHI	NOLAB	1.00
+in	w2155	NOHI	NOLAB	1.00
+diesen	w2156	NOHI	NOLAB	1.00
+Altar	w2157	NOHI	NOLAB	1.00
+vermau=ren	w2158	NOHI	NOLAB	1.00
 <g/>
 =
-lassen	w2160
+lassen	w2160	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p25">
-Aus	w2162
-der	w2163
-Schweitz	w2164
+Aus	w2162	NOHI	NOLAB	1.00
+der	w2163	NOHI	NOLAB	1.00
+Schweitz	w2164	NOHI	NOLAB	1.00
 <g/>
 /
-von	w2166
-dem	w2167
-2	w2168
+von	w2166	NOHI	NOLAB	1.00
+dem	w2167	NOHI	NOLAB	1.00
+2	w2168	NOHI	NOLAB	1.00
 <g/>
 .
-Jenner	w2170
+Jenner	w2170	NOHI	NOLAB	1.00
 <g/>
 .
-Daß	w2172
-der	w2173
-Stadt	w2174
+Daß	w2172	NOHI	NOLAB	1.00
+der	w2173	NOHI	NOLAB	1.00
+Stadt	w2174	NOHI	NOLAB	1.00
 <g/>
 =
-Raht	w2176
-zu	w2177
-Biel	w2178
-von	w2179
-den	w2180
-Herren	w2181
-von	w2182
-Bern	w2183
-um	w2184
-die	w2185
-Erlaubnuß	w2186
-angehalten	w2187
+Raht	w2176	NOHI	NOLAB	1.00
+zu	w2177	NOHI	NOLAB	1.00
+Biel	w2178	NOHI	NOLAB	1.00
+von	w2179	NOHI	NOLAB	1.00
+den	w2180	NOHI	NOLAB	1.00
+Herren	w2181	NOHI	NOLAB	1.00
+von	w2182	NOHI	NOLAB	1.00
+Bern	w2183	NOHI	NOLAB	1.00
+um	w2184	NOHI	NOLAB	1.00
+die	w2185	NOHI	NOLAB	1.00
+Erlaubnuß	w2186	NOHI	NOLAB	1.00
+angehalten	w2187	NOHI	NOLAB	1.00
 <g/>
 /
-einige	w2189
-Truppen	w2190
-durch	w2191
-ihre	w2192
-Bodmässigkeit	w2193
-nach	w2194
-besagtem	w2195
-Biel	w2196
-zufüh=ren	w2197
+einige	w2189	NOHI	NOLAB	1.00
+Truppen	w2190	NOHI	NOLAB	1.00
+durch	w2191	NOHI	NOLAB	1.00
+ihre	w2192	NOHI	NOLAB	1.00
+Bodmässigkeit	w2193	NOHI	NOLAB	1.00
+nach	w2194	NOHI	NOLAB	1.00
+besagtem	w2195	NOHI	NOLAB	1.00
+Biel	w2196	NOHI	NOLAB	1.00
+zufüh=ren	w2197	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 /
-und	w2200
-solche	w2201
-gegen	w2202
-ihren	w2203
-Herrn	w2204
+und	w2200	NOHI	NOLAB	1.00
+solche	w2201	NOHI	NOLAB	1.00
+gegen	w2202	NOHI	NOLAB	1.00
+ihren	w2203	NOHI	NOLAB	1.00
+Herrn	w2204	NOHI	NOLAB	1.00
 <g/>
 /
-den	w2206
-Reichs	w2207
+den	w2206	NOHI	NOLAB	1.00
+Reichs	w2207	NOHI	NOLAB	1.00
 <g/>
 =
-Fürsten	w2209
-und	w2210
-Bischof=fen	w2211
+Fürsten	w2209	NOHI	NOLAB	1.00
+und	w2210	NOHI	NOLAB	1.00
+Bischof=fen	w2211	NOHI	NOLAB	1.00
 <g/>
 =
-zu	w2213
-Basel	w2214
+zu	w2213	NOHI	NOLAB	1.00
+Basel	w2214	NOHI	NOLAB	1.00
 <g/>
 /
-zugebrauchen	w2216
+zugebrauchen	w2216	NOHI	NOLAB	1.00
 <g/>
 ;
-Allein	w2218
-besagte	w2219
-Herren	w2220
-von	w2221
-Bern	w2222
-hätten	w2223
-solches	w2224
-zutuhn	w2225
-geweigert	w2226
+Allein	w2218	NOHI	NOLAB	1.00
+besagte	w2219	NOHI	NOLAB	1.00
+Herren	w2220	NOHI	NOLAB	1.00
+von	w2221	NOHI	NOLAB	1.00
+Bern	w2222	NOHI	NOLAB	1.00
+hätten	w2223	NOHI	NOLAB	1.00
+solches	w2224	NOHI	NOLAB	1.00
+zutuhn	w2225	NOHI	NOLAB	1.00
+geweigert	w2226	NOHI	NOLAB	1.00
 <g/>
 /
-und	w2228
-gerahten	w2229
+und	w2228	NOHI	NOLAB	1.00
+gerahten	w2229	NOHI	NOLAB	1.00
 <g/>
 /
-die	w2231
-Sache	w2232
-gütlich	w2233
-auszu=machen	w2234
+die	w2231	NOHI	NOLAB	1.00
+Sache	w2232	NOHI	NOLAB	1.00
+gütlich	w2233	NOHI	NOLAB	1.00
+auszu=machen	w2234	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 .
 </p>
 <p id="p26">
-Von	w2237
-dem	w2238
-Elbstrom	w2239
+Von	w2237	NOHI	NOLAB	1.00
+dem	w2238	NOHI	NOLAB	1.00
+Elbstrom	w2239	NOHI	NOLAB	1.00
 <g/>
 /
-vom	w2241
-4	w2242
+vom	w2241	NOHI	NOLAB	1.00
+4	w2242	NOHI	NOLAB	1.00
 <g/>
 .
-Jenner	w2244
+Jenner	w2244	NOHI	NOLAB	1.00
 <g/>
 .
-Daß	w2246
+Daß	w2246	NOHI	NOLAB	1.00
 <g/>
 /
-vermög	w2248
-derer	w2249
-Nach=richten	w2250
+vermög	w2248	NOHI	NOLAB	1.00
+derer	w2249	NOHI	NOLAB	1.00
+Nach=richten	w2250	NOHI	NOLAB	1.00
 <g/>
 =
-aus	w2252
-Petersburg	w2253
+aus	w2252	NOHI	NOLAB	1.00
+Petersburg	w2253	NOHI	NOLAB	1.00
 <g/>
 /
-der	w2255
-Czaar	w2256
-die	w2257
-Kriegs	w2258
+der	w2255	NOHI	NOLAB	1.00
+Czaar	w2256	NOHI	NOLAB	1.00
+die	w2257	NOHI	NOLAB	1.00
+Kriegs	w2258	NOHI	NOLAB	1.00
 <g/>
 =
-Zurüstungen	w2260
-zu	w2261
-Was=ser	w2262
+Zurüstungen	w2260	NOHI	NOLAB	1.00
+zu	w2261	NOHI	NOLAB	1.00
+Was=ser	w2262	NOHI	NOLAB	1.00
 <g/>
 =
-und	w2264
-Land	w2265
-annoch	w2266
-mit	w2267
-aller	w2268
-Macht	w2269
-fortsetzen	w2270
-lasse	w2271
+und	w2264	NOHI	NOLAB	1.00
+Land	w2265	NOHI	NOLAB	1.00
+annoch	w2266	NOHI	NOLAB	1.00
+mit	w2267	NOHI	NOLAB	1.00
+aller	w2268	NOHI	NOLAB	1.00
+Macht	w2269	NOHI	NOLAB	1.00
+fortsetzen	w2270	NOHI	NOLAB	1.00
+lasse	w2271	NOHI	NOLAB	1.00
 <g/>
 ;
-Massen	w2273
-dan	w2274
-der	w2275
-Befehl	w2276
-ergangen	w2277
+Massen	w2273	NOHI	NOLAB	1.00
+dan	w2274	NOHI	NOLAB	1.00
+der	w2275	NOHI	NOLAB	1.00
+Befehl	w2276	NOHI	NOLAB	1.00
+ergangen	w2277	NOHI	NOLAB	1.00
 <g/>
 /
-noch	w2279
-200	w2280
+noch	w2279	NOHI	NOLAB	1.00
+200	w2280	NOHI	NOLAB	1.00
 <g/>
 .
-neue	w2282
-Galeeren	w2283
-zu	w2284
-bauen	w2285
+neue	w2282	NOHI	NOLAB	1.00
+Galeeren	w2283	NOHI	NOLAB	1.00
+zu	w2284	NOHI	NOLAB	1.00
+bauen	w2285	NOHI	NOLAB	1.00
 <g/>
 /
-wie	w2287
-auch	w2288
-die	w2289
-Flotta	w2290
-auf	w2291
-50	w2292
+wie	w2287	NOHI	NOLAB	1.00
+auch	w2288	NOHI	NOLAB	1.00
+die	w2289	NOHI	NOLAB	1.00
+Flotta	w2290	NOHI	NOLAB	1.00
+auf	w2291	NOHI	NOLAB	1.00
+50	w2292	NOHI	NOLAB	1.00
 <g/>
 .
-grosse	w2294
-Kriegs	w2295
+grosse	w2294	NOHI	NOLAB	1.00
+Kriegs	w2295	NOHI	NOLAB	1.00
 <g/>
 =
-Schiffe	w2297
-zu	w2298
-verstärken	w2299
+Schiffe	w2297	NOHI	NOLAB	1.00
+zu	w2298	NOHI	NOLAB	1.00
+verstärken	w2299	NOHI	NOLAB	1.00
 <g/>
 ;
-Dessen	w2301
-Völker	w2302
-in	w2303
-der	w2304
-Ukraine	w2305
-und	w2306
-Tartarey	w2307
+Dessen	w2301	NOHI	NOLAB	1.00
+Völker	w2302	NOHI	NOLAB	1.00
+in	w2303	NOHI	NOLAB	1.00
+der	w2304	NOHI	NOLAB	1.00
+Ukraine	w2305	NOHI	NOLAB	1.00
+und	w2306	NOHI	NOLAB	1.00
+Tartarey	w2307	NOHI	NOLAB	1.00
 <g/>
 /
-so	w2309
-der	w2310
-Fürst	w2311
-Menzikow	w2312
-mit	w2313
-Nächstem	w2314
-mu=stern	w2315
+so	w2309	NOHI	NOLAB	1.00
+der	w2310	NOHI	NOLAB	1.00
+Fürst	w2311	NOHI	NOLAB	1.00
+Menzikow	w2312	NOHI	NOLAB	1.00
+mit	w2313	NOHI	NOLAB	1.00
+Nächstem	w2314	NOHI	NOLAB	1.00
+mu=stern	w2315	NOHI	NOLAB	1.00
 <g/>
 =
-solle	w2317
+solle	w2317	NOHI	NOLAB	1.00
 <g/>
 /
-belieffen	w2319
-sich	w2320
-bis	w2321
-auf	w2322
-100000	w2323
+belieffen	w2319	NOHI	NOLAB	1.00
+sich	w2320	NOHI	NOLAB	1.00
+bis	w2321	NOHI	NOLAB	1.00
+auf	w2322	NOHI	NOLAB	1.00
+100000	w2323	NOHI	NOLAB	1.00
 <g/>
 .
-Mann	w2325
+Mann	w2325	NOHI	NOLAB	1.00
 <g/>
 /
-darunter	w2327
-der	w2328
-halbe	w2329
-Theil	w2330
-Calmucken	w2331
+darunter	w2327	NOHI	NOLAB	1.00
+der	w2328	NOHI	NOLAB	1.00
+halbe	w2329	NOHI	NOLAB	1.00
+Theil	w2330	NOHI	NOLAB	1.00
+Calmucken	w2331	NOHI	NOLAB	1.00
 <g/>
 ;
-Nichts	w2333
-destoweniger	w2334
-dörfte	w2335
-besagter	w2336
-Czaar	w2337
-sich	w2338
-noch	w2339
-dahin	w2340
-bereden	w2341
-lassen	w2342
+Nichts	w2333	NOHI	NOLAB	1.00
+destoweniger	w2334	NOHI	NOLAB	1.00
+dörfte	w2335	NOHI	NOLAB	1.00
+besagter	w2336	NOHI	NOLAB	1.00
+Czaar	w2337	NOHI	NOLAB	1.00
+sich	w2338	NOHI	NOLAB	1.00
+noch	w2339	NOHI	NOLAB	1.00
+dahin	w2340	NOHI	NOLAB	1.00
+bereden	w2341	NOHI	NOLAB	1.00
+lassen	w2342	NOHI	NOLAB	1.00
 <g/>
 /
-um	w2344
-endlichen	w2345
-mit	w2346
-der	w2347
-Cron	w2348
-Schweden	w2349
-den	w2350
-Frie=den	w2351
+um	w2344	NOHI	NOLAB	1.00
+endlichen	w2345	NOHI	NOLAB	1.00
+mit	w2346	NOHI	NOLAB	1.00
+der	w2347	NOHI	NOLAB	1.00
+Cron	w2348	NOHI	NOLAB	1.00
+Schweden	w2349	NOHI	NOLAB	1.00
+den	w2350	NOHI	NOLAB	1.00
+Frie=den	w2351	NOHI	NOLAB	1.00
 <g/>
 =
-einzugehen	w2353
+einzugehen	w2353	NOHI	NOLAB	1.00
 <g/>
 ;
-Zumalen	w2355
-zwischen	w2356
-Dänemarck	w2357
-und	w2358
-Schweden	w2359
-der	w2360
-Fried	w2361
-auch	w2362
-schon	w2363
-für	w2364
-gewis	w2365
-gehalten	w2366
-werde	w2367
+Zumalen	w2355	NOHI	NOLAB	1.00
+zwischen	w2356	NOHI	NOLAB	1.00
+Dänemarck	w2357	NOHI	NOLAB	1.00
+und	w2358	NOHI	NOLAB	1.00
+Schweden	w2359	NOHI	NOLAB	1.00
+der	w2360	NOHI	NOLAB	1.00
+Fried	w2361	NOHI	NOLAB	1.00
+auch	w2362	NOHI	NOLAB	1.00
+schon	w2363	NOHI	NOLAB	1.00
+für	w2364	NOHI	NOLAB	1.00
+gewis	w2365	NOHI	NOLAB	1.00
+gehalten	w2366	NOHI	NOLAB	1.00
+werde	w2367	NOHI	NOLAB	1.00
 <g/>
 ;
-Wie	w2369
-ingleichem	w2370
-die	w2371
-vier=fache	w2372
+Wie	w2369	NOHI	NOLAB	1.00
+ingleichem	w2370	NOHI	NOLAB	1.00
+die	w2371	NOHI	NOLAB	1.00
+vier=fache	w2372	NOHI	NOLAB	1.00
 <g/>
 =
-Bündnuß	w2374
-zu	w2375
-Stande	w2376
-gekommen	w2377
+Bündnuß	w2374	NOHI	NOLAB	1.00
+zu	w2375	NOHI	NOLAB	1.00
+Stande	w2376	NOHI	NOLAB	1.00
+gekommen	w2377	NOHI	NOLAB	1.00
 <g/>
 /
-und	w2379
-der	w2380
-Hof	w2381
-zu	w2382
-Madrit	w2383
-mit	w2384
-den	w2385
-samtlichen	w2386
-hohen	w2387
-Bunds	w2388
+und	w2379	NOHI	NOLAB	1.00
+der	w2380	NOHI	NOLAB	1.00
+Hof	w2381	NOHI	NOLAB	1.00
+zu	w2382	NOHI	NOLAB	1.00
+Madrit	w2383	NOHI	NOLAB	1.00
+mit	w2384	NOHI	NOLAB	1.00
+den	w2385	NOHI	NOLAB	1.00
+samtlichen	w2386	NOHI	NOLAB	1.00
+hohen	w2387	NOHI	NOLAB	1.00
+Bunds	w2388	NOHI	NOLAB	1.00
 <g/>
 =
-Genossen	w2390
-einen	w2391
-Vergleich	w2392
-zu	w2393
-treffen	w2394
+Genossen	w2390	NOHI	NOLAB	1.00
+einen	w2391	NOHI	NOLAB	1.00
+Vergleich	w2392	NOHI	NOLAB	1.00
+zu	w2393	NOHI	NOLAB	1.00
+treffen	w2394	NOHI	NOLAB	1.00
 <g/>
 /
-sich	w2396
-ebenfals	w2397
-beeiffern	w2398
-werde	w2399
+sich	w2396	NOHI	NOLAB	1.00
+ebenfals	w2397	NOHI	NOLAB	1.00
+beeiffern	w2398	NOHI	NOLAB	1.00
+werde	w2399	NOHI	NOLAB	1.00
 <g/>
 .
-Sonsten	w2401
-habe	w2402
-jüngstens	w2403
-der	w2404
-Czaar	w2405
-sich	w2406
-so	w2407
-Krank	w2408
-befunden	w2409
+Sonsten	w2401	NOHI	NOLAB	1.00
+habe	w2402	NOHI	NOLAB	1.00
+jüngstens	w2403	NOHI	NOLAB	1.00
+der	w2404	NOHI	NOLAB	1.00
+Czaar	w2405	NOHI	NOLAB	1.00
+sich	w2406	NOHI	NOLAB	1.00
+so	w2407	NOHI	NOLAB	1.00
+Krank	w2408	NOHI	NOLAB	1.00
+befunden	w2409	NOHI	NOLAB	1.00
 <g/>
 /
-daß	w2411
-er	w2412
-bereits	w2413
-ein	w2414
-Testament	w2415
-gemacht	w2416
+daß	w2411	NOHI	NOLAB	1.00
+er	w2412	NOHI	NOLAB	1.00
+bereits	w2413	NOHI	NOLAB	1.00
+ein	w2414	NOHI	NOLAB	1.00
+Testament	w2415	NOHI	NOLAB	1.00
+gemacht	w2416	NOHI	NOLAB	1.00
 <g/>
 :
-und	w2418
-darin=nen	w2419
+und	w2418	NOHI	NOLAB	1.00
+darin=nen	w2419	NOHI	NOLAB	1.00
 <g/>
 =
-zu	w2421
-dessen	w2422
-Volziehung	w2423
-Jhre	w2424
-Kaiserlich	w2425
+zu	w2421	NOHI	NOLAB	1.00
+dessen	w2422	NOHI	NOLAB	1.00
+Volziehung	w2423	NOHI	NOLAB	1.00
+Jhre	w2424	NOHI	NOLAB	1.00
+Kaiserlich	w2425	NOHI	NOLAB	1.00
 <g/>
 =
-Catholische	w2427
-Majestät	w2428
-ersuchet	w2429
-hätte	w2430
+Catholische	w2427	NOHI	NOLAB	1.00
+Majestät	w2428	NOHI	NOLAB	1.00
+ersuchet	w2429	NOHI	NOLAB	1.00
+hätte	w2430	NOHI	NOLAB	1.00
 <g/>
 ;
-Zu	w2432
-Hamburg	w2433
-werde	w2434
-für	w2435
-Preussen	w2436
-stark	w2437
-geworben	w2438
+Zu	w2432	NOHI	NOLAB	1.00
+Hamburg	w2433	NOHI	NOLAB	1.00
+werde	w2434	NOHI	NOLAB	1.00
+für	w2435	NOHI	NOLAB	1.00
+Preussen	w2436	NOHI	NOLAB	1.00
+stark	w2437	NOHI	NOLAB	1.00
+geworben	w2438	NOHI	NOLAB	1.00
 <g/>
 /
-und	w2440
-in	w2441
-dem	w2442
-Wolffenbütlischen	w2443
-wären	w2444
-etliche	w2445
-Compagnien	w2446
-aus	w2447
-dem	w2448
-Mecklenburgi=schen	w2449
+und	w2440	NOHI	NOLAB	1.00
+in	w2441	NOHI	NOLAB	1.00
+dem	w2442	NOHI	NOLAB	1.00
+Wolffenbütlischen	w2443	NOHI	NOLAB	1.00
+wären	w2444	NOHI	NOLAB	1.00
+etliche	w2445	NOHI	NOLAB	1.00
+Compagnien	w2446	NOHI	NOLAB	1.00
+aus	w2447	NOHI	NOLAB	1.00
+dem	w2448	NOHI	NOLAB	1.00
+Mecklenburgi=schen	w2449	NOHI	NOLAB	1.00
 <g/>
 =
-zuruckgelanget	w2451
+zuruckgelanget	w2451	NOHI	NOLAB	1.00
 <g/>
 /
-und	w2453
-gegen	w2454
-die	w2455
-Preussische	w2456
-Gränzen	w2457
-verleget	w2458
-wor=den	w2459
+und	w2453	NOHI	NOLAB	1.00
+gegen	w2454	NOHI	NOLAB	1.00
+die	w2455	NOHI	NOLAB	1.00
+Preussische	w2456	NOHI	NOLAB	1.00
+Gränzen	w2457	NOHI	NOLAB	1.00
+verleget	w2458	NOHI	NOLAB	1.00
+wor=den	w2459	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 .
-Durch	w2462
-das	w2463
-Stift	w2464
-Hildelsheim	w2465
-seyen	w2466
-einig	w2467
+Durch	w2462	NOHI	NOLAB	1.00
+das	w2463	NOHI	NOLAB	1.00
+Stift	w2464	NOHI	NOLAB	1.00
+Hildelsheim	w2465	NOHI	NOLAB	1.00
+seyen	w2466	NOHI	NOLAB	1.00
+einig	w2467	NOHI	NOLAB	1.00
 <g/>
 =
-Preussische	w2469
-Regi=menter	w2470
+Preussische	w2469	NOHI	NOLAB	1.00
+Regi=menter	w2470	NOHI	NOLAB	1.00
 <g/>
 =
-durch	w2472
-passiret	w2473
+durch	w2472	NOHI	NOLAB	1.00
+passiret	w2473	NOHI	NOLAB	1.00
 <g/>
 /
-und	w2475
-hätten	w2476
-3	w2477
+und	w2475	NOHI	NOLAB	1.00
+hätten	w2476	NOHI	NOLAB	1.00
+3	w2477	NOHI	NOLAB	1.00
 <g/>
 .
-Täg	w2479
-aldorten	w2480
-Rasttag	w2481
-gehalten	w2482
+Täg	w2479	NOHI	NOLAB	1.00
+aldorten	w2480	NOHI	NOLAB	1.00
+Rasttag	w2481	NOHI	NOLAB	1.00
+gehalten	w2482	NOHI	NOLAB	1.00
 <g/>
 /
-sodan	w2484
-zum	w2485
-Trost	w2486
-der	w2487
-armen	w2488
-Leuthen	w2489
-den	w2490
-Mar	w2491
+sodan	w2484	NOHI	NOLAB	1.00
+zum	w2485	NOHI	NOLAB	1.00
+Trost	w2486	NOHI	NOLAB	1.00
+der	w2487	NOHI	NOLAB	1.00
+armen	w2488	NOHI	NOLAB	1.00
+Leuthen	w2489	NOHI	NOLAB	1.00
+den	w2490	NOHI	NOLAB	1.00
+Mar	w2491	NOHI	NOLAB	1.00
 </p>
 <head id="hl2">
-Ankunft	w2492
-derer	w2493
-hoh	w2494
+Ankunft	w2492	NOHI	NOLAB	1.00
+derer	w2493	NOHI	NOLAB	1.00
+hoh	w2494	NOHI	NOLAB	1.00
 <g/>
 =
-und	w2496
-niederen	w2497
-Stands	w2498
+und	w2496	NOHI	NOLAB	1.00
+niederen	w2497	NOHI	NOLAB	1.00
+Stands	w2498	NOHI	NOLAB	1.00
 <g/>
 =
-Personen	w2500
+Personen	w2500	NOHI	NOLAB	1.00
 <g/>
 .
 </head>
 <head id="hl3">
-Den	w2502
-11	w2503
+Den	w2502	NOHI	NOLAB	1.00
+11	w2503	NOHI	NOLAB	1.00
 <g/>
 .
-Jenner	w2505
+Jenner	w2505	NOHI	NOLAB	1.00
 <g/>
 /
-1720	w2507
+1720	w2507	NOHI	NOLAB	1.00
 <g/>
 .
 </head>
-<list id="">
-Stuben	w2509
+<list id="list_29">
+Stuben	w2509	NOHI	NOLAB	1.00
 <g/>
 =
-Toor	w2511
+Toor	w2511	NOHI	NOLAB	1.00
 <g/>
 .
-Herr	w2513
-Graf	w2514
-von	w2515
-Heisenstein	w2516
+Herr	w2513	NOHI	NOLAB	1.00
+Graf	w2514	NOHI	NOLAB	1.00
+von	w2515	NOHI	NOLAB	1.00
+Heisenstein	w2516	NOHI	NOLAB	1.00
 <g/>
 /
-komt	w2518
-vom	w2519
-Guht	w2520
+komt	w2518	NOHI	NOLAB	1.00
+vom	w2519	NOHI	NOLAB	1.00
+Guht	w2520	NOHI	NOLAB	1.00
 <g/>
 /
-log	w2522
+log	w2522	NOHI	NOLAB	1.00
 <g/>
 .
-in	w2524
-seinem	w2525
-Hauß	w2526
+in	w2524	NOHI	NOLAB	1.00
+seinem	w2525	NOHI	NOLAB	1.00
+Hauß	w2526	NOHI	NOLAB	1.00
 <g/>
 .
-Herr	w2528
-Hauptmann	w2529
-Grol	w2530
+Herr	w2528	NOHI	NOLAB	1.00
+Hauptmann	w2529	NOHI	NOLAB	1.00
+Grol	w2530	NOHI	NOLAB	1.00
 <g/>
 /
-komt	w2532
-von	w2533
-Neapel	w2534
-log	w2535
+komt	w2532	NOHI	NOLAB	1.00
+von	w2533	NOHI	NOLAB	1.00
+Neapel	w2534	NOHI	NOLAB	1.00
+log	w2535	NOHI	NOLAB	1.00
 <g/>
 .
-im	w2537
-goldenen	w2538
-Ochs	w2539
+im	w2537	NOHI	NOLAB	1.00
+goldenen	w2538	NOHI	NOLAB	1.00
+Ochs	w2539	NOHI	NOLAB	1.00
 <g/>
 .
 </list>
 <head id="hl4">
-Den	w2541
-12	w2542
+Den	w2541	NOHI	NOLAB	1.00
+12	w2542	NOHI	NOLAB	1.00
 <g/>
 .
-Dito	w2544
+Dito	w2544	NOHI	NOLAB	1.00
 <g/>
 .
 </head>
-<list id="">
-Stuben	w2546
+<list id="list_31">
+Stuben	w2546	NOHI	NOLAB	1.00
 <g/>
 =
-Thor	w2548
+Thor	w2548	NOHI	NOLAB	1.00
 <g/>
 .
-Ihre	w2550
-Durchleucht	w2551
+Ihre	w2550	NOHI	NOLAB	1.00
+Durchleucht	w2551	NOHI	NOLAB	1.00
 <g/>
 /
-Prinz	w2553
+Prinz	w2553	NOHI	NOLAB	1.00
 </list>
-<list id="">
-von	w2554
-Culmbach	w2555
+<list id="list_32">
+von	w2554	NOHI	NOLAB	1.00
+Culmbach	w2555	NOHI	NOLAB	1.00
 <g/>
 /
-kommen	w2557
-aus	w2558
-dem	w2559
-Reich	w2560
+kommen	w2557	NOHI	NOLAB	1.00
+aus	w2558	NOHI	NOLAB	1.00
+dem	w2559	NOHI	NOLAB	1.00
+Reich	w2560	NOHI	NOLAB	1.00
 <g/>
 /
-log	w2562
+log	w2562	NOHI	NOLAB	1.00
 <g/>
 .
-im	w2564
-Breitenbüchnerischen	w2565
-Hauß	w2566
+im	w2564	NOHI	NOLAB	1.00
+Breitenbüchnerischen	w2565	NOHI	NOLAB	1.00
+Hauß	w2566	NOHI	NOLAB	1.00
 <g/>
 .
-Herr	w2568
-Carl	w2569
+Herr	w2568	NOHI	NOLAB	1.00
+Carl	w2569	NOHI	NOLAB	1.00
 <g/>
 /
-Graf	w2571
-von	w2572
-Palfi	w2573
+Graf	w2571	NOHI	NOLAB	1.00
+von	w2572	NOHI	NOLAB	1.00
+Palfi	w2573	NOHI	NOLAB	1.00
 <g/>
 /
-komt	w2575
-von	w2576
-Günz	w2577
+komt	w2575	NOHI	NOLAB	1.00
+von	w2576	NOHI	NOLAB	1.00
+Günz	w2577	NOHI	NOLAB	1.00
 <g/>
 /
-log	w2579
+log	w2579	NOHI	NOLAB	1.00
 <g/>
 .
-beym	w2581
-wilden	w2582
-Mann	w2583
+beym	w2581	NOHI	NOLAB	1.00
+wilden	w2582	NOHI	NOLAB	1.00
+Mann	w2583	NOHI	NOLAB	1.00
 <g/>
 .
-Herr	w2585
-Graf	w2586
-von	w2587
-Gallenberg	w2588
+Herr	w2585	NOHI	NOLAB	1.00
+Graf	w2586	NOHI	NOLAB	1.00
+von	w2587	NOHI	NOLAB	1.00
+Gallenberg	w2588	NOHI	NOLAB	1.00
 <g/>
 /
-komt	w2590
-von	w2591
-Prag	w2592
+komt	w2590	NOHI	NOLAB	1.00
+von	w2591	NOHI	NOLAB	1.00
+Prag	w2592	NOHI	NOLAB	1.00
 <g/>
 /
-log	w2594
+log	w2594	NOHI	NOLAB	1.00
 <g/>
 .
-beym	w2596
-stock	w2597
-im	w2598
-Eisen	w2599
+beym	w2596	NOHI	NOLAB	1.00
+stock	w2597	NOHI	NOLAB	1.00
+im	w2598	NOHI	NOLAB	1.00
+Eisen	w2599	NOHI	NOLAB	1.00
 <g/>
 .
 </list>
 <p id="p27">
-Lista	w2601
-derer	w2602
-Verehelichten	w2603
-in	w2604
+Lista	w2601	NOHI	NOLAB	1.00
+derer	w2602	NOHI	NOLAB	1.00
+Verehelichten	w2603	NOHI	NOLAB	1.00
+in	w2604	NOHI	NOLAB	1.00
 <g/>
 =
-und	w2606
-vor	w2607
-der	w2608
-Stadt	w2609
+und	w2606	NOHI	NOLAB	1.00
+vor	w2607	NOHI	NOLAB	1.00
+der	w2608	NOHI	NOLAB	1.00
+Stadt	w2609	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p28">
-er	w2611
+er	w2611	NOHI	NOLAB	1.00
 <g/>
 =
-Franz	w2613
-An	w2614
-Maria	w2615
-Kürschnerin	w2616
+Franz	w2613	NOHI	NOLAB	1.00
+An	w2614	NOHI	NOLAB	1.00
+Maria	w2615	NOHI	NOLAB	1.00
+Kürschnerin	w2616	NOHI	NOLAB	1.00
 <g/>
 .
-irbara	w2618
-Jordanin	w2619
+irbara	w2618	NOHI	NOLAB	1.00
+Jordanin	w2619	NOHI	NOLAB	1.00
 <g/>
 /
-Wi	w2621
+Wi	w2621	NOHI	NOLAB	1.00
 </p>
 <p id="p29">
-Augustin	w2622
-Kober	w2623
+Augustin	w2622	NOHI	NOLAB	1.00
+Kober	w2623	NOHI	NOLAB	1.00
 <g/>
 /
-Kotzenmacher	w2625
+Kotzenmacher	w2625	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2627
-Anna	w2628
-Johann	w2629
-Grundhof	w2630
+mit	w2627	NOHI	NOLAB	1.00
+Anna	w2628	NOHI	NOLAB	1.00
+Johann	w2629	NOHI	NOLAB	1.00
+Grundhof	w2630	NOHI	NOLAB	1.00
 <g/>
 /
-Tischler	w2632
+Tischler	w2632	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2634
-Eva	w2635
-Ro=sina	w2636
+mit	w2634	NOHI	NOLAB	1.00
+Eva	w2635	NOHI	NOLAB	1.00
+Ro=sina	w2636	NOHI	NOLAB	1.00
 <g/>
 =
-Puschin	w2638
+Puschin	w2638	NOHI	NOLAB	1.00
 <g/>
 /
-Wittib	w2640
+Wittib	w2640	NOHI	NOLAB	1.00
 <g/>
 .
-ina	w2642
-Leisingerin	w2643
+ina	w2642	NOHI	NOLAB	1.00
+Leisingerin	w2643	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p30">
-Friderich	w2645
-Wang	w2646
+Friderich	w2645	NOHI	NOLAB	1.00
+Wang	w2646	NOHI	NOLAB	1.00
 <g/>
 /
-Tuchwalker	w2648
+Tuchwalker	w2648	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2650
-Maria	w2651
-Johann	w2652
-Gottfried	w2653
-Müller	w2654
+mit	w2650	NOHI	NOLAB	1.00
+Maria	w2651	NOHI	NOLAB	1.00
+Johann	w2652	NOHI	NOLAB	1.00
+Gottfried	w2653	NOHI	NOLAB	1.00
+Müller	w2654	NOHI	NOLAB	1.00
 <g/>
 /
-Tischler	w2656
+Tischler	w2656	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2658
-Anna	w2659
-Salome	w2660
-Schermesserin	w2661
+mit	w2658	NOHI	NOLAB	1.00
+Anna	w2659	NOHI	NOLAB	1.00
+Salome	w2660	NOHI	NOLAB	1.00
+Schermesserin	w2661	NOHI	NOLAB	1.00
 <g/>
 .
-Susanna	w2663
-Kremüllerin	w2664
+Susanna	w2663	NOHI	NOLAB	1.00
+Kremüllerin	w2664	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p31">
-Johann	w2666
-Joseph	w2667
-Wernle	w2668
+Johann	w2666	NOHI	NOLAB	1.00
+Joseph	w2667	NOHI	NOLAB	1.00
+Wernle	w2668	NOHI	NOLAB	1.00
 <g/>
 /
-Laggey	w2670
+Laggey	w2670	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2672
-Matthias	w2673
-Wagner	w2674
+mit	w2672	NOHI	NOLAB	1.00
+Matthias	w2673	NOHI	NOLAB	1.00
+Wagner	w2674	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2676
-Maria	w2677
-Mgdalena	w2678
-Amonin	w2679
+mit	w2676	NOHI	NOLAB	1.00
+Maria	w2677	NOHI	NOLAB	1.00
+Mgdalena	w2678	NOHI	NOLAB	1.00
+Amonin	w2679	NOHI	NOLAB	1.00
 <g/>
 .
-Sophia	w2681
-Dachin	w2682
+Sophia	w2681	NOHI	NOLAB	1.00
+Dachin	w2682	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p32">
-Johann	w2684
-Ruckbaur	w2685
+Johann	w2684	NOHI	NOLAB	1.00
+Ruckbaur	w2685	NOHI	NOLAB	1.00
 <g/>
 /
-Maurer	w2687
+Maurer	w2687	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2689
-Anna	w2690
-Johann	w2691
-Barthlme	w2692
-Kopp	w2693
+mit	w2689	NOHI	NOLAB	1.00
+Anna	w2690	NOHI	NOLAB	1.00
+Johann	w2691	NOHI	NOLAB	1.00
+Barthlme	w2692	NOHI	NOLAB	1.00
+Kopp	w2693	NOHI	NOLAB	1.00
 <g/>
 /
-Beck	w2695
+Beck	w2695	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2697
-Ca=tharina	w2698
+mit	w2697	NOHI	NOLAB	1.00
+Ca=tharina	w2698	NOHI	NOLAB	1.00
 <g/>
 =
-Praunin	w2700
+Praunin	w2700	NOHI	NOLAB	1.00
 <g/>
 .
-Maria	w2702
-Saringerin	w2703
+Maria	w2702	NOHI	NOLAB	1.00
+Saringerin	w2703	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p33">
-Michael	w2705
-Schmid	w2706
+Michael	w2705	NOHI	NOLAB	1.00
+Schmid	w2706	NOHI	NOLAB	1.00
 <g/>
 /
-Tagwerker	w2708
+Tagwerker	w2708	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2710
-Mar	w2711
+mit	w2710	NOHI	NOLAB	1.00
+Mar	w2711	NOHI	NOLAB	1.00
 <g/>
 =
-Martin	w2713
-Staindl	w2714
+Martin	w2713	NOHI	NOLAB	1.00
+Staindl	w2714	NOHI	NOLAB	1.00
 <g/>
 /
-Maurer	w2716
+Maurer	w2716	NOHI	NOLAB	1.00
 <g/>
 /
-Wittiber	w2718
+Wittiber	w2718	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2720
-Anna	w2721
-Maria	w2722
-Gutkäsin	w2723
+mit	w2720	NOHI	NOLAB	1.00
+Anna	w2721	NOHI	NOLAB	1.00
+Maria	w2722	NOHI	NOLAB	1.00
+Gutkäsin	w2723	NOHI	NOLAB	1.00
 <g/>
 /
-Wittib	w2725
+Wittib	w2725	NOHI	NOLAB	1.00
 <g/>
 .
-garetha	w2727
-Schönin	w2728
+garetha	w2727	NOHI	NOLAB	1.00
+Schönin	w2728	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p34">
-Philipp	w2730
-Leitgeb	w2731
+Philipp	w2730	NOHI	NOLAB	1.00
+Leitgeb	w2731	NOHI	NOLAB	1.00
 <g/>
 /
-Kutscher	w2733
+Kutscher	w2733	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2735
-Anna	w2736
-Maria	w2737
-Johann	w2738
-Alz	w2739
+mit	w2735	NOHI	NOLAB	1.00
+Anna	w2736	NOHI	NOLAB	1.00
+Maria	w2737	NOHI	NOLAB	1.00
+Johann	w2738	NOHI	NOLAB	1.00
+Alz	w2739	NOHI	NOLAB	1.00
 <g/>
 /
-Kutscher	w2741
+Kutscher	w2741	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2743
-Barbara	w2744
-Hasin	w2745
+mit	w2743	NOHI	NOLAB	1.00
+Barbara	w2744	NOHI	NOLAB	1.00
+Hasin	w2745	NOHI	NOLAB	1.00
 <g/>
 .
-Justin	w2747
+Justin	w2747	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p35">
-Georg	w2749
-Löw	w2750
+Georg	w2749	NOHI	NOLAB	1.00
+Löw	w2750	NOHI	NOLAB	1.00
 <g/>
 /
-Tagwerker	w2752
+Tagwerker	w2752	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2754
-Anna	w2755
-Mar	w2756
+mit	w2754	NOHI	NOLAB	1.00
+Anna	w2755	NOHI	NOLAB	1.00
+Mar	w2756	NOHI	NOLAB	1.00
 <g/>
 =
-Matthias	w2758
-Franz	w2759
-Schuster	w2760
+Matthias	w2758	NOHI	NOLAB	1.00
+Franz	w2759	NOHI	NOLAB	1.00
+Schuster	w2760	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2762
-Anna	w2763
-Ma=ria	w2764
+mit	w2762	NOHI	NOLAB	1.00
+Anna	w2763	NOHI	NOLAB	1.00
+Ma=ria	w2764	NOHI	NOLAB	1.00
 <g/>
 =
-Mayerin	w2766
+Mayerin	w2766	NOHI	NOLAB	1.00
 <g/>
 .
-ha	w2768
-Widmanin	w2769
+ha	w2768	NOHI	NOLAB	1.00
+Widmanin	w2769	NOHI	NOLAB	1.00
 <g/>
 /
-Wirtib	w2771
+Wirtib	w2771	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p36">
-Rupert	w2773
-Riedermayer	w2774
+Rupert	w2773	NOHI	NOLAB	1.00
+Riedermayer	w2774	NOHI	NOLAB	1.00
 <g/>
 /
-Tagwerker	w2776
+Tagwerker	w2776	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2778
-Georg	w2779
-Gürrer	w2780
+mit	w2778	NOHI	NOLAB	1.00
+Georg	w2779	NOHI	NOLAB	1.00
+Gürrer	w2780	NOHI	NOLAB	1.00
 <g/>
 /
-Maurer	w2782
+Maurer	w2782	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2784
-Sophia	w2785
-Schreitmayerin	w2786
+mit	w2784	NOHI	NOLAB	1.00
+Sophia	w2785	NOHI	NOLAB	1.00
+Schreitmayerin	w2786	NOHI	NOLAB	1.00
 <g/>
 .
-Magdalena	w2788
-Freybichin	w2789
+Magdalena	w2788	NOHI	NOLAB	1.00
+Freybichin	w2789	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p37">
-Jacob	w2791
-Högler	w2792
+Jacob	w2791	NOHI	NOLAB	1.00
+Högler	w2792	NOHI	NOLAB	1.00
 <g/>
 /
-Holzscheiber	w2794
+Holzscheiber	w2794	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2796
-Maria	w2797
-Anton	w2798
-Treyschneck	w2799
+mit	w2796	NOHI	NOLAB	1.00
+Maria	w2797	NOHI	NOLAB	1.00
+Anton	w2798	NOHI	NOLAB	1.00
+Treyschneck	w2799	NOHI	NOLAB	1.00
 <g/>
 /
-Tischler	w2801
+Tischler	w2801	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2803
-Maria	w2804
-Hermillnerin	w2805
+mit	w2803	NOHI	NOLAB	1.00
+Maria	w2804	NOHI	NOLAB	1.00
+Hermillnerin	w2805	NOHI	NOLAB	1.00
 <g/>
 .
-Apollonia	w2807
-Schulzin	w2808
+Apollonia	w2807	NOHI	NOLAB	1.00
+Schulzin	w2808	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p38">
-Den	w2810
-9	w2811
+Den	w2810	NOHI	NOLAB	1.00
+9	w2811	NOHI	NOLAB	1.00
 <g/>
 .
-Dito	w2813
+Dito	w2813	NOHI	NOLAB	1.00
 <g/>
 .
-Johann	w2815
-Gmechtl	w2816
+Johann	w2815	NOHI	NOLAB	1.00
+Gmechtl	w2816	NOHI	NOLAB	1.00
 <g/>
 /
-Schneider	w2818
+Schneider	w2818	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2820
-Elisa ElisaBlasius	w2821
+mit	w2820	NOHI	NOLAB	1.00
+ElisaBlasius	w2821	NOHI	NOLAB	1.00
 <g/>
 =
 </p>
 <p id="p39">
-Blasius	w2823
-Tegl	w2824
+Blasius	w2823	NOHI	NOLAB	1.00
+Tegl	w2824	NOHI	NOLAB	1.00
 <g/>
 /
-ein	w2826
-abgedankter	w2827
-Reuter	w2828
+ein	w2826	NOHI	NOLAB	1.00
+abgedankter	w2827	NOHI	NOLAB	1.00
+Reuter	w2828	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2830
-Jungfr	w2831
+mit	w2830	NOHI	NOLAB	1.00
+Jungfr	w2831	NOHI	NOLAB	1.00
 <g/>
 .
-Regina	w2833
-Heyweckin	w2834
+Regina	w2833	NOHI	NOLAB	1.00
+Heyweckin	w2834	NOHI	NOLAB	1.00
 <g/>
 .
-mit	w2836
-Eva	w2837
-Rosina	w2838
-Stainin	w2839
+mit	w2836	NOHI	NOLAB	1.00
+Eva	w2837	NOHI	NOLAB	1.00
+Rosina	w2838	NOHI	NOLAB	1.00
+Stainin	w2839	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p40">
-Den	w2841
-3	w2842
+Den	w2841	NOHI	NOLAB	1.00
+3	w2842	NOHI	NOLAB	1.00
 <g/>
 .
-Dito	w2844
+Dito	w2844	NOHI	NOLAB	1.00
 <g/>
 .
-ner	w2846
+ner	w2846	NOHI	NOLAB	1.00
 <g/>
 /
-gewester	w2848
-Hauptmann	w2849
+gewester	w2848	NOHI	NOLAB	1.00
+Hauptmann	w2849	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2851
-Jungfr	w2852
+mit	w2851	NOHI	NOLAB	1.00
+Jungfr	w2852	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p41">
-Anna	w2854
-Elisabetha	w2855
-Schickin	w2856
+Anna	w2854	NOHI	NOLAB	1.00
+Elisabetha	w2855	NOHI	NOLAB	1.00
+Schickin	w2856	NOHI	NOLAB	1.00
 <g/>
 .
-Andre	w2858
-Paith	w2859
+Andre	w2858	NOHI	NOLAB	1.00
+Paith	w2859	NOHI	NOLAB	1.00
 <g/>
 /
-Würth	w2861
+Würth	w2861	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2863
-Maria	w2864
-Theresia	w2865
+mit	w2863	NOHI	NOLAB	1.00
+Maria	w2864	NOHI	NOLAB	1.00
+Theresia	w2865	NOHI	NOLAB	1.00
 </p>
 <p id="p42">
-Blienin	w2866
+Blienin	w2866	NOHI	NOLAB	1.00
 <g/>
 .
-Johannes	w2868
-Haaß	w2869
+Johannes	w2868	NOHI	NOLAB	1.00
+Haaß	w2869	NOHI	NOLAB	1.00
 <g/>
 /
-Herrn	w2871
+Herrn	w2871	NOHI	NOLAB	1.00
 <g/>
 =
-Bedienter	w2873
+Bedienter	w2873	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2875
+mit	w2875	NOHI	NOLAB	1.00
 </p>
 <p id="p43">
-Wolfgang	w2876
-Theophilus	w2877
-Zelzer	w2878
+Wolfgang	w2876	NOHI	NOLAB	1.00
+Theophilus	w2877	NOHI	NOLAB	1.00
+Zelzer	w2878	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2880
-Maria	w2881
-Ursula	w2882
-Zolligin	w2883
-Magdalena	w2884
-Boleslauin	w2885
+mit	w2880	NOHI	NOLAB	1.00
+Maria	w2881	NOHI	NOLAB	1.00
+Ursula	w2882	NOHI	NOLAB	1.00
+Zolligin	w2883	NOHI	NOLAB	1.00
+Magdalena	w2884	NOHI	NOLAB	1.00
+Boleslauin	w2885	NOHI	NOLAB	1.00
 <g/>
 .
-Lorenz	w2887
-Hofmann	w2888
+Lorenz	w2887	NOHI	NOLAB	1.00
+Hofmann	w2888	NOHI	NOLAB	1.00
 <g/>
 /
-Schuster	w2890
+Schuster	w2890	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2892
-Maria	w2893
+mit	w2892	NOHI	NOLAB	1.00
+Maria	w2893	NOHI	NOLAB	1.00
 </p>
 <p id="p44">
-Kazin	w2894
+Kazin	w2894	NOHI	NOLAB	1.00
 <g/>
 /
-Wittib	w2896
+Wittib	w2896	NOHI	NOLAB	1.00
 <g/>
 .
-Den	w2898
-4	w2899
+Den	w2898	NOHI	NOLAB	1.00
+4	w2899	NOHI	NOLAB	1.00
 <g/>
 .
-Dito	w2901
+Dito	w2901	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p45">
-Anton	w2903
-Hirnschal	w2904
+Anton	w2903	NOHI	NOLAB	1.00
+Hirnschal	w2904	NOHI	NOLAB	1.00
 <g/>
 /
-Tischler	w2906
+Tischler	w2906	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2908
-Johanna	w2909
-Georg	w2910
-Reich	w2911
+mit	w2908	NOHI	NOLAB	1.00
+Johanna	w2909	NOHI	NOLAB	1.00
+Georg	w2910	NOHI	NOLAB	1.00
+Reich	w2911	NOHI	NOLAB	1.00
 <g/>
 /
-Schneider	w2913
+Schneider	w2913	NOHI	NOLAB	1.00
 <g/>
 /
-Wittiber	w2915
+Wittiber	w2915	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w2917
-Germanin	w2918
+mit	w2917	NOHI	NOLAB	1.00
+Germanin	w2918	NOHI	NOLAB	1.00
 <g/>
 .
-Catharina	w2920
-Buchenin	w2921
+Catharina	w2920	NOHI	NOLAB	1.00
+Buchenin	w2921	NOHI	NOLAB	1.00
 <g/>
 /
-Wittib	w2923
+Wittib	w2923	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p46">
-Lista	w2925
-derer	w2926
-Getauften	w2927
+Lista	w2925	NOHI	NOLAB	1.00
+derer	w2926	NOHI	NOLAB	1.00
+Getauften	w2927	NOHI	NOLAB	1.00
 <g/>
 /
-in	w2929
+in	w2929	NOHI	NOLAB	1.00
 <g/>
 =
-und	w2931
-vor	w2932
-der	w2933
-Stadt	w2934
+und	w2931	NOHI	NOLAB	1.00
+vor	w2932	NOHI	NOLAB	1.00
+der	w2933	NOHI	NOLAB	1.00
+Stadt	w2934	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p47">
-Den	w2936
-3	w2937
+Den	w2936	NOHI	NOLAB	1.00
+3	w2937	NOHI	NOLAB	1.00
 <g/>
 .
-October	w2939
+October	w2939	NOHI	NOLAB	1.00
 <g/>
 /
-1719	w2941
+1719	w2941	NOHI	NOLAB	1.00
 <g/>
 .
-Dem	w2943
-Hrn	w2944
+Dem	w2943	NOHI	NOLAB	1.00
+Hrn	w2944	NOHI	NOLAB	1.00
 <g/>
 .
-Johann	w2946
-Georg	w2947
-Herzer	w2948
+Johann	w2946	NOHI	NOLAB	1.00
+Georg	w2947	NOHI	NOLAB	1.00
+Herzer	w2948	NOHI	NOLAB	1.00
 <g/>
 /
-und	w2950
+und	w2950	NOHI	NOLAB	1.00
 </p>
 <p id="p48">
-Dem	w2951
-Hrn	w2952
+Dem	w2951	NOHI	NOLAB	1.00
+Hrn	w2952	NOHI	NOLAB	1.00
 <g/>
 .
-Joseph	w2954
-Adam	w2955
-Alfroy	w2956
+Joseph	w2954	NOHI	NOLAB	1.00
+Adam	w2955	NOHI	NOLAB	1.00
+Alfroy	w2956	NOHI	NOLAB	1.00
 <g/>
 /
-Stall	w2958
+Stall	w2958	NOHI	NOLAB	1.00
 <g/>
 =
-Mar	w2960
+Mar	w2960	NOHI	NOLAB	1.00
 <g/>
 .
-Susanna	w2962
-s	w2963
+Susanna	w2962	NOHI	NOLAB	1.00
+s	w2963	NOHI	NOLAB	1.00
 <g/>
 .
-Ehew	w2965
+Ehew	w2965	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w2967
-T	w2968
+ihr	w2967	NOHI	NOLAB	1.00
+T	w2968	NOHI	NOLAB	1.00
 <g/>
 .
-Mar	w2970
+Mar	w2970	NOHI	NOLAB	1.00
 <g/>
 .
 <g/>
 =
-Ther	w2973
+Ther	w2973	NOHI	NOLAB	1.00
 <g/>
 .
-maister	w2975
+maister	w2975	NOHI	NOLAB	1.00
 <g/>
 /
-und	w2977
-Maria	w2978
-Catharina	w2979
-Bar	w2980
+und	w2977	NOHI	NOLAB	1.00
+Maria	w2978	NOHI	NOLAB	1.00
+Catharina	w2979	NOHI	NOLAB	1.00
+Bar	w2980	NOHI	NOLAB	1.00
 <g/>
 =
-Dem	w2982
-Johann	w2983
-Machinitz	w2984
+Dem	w2982	NOHI	NOLAB	1.00
+Johann	w2983	NOHI	NOLAB	1.00
+Machinitz	w2984	NOHI	NOLAB	1.00
 <g/>
 /
-und	w2986
-Catharina	w2987
-bara	w2988
-sein	w2989
+und	w2986	NOHI	NOLAB	1.00
+Catharina	w2987	NOHI	NOLAB	1.00
+bara	w2988	NOHI	NOLAB	1.00
+sein	w2989	NOHI	NOLAB	1.00
 <g/>
 .
-Ehefr	w2991
+Ehefr	w2991	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w2993
-S	w2994
+ihr	w2993	NOHI	NOLAB	1.00
+S	w2994	NOHI	NOLAB	1.00
 <g/>
 .
-Paul	w2996
-Franz	w2997
+Paul	w2996	NOHI	NOLAB	1.00
+Franz	w2997	NOHI	NOLAB	1.00
 <g/>
 .
-sein	w2999
+sein	w2999	NOHI	NOLAB	1.00
 <g/>
 .
-Ehew	w3001
+Ehew	w3001	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w3003
-T	w3004
+ihr	w3003	NOHI	NOLAB	1.00
+T	w3004	NOHI	NOLAB	1.00
 <g/>
 .
-Maria	w3006
-Catharina	w3007
+Maria	w3006	NOHI	NOLAB	1.00
+Catharina	w3007	NOHI	NOLAB	1.00
 <g/>
 .
-Dem	w3009
-Samuel	w3010
-Anton	w3011
-Getner	w3012
+Dem	w3009	NOHI	NOLAB	1.00
+Samuel	w3010	NOHI	NOLAB	1.00
+Anton	w3011	NOHI	NOLAB	1.00
+Getner	w3012	NOHI	NOLAB	1.00
 <g/>
 /
-Zahnarzt	w3014
+Zahnarzt	w3014	NOHI	NOLAB	1.00
 <g/>
 /
-Dem	w3016
-Johann	w3017
-Erndt	w3018
+Dem	w3016	NOHI	NOLAB	1.00
+Johann	w3017	NOHI	NOLAB	1.00
+Erndt	w3018	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3020
-Elisabeth	w3021
-sein	w3022
+und	w3020	NOHI	NOLAB	1.00
+Elisabeth	w3021	NOHI	NOLAB	1.00
+sein	w3022	NOHI	NOLAB	1.00
 <g/>
 .
-und	w3024
-Anna	w3025
-Rosina	w3026
-sein	w3027
+und	w3024	NOHI	NOLAB	1.00
+Anna	w3025	NOHI	NOLAB	1.00
+Rosina	w3026	NOHI	NOLAB	1.00
+sein	w3027	NOHI	NOLAB	1.00
 <g/>
 .
-Ehew	w3029
+Ehew	w3029	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w3031
-T	w3032
+ihr	w3031	NOHI	NOLAB	1.00
+T	w3032	NOHI	NOLAB	1.00
 <g/>
 .
-Ehew	w3034
+Ehew	w3034	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w3036
-T	w3037
+ihr	w3036	NOHI	NOLAB	1.00
+T	w3037	NOHI	NOLAB	1.00
 <g/>
 .
-Maria	w3039
-Carolina	w3040
+Maria	w3039	NOHI	NOLAB	1.00
+Carolina	w3040	NOHI	NOLAB	1.00
 <g/>
 .
-Juliana	w3042
-Maria	w3043
-Catharina	w3044
+Juliana	w3042	NOHI	NOLAB	1.00
+Maria	w3043	NOHI	NOLAB	1.00
+Catharina	w3044	NOHI	NOLAB	1.00
 <g/>
 .
-Dem	w3046
-Georg	w3047
-Wiederhuter	w3048
+Dem	w3046	NOHI	NOLAB	1.00
+Georg	w3047	NOHI	NOLAB	1.00
+Wiederhuter	w3048	NOHI	NOLAB	1.00
 <g/>
 =
-Ziegler	w3050
+Ziegler	w3050	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3052
-Eli EliDem	w3053
+und	w3052	NOHI	NOLAB	1.00
+EliDem	w3053	NOHI	NOLAB	1.00
 <g/>
 =
 </p>
 <p id="p49">
-Dem	w3055
-Wilhelm	w3056
-Blatensteiner	w3057
+Dem	w3055	NOHI	NOLAB	1.00
+Wilhelm	w3056	NOHI	NOLAB	1.00
+Blatensteiner	w3057	NOHI	NOLAB	1.00
 <g/>
 /
-Laggey	w3059
+Laggey	w3059	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3061
-sab	w3062
+und	w3061	NOHI	NOLAB	1.00
+sab	w3062	NOHI	NOLAB	1.00
 <g/>
 .
-s	w3064
+s	w3064	NOHI	NOLAB	1.00
 <g/>
 .
-Ehew	w3066
+Ehew	w3066	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w3068
-S	w3069
+ihr	w3068	NOHI	NOLAB	1.00
+S	w3069	NOHI	NOLAB	1.00
 <g/>
 .
-Andre	w3071
-Joh	w3072
+Andre	w3071	NOHI	NOLAB	1.00
+Joh	w3072	NOHI	NOLAB	1.00
 <g/>
 .
-Michael	w3074
+Michael	w3074	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p50">
-Catharina	w3076
-sein	w3077
+Catharina	w3076	NOHI	NOLAB	1.00
+sein	w3077	NOHI	NOLAB	1.00
 <g/>
 .
-Ehew	w3079
+Ehew	w3079	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w3081
-T	w3082
+ihr	w3081	NOHI	NOLAB	1.00
+T	w3082	NOHI	NOLAB	1.00
 <g/>
 .
-Maria	w3084
-Dem	w3085
-Peter	w3086
-Ruff	w3087
-und	w3088
-Elisabeth	w3089
-sein	w3090
+Maria	w3084	NOHI	NOLAB	1.00
+Dem	w3085	NOHI	NOLAB	1.00
+Peter	w3086	NOHI	NOLAB	1.00
+Ruff	w3087	NOHI	NOLAB	1.00
+und	w3088	NOHI	NOLAB	1.00
+Elisabeth	w3089	NOHI	NOLAB	1.00
+sein	w3090	NOHI	NOLAB	1.00
 <g/>
 .
-Ehew	w3092
+Ehew	w3092	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p51">
-beth	w3094
-Mangin	w3095
+beth	w3094	NOHI	NOLAB	1.00
+Mangin	w3095	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p52">
-Den	w3097
-2	w3098
+Den	w3097	NOHI	NOLAB	1.00
+2	w3098	NOHI	NOLAB	1.00
 <g/>
 .
-Dito	w3100
+Dito	w3100	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p53">
-Herr	w3102
-Niclas	w3103
-Wilhelm	w3104
-Nedorost	w3105
+Herr	w3102	NOHI	NOLAB	1.00
+Niclas	w3103	NOHI	NOLAB	1.00
+Wilhelm	w3104	NOHI	NOLAB	1.00
+Nedorost	w3105	NOHI	NOLAB	1.00
 <g/>
 /
-des	w3107
-Kais	w3108
+des	w3107	NOHI	NOLAB	1.00
+Kais	w3108	NOHI	NOLAB	1.00
 <g/>
 .
-Stadt	w3110
+Stadt	w3110	NOHI	NOLAB	1.00
 <g/>
 =
-und	w3112
-Land	w3113
+und	w3112	NOHI	NOLAB	1.00
+Land	w3113	NOHI	NOLAB	1.00
 <g/>
 =
-Gerichts	w3115
-Beysitzer	w3116
+Gerichts	w3115	NOHI	NOLAB	1.00
+Beysitzer	w3116	NOHI	NOLAB	1.00
 <g/>
 /
 </p>
 <p id="p54">
-Elisabeth	w3118
-Regina	w3119
+Elisabeth	w3118	NOHI	NOLAB	1.00
+Regina	w3119	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p55">
-ihr	w3121
-T	w3122
+ihr	w3121	NOHI	NOLAB	1.00
+T	w3122	NOHI	NOLAB	1.00
 <g/>
 .
-Maria	w3124
-Barbara	w3125
+Maria	w3124	NOHI	NOLAB	1.00
+Barbara	w3125	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p56">
-Dem	w3127
-Hrn	w3128
+Dem	w3127	NOHI	NOLAB	1.00
+Hrn	w3128	NOHI	NOLAB	1.00
 <g/>
 .
-Anton	w3130
-Gumb	w3131
+Anton	w3130	NOHI	NOLAB	1.00
+Gumb	w3131	NOHI	NOLAB	1.00
 <g/>
 /
-Handelsmann	w3133
+Handelsmann	w3133	NOHI	NOLAB	1.00
 <g/>
 /
-rer	w3135
+rer	w3135	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3137
-Dorothea	w3138
-Margaretha	w3139
-und	w3140
-G	w3141
+und	w3137	NOHI	NOLAB	1.00
+Dorothea	w3138	NOHI	NOLAB	1.00
+Margaretha	w3139	NOHI	NOLAB	1.00
+und	w3140	NOHI	NOLAB	1.00
+G	w3141	NOHI	NOLAB	1.00
 </p>
 <p id="p57">
 </p>
 <p id="p58">
-De	w3142
-cht	w3143
+De	w3142	NOHI	NOLAB	1.00
+cht	w3143	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3145
-Maria	w3146
-Catharina	w3147
-sein	w3148
+und	w3145	NOHI	NOLAB	1.00
+Maria	w3146	NOHI	NOLAB	1.00
+Catharina	w3147	NOHI	NOLAB	1.00
+sein	w3148	NOHI	NOLAB	1.00
 <g/>
 .
-Ehew	w3150
+Ehew	w3150	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w3152
-T	w3153
+ihr	w3152	NOHI	NOLAB	1.00
+T	w3153	NOHI	NOLAB	1.00
 <g/>
 .
-Su	w3155
+Su	w3155	NOHI	NOLAB	1.00
 <g/>
 =
-Maria	w3157
-Elisab	w3158
+Maria	w3157	NOHI	NOLAB	1.00
+Elisab	w3158	NOHI	NOLAB	1.00
 <g/>
 .
-s	w3160
+s	w3160	NOHI	NOLAB	1.00
 <g/>
 .
-Ehew	w3162
+Ehew	w3162	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w3164
-S	w3165
+ihr	w3164	NOHI	NOLAB	1.00
+S	w3165	NOHI	NOLAB	1.00
 <g/>
 .
-Franz	w3167
-Joh	w3168
+Franz	w3167	NOHI	NOLAB	1.00
+Joh	w3168	NOHI	NOLAB	1.00
 <g/>
 .
-sanna	w3170
-Theresia	w3171
+sanna	w3170	NOHI	NOLAB	1.00
+Theresia	w3171	NOHI	NOLAB	1.00
 <g/>
 .
-Dem	w3173
-Joseph	w3174
-Haberman	w3175
+Dem	w3173	NOHI	NOLAB	1.00
+Joseph	w3174	NOHI	NOLAB	1.00
+Haberman	w3175	NOHI	NOLAB	1.00
 <g/>
 /
-Schneider	w3177
-und	w3178
-Dem	w3179
-Tobias	w3180
-Beyer	w3181
+Schneider	w3177	NOHI	NOLAB	1.00
+und	w3178	NOHI	NOLAB	1.00
+Dem	w3179	NOHI	NOLAB	1.00
+Tobias	w3180	NOHI	NOLAB	1.00
+Beyer	w3181	NOHI	NOLAB	1.00
 <g/>
 /
-Fleischhacker	w3183
+Fleischhacker	w3183	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3185
-Barbara	w3186
-s	w3187
+und	w3185	NOHI	NOLAB	1.00
+Barbara	w3186	NOHI	NOLAB	1.00
+s	w3187	NOHI	NOLAB	1.00
 <g/>
 .
-Ehew	w3189
+Ehew	w3189	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w3191
-T	w3192
+ihr	w3191	NOHI	NOLAB	1.00
+T	w3192	NOHI	NOLAB	1.00
 <g/>
 .
-Anna	w3194
-Christina	w3195
+Anna	w3194	NOHI	NOLAB	1.00
+Christina	w3195	NOHI	NOLAB	1.00
 <g/>
 .
-Maria	w3197
-Magbalena	w3198
-zein	w3199
+Maria	w3197	NOHI	NOLAB	1.00
+Magbalena	w3198	NOHI	NOLAB	1.00
+zein	w3199	NOHI	NOLAB	1.00
 <g/>
 .
-Ehe	w3201
+Ehe	w3201	NOHI	NOLAB	1.00
 </p>
 <p id="p59">
-theni	w3202
+theni	w3202	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3204
-Eva	w3205
-Dem	w3206
-Ernst	w3207
-Reüholt	w3208
+und	w3204	NOHI	NOLAB	1.00
+Eva	w3205	NOHI	NOLAB	1.00
+Dem	w3206	NOHI	NOLAB	1.00
+Ernst	w3207	NOHI	NOLAB	1.00
+Reüholt	w3208	NOHI	NOLAB	1.00
 <g/>
 /
-Arzt	w3210
+Arzt	w3210	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3212
-Eleonora	w3213
-Magdalena	w3214
-sein	w3215
+und	w3212	NOHI	NOLAB	1.00
+Eleonora	w3213	NOHI	NOLAB	1.00
+Magdalena	w3214	NOHI	NOLAB	1.00
+sein	w3215	NOHI	NOLAB	1.00
 <g/>
 .
-Ehfr	w3217
+Ehfr	w3217	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w3219
-S	w3220
+ihr	w3219	NOHI	NOLAB	1.00
+S	w3220	NOHI	NOLAB	1.00
 <g/>
 .
-Johann	w3222
-sein	w3223
+Johann	w3222	NOHI	NOLAB	1.00
+sein	w3223	NOHI	NOLAB	1.00
 <g/>
 .
-Ehew	w3225
+Ehew	w3225	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w3227
-S	w3228
+ihr	w3227	NOHI	NOLAB	1.00
+S	w3228	NOHI	NOLAB	1.00
 <g/>
 .
-Joseph	w3230
-Er	w3231
-Ferd Ferdma	w3232
+Joseph	w3230	NOHI	NOLAB	1.00
+Er	w3231	NOHI	NOLAB	1.00
+Ferdma	w3232	NOHI	NOLAB	1.00
 <g/>
 =
 </p>
 <p id="p60">
-ma	w3234
+ma	w3234	NOHI	NOLAB	1.00
 <g/>
 =
-Anna	w3236
-sein	w3237
+Anna	w3236	NOHI	NOLAB	1.00
+sein	w3237	NOHI	NOLAB	1.00
 <g/>
 .
-Ehew	w3239
-ihr	w3240
-T	w3241
+Ehew	w3239	NOHI	NOLAB	1.00
+ihr	w3240	NOHI	NOLAB	1.00
+T	w3241	NOHI	NOLAB	1.00
 <g/>
 .
-Anna	w3243
-Sophia	w3244
+Anna	w3243	NOHI	NOLAB	1.00
+Sophia	w3244	NOHI	NOLAB	1.00
 <g/>
 .
-cher	w3246
+cher	w3246	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3248
-Anna	w3249
-Theresia	w3250
-s	w3251
+und	w3248	NOHI	NOLAB	1.00
+Anna	w3249	NOHI	NOLAB	1.00
+Theresia	w3250	NOHI	NOLAB	1.00
+s	w3251	NOHI	NOLAB	1.00
 <g/>
 .
-Ehefr	w3253
+Ehefr	w3253	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w3255
-T	w3256
+ihr	w3255	NOHI	NOLAB	1.00
+T	w3256	NOHI	NOLAB	1.00
 <g/>
 .
-Dem	w3258
-Johann	w3259
-Andre	w3260
-Eberl	w3261
+Dem	w3258	NOHI	NOLAB	1.00
+Johann	w3259	NOHI	NOLAB	1.00
+Andre	w3260	NOHI	NOLAB	1.00
+Eberl	w3261	NOHI	NOLAB	1.00
 <g/>
 /
-Schreiber	w3263
+Schreiber	w3263	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3265
-Anna	w3266
-Ti	w3267
+und	w3265	NOHI	NOLAB	1.00
+Anna	w3266	NOHI	NOLAB	1.00
+Ti	w3267	NOHI	NOLAB	1.00
 </p>
 <p id="p61">
 </p>
@@ -4020,443 +4127,443 @@ Ti	w3267
 <p id="p65">
 </p>
 <p id="p66">
-sanSlidr	w3268
-AAliltnt	w3269
-SAkb	w3270
+sanSlidr	w3268	NOHI	NOLAB	1.00
+AAliltnt	w3269	NOHI	NOLAB	1.00
+SAkb	w3270	NOHI	NOLAB	1.00
 </p>
 <p id="p67">
-Maria	w3271
-Regina	w3272
+Maria	w3271	NOHI	NOLAB	1.00
+Regina	w3272	NOHI	NOLAB	1.00
 <g/>
 .
-Dem	w3274
-Joh	w3275
+Dem	w3274	NOHI	NOLAB	1.00
+Joh	w3275	NOHI	NOLAB	1.00
 <g/>
 .
-Kremperger	w3277
-Hafner	w3278
+Kremperger	w3277	NOHI	NOLAB	1.00
+Hafner	w3278	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3280
-Dem	w3281
-Joh	w3282
+und	w3280	NOHI	NOLAB	1.00
+Dem	w3281	NOHI	NOLAB	1.00
+Joh	w3282	NOHI	NOLAB	1.00
 <g/>
 .
-Miche	w3284
+Miche	w3284	NOHI	NOLAB	1.00
 </p>
 <p id="p68">
-cisca	w3285
+cisca	w3285	NOHI	NOLAB	1.00
 <g/>
 .
-Dem	w3287
-Michael	w3288
-Schradt	w3289
+Dem	w3287	NOHI	NOLAB	1.00
+Michael	w3288	NOHI	NOLAB	1.00
+Schradt	w3289	NOHI	NOLAB	1.00
 <g/>
 /
-Schuster	w3291
-Dem	w3292
-Ma Maarbara	w3293
+Schuster	w3291	NOHI	NOLAB	1.00
+Dem	w3292	NOHI	NOLAB	1.00
+Maarbara	w3293	NOHI	NOLAB	1.00
 <g/>
 =
 </p>
 <p id="p69">
-arbara	w3295
+arbara	w3295	NOHI	NOLAB	1.00
 <g/>
 .
-Dem	w3297
-Simon	w3298
-Fridl	w3299
+Dem	w3297	NOHI	NOLAB	1.00
+Simon	w3298	NOHI	NOLAB	1.00
+Fridl	w3299	NOHI	NOLAB	1.00
 <g/>
 /
-Maurer	w3301
+Maurer	w3301	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3303
-E	w3304
+und	w3303	NOHI	NOLAB	1.00
+E	w3304	NOHI	NOLAB	1.00
 <g/>
 .
-Dem	w3306
-Franz	w3307
-de	w3308
-SyI	w3309
+Dem	w3306	NOHI	NOLAB	1.00
+Franz	w3307	NOHI	NOLAB	1.00
+de	w3308	NOHI	NOLAB	1.00
+SyI	w3309	NOHI	NOLAB	1.00
 </p>
 <p id="p70">
-us	w3310
+us	w3310	NOHI	NOLAB	1.00
 <g/>
 .
-Dem	w3312
-Matthias	w3313
-Wagner	w3314
+Dem	w3312	NOHI	NOLAB	1.00
+Matthias	w3313	NOHI	NOLAB	1.00
+Wagner	w3314	NOHI	NOLAB	1.00
 <g/>
 /
-Kucheltrage	w3316
-Dem	w3317
-Thomas	w3318
-Hinel	w3319
+Kucheltrage	w3316	NOHI	NOLAB	1.00
+Dem	w3317	NOHI	NOLAB	1.00
+Thomas	w3318	NOHI	NOLAB	1.00
+Hinel	w3319	NOHI	NOLAB	1.00
 </p>
 <p id="p71">
-ustina	w3320
+ustina	w3320	NOHI	NOLAB	1.00
 <g/>
 .
-Dem	w3322
-Matthies	w3323
-Praun	w3324
+Dem	w3322	NOHI	NOLAB	1.00
+Matthies	w3323	NOHI	NOLAB	1.00
+Praun	w3324	NOHI	NOLAB	1.00
 <g/>
 =
-Bildhauer	w3326
+Bildhauer	w3326	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3328
-Dem	w3329
-Adam	w3330
-Prenner	w3331
+und	w3328	NOHI	NOLAB	1.00
+Dem	w3329	NOHI	NOLAB	1.00
+Adam	w3330	NOHI	NOLAB	1.00
+Prenner	w3331	NOHI	NOLAB	1.00
 <g/>
 /
-Maurer	w3333
+Maurer	w3333	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3335
-Justina	w3336
-Maria	w3337
-Catharina	w3338
-sein	w3339
+und	w3335	NOHI	NOLAB	1.00
+Justina	w3336	NOHI	NOLAB	1.00
+Maria	w3337	NOHI	NOLAB	1.00
+Catharina	w3338	NOHI	NOLAB	1.00
+sein	w3339	NOHI	NOLAB	1.00
 <g/>
 .
-Ehew	w3341
+Ehew	w3341	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w3343
-S	w3344
+ihr	w3343	NOHI	NOLAB	1.00
+S	w3344	NOHI	NOLAB	1.00
 <g/>
 .
-sein	w3346
+sein	w3346	NOHI	NOLAB	1.00
 <g/>
 .
-Ehew	w3348
+Ehew	w3348	NOHI	NOLAB	1.00
 <g/>
 .
-ihr	w3350
-T	w3351
+ihr	w3350	NOHI	NOLAB	1.00
+T	w3351	NOHI	NOLAB	1.00
 <g/>
 .
-Anna	w3353
-M	w3354
+Anna	w3353	NOHI	NOLAB	1.00
+M	w3354	NOHI	NOLAB	1.00
 </p>
 <p id="p72">
 </p>
 <p id="p73">
-Dem	w3355
-Hrn	w3356
-Frar	w3357
-und	w3358
-Ana	w3359
-Mar	w3360
-t	w3361
+Dem	w3355	NOHI	NOLAB	1.00
+Hrn	w3356	NOHI	NOLAB	1.00
+Frar	w3357	NOHI	NOLAB	1.00
+und	w3358	NOHI	NOLAB	1.00
+Ana	w3359	NOHI	NOLAB	1.00
+Mar	w3360	NOHI	NOLAB	1.00
+t	w3361	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p74">
-Lista	w3363
-derer	w3364
-Verstorb	w3365
+Lista	w3363	NOHI	NOLAB	1.00
+derer	w3364	NOHI	NOLAB	1.00
+Verstorb	w3365	NOHI	NOLAB	1.00
 </p>
 <p id="p75">
-De	w3366
-1	w3367
-10	w3368
+De	w3366	NOHI	NOLAB	1.00
+1	w3367	NOHI	NOLAB	1.00
+10	w3368	NOHI	NOLAB	1.00
 <g/>
 .
-Jenner	w3370
+Jenner	w3370	NOHI	NOLAB	1.00
 <g/>
 /
-1	w3372
+1	w3372	NOHI	NOLAB	1.00
 </p>
 <p id="p76">
 </p>
 <p id="p77">
-Herr	w3373
-Andre	w3374
-J	w3375
-inda	w3376
-Steinbergerin	w3377
+Herr	w3373	NOHI	NOLAB	1.00
+Andre	w3374	NOHI	NOLAB	1.00
+J	w3375	NOHI	NOLAB	1.00
+inda	w3376	NOHI	NOLAB	1.00
+Steinbergerin	w3377	NOHI	NOLAB	1.00
 <g/>
 /
-Vicedom	w3379
+Vicedom	w3379	NOHI	NOLAB	1.00
 <g/>
 :
-A	w3381
+A	w3381	NOHI	NOLAB	1.00
 </p>
 <p id="p78">
 </p>
 <p id="p79">
-rl	w3382
+rl	w3382	NOHI	NOLAB	1.00
 <g/>
 .
-steustift	w3384
+steustift	w3384	NOHI	NOLAB	1.00
 <g/>
 /
-sein	w3386
-K	w3387
+sein	w3386	NOHI	NOLAB	1.00
+K	w3387	NOHI	NOLAB	1.00
 <g/>
 .
-Regina	w3389
+Regina	w3389	NOHI	NOLAB	1.00
 <g/>
 /
-alt	w3391
-2	w3392
+alt	w3391	NOHI	NOLAB	1.00
+2	w3392	NOHI	NOLAB	1.00
 <g/>
 .
-Jahr	w3394
+Jahr	w3394	NOHI	NOLAB	1.00
 <g/>
 .
-Cammer	w3396
+Cammer	w3396	NOHI	NOLAB	1.00
 <g/>
 =
-Musicus	w3398
+Musicus	w3398	NOHI	NOLAB	1.00
 <g/>
 /
-im	w3400
-Fruwürthischen	w3401
-Georg	w3402
-Haltner	w3403
+im	w3400	NOHI	NOLAB	1.00
+Fruwürthischen	w3401	NOHI	NOLAB	1.00
+Georg	w3402	NOHI	NOLAB	1.00
+Haltner	w3403	NOHI	NOLAB	1.00
 <g/>
 /
-alt	w3405
-58	w3406
+alt	w3405	NOHI	NOLAB	1.00
+58	w3406	NOHI	NOLAB	1.00
 <g/>
 .
-J	w3408
+J	w3408	NOHI	NOLAB	1.00
 <g/>
 .
-Anton	w3410
-Burger	w3411
+Anton	w3410	NOHI	NOLAB	1.00
+Burger	w3411	NOHI	NOLAB	1.00
 <g/>
 /
-Hauß	w3413
+Hauß	w3413	NOHI	NOLAB	1.00
 <g/>
 /
-s	w3415
+s	w3415	NOHI	NOLAB	1.00
 <g/>
 .
-Frau	w3417
-Maria	w3418
-Josepha	w3419
+Frau	w3417	NOHI	NOLAB	1.00
+Maria	w3418	NOHI	NOLAB	1.00
+Josepha	w3419	NOHI	NOLAB	1.00
 <g/>
 /
-alt	w3421
-26	w3422
+alt	w3421	NOHI	NOLAB	1.00
+26	w3422	NOHI	NOLAB	1.00
 <g/>
 .
-J	w3424
+J	w3424	NOHI	NOLAB	1.00
 <g/>
 .
-alt	w3426
-14	w3427
+alt	w3426	NOHI	NOLAB	1.00
+14	w3427	NOHI	NOLAB	1.00
 <g/>
 .
-J	w3429
+J	w3429	NOHI	NOLAB	1.00
 <g/>
 .
-Johann	w3431
-Kessel	w3432
+Johann	w3431	NOHI	NOLAB	1.00
+Kessel	w3432	NOHI	NOLAB	1.00
 <g/>
 /
-alt	w3434
-Johann	w3435
-Geor GeorVor	w3436
+alt	w3434	NOHI	NOLAB	1.00
+Johann	w3435	NOHI	NOLAB	1.00
+GeorVor	w3436	NOHI	NOLAB	1.00
 <g/>
 =
 </p>
 <p id="p80">
-Vor	w3438
-der	w3439
-Stadt	w3440
+Vor	w3438	NOHI	NOLAB	1.00
+der	w3439	NOHI	NOLAB	1.00
+Stadt	w3440	NOHI	NOLAB	1.00
 <g/>
 .
-Dir	w3442
-Jieit	w3443
+Dir	w3442	NOHI	NOLAB	1.00
+Jieit	w3443	NOHI	NOLAB	1.00
 <g/>
 ,
-Schem	w3445
-8	w3446
+Schem	w3445	NOHI	NOLAB	1.00
+8	w3446	NOHI	NOLAB	1.00
 <g/>
 .
-in	w3448
-Hanerischen	w3449
-Herr	w3450
-Franz	w3451
-Carl	w3452
-Kaberg	w3453
+in	w3448	NOHI	NOLAB	1.00
+Hanerischen	w3449	NOHI	NOLAB	1.00
+Herr	w3450	NOHI	NOLAB	1.00
+Franz	w3451	NOHI	NOLAB	1.00
+Carl	w3452	NOHI	NOLAB	1.00
+Kaberg	w3453	NOHI	NOLAB	1.00
 <g/>
 /
-gew	w3455
+gew	w3455	NOHI	NOLAB	1.00
 <g/>
 .
-Kaiserl	w3457
+Kaiserl	w3457	NOHI	NOLAB	1.00
 <g/>
 .
-Hauß	w3459
+Hauß	w3459	NOHI	NOLAB	1.00
 <g/>
 /
-am	w3461
-alten	w3462
-Baurnmarkt	w3463
+am	w3461	NOHI	NOLAB	1.00
+alten	w3462	NOHI	NOLAB	1.00
+Baurnmarkt	w3463	NOHI	NOLAB	1.00
 <g/>
 /
-alt	w3465
-60	w3466
+alt	w3465	NOHI	NOLAB	1.00
+60	w3466	NOHI	NOLAB	1.00
 <g/>
 .
-J	w3468
+J	w3468	NOHI	NOLAB	1.00
 <g/>
 .
-Dech	w3470
-g	w3471
+Dech	w3470	NOHI	NOLAB	1.00
+g	w3471	NOHI	NOLAB	1.00
 </p>
 <p id="p81">
-Den	w3472
-11	w3473
+Den	w3472	NOHI	NOLAB	1.00
+11	w3473	NOHI	NOLAB	1.00
 <g/>
 .
-Dito	w3475
+Dito	w3475	NOHI	NOLAB	1.00
 <g/>
 /
-in	w3477
-der	w3478
-Stadt	w3479
+in	w3477	NOHI	NOLAB	1.00
+der	w3478	NOHI	NOLAB	1.00
+Stadt	w3479	NOHI	NOLAB	1.00
 <g/>
 .
-Herr	w3481
-Franz	w3482
-Leopold	w3483
-Ehrnlechner	w3484
+Herr	w3481	NOHI	NOLAB	1.00
+Franz	w3482	NOHI	NOLAB	1.00
+Leopold	w3483	NOHI	NOLAB	1.00
+Ehrnlechner	w3484	NOHI	NOLAB	1.00
 <g/>
 /
-Stall	w3486
+Stall	w3486	NOHI	NOLAB	1.00
 <g/>
 =
-Ehrnlechnerischen	w3488
-Hauß	w3489
+Ehrnlechnerischen	w3488	NOHI	NOLAB	1.00
+Hauß	w3489	NOHI	NOLAB	1.00
 <g/>
 /
-im	w3491
+im	w3491	NOHI	NOLAB	1.00
 </p>
 <p id="p82">
 </p>
 <p id="p83">
-Dem	w3492
-Stephan	w3493
-Berndl	w3494
+Dem	w3492	NOHI	NOLAB	1.00
+Stephan	w3493	NOHI	NOLAB	1.00
+Berndl	w3494	NOHI	NOLAB	1.00
 <g/>
 /
-Bierleuthgeb	w3496
+Bierleuthgeb	w3496	NOHI	NOLAB	1.00
 <g/>
 ,
-im	w3498
-Dognannischen	w3499
-Hauß	w3500
+im	w3498	NOHI	NOLAB	1.00
+Dognannischen	w3499	NOHI	NOLAB	1.00
+Hauß	w3500	NOHI	NOLAB	1.00
 <g/>
 /
-am	w3502
-Juden	w3503
+am	w3502	NOHI	NOLAB	1.00
+Juden	w3503	NOHI	NOLAB	1.00
 <g/>
 =
-Plaz	w3505
+Plaz	w3505	NOHI	NOLAB	1.00
 <g/>
 /
 </p>
 <p id="p84">
 </p>
 <p id="p85">
-selcher	w3507
-Vorge	w3508
+selcher	w3507	NOHI	NOLAB	1.00
+Vorge	w3508	NOHI	NOLAB	1.00
 <g/>
 =
-Ar	w3510
-fen	w3511
-in	w3512
-der	w3513
-Au	w3514
+Ar	w3510	NOHI	NOLAB	1.00
+fen	w3511	NOHI	NOLAB	1.00
+in	w3512	NOHI	NOLAB	1.00
+der	w3513	NOHI	NOLAB	1.00
+Au	w3514	NOHI	NOLAB	1.00
 <g/>
 /
-am	w3516
-Salzgrieß	w3517
+am	w3516	NOHI	NOLAB	1.00
+Salzgrieß	w3517	NOHI	NOLAB	1.00
 <g/>
 /
-alt	w3519
-35	w3520
+alt	w3519	NOHI	NOLAB	1.00
+35	w3520	NOHI	NOLAB	1.00
 <g/>
 .
-J	w3522
+J	w3522	NOHI	NOLAB	1.00
 <g/>
 .
-stern	w3524
-im	w3525
-Herzogburgischen	w3526
-Hauß	w3527
+stern	w3524	NOHI	NOLAB	1.00
+im	w3525	NOHI	NOLAB	1.00
+Herzogburgischen	w3526	NOHI	NOLAB	1.00
+Hauß	w3527	NOHI	NOLAB	1.00
 <g/>
 /
-in	w3529
-der	w3530
-Philipp	w3531
-Haider	w3532
+in	w3529	NOHI	NOLAB	1.00
+der	w3530	NOHI	NOLAB	1.00
+Philipp	w3531	NOHI	NOLAB	1.00
+Haider	w3532	NOHI	NOLAB	1.00
 <g/>
 /
-Garde	w3534
+Garde	w3534	NOHI	NOLAB	1.00
 <g/>
 =
-Corporal	w3536
+Corporal	w3536	NOHI	NOLAB	1.00
 <g/>
 /
-auf	w3538
-der	w3539
-Annagaß	w3540
+auf	w3538	NOHI	NOLAB	1.00
+der	w3539	NOHI	NOLAB	1.00
+Annagaß	w3540	NOHI	NOLAB	1.00
 <g/>
 /
-unversehens	w3542
-über	w3543
-ein	w3544
-Stiegen	w3545
+unversehens	w3542	NOHI	NOLAB	1.00
+über	w3543	NOHI	NOLAB	1.00
+ein	w3544	NOHI	NOLAB	1.00
+Stiegen	w3545	NOHI	NOLAB	1.00
 </p>
 <p id="p86">
-Franz	w3546
-Schwarz	w3547
+Franz	w3546	NOHI	NOLAB	1.00
+Schwarz	w3547	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3549
-Peter	w3550
-N	w3551
+und	w3549	NOHI	NOLAB	1.00
+Peter	w3550	NOHI	NOLAB	1.00
+N	w3551	NOHI	NOLAB	1.00
 <g/>
 .
-alle	w3553
-alt	w3554
-Anna	w3555
-Laberein	w3556
+alle	w3553	NOHI	NOLAB	1.00
+alt	w3554	NOHI	NOLAB	1.00
+Anna	w3555	NOHI	NOLAB	1.00
+Laberein	w3556	NOHI	NOLAB	1.00
 <g/>
 /
-alt	w3558
-71	w3559
+alt	w3558	NOHI	NOLAB	1.00
+71	w3559	NOHI	NOLAB	1.00
 <g/>
 .
-J	w3561
+J	w3561	NOHI	NOLAB	1.00
 <g/>
 .
-und	w3563
-ein	w3564
-unbekant	w3565
-3	w3566
+und	w3563	NOHI	NOLAB	1.00
+ein	w3564	NOHI	NOLAB	1.00
+unbekant	w3565	NOHI	NOLAB	1.00
+3	w3566	NOHI	NOLAB	1.00
 <g/>
 .
-Jahr	w3568
+Jahr	w3568	NOHI	NOLAB	1.00
 <g/>
 /
-i	w3570
-t	w3571
-6	w3572
+i	w3570	NOHI	NOLAB	1.00
+t	w3571	NOHI	NOLAB	1.00
+6	w3572	NOHI	NOLAB	1.00
 <g/>
 .
-Vierdtel	w3574
-Jahr	w3575
+Vierdtel	w3574	NOHI	NOLAB	1.00
+Jahr	w3575	NOHI	NOLAB	1.00
 <g/>
 /
 </p>
@@ -4465,1108 +4572,1108 @@ Jahr	w3575
 <p id="p88">
 </p>
 <p id="p89">
-in	w3577
-er	w3578
-Laimgrub	w3579
+in	w3577	NOHI	NOLAB	1.00
+er	w3578	NOHI	NOLAB	1.00
+Laimgrub	w3579	NOHI	NOLAB	1.00
 <g/>
 /
-0	w3581
-Johann	w3582
-Georg	w3583
-Auerhammer	w3584
+0	w3581	NOHI	NOLAB	1.00
+Johann	w3582	NOHI	NOLAB	1.00
+Georg	w3583	NOHI	NOLAB	1.00
+Auerhammer	w3584	NOHI	NOLAB	1.00
 <g/>
 /
-Bruder	w3586
+Bruder	w3586	NOHI	NOLAB	1.00
 <g/>
 =
-alt	w3588
-80	w3589
+alt	w3588	NOHI	NOLAB	1.00
+80	w3589	NOHI	NOLAB	1.00
 <g/>
 .
-Jahr	w3591
+Jahr	w3591	NOHI	NOLAB	1.00
 <g/>
 .
-schafts	w3593
+schafts	w3593	NOHI	NOLAB	1.00
 <g/>
 =
-Ansager	w3595
+Ansager	w3595	NOHI	NOLAB	1.00
 <g/>
 /
-in	w3597
-der	w3598
-Wahringergaß	w3599
+in	w3597	NOHI	NOLAB	1.00
+der	w3598	NOHI	NOLAB	1.00
+Wahringergaß	w3599	NOHI	NOLAB	1.00
 <g/>
 /
-Dem	w3601
-Franz	w3602
-Dornacher	w3603
+Dem	w3601	NOHI	NOLAB	1.00
+Franz	w3602	NOHI	NOLAB	1.00
+Dornacher	w3603	NOHI	NOLAB	1.00
 <g/>
 /
-Bildbauer	w3605
+Bildbauer	w3605	NOHI	NOLAB	1.00
 <g/>
 /
-bey	w3607
-St	w3608
+bey	w3607	NOHI	NOLAB	1.00
+St	w3608	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p90">
 </p>
 <p id="p91">
-ft	w3610
+ft	w3610	NOHI	NOLAB	1.00
 <g/>
 /
 </p>
 <p id="p92">
-alt	w3612
-64	w3613
+alt	w3612	NOHI	NOLAB	1.00
+64	w3613	NOHI	NOLAB	1.00
 <g/>
 .
-J	w3615
+J	w3615	NOHI	NOLAB	1.00
 <g/>
 .
-Dem	w3617
-Sebastian	w3618
-David	w3619
+Dem	w3617	NOHI	NOLAB	1.00
+Sebastian	w3618	NOHI	NOLAB	1.00
+David	w3619	NOHI	NOLAB	1.00
 <g/>
 /
-Tagwerker	w3621
+Tagwerker	w3621	NOHI	NOLAB	1.00
 <g/>
 /
-in	w3623
-der	w3624
-Dem	w3625
-Lorenz	w3626
-Schiech	w3627
+in	w3623	NOHI	NOLAB	1.00
+der	w3624	NOHI	NOLAB	1.00
+Dem	w3625	NOHI	NOLAB	1.00
+Lorenz	w3626	NOHI	NOLAB	1.00
+Schiech	w3627	NOHI	NOLAB	1.00
 <g/>
 /
-Kutscher	w3629
+Kutscher	w3629	NOHI	NOLAB	1.00
 <g/>
 /
-in	w3631
-der	w3632
-Roßau	w3633
+in	w3631	NOHI	NOLAB	1.00
+der	w3632	NOHI	NOLAB	1.00
+Roßau	w3633	NOHI	NOLAB	1.00
 <g/>
 /
-sein	w3635
-K	w3636
+sein	w3635	NOHI	NOLAB	1.00
+K	w3636	NOHI	NOLAB	1.00
 <g/>
 .
-Beneditt	w3638
+Beneditt	w3638	NOHI	NOLAB	1.00
 <g/>
 /
-alt	w3640
-5	w3641
+alt	w3640	NOHI	NOLAB	1.00
+5	w3641	NOHI	NOLAB	1.00
 <g/>
 .
-V	w3643
+V	w3643	NOHI	NOLAB	1.00
 <g/>
 .
-J	w3645
+J	w3645	NOHI	NOLAB	1.00
 <g/>
 .
-Roßau	w3647
+Roßau	w3647	NOHI	NOLAB	1.00
 <g/>
 /
-sein	w3649
-T	w3650
+sein	w3649	NOHI	NOLAB	1.00
+T	w3650	NOHI	NOLAB	1.00
 <g/>
 .
-Theresia	w3652
+Theresia	w3652	NOHI	NOLAB	1.00
 <g/>
 /
-alt	w3654
-12	w3655
+alt	w3654	NOHI	NOLAB	1.00
+12	w3655	NOHI	NOLAB	1.00
 <g/>
 .
-Jahr	w3657
+Jahr	w3657	NOHI	NOLAB	1.00
 <g/>
 .
-Dem	w3659
-Matthias	w3660
-Brener	w3661
+Dem	w3659	NOHI	NOLAB	1.00
+Matthias	w3660	NOHI	NOLAB	1.00
+Brener	w3661	NOHI	NOLAB	1.00
 <g/>
 /
-Tagwerker	w3663
+Tagwerker	w3663	NOHI	NOLAB	1.00
 <g/>
 /
-in	w3665
-der	w3666
-Dem	w3667
-Michael	w3668
-Kerschbaumer	w3669
+in	w3665	NOHI	NOLAB	1.00
+der	w3666	NOHI	NOLAB	1.00
+Dem	w3667	NOHI	NOLAB	1.00
+Michael	w3668	NOHI	NOLAB	1.00
+Kerschbaumer	w3669	NOHI	NOLAB	1.00
 <g/>
 /
-Tagwerker	w3671
+Tagwerker	w3671	NOHI	NOLAB	1.00
 <g/>
 /
-Leopoldstadt	w3673
+Leopoldstadt	w3673	NOHI	NOLAB	1.00
 <g/>
 /
-s	w3675
+s	w3675	NOHI	NOLAB	1.00
 <g/>
 .
-K	w3677
+K	w3677	NOHI	NOLAB	1.00
 <g/>
 .
-Christina	w3679
+Christina	w3679	NOHI	NOLAB	1.00
 <g/>
 /
-alt	w3681
-1	w3682
+alt	w3681	NOHI	NOLAB	1.00
+1	w3682	NOHI	NOLAB	1.00
 <g/>
 .
-Jahr	w3684
+Jahr	w3684	NOHI	NOLAB	1.00
 <g/>
 .
-am	w3686
-Neustift	w3687
+am	w3686	NOHI	NOLAB	1.00
+Neustift	w3687	NOHI	NOLAB	1.00
 <g/>
 /
-s	w3689
+s	w3689	NOHI	NOLAB	1.00
 <g/>
 .
-K	w3691
+K	w3691	NOHI	NOLAB	1.00
 <g/>
 .
-Georg	w3693
+Georg	w3693	NOHI	NOLAB	1.00
 <g/>
 /
-alt	w3695
-dritthalb	w3696
-J	w3697
+alt	w3695	NOHI	NOLAB	1.00
+dritthalb	w3696	NOHI	NOLAB	1.00
+J	w3697	NOHI	NOLAB	1.00
 <g/>
 .
-we	w3699
-m	w3700
+we	w3699	NOHI	NOLAB	1.00
+m	w3700	NOHI	NOLAB	1.00
 </p>
 <p id="p93">
 </p>
 <p id="p94">
-7	w3701
-En	w3702
+7	w3701	NOHI	NOLAB	1.00
+En	w3702	NOHI	NOLAB	1.00
 </p>
 <p id="p95">
-bis	w3703
-dahin	w3704
-der	w3705
-jezige	w3706
-Bestand	w3707
+bis	w3703	NOHI	NOLAB	1.00
+dahin	w3704	NOHI	NOLAB	1.00
+der	w3705	NOHI	NOLAB	1.00
+jezige	w3706	NOHI	NOLAB	1.00
+Bestand	w3707	NOHI	NOLAB	1.00
 <g/>
 =
-Contract	w3709
-annoch	w3710
-zu	w3711
-continuiren	w3712
-hat	w3713
+Contract	w3709	NOHI	NOLAB	1.00
+annoch	w3710	NOHI	NOLAB	1.00
+zu	w3711	NOHI	NOLAB	1.00
+continuiren	w3712	NOHI	NOLAB	1.00
+hat	w3713	NOHI	NOLAB	1.00
 <g/>
 /
-vermög	w3715
-der	w3716
-Kaiserlichen	w3717
+vermög	w3715	NOHI	NOLAB	1.00
+der	w3716	NOHI	NOLAB	1.00
+Kaiserlichen	w3717	NOHI	NOLAB	1.00
 <g/>
 =
-General	w3719
+General	w3719	NOHI	NOLAB	1.00
 <g/>
 -
-Appalto	w3721
-Ordnung	w3722
-dem	w3723
-plus	w3724
-offerenti	w3725
-gegen	w3726
-gewisse	w3727
-Summa	w3728
-Gelts	w3729
+Appalto	w3721	NOHI	NOLAB	1.00
+Ordnung	w3722	NOHI	NOLAB	1.00
+dem	w3723	NOHI	NOLAB	1.00
+plus	w3724	NOHI	NOLAB	1.00
+offerenti	w3725	NOHI	NOLAB	1.00
+gegen	w3726	NOHI	NOLAB	1.00
+gewisse	w3727	NOHI	NOLAB	1.00
+Summa	w3728	NOHI	NOLAB	1.00
+Gelts	w3729	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3731
-erforderliche	w3732
-Caut	w3733
+und	w3731	NOHI	NOLAB	1.00
+erforderliche	w3732	NOHI	NOLAB	1.00
+Caut	w3733	NOHI	NOLAB	1.00
 <g/>
 .
-sen	w3735
-hat	w3736
+sen	w3735	NOHI	NOLAB	1.00
+hat	w3736	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3738
-zu	w3739
-solchem	w3740
-End	w3741
+und	w3738	NOHI	NOLAB	1.00
+zu	w3739	NOHI	NOLAB	1.00
+solchem	w3740	NOHI	NOLAB	1.00
+End	w3741	NOHI	NOLAB	1.00
 </p>
 <p id="p96">
-fahrs	w3742
-Nachmittag	w3743
+fahrs	w3742	NOHI	NOLAB	1.00
+Nachmittag	w3743	NOHI	NOLAB	1.00
 <g/>
 /
-um	w3745
+um	w3745	NOHI	NOLAB	1.00
 </p>
 <p id="p97">
-4	w3746
+4	w3746	NOHI	NOLAB	1.00
 <g/>
 .
-Uhr	w3748
+Uhr	w3748	NOHI	NOLAB	1.00
 <g/>
 /
-alhier	w3750
-in	w3751
-Wien	w3752
-bey	w3753
-der	w3754
-Kaiserlichen	w3755
-Ministerial	w3756
-Banco	w3757
-Deputation	w3758
-zu	w3759
-er=scheinen	w3760
+alhier	w3750	NOHI	NOLAB	1.00
+in	w3751	NOHI	NOLAB	1.00
+Wien	w3752	NOHI	NOLAB	1.00
+bey	w3753	NOHI	NOLAB	1.00
+der	w3754	NOHI	NOLAB	1.00
+Kaiserlichen	w3755	NOHI	NOLAB	1.00
+Ministerial	w3756	NOHI	NOLAB	1.00
+Banco	w3757	NOHI	NOLAB	1.00
+Deputation	w3758	NOHI	NOLAB	1.00
+zu	w3759	NOHI	NOLAB	1.00
+er=scheinen	w3760	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 /
-eine	w3763
-Commission	w3764
-ad	w3765
-licitandum	w3766
-angeordnet	w3767
-worden	w3768
+eine	w3763	NOHI	NOLAB	1.00
+Commission	w3764	NOHI	NOLAB	1.00
+ad	w3765	NOHI	NOLAB	1.00
+licitandum	w3766	NOHI	NOLAB	1.00
+angeordnet	w3767	NOHI	NOLAB	1.00
+worden	w3768	NOHI	NOLAB	1.00
 <g/>
 ;
-Als	w3770
-würdet	w3771
-ein	w3772
-solches	w3773
-zu	w3774
-jedermans	w3775
-Wissenschaft	w3776
-durch	w3777
-dieses	w3778
-Edict	w3779
-kund	w3780
-und	w3781
-offenbar	w3782
-gemacht	w3783
+Als	w3770	NOHI	NOLAB	1.00
+würdet	w3771	NOHI	NOLAB	1.00
+ein	w3772	NOHI	NOLAB	1.00
+solches	w3773	NOHI	NOLAB	1.00
+zu	w3774	NOHI	NOLAB	1.00
+jedermans	w3775	NOHI	NOLAB	1.00
+Wissenschaft	w3776	NOHI	NOLAB	1.00
+durch	w3777	NOHI	NOLAB	1.00
+dieses	w3778	NOHI	NOLAB	1.00
+Edict	w3779	NOHI	NOLAB	1.00
+kund	w3780	NOHI	NOLAB	1.00
+und	w3781	NOHI	NOLAB	1.00
+offenbar	w3782	NOHI	NOLAB	1.00
+gemacht	w3783	NOHI	NOLAB	1.00
 <g/>
 /
-damit	w3785
+damit	w3785	NOHI	NOLAB	1.00
 <g/>
 /
-so	w3787
-ein	w3788
+so	w3787	NOHI	NOLAB	1.00
+ein	w3788	NOHI	NOLAB	1.00
 <g/>
 =
-oder	w3790
-anderer	w3791
-obbesagte	w3792
-Taback	w3793
+oder	w3790	NOHI	NOLAB	1.00
+anderer	w3791	NOHI	NOLAB	1.00
+obbesagte	w3792	NOHI	NOLAB	1.00
+Taback	w3793	NOHI	NOLAB	1.00
 <g/>
 =
-Einnahm	w3795
-auf	w3796
-obige	w3797
-Zeit	w3798
-in	w3799
-Bestand	w3800
-zu=nehmen	w3801
+Einnahm	w3795	NOHI	NOLAB	1.00
+auf	w3796	NOHI	NOLAB	1.00
+obige	w3797	NOHI	NOLAB	1.00
+Zeit	w3798	NOHI	NOLAB	1.00
+in	w3799	NOHI	NOLAB	1.00
+Bestand	w3800	NOHI	NOLAB	1.00
+zu=nehmen	w3801	NOHI	NOLAB	1.00
 <g/>
 =
-gesonnen	w3803
-wäre	w3804
+gesonnen	w3803	NOHI	NOLAB	1.00
+wäre	w3804	NOHI	NOLAB	1.00
 <g/>
 /
-ein	w3806
-solcher	w3807
-auf	w3808
-vorbenenten	w3809
-Tag	w3810
-und	w3811
-Stund	w3812
-entweder	w3813
-in	w3814
-Persona	w3815
+ein	w3806	NOHI	NOLAB	1.00
+solcher	w3807	NOHI	NOLAB	1.00
+auf	w3808	NOHI	NOLAB	1.00
+vorbenenten	w3809	NOHI	NOLAB	1.00
+Tag	w3810	NOHI	NOLAB	1.00
+und	w3811	NOHI	NOLAB	1.00
+Stund	w3812	NOHI	NOLAB	1.00
+entweder	w3813	NOHI	NOLAB	1.00
+in	w3814	NOHI	NOLAB	1.00
+Persona	w3815	NOHI	NOLAB	1.00
 <g/>
 ,
-oder	w3817
-per	w3818
-Mandatarium	w3819
-ad	w3820
-tractandum	w3821
+oder	w3817	NOHI	NOLAB	1.00
+per	w3818	NOHI	NOLAB	1.00
+Mandatarium	w3819	NOHI	NOLAB	1.00
+ad	w3820	NOHI	NOLAB	1.00
+tractandum	w3821	NOHI	NOLAB	1.00
 <g/>
 &
-concludendum	w3823
-alda	w3824
-zuerscheinen	w3825
+concludendum	w3823	NOHI	NOLAB	1.00
+alda	w3824	NOHI	NOLAB	1.00
+zuerscheinen	w3825	NOHI	NOLAB	1.00
 <g/>
 /
-und	w3827
-hren	w3828
-nzumelden	w3829
-w	w3830
+und	w3827	NOHI	NOLAB	1.00
+hren	w3828	NOHI	NOLAB	1.00
+nzumelden	w3829	NOHI	NOLAB	1.00
+w	w3830	NOHI	NOLAB	1.00
 </p>
 <p id="p98">
-CORTINUATIO	w3831
-DIARII	w3832
-Aus	w3833
-dem	w3834
-Kaiserlichen	w3835
-Feld	w3836
+CORTINUATIO	w3831	NOHI	NOLAB	1.00
+DIARII	w3832	NOHI	NOLAB	1.00
+Aus	w3833	NOHI	NOLAB	1.00
+dem	w3834	NOHI	NOLAB	1.00
+Kaiserlichen	w3835	NOHI	NOLAB	1.00
+Feld	w3836	NOHI	NOLAB	1.00
 <g/>
 =
-Lager	w3838
-bey	w3839
-Messina	w3840
+Lager	w3838	NOHI	NOLAB	1.00
+bey	w3839	NOHI	NOLAB	1.00
+Messina	w3840	NOHI	NOLAB	1.00
 <g/>
 ,
-im	w3842
-Königreich	w3843
+im	w3842	NOHI	NOLAB	1.00
+Königreich	w3843	NOHI	NOLAB	1.00
 </p>
 <p id="p99">
-N	w3844
-En	w3845
-13	w3846
+N	w3844	NOHI	NOLAB	1.00
+En	w3845	NOHI	NOLAB	1.00
+13	w3846	NOHI	NOLAB	1.00
 <g/>
 .
-und	w3848
-14	w3849
+und	w3848	NOHI	NOLAB	1.00
+14	w3849	NOHI	NOLAB	1.00
 <g/>
 .
-December	w3851
+December	w3851	NOHI	NOLAB	1.00
 <g/>
 .
-Jn	w3853
-der	w3854
-jüngst	w3855
-erinnerten	w3856
-Absicht	w3857
+Jn	w3853	NOHI	NOLAB	1.00
+der	w3854	NOHI	NOLAB	1.00
+jüngst	w3855	NOHI	NOLAB	1.00
+erinnerten	w3856	NOHI	NOLAB	1.00
+Absicht	w3857	NOHI	NOLAB	1.00
 <g/>
 /
-S	w3859
-daß	w3860
-man	w3861
-auch	w3862
-ehestens	w3863
-die	w3864
-übrige	w3865
-Theile	w3866
-dieser	w3867
-dahiesig	w3868
+S	w3859	NOHI	NOLAB	1.00
+daß	w3860	NOHI	NOLAB	1.00
+man	w3861	NOHI	NOLAB	1.00
+auch	w3862	NOHI	NOLAB	1.00
+ehestens	w3863	NOHI	NOLAB	1.00
+die	w3864	NOHI	NOLAB	1.00
+übrige	w3865	NOHI	NOLAB	1.00
+Theile	w3866	NOHI	NOLAB	1.00
+dieser	w3867	NOHI	NOLAB	1.00
+dahiesig	w3868	NOHI	NOLAB	1.00
 <g/>
 =
-Kaiserlichen	w3870
-Ar=mee	w3871
+Kaiserlichen	w3870	NOHI	NOLAB	1.00
+Ar=mee	w3871	NOHI	NOLAB	1.00
 <g/>
 =
-zu	w3873
-den	w3874
-abzielenden	w3875
-Unternehmungen	w3876
+zu	w3873	NOHI	NOLAB	1.00
+den	w3874	NOHI	NOLAB	1.00
+abzielenden	w3875	NOHI	NOLAB	1.00
+Unternehmungen	w3876	NOHI	NOLAB	1.00
 </p>
 <p id="p100">
 </p>
 <p id="p101">
-ist	w3877
-der	w3878
-Tiegische	w3879
-Obrist	w3880
+ist	w3877	NOHI	NOLAB	1.00
+der	w3878	NOHI	NOLAB	1.00
+Tiegische	w3879	NOHI	NOLAB	1.00
+Obrist	w3880	NOHI	NOLAB	1.00
 <g/>
 =
-Lieutenant	w3882
+Lieutenant	w3882	NOHI	NOLAB	1.00
 <g/>
 /
-Herr	w3884
-Baron	w3885
-von	w3886
-Stein	w3887
+Herr	w3884	NOHI	NOLAB	1.00
+Baron	w3885	NOHI	NOLAB	1.00
+von	w3886	NOHI	NOLAB	1.00
+Stein	w3887	NOHI	NOLAB	1.00
 <g/>
 /
-mit	w3889
-aller	w3890
-dessen	w3891
-unter=stehenden	w3892
+mit	w3889	NOHI	NOLAB	1.00
+aller	w3890	NOHI	NOLAB	1.00
+dessen	w3891	NOHI	NOLAB	1.00
+unter=stehenden	w3892	NOHI	NOLAB	1.00
 <g/>
 =
-vorwärts	w3894
-Tarvormina	w3895
-commandirt	w3896
+vorwärts	w3894	NOHI	NOLAB	1.00
+Tarvormina	w3895	NOHI	NOLAB	1.00
+commandirt	w3896	NOHI	NOLAB	1.00
 <g/>
 =
-befindlich	w3898
+befindlich	w3898	NOHI	NOLAB	1.00
 <g/>
 =
-Teutschen	w3900
-Reuterey	w3901
-anhero	w3902
-zuruck	w3903
-beordret	w3904
+Teutschen	w3900	NOHI	NOLAB	1.00
+Reuterey	w3901	NOHI	NOLAB	1.00
+anhero	w3902	NOHI	NOLAB	1.00
+zuruck	w3903	NOHI	NOLAB	1.00
+beordret	w3904	NOHI	NOLAB	1.00
 <g/>
 :
-und	w3906
-nicht	w3907
-weniger	w3908
-ebenfals	w3909
-die	w3910
-mehreste	w3911
-Reuterey	w3912
-zu	w3913
-gleichmässi=gem	w3914
+und	w3906	NOHI	NOLAB	1.00
+nicht	w3907	NOHI	NOLAB	1.00
+weniger	w3908	NOHI	NOLAB	1.00
+ebenfals	w3909	NOHI	NOLAB	1.00
+die	w3910	NOHI	NOLAB	1.00
+mehreste	w3911	NOHI	NOLAB	1.00
+Reuterey	w3912	NOHI	NOLAB	1.00
+zu	w3913	NOHI	NOLAB	1.00
+gleichmässi=gem	w3914	NOHI	NOLAB	1.00
 <g/>
 =
-Ende	w3916
-von	w3917
-der	w3918
-Ebene	w3919
-von	w3920
-Melazzo	w3921
-zuruck	w3922
-beruffen	w3923
+Ende	w3916	NOHI	NOLAB	1.00
+von	w3917	NOHI	NOLAB	1.00
+der	w3918	NOHI	NOLAB	1.00
+Ebene	w3919	NOHI	NOLAB	1.00
+von	w3920	NOHI	NOLAB	1.00
+Melazzo	w3921	NOHI	NOLAB	1.00
+zuruck	w3922	NOHI	NOLAB	1.00
+beruffen	w3923	NOHI	NOLAB	1.00
 <g/>
 :
-ferner	w3925
-auf	w3926
-den	w3927
-mehresten	w3928
-in	w3929
-diesem	w3930
-Haven	w3931
-zu	w3932
-Messina	w3933
-von	w3934
-allerhand	w3935
-Nationen	w3936
-geankerten	w3937
-Schiffen	w3938
+ferner	w3925	NOHI	NOLAB	1.00
+auf	w3926	NOHI	NOLAB	1.00
+den	w3927	NOHI	NOLAB	1.00
+mehresten	w3928	NOHI	NOLAB	1.00
+in	w3929	NOHI	NOLAB	1.00
+diesem	w3930	NOHI	NOLAB	1.00
+Haven	w3931	NOHI	NOLAB	1.00
+zu	w3932	NOHI	NOLAB	1.00
+Messina	w3933	NOHI	NOLAB	1.00
+von	w3934	NOHI	NOLAB	1.00
+allerhand	w3935	NOHI	NOLAB	1.00
+Nationen	w3936	NOHI	NOLAB	1.00
+geankerten	w3937	NOHI	NOLAB	1.00
+Schiffen	w3938	NOHI	NOLAB	1.00
 <g/>
 /
-oder	w3940
-Fahrzeugen	w3941
-Stallungen	w3942
-zu	w3943
-Einnehmung	w3944
-einer	w3945
-Anzahl	w3946
-gedachter	w3947
-Reuterey	w3948
-zuerbauen	w3949
+oder	w3940	NOHI	NOLAB	1.00
+Fahrzeugen	w3941	NOHI	NOLAB	1.00
+Stallungen	w3942	NOHI	NOLAB	1.00
+zu	w3943	NOHI	NOLAB	1.00
+Einnehmung	w3944	NOHI	NOLAB	1.00
+einer	w3945	NOHI	NOLAB	1.00
+Anzahl	w3946	NOHI	NOLAB	1.00
+gedachter	w3947	NOHI	NOLAB	1.00
+Reuterey	w3948	NOHI	NOLAB	1.00
+zuerbauen	w3949	NOHI	NOLAB	1.00
 <g/>
 /
-der	w3951
-gemessen	w3952
+der	w3951	NOHI	NOLAB	1.00
+gemessen	w3952	NOHI	NOLAB	1.00
 <g/>
 =
-und	w3954
-ernstliche	w3955
-3	w3956
+und	w3954	NOHI	NOLAB	1.00
+ernstliche	w3955	NOHI	NOLAB	1.00
+3	w3956	NOHI	NOLAB	1.00
 </p>
 <p id="p102">
-Den	w3957
-15	w3958
+Den	w3957	NOHI	NOLAB	1.00
+15	w3958	NOHI	NOLAB	1.00
 <g/>
 .
-Dito	w3960
+Dito	w3960	NOHI	NOLAB	1.00
 <g/>
 .
-Das	w3962
-gesamt	w3963
+Das	w3962	NOHI	NOLAB	1.00
+gesamt	w3963	NOHI	NOLAB	1.00
 <g/>
 =
-Löblich	w3965
+Löblich	w3965	NOHI	NOLAB	1.00
 <g/>
 =
-Portugesische	w3967
-Cuirassier	w3968
+Portugesische	w3967	NOHI	NOLAB	1.00
+Cuirassier	w3968	NOHI	NOLAB	1.00
 <g/>
 =
-Regiment	w3970
+Regiment	w3970	NOHI	NOLAB	1.00
 <g/>
 /
-nebst	w3972
-den	w3973
-Löblich	w3974
+nebst	w3972	NOHI	NOLAB	1.00
+den	w3973	NOHI	NOLAB	1.00
+Löblich	w3974	NOHI	NOLAB	1.00
 <g/>
 =
-Guido	w3976
+Guido	w3976	NOHI	NOLAB	1.00
 <g/>
 =
-Stahrembergischen	w3978
-Bataillonen	w3979
+Stahrembergischen	w3978	NOHI	NOLAB	1.00
+Bataillonen	w3979	NOHI	NOLAB	1.00
 <g/>
 /
-dan	w3981
-den	w3982
-wieder	w3983
-gesund	w3984
-wordenen	w3985
+dan	w3981	NOHI	NOLAB	1.00
+den	w3982	NOHI	NOLAB	1.00
+wieder	w3983	NOHI	NOLAB	1.00
+gesund	w3984	NOHI	NOLAB	1.00
+wordenen	w3985	NOHI	NOLAB	1.00
 <g/>
 /
-item	w3987
-derjenigen	w3988
-Mannschaft	w3989
+item	w3987	NOHI	NOLAB	1.00
+derjenigen	w3988	NOHI	NOLAB	1.00
+Mannschaft	w3989	NOHI	NOLAB	1.00
 <g/>
 /
-welche	w3991
-unlängst	w3992
-so	w3993
-wohl	w3994
-zu	w3995
-Fuß	w3996
+welche	w3991	NOHI	NOLAB	1.00
+unlängst	w3992	NOHI	NOLAB	1.00
+so	w3993	NOHI	NOLAB	1.00
+wohl	w3994	NOHI	NOLAB	1.00
+zu	w3995	NOHI	NOLAB	1.00
+Fuß	w3996	NOHI	NOLAB	1.00
 <g/>
 /
-als	w3998
-Pferd	w3999
-aus	w4000
-Teutschland	w4001
-anfänglich	w4002
-nacher	w4003
-Neapel	w4004
+als	w3998	NOHI	NOLAB	1.00
+Pferd	w3999	NOHI	NOLAB	1.00
+aus	w4000	NOHI	NOLAB	1.00
+Teutschland	w4001	NOHI	NOLAB	1.00
+anfänglich	w4002	NOHI	NOLAB	1.00
+nacher	w4003	NOHI	NOLAB	1.00
+Neapel	w4004	NOHI	NOLAB	1.00
 <g/>
 /
-nunmehr	w4006
-aber	w4007
-von	w4008
-dannen	w4009
-hierhero	w4010
-beordret	w4011
-worden	w4012
+nunmehr	w4006	NOHI	NOLAB	1.00
+aber	w4007	NOHI	NOLAB	1.00
+von	w4008	NOHI	NOLAB	1.00
+dannen	w4009	NOHI	NOLAB	1.00
+hierhero	w4010	NOHI	NOLAB	1.00
+beordret	w4011	NOHI	NOLAB	1.00
+worden	w4012	NOHI	NOLAB	1.00
 <g/>
 /
-empfienge	w4014
-heut	w4015
-auch	w4016
-die	w4017
-Verordnung	w4018
+empfienge	w4014	NOHI	NOLAB	1.00
+heut	w4015	NOHI	NOLAB	1.00
+auch	w4016	NOHI	NOLAB	1.00
+die	w4017	NOHI	NOLAB	1.00
+Verordnung	w4018	NOHI	NOLAB	1.00
 <g/>
 /
-sich	w4020
-ungesaumt	w4021
-zu	w4022
-der	w4023
-Einschiffung	w4024
-nach	w4025
-dem	w4026
-Haven	w4027
-zuverfügen	w4028
+sich	w4020	NOHI	NOLAB	1.00
+ungesaumt	w4021	NOHI	NOLAB	1.00
+zu	w4022	NOHI	NOLAB	1.00
+der	w4023	NOHI	NOLAB	1.00
+Einschiffung	w4024	NOHI	NOLAB	1.00
+nach	w4025	NOHI	NOLAB	1.00
+dem	w4026	NOHI	NOLAB	1.00
+Haven	w4027	NOHI	NOLAB	1.00
+zuverfügen	w4028	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p103">
-Den	w4030
-16	w4031
+Den	w4030	NOHI	NOLAB	1.00
+16	w4031	NOHI	NOLAB	1.00
 <g/>
 .
-Dito	w4033
+Dito	w4033	NOHI	NOLAB	1.00
 <g/>
 .
-Man	w4035
-stehet	w4036
-mit	w4037
-allem	w4038
-Eifer	w4039
-in	w4040
-der	w4041
-Veranstaltung	w4042
-begriffen	w4043
+Man	w4035	NOHI	NOLAB	1.00
+stehet	w4036	NOHI	NOLAB	1.00
+mit	w4037	NOHI	NOLAB	1.00
+allem	w4038	NOHI	NOLAB	1.00
+Eifer	w4039	NOHI	NOLAB	1.00
+in	w4040	NOHI	NOLAB	1.00
+der	w4041	NOHI	NOLAB	1.00
+Veranstaltung	w4042	NOHI	NOLAB	1.00
+begriffen	w4043	NOHI	NOLAB	1.00
 <g/>
 /
-Heute	w4045
-die	w4046
-Einschiffung	w4047
-obbesagtes	w4048
-Fuß	w4049
+Heute	w4045	NOHI	NOLAB	1.00
+die	w4046	NOHI	NOLAB	1.00
+Einschiffung	w4047	NOHI	NOLAB	1.00
+obbesagtes	w4048	NOHI	NOLAB	1.00
+Fuß	w4049	NOHI	NOLAB	1.00
 <g/>
 =
-Volks	w4051
-und	w4052
-Reuterey	w4053
+Volks	w4051	NOHI	NOLAB	1.00
+und	w4052	NOHI	NOLAB	1.00
+Reuterey	w4053	NOHI	NOLAB	1.00
 <g/>
 /
-welch	w4055
+welch	w4055	NOHI	NOLAB	1.00
 <g/>
 =
-leztere	w4057
-beyläu=fig	w4058
+leztere	w4057	NOHI	NOLAB	1.00
+beyläu=fig	w4058	NOHI	NOLAB	1.00
 <g/>
 =
-gegen	w4060
-1200	w4061
+gegen	w4060	NOHI	NOLAB	1.00
+1200	w4061	NOHI	NOLAB	1.00
 <g/>
 .
-wohlberittene	w4063
-Pferde	w4064
-sich	w4065
-erstrecken	w4066
-dörffe	w4067
+wohlberittene	w4063	NOHI	NOLAB	1.00
+Pferde	w4064	NOHI	NOLAB	1.00
+sich	w4065	NOHI	NOLAB	1.00
+erstrecken	w4066	NOHI	NOLAB	1.00
+dörffe	w4067	NOHI	NOLAB	1.00
 <g/>
 /
-anzufangen	w4069
+anzufangen	w4069	NOHI	NOLAB	1.00
 <g/>
 /
-und	w4071
-wird	w4072
-man	w4073
-solche	w4074
-desto	w4075
-ehender	w4076
-zubeschleunigen	w4077
-aus	w4078
-ursachen	w4079
-trachten	w4080
+und	w4071	NOHI	NOLAB	1.00
+wird	w4072	NOHI	NOLAB	1.00
+man	w4073	NOHI	NOLAB	1.00
+solche	w4074	NOHI	NOLAB	1.00
+desto	w4075	NOHI	NOLAB	1.00
+ehender	w4076	NOHI	NOLAB	1.00
+zubeschleunigen	w4077	NOHI	NOLAB	1.00
+aus	w4078	NOHI	NOLAB	1.00
+ursachen	w4079	NOHI	NOLAB	1.00
+trachten	w4080	NOHI	NOLAB	1.00
 <g/>
 ;
-Jndeme	w4082
-die	w4083
-ver=traute	w4084
+Jndeme	w4082	NOHI	NOLAB	1.00
+die	w4083	NOHI	NOLAB	1.00
+ver=traute	w4084	NOHI	NOLAB	1.00
 <g/>
 =
-Kundschaften	w4086
-über	w4087
-Land	w4088
-versichern	w4089
-wollen	w4090
+Kundschaften	w4086	NOHI	NOLAB	1.00
+über	w4087	NOHI	NOLAB	1.00
+Land	w4088	NOHI	NOLAB	1.00
+versichern	w4089	NOHI	NOLAB	1.00
+wollen	w4090	NOHI	NOLAB	1.00
 <g/>
 /
-wie	w4092
-daß	w4093
-die	w4094
-Unternehmung	w4095
-des	w4096
-Zumjungischen	w4097
-Corpo	w4098
-gar	w4099
-wohl	w4100
-von	w4101
-statten	w4102
-gehe	w4103
+wie	w4092	NOHI	NOLAB	1.00
+daß	w4093	NOHI	NOLAB	1.00
+die	w4094	NOHI	NOLAB	1.00
+Unternehmung	w4095	NOHI	NOLAB	1.00
+des	w4096	NOHI	NOLAB	1.00
+Zumjungischen	w4097	NOHI	NOLAB	1.00
+Corpo	w4098	NOHI	NOLAB	1.00
+gar	w4099	NOHI	NOLAB	1.00
+wohl	w4100	NOHI	NOLAB	1.00
+von	w4101	NOHI	NOLAB	1.00
+statten	w4102	NOHI	NOLAB	1.00
+gehe	w4103	NOHI	NOLAB	1.00
 <g/>
 /
-und	w4105
-dasselbe	w4106
-sich	w4107
-beyder	w4108
-wichti=gen	w4109
+und	w4105	NOHI	NOLAB	1.00
+dasselbe	w4106	NOHI	NOLAB	1.00
+sich	w4107	NOHI	NOLAB	1.00
+beyder	w4108	NOHI	NOLAB	1.00
+wichti=gen	w4109	NOHI	NOLAB	1.00
 <g/>
 =
-Städten	w4111
+Städten	w4111	NOHI	NOLAB	1.00
 <g/>
 /
-Marsala	w4113
-und	w4114
-Mazara	w4115
+Marsala	w4113	NOHI	NOLAB	1.00
+und	w4114	NOHI	NOLAB	1.00
+Mazara	w4115	NOHI	NOLAB	1.00
 <g/>
 ,
-bemaistert	w4117
+bemaistert	w4117	NOHI	NOLAB	1.00
 <g/>
 :
-der	w4119
-Feind	w4120
-aber	w4121
-gegen	w4122
-solches	w4123
-sei=nen	w4124
+der	w4119	NOHI	NOLAB	1.00
+Feind	w4120	NOHI	NOLAB	1.00
+aber	w4121	NOHI	NOLAB	1.00
+gegen	w4122	NOHI	NOLAB	1.00
+solches	w4123	NOHI	NOLAB	1.00
+sei=nen	w4124	NOHI	NOLAB	1.00
 <g/>
 =
-Marsch	w4126
-nicht	w4127
-weiter	w4128
+Marsch	w4126	NOHI	NOLAB	1.00
+nicht	w4127	NOHI	NOLAB	1.00
+weiter	w4128	NOHI	NOLAB	1.00
 <g/>
 /
-als	w4130
-drey	w4131
-Stund	w4132
-von	w4133
-Palermo	w4134
+als	w4130	NOHI	NOLAB	1.00
+drey	w4131	NOHI	NOLAB	1.00
+Stund	w4132	NOHI	NOLAB	1.00
+von	w4133	NOHI	NOLAB	1.00
+Palermo	w4134	NOHI	NOLAB	1.00
 <g/>
 ,
-dazumal	w4136
-verfolget	w4137
+dazumal	w4136	NOHI	NOLAB	1.00
+verfolget	w4137	NOHI	NOLAB	1.00
 <g/>
 :
-mit=hin	w4139
+mit=hin	w4139	NOHI	NOLAB	1.00
 <g/>
 =
-um	w4141
-so	w4142
-weniger	w4143
-eiwas	w4144
-wider	w4145
-ernentes	w4146
-Zumjungische	w4147
-Corpo	w4148
-auszuführen	w4149
-im	w4150
-Sinn	w4151
-habe	w4152
+um	w4141	NOHI	NOLAB	1.00
+so	w4142	NOHI	NOLAB	1.00
+weniger	w4143	NOHI	NOLAB	1.00
+eiwas	w4144	NOHI	NOLAB	1.00
+wider	w4145	NOHI	NOLAB	1.00
+ernentes	w4146	NOHI	NOLAB	1.00
+Zumjungische	w4147	NOHI	NOLAB	1.00
+Corpo	w4148	NOHI	NOLAB	1.00
+auszuführen	w4149	NOHI	NOLAB	1.00
+im	w4150	NOHI	NOLAB	1.00
+Sinn	w4151	NOHI	NOLAB	1.00
+habe	w4152	NOHI	NOLAB	1.00
 <g/>
 ;
-Gestalten	w4154
-sich	w4155
-solches	w4156
-in	w4157
-einem	w4158
-ausersehen	w4159
+Gestalten	w4154	NOHI	NOLAB	1.00
+sich	w4155	NOHI	NOLAB	1.00
+solches	w4156	NOHI	NOLAB	1.00
+in	w4157	NOHI	NOLAB	1.00
+einem	w4158	NOHI	NOLAB	1.00
+ausersehen	w4159	NOHI	NOLAB	1.00
 <g/>
 =
-anständigen	w4161
-Lager	w4162
-zuver=schanzen	w4163
+anständigen	w4161	NOHI	NOLAB	1.00
+Lager	w4162	NOHI	NOLAB	1.00
+zuver=schanzen	w4163	NOHI	NOLAB	1.00
 <g/>
 =
-und	w4165
-zu	w4166
-verarbeiten	w4167
-suchen	w4168
-solte	w4169
+und	w4165	NOHI	NOLAB	1.00
+zu	w4166	NOHI	NOLAB	1.00
+verarbeiten	w4167	NOHI	NOLAB	1.00
+suchen	w4168	NOHI	NOLAB	1.00
+solte	w4169	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p104">
-Den	w4171
-17	w4172
+Den	w4171	NOHI	NOLAB	1.00
+17	w4172	NOHI	NOLAB	1.00
 <g/>
 .
-Dito	w4174
+Dito	w4174	NOHI	NOLAB	1.00
 <g/>
 .
-Die	w4176
-Einschiffung	w4177
-unserer	w4178
-Truppen	w4179
-gehet	w4180
-zimlich	w4181
-wohl	w4182
-von	w4183
-statten	w4184
+Die	w4176	NOHI	NOLAB	1.00
+Einschiffung	w4177	NOHI	NOLAB	1.00
+unserer	w4178	NOHI	NOLAB	1.00
+Truppen	w4179	NOHI	NOLAB	1.00
+gehet	w4180	NOHI	NOLAB	1.00
+zimlich	w4181	NOHI	NOLAB	1.00
+wohl	w4182	NOHI	NOLAB	1.00
+von	w4183	NOHI	NOLAB	1.00
+statten	w4184	NOHI	NOLAB	1.00
 <g/>
 /
-also	w4186
-zwar	w4187
+also	w4186	NOHI	NOLAB	1.00
+zwar	w4187	NOHI	NOLAB	1.00
 <g/>
 /
-daß	w4189
-man	w4190
-Heute	w4191
-damit	w4192
-noch	w4193
-volständig	w4194
-fertig	w4195
-zu	w4196
-werden	w4197
-ver=hoffe	w4198
+daß	w4189	NOHI	NOLAB	1.00
+man	w4190	NOHI	NOLAB	1.00
+Heute	w4191	NOHI	NOLAB	1.00
+damit	w4192	NOHI	NOLAB	1.00
+noch	w4193	NOHI	NOLAB	1.00
+volständig	w4194	NOHI	NOLAB	1.00
+fertig	w4195	NOHI	NOLAB	1.00
+zu	w4196	NOHI	NOLAB	1.00
+werden	w4197	NOHI	NOLAB	1.00
+ver=hoffe	w4198	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 ;
-Der	w4201
-hiesiger	w4202
-Enden	w4203
-zurukverbliebene	w4204
-Feind	w4205
-machet	w4206
-mit	w4207
-Mannschaft	w4208
-so	w4209
-wohl	w4210
-zu	w4211
-Fuß	w4212
+Der	w4201	NOHI	NOLAB	1.00
+hiesiger	w4202	NOHI	NOLAB	1.00
+Enden	w4203	NOHI	NOLAB	1.00
+zurukverbliebene	w4204	NOHI	NOLAB	1.00
+Feind	w4205	NOHI	NOLAB	1.00
+machet	w4206	NOHI	NOLAB	1.00
+mit	w4207	NOHI	NOLAB	1.00
+Mannschaft	w4208	NOHI	NOLAB	1.00
+so	w4209	NOHI	NOLAB	1.00
+wohl	w4210	NOHI	NOLAB	1.00
+zu	w4211	NOHI	NOLAB	1.00
+Fuß	w4212	NOHI	NOLAB	1.00
 <g/>
 /
-als	w4214
-zu	w4215
-Pferd	w4216
-allerhand	w4217
-Bewegungen	w4218
+als	w4214	NOHI	NOLAB	1.00
+zu	w4215	NOHI	NOLAB	1.00
+Pferd	w4216	NOHI	NOLAB	1.00
+allerhand	w4217	NOHI	NOLAB	1.00
+Bewegungen	w4218	NOHI	NOLAB	1.00
 <g/>
 /
-dagegen	w4220
-man	w4221
-aber	w4222
-unser	w4223
-Seits	w4224
-schon	w4225
-all	w4226
+dagegen	w4220	NOHI	NOLAB	1.00
+man	w4221	NOHI	NOLAB	1.00
+aber	w4222	NOHI	NOLAB	1.00
+unser	w4223	NOHI	NOLAB	1.00
+Seits	w4224	NOHI	NOLAB	1.00
+schon	w4225	NOHI	NOLAB	1.00
+all	w4226	NOHI	NOLAB	1.00
 <g/>
 =
-behörige	w4228
-Vorsichtigkeit	w4229
-auszustellen	w4230
-unerman	w4231
+behörige	w4228	NOHI	NOLAB	1.00
+Vorsichtigkeit	w4229	NOHI	NOLAB	1.00
+auszustellen	w4230	NOHI	NOLAB	1.00
+unerman	w4231	NOHI	NOLAB	1.00
 </p>
 <p id="p105">
-Den	w4232
-18	w4233
+Den	w4232	NOHI	NOLAB	1.00
+18	w4233	NOHI	NOLAB	1.00
 <g/>
 .
-Dito	w4235
+Dito	w4235	NOHI	NOLAB	1.00
 <g/>
 .
-Diesen	w4237
-Morgen	w4238
-gieng	w4239
-unser	w4240
-neue	w4241
-Convoy	w4242
-unter	w4243
-Segel	w4244
+Diesen	w4237	NOHI	NOLAB	1.00
+Morgen	w4238	NOHI	NOLAB	1.00
+gieng	w4239	NOHI	NOLAB	1.00
+unser	w4240	NOHI	NOLAB	1.00
+neue	w4241	NOHI	NOLAB	1.00
+Convoy	w4242	NOHI	NOLAB	1.00
+unter	w4243	NOHI	NOLAB	1.00
+Segel	w4244	NOHI	NOLAB	1.00
 <g/>
 /
-dero	w4246
-Ankunft	w4247
+dero	w4246	NOHI	NOLAB	1.00
+Ankunft	w4247	NOHI	NOLAB	1.00
 <g/>
 /
-und	w4249
-Vereinigung	w4250
-zu	w4251
-Trapani	w4252
-mit	w4253
-dem	w4254
-Zumjungischen	w4255
-Corpo	w4256
-bey	w4257
-fort=währendem	w4258
+und	w4249	NOHI	NOLAB	1.00
+Vereinigung	w4250	NOHI	NOLAB	1.00
+zu	w4251	NOHI	NOLAB	1.00
+Trapani	w4252	NOHI	NOLAB	1.00
+mit	w4253	NOHI	NOLAB	1.00
+dem	w4254	NOHI	NOLAB	1.00
+Zumjungischen	w4255	NOHI	NOLAB	1.00
+Corpo	w4256	NOHI	NOLAB	1.00
+bey	w4257	NOHI	NOLAB	1.00
+fort=währendem	w4258	NOHI	NOLAB	1.00
 <g/>
 =
-Wind	w4260
-man	w4261
-sich	w4262
-wohl	w4263
-getrösten	w4264
+Wind	w4260	NOHI	NOLAB	1.00
+man	w4261	NOHI	NOLAB	1.00
+sich	w4262	NOHI	NOLAB	1.00
+wohl	w4263	NOHI	NOLAB	1.00
+getrösten	w4264	NOHI	NOLAB	1.00
 <g/>
 ;
 </p>
 <p id="p106">
-Sonsten	w4266
-erhielte	w4267
-man	w4268
-in	w4269
-verlit	w4270
-ener	w4271
-Nacht	w4272
-von	w4273
-dem	w4274
-Herrn	w4275
-General	w4276
+Sonsten	w4266	NOHI	NOLAB	1.00
+erhielte	w4267	NOHI	NOLAB	1.00
+man	w4268	NOHI	NOLAB	1.00
+in	w4269	NOHI	NOLAB	1.00
+verlit	w4270	NOHI	NOLAB	1.00
+ener	w4271	NOHI	NOLAB	1.00
+Nacht	w4272	NOHI	NOLAB	1.00
+von	w4273	NOHI	NOLAB	1.00
+dem	w4274	NOHI	NOLAB	1.00
+Herrn	w4275	NOHI	NOLAB	1.00
+General	w4276	NOHI	NOLAB	1.00
 <g/>
 =
-Feld	w4278
+Feld	w4278	NOHI	NOLAB	1.00
 <g/>
 =
-Zeug=maister	w4280
-<g/>
-=
-<g/>
-/
-Freyherrn	w4283
-von	w4284
-<g/>
-=
-und	w4286
-zum	w4287
-Jungen	w4288
-<g/>
-/
-die	w4290
-Bestätigung	w4291
-von	w4292
-allem	w4293
-deme	w4294
-<g/>
-/
-was	w4296
-hieroben	w4297
-weitläufig	w4298
-gemeldet	w4299
-worden	w4300
-<g/>
-/
-mit	w4302
-dem	w4303
-Beysaz	w4304
-<g/>
-/
-daß	w4306
-unser	w4307
-aldortige	w4308
-Un=ternehmungen	w4309
+Zeug=maister	w4280	NOHI	NOLAB	1.00
 <g/>
 =
 <g/>
 /
-gleichwie	w4312
-es	w4313
-auch	w4314
-sonsten	w4315
-allenthalben	w4316
-her	w4317
-verlautet	w4318
+Freyherrn	w4283	NOHI	NOLAB	1.00
+von	w4284	NOHI	NOLAB	1.00
+<g/>
+=
+und	w4286	NOHI	NOLAB	1.00
+zum	w4287	NOHI	NOLAB	1.00
+Jungen	w4288	NOHI	NOLAB	1.00
 <g/>
 /
-den	w4320
-Feind	w4321
-immer	w4322
-in	w4323
-grössere	w4324
-Sorge	w4325
-setze	w4326
+die	w4290	NOHI	NOLAB	1.00
+Bestätigung	w4291	NOHI	NOLAB	1.00
+von	w4292	NOHI	NOLAB	1.00
+allem	w4293	NOHI	NOLAB	1.00
+deme	w4294	NOHI	NOLAB	1.00
+<g/>
+/
+was	w4296	NOHI	NOLAB	1.00
+hieroben	w4297	NOHI	NOLAB	1.00
+weitläufig	w4298	NOHI	NOLAB	1.00
+gemeldet	w4299	NOHI	NOLAB	1.00
+worden	w4300	NOHI	NOLAB	1.00
+<g/>
+/
+mit	w4302	NOHI	NOLAB	1.00
+dem	w4303	NOHI	NOLAB	1.00
+Beysaz	w4304	NOHI	NOLAB	1.00
+<g/>
+/
+daß	w4306	NOHI	NOLAB	1.00
+unser	w4307	NOHI	NOLAB	1.00
+aldortige	w4308	NOHI	NOLAB	1.00
+Un=ternehmungen	w4309	NOHI	NOLAB	1.00
+<g/>
+=
+<g/>
+/
+gleichwie	w4312	NOHI	NOLAB	1.00
+es	w4313	NOHI	NOLAB	1.00
+auch	w4314	NOHI	NOLAB	1.00
+sonsten	w4315	NOHI	NOLAB	1.00
+allenthalben	w4316	NOHI	NOLAB	1.00
+her	w4317	NOHI	NOLAB	1.00
+verlautet	w4318	NOHI	NOLAB	1.00
+<g/>
+/
+den	w4320	NOHI	NOLAB	1.00
+Feind	w4321	NOHI	NOLAB	1.00
+immer	w4322	NOHI	NOLAB	1.00
+in	w4323	NOHI	NOLAB	1.00
+grössere	w4324	NOHI	NOLAB	1.00
+Sorge	w4325	NOHI	NOLAB	1.00
+setze	w4326	NOHI	NOLAB	1.00
 <g/>
 .
 </p>
 <p id="p107">
-Den	w4328
-19	w4329
+Den	w4328	NOHI	NOLAB	1.00
+19	w4329	NOHI	NOLAB	1.00
 <g/>
 .
-Dito	w4331
+Dito	w4331	NOHI	NOLAB	1.00
 <g/>
 .
-Heut	w4333
-ware	w4334
-der	w4335
-Zumjungische	w4336
-Transport	w4337
-zum	w4338
-Theil	w4339
+Heut	w4333	NOHI	NOLAB	1.00
+ware	w4334	NOHI	NOLAB	1.00
+der	w4335	NOHI	NOLAB	1.00
+Zumjungische	w4336	NOHI	NOLAB	1.00
+Transport	w4337	NOHI	NOLAB	1.00
+zum	w4338	NOHI	NOLAB	1.00
+Theil	w4339	NOHI	NOLAB	1.00
 <g/>
 /
-nebst	w4341
-denzenig	w4342
+nebst	w4341	NOHI	NOLAB	1.00
+denzenig	w4342	NOHI	NOLAB	1.00
 <g/>
 =
-Engellischen	w4344
-Kriegs	w4345
+Engellischen	w4344	NOHI	NOLAB	1.00
+Kriegs	w4345	NOHI	NOLAB	1.00
 <g/>
 =
-Schiffen	w4347
+Schiffen	w4347	NOHI	NOLAB	1.00
 <g/>
 /
-so	w4349
-einen	w4350
-zu	w4351
-Tunis	w4352
-in	w4353
-der	w4354
-Barbarey	w4355
-errichte=ten	w4356
+so	w4349	NOHI	NOLAB	1.00
+einen	w4350	NOHI	NOLAB	1.00
+zu	w4351	NOHI	NOLAB	1.00
+Tunis	w4352	NOHI	NOLAB	1.00
+in	w4353	NOHI	NOLAB	1.00
+der	w4354	NOHI	NOLAB	1.00
+Barbarey	w4355	NOHI	NOLAB	1.00
+errichte=ten	w4356	NOHI	NOLAB	1.00
 <g/>
 =
-Körner	w4358
+Körner	w4358	NOHI	NOLAB	1.00
 <g/>
 =
-Transport	w4360
-nacher	w4361
-Trapani	w4362
-begleitet	w4363
+Transport	w4360	NOHI	NOLAB	1.00
+nacher	w4361	NOHI	NOLAB	1.00
+Trapani	w4362	NOHI	NOLAB	1.00
+begleitet	w4363	NOHI	NOLAB	1.00
 <g/>
 /
-von	w4365
-dannen	w4366
-hier	w4367
-wiederum	w4368
-zuruck	w4369
-eingeloffen	w4370
+von	w4365	NOHI	NOLAB	1.00
+dannen	w4366	NOHI	NOLAB	1.00
+hier	w4367	NOHI	NOLAB	1.00
+wiederum	w4368	NOHI	NOLAB	1.00
+zuruck	w4369	NOHI	NOLAB	1.00
+eingeloffen	w4370	NOHI	NOLAB	1.00
 <g/>
 ;
-Der	w4372
-Commandirende	w4373
-General	w4374
+Der	w4372	NOHI	NOLAB	1.00
+Commandirende	w4373	NOHI	NOLAB	1.00
+General	w4374	NOHI	NOLAB	1.00
 <g/>
 /
-Herr	w4376
-Graf	w4377
-Merey	w4378
+Herr	w4376	NOHI	NOLAB	1.00
+Graf	w4377	NOHI	NOLAB	1.00
+Merey	w4378	NOHI	NOLAB	1.00
 <g/>
 ,
-ist	w4380
-dahier	w4381
-mit	w4382
-dem	w4383
-Engellischen	w4384
-Herrn	w4385
-Admiral	w4386
+ist	w4380	NOHI	NOLAB	1.00
+dahier	w4381	NOHI	NOLAB	1.00
+mit	w4382	NOHI	NOLAB	1.00
+dem	w4383	NOHI	NOLAB	1.00
+Engellischen	w4384	NOHI	NOLAB	1.00
+Herrn	w4385	NOHI	NOLAB	1.00
+Admiral	w4386	NOHI	NOLAB	1.00
 <g/>
 ,
-Chevalier	w4388
-de	w4389
-Binghs	w4390
+Chevalier	w4388	NOHI	NOLAB	1.00
+de	w4389	NOHI	NOLAB	1.00
+Binghs	w4390	NOHI	NOLAB	1.00
 <g/>
 ,
-in	w4392
-reifer	w4393
-Uberleg	w4394
+in	w4392	NOHI	NOLAB	1.00
+reifer	w4393	NOHI	NOLAB	1.00
+Uberleg	w4394	NOHI	NOLAB	1.00
 <g/>
 =
-und	w4396
-Be=rahrschlagung	w4397
+und	w4396	NOHI	NOLAB	1.00
+Be=rahrschlagung	w4397	NOHI	NOLAB	1.00
 <g/>
 =
-begriffen	w4399
+begriffen	w4399	NOHI	NOLAB	1.00
 <g/>
 /
-wie	w4401
-aufs	w4402
-schleunigste	w4403
-die	w4404
-noch	w4405
-hier	w4406
-verhandene	w4407
-Völker	w4408
-auf	w4409
-behöriges	w4410
-Ort	w4411
-und	w4412
-End	w4413
-überbracht	w4414
-werden	w4415
-mögen	w4416
+wie	w4401	NOHI	NOLAB	1.00
+aufs	w4402	NOHI	NOLAB	1.00
+schleunigste	w4403	NOHI	NOLAB	1.00
+die	w4404	NOHI	NOLAB	1.00
+noch	w4405	NOHI	NOLAB	1.00
+hier	w4406	NOHI	NOLAB	1.00
+verhandene	w4407	NOHI	NOLAB	1.00
+Völker	w4408	NOHI	NOLAB	1.00
+auf	w4409	NOHI	NOLAB	1.00
+behöriges	w4410	NOHI	NOLAB	1.00
+Ort	w4411	NOHI	NOLAB	1.00
+und	w4412	NOHI	NOLAB	1.00
+End	w4413	NOHI	NOLAB	1.00
+überbracht	w4414	NOHI	NOLAB	1.00
+werden	w4415	NOHI	NOLAB	1.00
+mögen	w4416	NOHI	NOLAB	1.00
 <g/>
 ;
-Zu	w4418
-malen	w4419
-man	w4420
-dan	w4421
-auch	w4422
-nach	w4423
-Neapel	w4424
-wiederholtes	w4425
-Verlangen	w4426
-gemacht	w4427
+Zu	w4418	NOHI	NOLAB	1.00
+malen	w4419	NOHI	NOLAB	1.00
+man	w4420	NOHI	NOLAB	1.00
+dan	w4421	NOHI	NOLAB	1.00
+auch	w4422	NOHI	NOLAB	1.00
+nach	w4423	NOHI	NOLAB	1.00
+Neapel	w4424	NOHI	NOLAB	1.00
+wiederholtes	w4425	NOHI	NOLAB	1.00
+Verlangen	w4426	NOHI	NOLAB	1.00
+gemacht	w4427	NOHI	NOLAB	1.00
 <g/>
 /
-das	w4429
-Löb	w4430
-ich	w4431
+das	w4429	NOHI	NOLAB	1.00
+Löb	w4430	NOHI	NOLAB	1.00
+ich	w4431	NOHI	NOLAB	1.00
 <g/>
 =
-Lobkowitzische	w4433
-Cuirassier	w4434
+Lobkowitzische	w4433	NOHI	NOLAB	1.00
+Cuirassier	w4434	NOHI	NOLAB	1.00
 <g/>
 =
-Regiment	w4436
-von	w4437
-dannen	w4438
-gleichfals	w4439
-in	w4440
-aller	w4441
-Eil	w4442
-abzuschicken	w4443
+Regiment	w4436	NOHI	NOLAB	1.00
+von	w4437	NOHI	NOLAB	1.00
+dannen	w4438	NOHI	NOLAB	1.00
+gleichfals	w4439	NOHI	NOLAB	1.00
+in	w4440	NOHI	NOLAB	1.00
+aller	w4441	NOHI	NOLAB	1.00
+Eil	w4442	NOHI	NOLAB	1.00
+abzuschicken	w4443	NOHI	NOLAB	1.00
 <g/>
 ;
-Also	w4445
-zwar	w4446
+Also	w4445	NOHI	NOLAB	1.00
+zwar	w4446	NOHI	NOLAB	1.00
 <g/>
 /
-daß	w4448
-von	w4449
-s	w4450
+daß	w4448	NOHI	NOLAB	1.00
+von	w4449	NOHI	NOLAB	1.00
+s	w4450	NOHI	NOLAB	1.00
 <g/>
 .
-Fortgang	w4452
-dieses	w4453
-dahiesigen	w4454
-Kriegs	w4455
-bald	w4456
-ein	w4457
-mehrers	w4458
-zuvernehmen	w4459
-seyn	w4460
-wird	w4461
+Fortgang	w4452	NOHI	NOLAB	1.00
+dieses	w4453	NOHI	NOLAB	1.00
+dahiesigen	w4454	NOHI	NOLAB	1.00
+Kriegs	w4455	NOHI	NOLAB	1.00
+bald	w4456	NOHI	NOLAB	1.00
+ein	w4457	NOHI	NOLAB	1.00
+mehrers	w4458	NOHI	NOLAB	1.00
+zuvernehmen	w4459	NOHI	NOLAB	1.00
+seyn	w4460	NOHI	NOLAB	1.00
+wird	w4461	NOHI	NOLAB	1.00
 <g/>
 .
 </p>

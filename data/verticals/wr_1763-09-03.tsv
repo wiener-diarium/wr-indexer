@@ -1,2678 +1,2682 @@
-<doc id="wr_1763-09-03" attrs="word" year="1763" month="09" day="03" corpus="2">
+<doc id="wr_1763-09-03" attrs="word" year="1763" month="09" day="03" corpus="2" cert="0.985">
+<docTitle id="docTitle_1">
+</docTitle>
+<imprimatur id="imp6_d788e1417">
+</imprimatur>
 <head id="h2_d788e1527">
-Paris	w1_d788e1531
-19.	w3_d788e1534
-August.	w5_d788e1537
+Paris	w1_d788e1531	NOHI	NOLAB	1.00
+19.	w3_d788e1534	NOHI	NOLAB	0.92
+August.	w5_d788e1537	NOHI	NOLAB	1.00
 </head>
 <p id="p4_d788e1540">
-Das	w1_d788e1544
-besonders	w3_d788e1547
-gnädige	w5_d788e1550
-Wolgefallen	w7_d788e1553
-des	w1_d788e1558
-Königs	w3_d788e1561
-über	w5_d788e1564
-das	w7_d788e1567
-Graubünder	w9_d788e1570
-Regiment	w1_d788e1575
-Salis,	w3_d788e1578
-als	w5_d788e1581
-es	w7_d788e1584
-am	w9_d788e1587
-8.	w11_d788e1590
-dieses	w13_d788e1594
-vor	w1_d788e1600
-Sr.	w3_d788e1603
-Majestät	w5_d788e1606
-die	w7_d788e1609
-Musterung	w9_d788e1612
-paßirte	w11_d788e1615
-und	w1_d788e1620
-alle	w3_d788e1623
-kriegerische	w5_d788e1626
-Bewegungen	w7_d788e1629
-machte	w9_d788e1632
-erhellet	w1_d788e1637
-daraus:	w3_d788e1640
-da	w5_d788e1643
-der	w7_d788e1646
-Monarch	w9_d788e1649
-nach	w11_d788e1652
-voll	w13_d788e1656
-brachten	w1_d788e1661
-Uebungen,	w3_d788e1664
-dem	w5_d788e1667
-Herrn	w7_d788e1670
-Obristen	w9_d788e1673
-die	w1_d788e1679
-ersinnlichsten	w3_d788e1682
-Lobsprüche	w5_d788e1685
-beygeleget,	w7_d788e1688
-mit	w9_d788e1691
-diesem	w1_d788e1696
-besondern	w3_d788e1699
-Ausdruck:	w5_d788e1702
-Er	w7_d788e1705
-sehe	w9_d788e1708
-sehr	w11_d788e1711
-wol	w1_d788e1716
-ein,	w3_d788e1719
-wie	w5_d788e1722
-viele	w7_d788e1725
-Mühe	w9_d788e1728
-und	w11_d788e1731
-Arbeit	w13_d788e1735
-es	w15_d788e1738
-ge	w17_d788e1741
-kostet	w1_d788e1746
-habe,	w3_d788e1749
-zu	w5_d788e1752
-einer	w7_d788e1755
-solchen	w9_d788e1758
-Fertigkeit	w11_d788e1761
-zu	w13_d788e1765
-gelangen.	w1_d788e1771
-Jhro	w3_d788e1774
-Majestät	w5_d788e1777
-ertheilten	w7_d788e1780
-auf	w9_d788e1783
-dem	w1_d788e1788
-Exercier=platz	w3_d788e1791
-dem	w5_d788e1794
-Herrn	w7_d788e1797
-Obristen	w9_d788e1800
-eine	w1_d788e1805
-jährliche	w3_d788e1808
-Pension	w5_d788e1811
-von	w7_d788e1814
-4000.	w9_d788e1817
-Livres	w11_d788e1820
-erklärten	w1_d788e1825
-den	w3_d788e1828
-Herrn	w5_d788e1831
-Obrist=leutenant	w7_d788e1834
-von	w9_d788e1837
-Hartmanns	w1_d788e1843
-zum	w3_d788e1846
-Brigadier	w5_d788e1849
-Dero	w7_d788e1852
-Armeen	w9_d788e1855
-der	w1_d788e1860
-Herr	w3_d788e1863
-Major	w5_d788e1866
-Schmidt	w7_d788e1869
-erhielte	w9_d788e1872
-eine	w11_d788e1875
-jähr	w13_d788e1879
-liche	w1_d788e1884
-Pension	w3_d788e1887
-von	w5_d788e1890
-400.	w7_d788e1893
-Livres	w9_d788e1896
-alle	w11_d788e1899
-Officiers	w13_d788e1903
+Das	w1_d788e1544	NOHI	NOLAB	0.83
+besonders	w3_d788e1547	NOHI	NOLAB	1.00
+gnädige	w5_d788e1550	NOHI	NOLAB	1.00
+Wolgefallen	w7_d788e1553	NOHI	NOLAB	1.00
+des	w1_d788e1558	NOHI	NOLAB	1.00
+Königs	w3_d788e1561	NOHI	NOLAB	0.97
+über	w5_d788e1564	NOHI	NOLAB	1.00
+das	w7_d788e1567	NOHI	NOLAB	1.00
+Graubünder	w9_d788e1570	NOHI	NOLAB	1.00
+Regiment	w1_d788e1575	NOHI	NOLAB	1.00
+Salis,	w3_d788e1578	NOHI	NOLAB	1.00
+als	w5_d788e1581	NOHI	NOLAB	1.00
+es	w7_d788e1584	NOHI	NOLAB	1.00
+am	w9_d788e1587	NOHI	NOLAB	1.00
+8.	w11_d788e1590	NOHI	NOLAB	0.97
+dieses	w13_d788e1594	NOHI	NOLAB	1.00
+vor	w1_d788e1600	NOHI	NOLAB	1.00
+Sr.	w3_d788e1603	NOHI	NOLAB	1.00
+Majestät	w5_d788e1606	NOHI	NOLAB	0.98
+die	w7_d788e1609	NOHI	NOLAB	1.00
+Musterung	w9_d788e1612	NOHI	NOLAB	0.95
+paßirte	w11_d788e1615	NOHI	NOLAB	0.98
+und	w1_d788e1620	NOHI	NOLAB	1.00
+alle	w3_d788e1623	NOHI	NOLAB	1.00
+kriegerische	w5_d788e1626	NOHI	NOLAB	0.96
+Bewegungen	w7_d788e1629	NOHI	NOLAB	0.99
+machte	w9_d788e1632	NOHI	NOLAB	1.00
+erhellet	w1_d788e1637	NOHI	NOLAB	1.00
+daraus:	w3_d788e1640	NOHI	NOLAB	0.93
+da	w5_d788e1643	NOHI	NOLAB	1.00
+der	w7_d788e1646	NOHI	NOLAB	0.98
+Monarch	w9_d788e1649	NOHI	NOLAB	1.00
+nach	w11_d788e1652	NOHI	NOLAB	0.99
+voll	w13_d788e1656	NOHI	NOLAB	0.97
+brachten	w1_d788e1661	NOHI	NOLAB	1.00
+Uebungen,	w3_d788e1664	NOHI	NOLAB	1.00
+dem	w5_d788e1667	NOHI	NOLAB	1.00
+Herrn	w7_d788e1670	NOHI	NOLAB	1.00
+Obristen	w9_d788e1673	NOHI	NOLAB	0.94
+die	w1_d788e1679	NOHI	NOLAB	1.00
+ersinnlichsten	w3_d788e1682	NOHI	NOLAB	0.96
+Lobsprüche	w5_d788e1685	NOHI	NOLAB	0.96
+beygeleget,	w7_d788e1688	NOHI	NOLAB	0.96
+mit	w9_d788e1691	NOHI	NOLAB	1.00
+diesem	w1_d788e1696	NOHI	NOLAB	0.96
+besondern	w3_d788e1699	NOHI	NOLAB	0.97
+Ausdruck:	w5_d788e1702	NOHI	NOLAB	1.00
+Er	w7_d788e1705	NOHI	NOLAB	1.00
+sehe	w9_d788e1708	NOHI	NOLAB	1.00
+sehr	w11_d788e1711	NOHI	NOLAB	0.93
+wol	w1_d788e1716	NOHI	NOLAB	1.00
+ein,	w3_d788e1719	NOHI	NOLAB	1.00
+wie	w5_d788e1722	NOHI	NOLAB	0.86
+viele	w7_d788e1725	NOHI	NOLAB	1.00
+Mühe	w9_d788e1728	NOHI	NOLAB	1.00
+und	w11_d788e1731	NOHI	NOLAB	1.00
+Arbeit	w13_d788e1735	NOHI	NOLAB	1.00
+es	w15_d788e1738	NOHI	NOLAB	1.00
+ge	w17_d788e1741	NOHI	NOLAB	0.92
+kostet	w1_d788e1746	NOHI	NOLAB	0.97
+habe,	w3_d788e1749	NOHI	NOLAB	1.00
+zu	w5_d788e1752	NOHI	NOLAB	1.00
+einer	w7_d788e1755	NOHI	NOLAB	1.00
+solchen	w9_d788e1758	NOHI	NOLAB	1.00
+Fertigkeit	w11_d788e1761	NOHI	NOLAB	1.00
+zu	w13_d788e1765	NOHI	NOLAB	1.00
+gelangen.	w1_d788e1771	NOHI	NOLAB	1.00
+Jhro	w3_d788e1774	NOHI	NOLAB	0.89
+Majestät	w5_d788e1777	NOHI	NOLAB	0.95
+ertheilten	w7_d788e1780	NOHI	NOLAB	1.00
+auf	w9_d788e1783	NOHI	NOLAB	1.00
+dem	w1_d788e1788	NOHI	NOLAB	0.85
+Exercier=platz	w3_d788e1791	NOHI	NOLAB	1.00
+dem	w5_d788e1794	NOHI	NOLAB	1.00
+Herrn	w7_d788e1797	NOHI	NOLAB	1.00
+Obristen	w9_d788e1800	NOHI	NOLAB	1.00
+eine	w1_d788e1805	NOHI	NOLAB	1.00
+jährliche	w3_d788e1808	NOHI	NOLAB	0.97
+Pension	w5_d788e1811	NOHI	NOLAB	1.00
+von	w7_d788e1814	NOHI	NOLAB	1.00
+4000.	w9_d788e1817	NOHI	NOLAB	1.00
+Livres	w11_d788e1820	NOHI	NOLAB	0.99
+erklärten	w1_d788e1825	NOHI	NOLAB	1.00
+den	w3_d788e1828	NOHI	NOLAB	1.00
+Herrn	w5_d788e1831	NOHI	NOLAB	1.00
+Obrist=leutenant	w7_d788e1834	NOHI	NOLAB	1.00
+von	w9_d788e1837	NOHI	NOLAB	1.00
+Hartmanns	w1_d788e1843	NOHI	NOLAB	1.00
+zum	w3_d788e1846	NOHI	NOLAB	1.00
+Brigadier	w5_d788e1849	NOHI	NOLAB	0.98
+Dero	w7_d788e1852	NOHI	NOLAB	0.96
+Armeen	w9_d788e1855	NOHI	NOLAB	1.00
+der	w1_d788e1860	NOHI	NOLAB	1.00
+Herr	w3_d788e1863	NOHI	NOLAB	1.00
+Major	w5_d788e1866	NOHI	NOLAB	1.00
+Schmidt	w7_d788e1869	NOHI	NOLAB	1.00
+erhielte	w9_d788e1872	NOHI	NOLAB	1.00
+eine	w11_d788e1875	NOHI	NOLAB	1.00
+jähr	w13_d788e1879	NOHI	NOLAB	0.85
+liche	w1_d788e1884	NOHI	NOLAB	0.96
+Pension	w3_d788e1887	NOHI	NOLAB	1.00
+von	w5_d788e1890	NOHI	NOLAB	1.00
+400.	w7_d788e1893	NOHI	NOLAB	1.00
+Livres	w9_d788e1896	NOHI	NOLAB	0.99
+alle	w11_d788e1899	NOHI	NOLAB	1.00
+Officiers	w13_d788e1903	NOHI	NOLAB	1.00
 </p>
 <p id="p6_d788e1906">
-wurden	w1_d788e1910
-beschenkt,	w3_d788e1913
-und	w5_d788e1916
-4000.	w7_d788e1919
-Livres	w9_d788e1922
-unter	w11_d788e1925
-die	w1_d788e1930
-Soldaten	w3_d788e1933
-ausgetheilet	w5_d788e1936
+wurden	w1_d788e1910	NOHI	NOLAB	0.91
+beschenkt,	w3_d788e1913	NOHI	NOLAB	0.93
+und	w5_d788e1916	NOHI	NOLAB	1.00
+4000.	w7_d788e1919	NOHI	NOLAB	1.00
+Livres	w9_d788e1922	NOHI	NOLAB	0.95
+unter	w11_d788e1925	NOHI	NOLAB	0.98
+die	w1_d788e1930	NOHI	NOLAB	0.92
+Soldaten	w3_d788e1933	NOHI	NOLAB	1.00
+ausgetheilet	w5_d788e1936	NOHI	NOLAB	0.99
 </p>
 <p id="p8_d788e1939">
-Auf	w1_d788e1943
-ausdrücklichen	w3_d788e1946
-Befehl	w5_d788e1949
-des	w7_d788e1952
-Königs	w9_d788e1955
-muste	w1_d788e1960
-das	w3_d788e1963
-Regiment	w5_d788e1966
-im	w7_d788e1969
-Feuer	w9_d788e1972
-exerciren,	w11_d788e1975
-welches	w1_d788e1980
-noch	w3_d788e1983
-niemals	w5_d788e1986
-von	w7_d788e1989
-keinem	w9_d788e1992
-andern	w11_d788e1995
-Regiment	w1_d788e2001
-geschehen.	w3_d788e2004
-Der	w5_d788e2007
-Herzog	w7_d788e2010
-von	w9_d788e2013
-Choiseul,	w1_d788e2018
-als	w3_d788e2021
-General	w5_d788e2024
-dieses	w7_d788e2027
-Regiments,	w9_d788e2030
-hat,	w1_d788e2035
-so	w3_d788e2038
-lange	w5_d788e2041
-als	w7_d788e2044
-das	w9_d788e2047
-Lager	w11_d788e2050
-gewähret,	w13_d788e2054
-näm	w15_d788e2057
-lich	w1_d788e2062
-vom	w3_d788e2065
-5ten	w5_d788e2068
-bis	w7_d788e2071
-zum	w9_d788e2074
-10ten,	w11_d788e2077
-wo	w13_d788e2081
-es	w15_d788e2084
-früh	w17_d788e2087
-seinen	w1_d788e2093
-Marsch	w3_d788e2096
-nach	w5_d788e2099
-Bitsch	w7_d788e2102
-in	w9_d788e2105
-Lothringen	w11_d788e2108
-angetreten,	w1_d788e2113
-beständig	w3_d788e2116
-die	w5_d788e2119
-Uniform	w7_d788e2122
-ange	w9_d788e2125
-habt,	w1_d788e2130
-und	w3_d788e2133
-ist	w5_d788e2136
-sogar	w7_d788e2139
-in	w9_d788e2142
-dieser	w11_d788e2145
-Kleidung	w13_d788e2149
-im	w15_d788e2152
-geheimen	w1_d788e2157
-Rath	w3_d788e2160
-des	w5_d788e2163
-Königs	w7_d788e2166
-erschienen.	w9_d788e2169
+Auf	w1_d788e1943	NOHI	NOLAB	1.00
+ausdrücklichen	w3_d788e1946	NOHI	NOLAB	0.99
+Befehl	w5_d788e1949	NOHI	NOLAB	0.88
+des	w7_d788e1952	NOHI	NOLAB	1.00
+Königs	w9_d788e1955	NOHI	NOLAB	1.00
+muste	w1_d788e1960	NOHI	NOLAB	1.00
+das	w3_d788e1963	NOHI	NOLAB	1.00
+Regiment	w5_d788e1966	NOHI	NOLAB	1.00
+im	w7_d788e1969	NOHI	NOLAB	1.00
+Feuer	w9_d788e1972	NOHI	NOLAB	0.91
+exerciren,	w11_d788e1975	NOHI	NOLAB	0.96
+welches	w1_d788e1980	NOHI	NOLAB	1.00
+noch	w3_d788e1983	NOHI	NOLAB	1.00
+niemals	w5_d788e1986	NOHI	NOLAB	1.00
+von	w7_d788e1989	NOHI	NOLAB	1.00
+keinem	w9_d788e1992	NOHI	NOLAB	0.97
+andern	w11_d788e1995	NOHI	NOLAB	0.95
+Regiment	w1_d788e2001	NOHI	NOLAB	1.00
+geschehen.	w3_d788e2004	NOHI	NOLAB	0.98
+Der	w5_d788e2007	NOHI	NOLAB	1.00
+Herzog	w7_d788e2010	NOHI	NOLAB	1.00
+von	w9_d788e2013	NOHI	NOLAB	1.00
+Choiseul,	w1_d788e2018	NOHI	NOLAB	1.00
+als	w3_d788e2021	NOHI	NOLAB	1.00
+General	w5_d788e2024	NOHI	NOLAB	1.00
+dieses	w7_d788e2027	NOHI	NOLAB	1.00
+Regiments,	w9_d788e2030	NOHI	NOLAB	1.00
+hat,	w1_d788e2035	NOHI	NOLAB	1.00
+so	w3_d788e2038	NOHI	NOLAB	1.00
+lange	w5_d788e2041	NOHI	NOLAB	1.00
+als	w7_d788e2044	NOHI	NOLAB	1.00
+das	w9_d788e2047	NOHI	NOLAB	1.00
+Lager	w11_d788e2050	NOHI	NOLAB	1.00
+gewähret,	w13_d788e2054	NOHI	NOLAB	0.99
+näm	w15_d788e2057	NOHI	NOLAB	1.00
+lich	w1_d788e2062	NOHI	NOLAB	0.97
+vom	w3_d788e2065	NOHI	NOLAB	1.00
+5ten	w5_d788e2068	NOHI	NOLAB	1.00
+bis	w7_d788e2071	NOHI	NOLAB	1.00
+zum	w9_d788e2074	NOHI	NOLAB	1.00
+10ten,	w11_d788e2077	NOHI	NOLAB	1.00
+wo	w13_d788e2081	NOHI	NOLAB	1.00
+es	w15_d788e2084	NOHI	NOLAB	1.00
+früh	w17_d788e2087	NOHI	NOLAB	1.00
+seinen	w1_d788e2093	NOHI	NOLAB	0.98
+Marsch	w3_d788e2096	NOHI	NOLAB	1.00
+nach	w5_d788e2099	NOHI	NOLAB	1.00
+Bitsch	w7_d788e2102	NOHI	NOLAB	1.00
+in	w9_d788e2105	NOHI	NOLAB	1.00
+Lothringen	w11_d788e2108	NOHI	NOLAB	0.98
+angetreten,	w1_d788e2113	NOHI	NOLAB	1.00
+beständig	w3_d788e2116	NOHI	NOLAB	1.00
+die	w5_d788e2119	NOHI	NOLAB	0.94
+Uniform	w7_d788e2122	NOHI	NOLAB	1.00
+ange	w9_d788e2125	NOHI	NOLAB	0.95
+habt,	w1_d788e2130	NOHI	NOLAB	1.00
+und	w3_d788e2133	NOHI	NOLAB	1.00
+ist	w5_d788e2136	NOHI	NOLAB	1.00
+sogar	w7_d788e2139	NOHI	NOLAB	1.00
+in	w9_d788e2142	NOHI	NOLAB	0.88
+dieser	w11_d788e2145	NOHI	NOLAB	1.00
+Kleidung	w13_d788e2149	NOHI	NOLAB	1.00
+im	w15_d788e2152	NOHI	NOLAB	1.00
+geheimen	w1_d788e2157	NOHI	NOLAB	0.99
+Rath	w3_d788e2160	NOHI	NOLAB	1.00
+des	w5_d788e2163	NOHI	NOLAB	1.00
+Königs	w7_d788e2166	NOHI	NOLAB	1.00
+erschienen.	w9_d788e2169	NOHI	NOLAB	0.96
 </p>
 <p id="p10_d788e2172">
-Sämmtlichen	w1_d788e2176
-Officiers	w3_d788e2179
-vom	w5_d788e2182
-Regiment	w7_d788e2185
-wurde	w1_d788e2190
-erlaubt,	w3_d788e2193
-in	w5_d788e2196
-weissen	w7_d788e2199
-Camaschen	w9_d788e2202
-bey	w11_d788e2205
-Hof	w1_d788e2210
-zu	w3_d788e2213
-erscheinen,	w5_d788e2216
-da	w7_d788e2219
-es	w9_d788e2222
-sonsten	w11_d788e2225
-nicht	w13_d788e2229
-an	w15_d788e2232
-ders,	w1_d788e2238
-als	w3_d788e2241
-in	w5_d788e2244
-weiß	w7_d788e2247
-seidenen	w9_d788e2250
-Strümpfen	w11_d788e2253
-seyn	w13_d788e2257
-durfte.	w1_d788e2262
+Sämmtlichen	w1_d788e2176	NOHI	NOLAB	1.00
+Officiers	w3_d788e2179	NOHI	NOLAB	1.00
+vom	w5_d788e2182	NOHI	NOLAB	1.00
+Regiment	w7_d788e2185	NOHI	NOLAB	0.95
+wurde	w1_d788e2190	NOHI	NOLAB	1.00
+erlaubt,	w3_d788e2193	NOHI	NOLAB	0.98
+in	w5_d788e2196	NOHI	NOLAB	1.00
+weissen	w7_d788e2199	NOHI	NOLAB	1.00
+Camaschen	w9_d788e2202	NOHI	NOLAB	1.00
+bey	w11_d788e2205	NOHI	NOLAB	1.00
+Hof	w1_d788e2210	NOHI	NOLAB	1.00
+zu	w3_d788e2213	NOHI	NOLAB	1.00
+erscheinen,	w5_d788e2216	NOHI	NOLAB	1.00
+da	w7_d788e2219	NOHI	NOLAB	0.97
+es	w9_d788e2222	NOHI	NOLAB	1.00
+sonsten	w11_d788e2225	NOHI	NOLAB	1.00
+nicht	w13_d788e2229	NOHI	NOLAB	1.00
+an	w15_d788e2232	NOHI	NOLAB	1.00
+ders,	w1_d788e2238	NOHI	NOLAB	0.99
+als	w3_d788e2241	NOHI	NOLAB	1.00
+in	w5_d788e2244	NOHI	NOLAB	1.00
+weiß	w7_d788e2247	NOHI	NOLAB	1.00
+seidenen	w9_d788e2250	NOHI	NOLAB	1.00
+Strümpfen	w11_d788e2253	NOHI	NOLAB	1.00
+seyn	w13_d788e2257	NOHI	NOLAB	0.90
+durfte.	w1_d788e2262	NOHI	NOLAB	0.97
 </p>
 <p id="p12_d788e2266">
-Man	w1_d788e2270
-spricht	w3_d788e2273
-sehr	w5_d788e2276
-viel	w7_d788e2279
-von	w9_d788e2282
-einer	w11_d788e2285
-bey	w13_d788e2289
+Man	w1_d788e2270	NOHI	NOLAB	0.99
+spricht	w3_d788e2273	NOHI	NOLAB	0.99
+sehr	w5_d788e2276	NOHI	NOLAB	1.00
+viel	w7_d788e2279	NOHI	NOLAB	1.00
+von	w9_d788e2282	NOHI	NOLAB	1.00
+einer	w11_d788e2285	NOHI	NOLAB	1.00
+bey	w13_d788e2289	NOHI	NOLAB	1.00
 </p>
 <p id="p18_d788e2302">
-dem	w1_d788e2306
-Königl.	w3_d788e2309
-Hause	w5_d788e2312
-vorzunehmenden	w7_d788e2315
-Abdan	w9_d788e2318
-kung,	w1_d788e2323
-und	w3_d788e2326
-es	w5_d788e2329
-sollen	w7_d788e2332
-die	w9_d788e2335
-leichten	w11_d788e2338
-Reuter	w13_d788e2342
-nebst	w15_d788e2345
-denen	w1_d788e2350
-Gens	w3_d788e2353
-d'Armes	w5_d788e2356
-von	w7_d788e2359
-der	w9_d788e2362
-Leib=wache,	w11_d788e2365
-mit	w1_d788e2371
-der	w3_d788e2374
-ersten	w5_d788e2377
-Compagnie	w7_d788e2380
-der	w9_d788e2383
-Musquetairs	w11_d788e2386
-vereiniget	w1_d788e2391
-werden.	w3_d788e2394
+dem	w1_d788e2306	NOHI	NOLAB	0.88
+Königl.	w3_d788e2309	NOHI	NOLAB	1.00
+Hause	w5_d788e2312	NOHI	NOLAB	0.98
+vorzunehmenden	w7_d788e2315	NOHI	NOLAB	0.93
+Abdan	w9_d788e2318	NOHI	NOLAB	1.00
+kung,	w1_d788e2323	NOHI	NOLAB	0.92
+und	w3_d788e2326	NOHI	NOLAB	1.00
+es	w5_d788e2329	NOHI	NOLAB	1.00
+sollen	w7_d788e2332	NOHI	NOLAB	1.00
+die	w9_d788e2335	NOHI	NOLAB	0.95
+leichten	w11_d788e2338	NOHI	NOLAB	1.00
+Reuter	w13_d788e2342	NOHI	NOLAB	0.99
+nebst	w15_d788e2345	NOHI	NOLAB	1.00
+denen	w1_d788e2350	NOHI	NOLAB	0.98
+Gens	w3_d788e2353	NOHI	NOLAB	1.00
+d'Armes	w5_d788e2356	NOHI	NOLAB	0.93
+von	w7_d788e2359	NOHI	NOLAB	1.00
+der	w9_d788e2362	NOHI	NOLAB	0.89
+Leib=wache,	w11_d788e2365	NOHI	NOLAB	0.99
+mit	w1_d788e2371	NOHI	NOLAB	1.00
+der	w3_d788e2374	NOHI	NOLAB	0.97
+ersten	w5_d788e2377	NOHI	NOLAB	1.00
+Compagnie	w7_d788e2380	NOHI	NOLAB	1.00
+der	w9_d788e2383	NOHI	NOLAB	1.00
+Musquetairs	w11_d788e2386	NOHI	NOLAB	1.00
+vereiniget	w1_d788e2391	NOHI	NOLAB	0.92
+werden.	w3_d788e2394	NOHI	NOLAB	0.95
 </p>
 <p id="p20_d788e2397">
-Die	w1_d788e2401
-Sache	w3_d788e2404
-wegen	w5_d788e2407
-Canada	w7_d788e2410
-wird	w9_d788e2413
-mit	w11_d788e2416
-vie	w13_d788e2420
-lem	w1_d788e2425
-Eifer	w3_d788e2428
-betrieben:	w5_d788e2431
-deren	w7_d788e2434
-Schriften	w9_d788e2437
-vor	w11_d788e2440
-und	w1_d788e2445
-wider	w3_d788e2448
-die	w5_d788e2451
-Beklagten,	w7_d788e2454
-sind	w9_d788e2457
-schon	w11_d788e2460
-eine	w13_d788e2464
-grosse	w1_d788e2470
-Menge,	w3_d788e2473
-und	w5_d788e2476
-man	w7_d788e2479
-kan	w9_d788e2482
-daraus	w11_d788e2485
-klar	w13_d788e2489
-ersehen,	w1_d788e2494
-wie	w3_d788e2497
-schlecht	w5_d788e2500
-der	w7_d788e2503
-König	w9_d788e2506
-ist	w11_d788e2509
-bedie	w13_d788e2513
-net	w1_d788e2518
-worden,	w3_d788e2521
-und	w5_d788e2524
-in	w7_d788e2527
-was	w9_d788e2530
-für	w11_d788e2533
-Schaden	w13_d788e2537
-die	w15_d788e2540
-Geldsucht	w1_d788e2545
-den	w3_d788e2548
-Staat	w5_d788e2551
-überhaupt	w7_d788e2554
-gesetzt.	w9_d788e2557
-Man	w11_d788e2560
-sagt,	w1_d788e2566
-daß	w3_d788e2569
-das	w5_d788e2572
-Parlament	w7_d788e2575
-verlange,	w9_d788e2578
-von	w11_d788e2581
-der	w13_d788e2585
-Sache	w1_d788e2590
-des	w3_d788e2593
-Herrn	w5_d788e2596
-Lally	w7_d788e2599
-Känntniß	w9_d788e2602
-zu	w11_d788e2605
-neh	w13_d788e2609
-men.	w1_d788e2614
+Die	w1_d788e2401	NOHI	NOLAB	1.00
+Sache	w3_d788e2404	NOHI	NOLAB	0.90
+wegen	w5_d788e2407	NOHI	NOLAB	1.00
+Canada	w7_d788e2410	NOHI	NOLAB	0.97
+wird	w9_d788e2413	NOHI	NOLAB	0.96
+mit	w11_d788e2416	NOHI	NOLAB	1.00
+vie	w13_d788e2420	NOHI	NOLAB	1.00
+lem	w1_d788e2425	NOHI	NOLAB	1.00
+Eifer	w3_d788e2428	NOHI	NOLAB	1.00
+betrieben:	w5_d788e2431	NOHI	NOLAB	1.00
+deren	w7_d788e2434	NOHI	NOLAB	1.00
+Schriften	w9_d788e2437	NOHI	NOLAB	0.99
+vor	w11_d788e2440	NOHI	NOLAB	1.00
+und	w1_d788e2445	NOHI	NOLAB	1.00
+wider	w3_d788e2448	NOHI	NOLAB	1.00
+die	w5_d788e2451	NOHI	NOLAB	0.90
+Beklagten,	w7_d788e2454	NOHI	NOLAB	1.00
+sind	w9_d788e2457	NOHI	NOLAB	1.00
+schon	w11_d788e2460	NOHI	NOLAB	1.00
+eine	w13_d788e2464	NOHI	NOLAB	1.00
+grosse	w1_d788e2470	NOHI	NOLAB	1.00
+Menge,	w3_d788e2473	NOHI	NOLAB	0.97
+und	w5_d788e2476	NOHI	NOLAB	1.00
+man	w7_d788e2479	NOHI	NOLAB	1.00
+kan	w9_d788e2482	NOHI	NOLAB	0.96
+daraus	w11_d788e2485	NOHI	NOLAB	0.96
+klar	w13_d788e2489	NOHI	NOLAB	1.00
+ersehen,	w1_d788e2494	NOHI	NOLAB	0.96
+wie	w3_d788e2497	NOHI	NOLAB	1.00
+schlecht	w5_d788e2500	NOHI	NOLAB	0.98
+der	w7_d788e2503	NOHI	NOLAB	1.00
+König	w9_d788e2506	NOHI	NOLAB	1.00
+ist	w11_d788e2509	NOHI	NOLAB	1.00
+bedie	w13_d788e2513	NOHI	NOLAB	1.00
+net	w1_d788e2518	NOHI	NOLAB	1.00
+worden,	w3_d788e2521	NOHI	NOLAB	1.00
+und	w5_d788e2524	NOHI	NOLAB	1.00
+in	w7_d788e2527	NOHI	NOLAB	1.00
+was	w9_d788e2530	NOHI	NOLAB	1.00
+für	w11_d788e2533	NOHI	NOLAB	0.87
+Schaden	w13_d788e2537	NOHI	NOLAB	1.00
+die	w15_d788e2540	NOHI	NOLAB	0.86
+Geldsucht	w1_d788e2545	NOHI	NOLAB	1.00
+den	w3_d788e2548	NOHI	NOLAB	1.00
+Staat	w5_d788e2551	NOHI	NOLAB	0.98
+überhaupt	w7_d788e2554	NOHI	NOLAB	0.97
+gesetzt.	w9_d788e2557	NOHI	NOLAB	0.95
+Man	w11_d788e2560	NOHI	NOLAB	0.99
+sagt,	w1_d788e2566	NOHI	NOLAB	1.00
+daß	w3_d788e2569	NOHI	NOLAB	1.00
+das	w5_d788e2572	NOHI	NOLAB	1.00
+Parlament	w7_d788e2575	NOHI	NOLAB	1.00
+verlange,	w9_d788e2578	NOHI	NOLAB	0.97
+von	w11_d788e2581	NOHI	NOLAB	1.00
+der	w13_d788e2585	NOHI	NOLAB	1.00
+Sache	w1_d788e2590	NOHI	NOLAB	1.00
+des	w3_d788e2593	NOHI	NOLAB	1.00
+Herrn	w5_d788e2596	NOHI	NOLAB	1.00
+Lally	w7_d788e2599	NOHI	NOLAB	1.00
+Känntniß	w9_d788e2602	NOHI	NOLAB	1.00
+zu	w11_d788e2605	NOHI	NOLAB	1.00
+neh	w13_d788e2609	NOHI	NOLAB	1.00
+men.	w1_d788e2614	NOHI	NOLAB	1.00
 </p>
 <head id="h2_d788e2620">
-Londen	w1_d788e2624
-19.	w3_d788e2627
-August.	w5_d788e2630
+Londen	w1_d788e2624	NOHI	NOLAB	1.00
+19.	w3_d788e2627	NOHI	NOLAB	1.00
+August.	w5_d788e2630	NOHI	NOLAB	1.00
 </head>
 <p id="p4_d788e2633">
-Der	w1_d788e2637
-König	w3_d788e2640
-und	w5_d788e2643
-das	w7_d788e2646
-Königl.	w9_d788e2649
-Haus	w11_d788e2652
-wur	w13_d788e2656
-|	w15_d788e2659
-|	w17_d788e2662
-den	w1_d788e2667
-am	w3_d788e2670
-16.	w5_d788e2673
-dieses	w7_d788e2676
-Monats,	w9_d788e2679
-gegen	w11_d788e2682
-11.	w13_d788e2686
-Uhr	w15_d788e2689
-morgens,	w1_d788e2694
-durch	w3_d788e2697
-die	w5_d788e2700
-glückliche	w7_d788e2703
-Eutbindung	w9_d788e2706
-Jhrer	w1_d788e2712
-Majest.	w3_d788e2715
-der	w5_d788e2718
-Königin	w7_d788e2721
-mit	w9_d788e2724
-einen	w11_d788e2727
-wol	w13_d788e2731
-gebildeten	w1_d788e2736
-Prinzen	w3_d788e2739
-in	w5_d788e2742
-die	w7_d788e2745
-zärtlichste	w9_d788e2748
-Freude	w11_d788e2751
-versetzet.	w1_d788e2756
-Diese	w3_d788e2759
-so	w5_d788e2762
-sehnlich	w7_d788e2765
-gewünschte	w9_d788e2768
-Rachricht	w1_d788e2773
-ward	w3_d788e2776
-der	w5_d788e2779
-Stadt	w7_d788e2782
-und	w9_d788e2785
-dem	w11_d788e2788
-Lande	w13_d788e2792
-durch	w1_d788e2798
-die	w3_d788e2801
-Losbrennung	w5_d788e2804
-der	w7_d788e2807
-Canonen	w9_d788e2810
-auf	w11_d788e2813
-dem	w1_d788e2818
-Towr	w3_d788e2821
-und	w5_d788e2824
-in	w7_d788e2827
-dem	w9_d788e2830
-Parc	w11_d788e2833
-verkündiget;	w13_d788e2837
-worauf	w1_d788e2842
-sofort	w3_d788e2845
-die	w5_d788e2848
-getreue	w7_d788e2851
-Unterthanen	w9_d788e2854
-aller	w11_d788e2857
-Orten	w1_d788e2862
-die	w3_d788e2865
-gröste	w5_d788e2868
-Freudens=bezeugungen	w7_d788e2871
-an	w9_d788e2874
-den	w1_d788e2880
-Tag	w3_d788e2883
-legten.	w5_d788e2886
+Der	w1_d788e2637	NOHI	NOLAB	1.00
+König	w3_d788e2640	NOHI	NOLAB	1.00
+und	w5_d788e2643	NOHI	NOLAB	1.00
+das	w7_d788e2646	NOHI	NOLAB	1.00
+Königl.	w9_d788e2649	NOHI	NOLAB	0.94
+Haus	w11_d788e2652	NOHI	NOLAB	1.00
+wur	w13_d788e2656	NOHI	NOLAB	1.00
+|	w15_d788e2659	NOHI	NOLAB	0.63
+|	w17_d788e2662	NOHI	NOLAB	0.97
+den	w1_d788e2667	NOHI	NOLAB	0.89
+am	w3_d788e2670	NOHI	NOLAB	1.00
+16.	w5_d788e2673	NOHI	NOLAB	1.00
+dieses	w7_d788e2676	NOHI	NOLAB	1.00
+Monats,	w9_d788e2679	NOHI	NOLAB	1.00
+gegen	w11_d788e2682	NOHI	NOLAB	0.95
+11.	w13_d788e2686	NOHI	NOLAB	0.91
+Uhr	w15_d788e2689	NOHI	NOLAB	1.00
+morgens,	w1_d788e2694	NOHI	NOLAB	1.00
+durch	w3_d788e2697	NOHI	NOLAB	0.88
+die	w5_d788e2700	NOHI	NOLAB	1.00
+glückliche	w7_d788e2703	NOHI	NOLAB	0.96
+Eutbindung	w9_d788e2706	NOHI	NOLAB	0.96
+Jhrer	w1_d788e2712	NOHI	NOLAB	1.00
+Majest.	w3_d788e2715	NOHI	NOLAB	0.98
+der	w5_d788e2718	NOHI	NOLAB	1.00
+Königin	w7_d788e2721	NOHI	NOLAB	0.90
+mit	w9_d788e2724	NOHI	NOLAB	1.00
+einen	w11_d788e2727	NOHI	NOLAB	1.00
+wol	w13_d788e2731	NOHI	NOLAB	1.00
+gebildeten	w1_d788e2736	NOHI	NOLAB	0.97
+Prinzen	w3_d788e2739	NOHI	NOLAB	1.00
+in	w5_d788e2742	NOHI	NOLAB	1.00
+die	w7_d788e2745	NOHI	NOLAB	1.00
+zärtlichste	w9_d788e2748	NOHI	NOLAB	0.99
+Freude	w11_d788e2751	NOHI	NOLAB	0.95
+versetzet.	w1_d788e2756	NOHI	NOLAB	1.00
+Diese	w3_d788e2759	NOHI	NOLAB	1.00
+so	w5_d788e2762	NOHI	NOLAB	1.00
+sehnlich	w7_d788e2765	NOHI	NOLAB	1.00
+gewünschte	w9_d788e2768	NOHI	NOLAB	0.96
+Rachricht	w1_d788e2773	NOHI	NOLAB	0.98
+ward	w3_d788e2776	NOHI	NOLAB	1.00
+der	w5_d788e2779	NOHI	NOLAB	0.88
+Stadt	w7_d788e2782	NOHI	NOLAB	1.00
+und	w9_d788e2785	NOHI	NOLAB	1.00
+dem	w11_d788e2788	NOHI	NOLAB	1.00
+Lande	w13_d788e2792	NOHI	NOLAB	1.00
+durch	w1_d788e2798	NOHI	NOLAB	1.00
+die	w3_d788e2801	NOHI	NOLAB	0.91
+Losbrennung	w5_d788e2804	NOHI	NOLAB	1.00
+der	w7_d788e2807	NOHI	NOLAB	1.00
+Canonen	w9_d788e2810	NOHI	NOLAB	1.00
+auf	w11_d788e2813	NOHI	NOLAB	1.00
+dem	w1_d788e2818	NOHI	NOLAB	1.00
+Towr	w3_d788e2821	NOHI	NOLAB	0.89
+und	w5_d788e2824	NOHI	NOLAB	1.00
+in	w7_d788e2827	NOHI	NOLAB	1.00
+dem	w9_d788e2830	NOHI	NOLAB	1.00
+Parc	w11_d788e2833	NOHI	NOLAB	1.00
+verkündiget;	w13_d788e2837	NOHI	NOLAB	0.95
+worauf	w1_d788e2842	NOHI	NOLAB	1.00
+sofort	w3_d788e2845	NOHI	NOLAB	0.96
+die	w5_d788e2848	NOHI	NOLAB	1.00
+getreue	w7_d788e2851	NOHI	NOLAB	1.00
+Unterthanen	w9_d788e2854	NOHI	NOLAB	1.00
+aller	w11_d788e2857	NOHI	NOLAB	1.00
+Orten	w1_d788e2862	NOHI	NOLAB	1.00
+die	w3_d788e2865	NOHI	NOLAB	0.90
+gröste	w5_d788e2868	NOHI	NOLAB	1.00
+Freudens=bezeugungen	w7_d788e2871	NOHI	NOLAB	0.98
+an	w9_d788e2874	NOHI	NOLAB	1.00
+den	w1_d788e2880	NOHI	NOLAB	1.00
+Tag	w3_d788e2883	NOHI	NOLAB	1.00
+legten.	w5_d788e2886	NOHI	NOLAB	1.00
 </p>
 <p id="p6_d788e2889">
-Sollte	w1_d788e2893
-es	w3_d788e2896
-wol	w5_d788e2899
-möglich	w7_d788e2902
-seyn,	w9_d788e2905
-die	w11_d788e2908
-traurige	w13_d788e2912
-Schicksale,	w1_d788e2917
-die	w3_d788e2920
-das	w5_d788e2923
-Königreich	w7_d788e2926
-Jrrland	w9_d788e2929
-nach	w11_d788e2932
-einander	w1_d788e2937
-treffen,	w3_d788e2940
-zu	w5_d788e2943
-lesen,	w7_d788e2946
-ohne	w9_d788e2949
-darüber	w11_d788e2952
-em	w13_d788e2956
-pfindlich	w1_d788e2962
-gerührt	w3_d788e2965
-zu	w5_d788e2968
-werden.	w7_d788e2971
-Zur	w9_d788e2974
-Zeit,	w11_d788e2977
-da	w13_d788e2981
-man	w1_d788e2986
-vermeinte,	w3_d788e2989
-der	w5_d788e2992
-in	w7_d788e2995
-den	w9_d788e2998
-Nordlichen	w11_d788e3001
-Pro	w13_d788e3005
-vinzen	w1_d788e3010
-von	w3_d788e3013
-den	w5_d788e3016
-Eichen=herzen	w7_d788e3019
-erregte	w9_d788e3022
-Auf	w11_d788e3025
-stand	w1_d788e3030
-wäre	w3_d788e3033
-nun	w5_d788e3036
-fast	w7_d788e3039
-gedämpfet,	w9_d788e3042
-brechen	w11_d788e3045
-in	w13_d788e3049
-der	w1_d788e3055
-Haupt=stadt	w3_d788e3058
-Dublin	w5_d788e3061
-selbst	w7_d788e3064
-die	w9_d788e3067
-gröste	w11_d788e3070
-in	w13_d788e3074
-nerliche	w1_d788e3079
-Unruhen	w3_d788e3082
-aus,	w5_d788e3085
-wobey	w7_d788e3088
-es	w9_d788e3091
-so	w11_d788e3094
-gar	w13_d788e3098
-nicht	w15_d788e3101
-ohne	w1_d788e3106
-Blut=vergiessen	w3_d788e3109
-hergegangen.	w5_d788e3112
-Am	w7_d788e3115
-7.	w1_d788e3120
-dieses	w3_d788e3123
-Monats	w5_d788e3126
-langte	w7_d788e3129
-der	w9_d788e3132
-Handels=mann	w11_d788e3135
-und	w1_d788e3141
-Leinwand=krämer,	w3_d788e3144
-Heinrich	w5_d788e3147
-Cotting	w7_d788e3150
-ham,	w1_d788e3155
-mit	w3_d788e3158
-Seiden=zeug	w5_d788e3161
-auf	w7_d788e3164
-einem	w9_d788e3167
-Schiffe	w11_d788e3170
-aus	w1_d788e3175
-Frankreich	w3_d788e3178
-zu	w5_d788e3181
-Dublin	w7_d788e3184
-an.	w9_d788e3187
-Sobald	w11_d788e3190
-die	w13_d788e3194
-|	w15_d788e3197
-|	w17_d788e3200
+Sollte	w1_d788e2893	NOHI	NOLAB	1.00
+es	w3_d788e2896	NOHI	NOLAB	1.00
+wol	w5_d788e2899	NOHI	NOLAB	1.00
+möglich	w7_d788e2902	NOHI	NOLAB	0.95
+seyn,	w9_d788e2905	NOHI	NOLAB	1.00
+die	w11_d788e2908	NOHI	NOLAB	0.91
+traurige	w13_d788e2912	NOHI	NOLAB	1.00
+Schicksale,	w1_d788e2917	NOHI	NOLAB	0.95
+die	w3_d788e2920	NOHI	NOLAB	0.84
+das	w5_d788e2923	NOHI	NOLAB	1.00
+Königreich	w7_d788e2926	NOHI	NOLAB	1.00
+Jrrland	w9_d788e2929	NOHI	NOLAB	1.00
+nach	w11_d788e2932	NOHI	NOLAB	0.90
+einander	w1_d788e2937	NOHI	NOLAB	1.00
+treffen,	w3_d788e2940	NOHI	NOLAB	0.94
+zu	w5_d788e2943	NOHI	NOLAB	1.00
+lesen,	w7_d788e2946	NOHI	NOLAB	1.00
+ohne	w9_d788e2949	NOHI	NOLAB	1.00
+darüber	w11_d788e2952	NOHI	NOLAB	1.00
+em	w13_d788e2956	NOHI	NOLAB	1.00
+pfindlich	w1_d788e2962	NOHI	NOLAB	0.99
+gerührt	w3_d788e2965	NOHI	NOLAB	1.00
+zu	w5_d788e2968	NOHI	NOLAB	1.00
+werden.	w7_d788e2971	NOHI	NOLAB	1.00
+Zur	w9_d788e2974	NOHI	NOLAB	1.00
+Zeit,	w11_d788e2977	NOHI	NOLAB	1.00
+da	w13_d788e2981	NOHI	NOLAB	1.00
+man	w1_d788e2986	NOHI	NOLAB	1.00
+vermeinte,	w3_d788e2989	NOHI	NOLAB	1.00
+der	w5_d788e2992	NOHI	NOLAB	1.00
+in	w7_d788e2995	NOHI	NOLAB	1.00
+den	w9_d788e2998	NOHI	NOLAB	1.00
+Nordlichen	w11_d788e3001	NOHI	NOLAB	0.97
+Pro	w13_d788e3005	NOHI	NOLAB	1.00
+vinzen	w1_d788e3010	NOHI	NOLAB	1.00
+von	w3_d788e3013	NOHI	NOLAB	1.00
+den	w5_d788e3016	NOHI	NOLAB	1.00
+Eichen=herzen	w7_d788e3019	NOHI	NOLAB	1.00
+erregte	w9_d788e3022	NOHI	NOLAB	1.00
+Auf	w11_d788e3025	NOHI	NOLAB	1.00
+stand	w1_d788e3030	NOHI	NOLAB	1.00
+wäre	w3_d788e3033	NOHI	NOLAB	1.00
+nun	w5_d788e3036	NOHI	NOLAB	1.00
+fast	w7_d788e3039	NOHI	NOLAB	1.00
+gedämpfet,	w9_d788e3042	NOHI	NOLAB	1.00
+brechen	w11_d788e3045	NOHI	NOLAB	1.00
+in	w13_d788e3049	NOHI	NOLAB	1.00
+der	w1_d788e3055	NOHI	NOLAB	0.99
+Haupt=stadt	w3_d788e3058	NOHI	NOLAB	1.00
+Dublin	w5_d788e3061	NOHI	NOLAB	1.00
+selbst	w7_d788e3064	NOHI	NOLAB	1.00
+die	w9_d788e3067	NOHI	NOLAB	1.00
+gröste	w11_d788e3070	NOHI	NOLAB	1.00
+in	w13_d788e3074	NOHI	NOLAB	1.00
+nerliche	w1_d788e3079	NOHI	NOLAB	0.96
+Unruhen	w3_d788e3082	NOHI	NOLAB	1.00
+aus,	w5_d788e3085	NOHI	NOLAB	1.00
+wobey	w7_d788e3088	NOHI	NOLAB	0.96
+es	w9_d788e3091	NOHI	NOLAB	1.00
+so	w11_d788e3094	NOHI	NOLAB	1.00
+gar	w13_d788e3098	NOHI	NOLAB	1.00
+nicht	w15_d788e3101	NOHI	NOLAB	1.00
+ohne	w1_d788e3106	NOHI	NOLAB	1.00
+Blut=vergiessen	w3_d788e3109	NOHI	NOLAB	1.00
+hergegangen.	w5_d788e3112	NOHI	NOLAB	0.98
+Am	w7_d788e3115	NOHI	NOLAB	1.00
+7.	w1_d788e3120	NOHI	NOLAB	1.00
+dieses	w3_d788e3123	NOHI	NOLAB	0.99
+Monats	w5_d788e3126	NOHI	NOLAB	1.00
+langte	w7_d788e3129	NOHI	NOLAB	1.00
+der	w9_d788e3132	NOHI	NOLAB	1.00
+Handels=mann	w11_d788e3135	NOHI	NOLAB	1.00
+und	w1_d788e3141	NOHI	NOLAB	1.00
+Leinwand=krämer,	w3_d788e3144	NOHI	NOLAB	1.00
+Heinrich	w5_d788e3147	NOHI	NOLAB	1.00
+Cotting	w7_d788e3150	NOHI	NOLAB	0.96
+ham,	w1_d788e3155	NOHI	NOLAB	1.00
+mit	w3_d788e3158	NOHI	NOLAB	0.87
+Seiden=zeug	w5_d788e3161	NOHI	NOLAB	1.00
+auf	w7_d788e3164	NOHI	NOLAB	1.00
+einem	w9_d788e3167	NOHI	NOLAB	0.99
+Schiffe	w11_d788e3170	NOHI	NOLAB	0.94
+aus	w1_d788e3175	NOHI	NOLAB	1.00
+Frankreich	w3_d788e3178	NOHI	NOLAB	1.00
+zu	w5_d788e3181	NOHI	NOLAB	1.00
+Dublin	w7_d788e3184	NOHI	NOLAB	1.00
+an.	w9_d788e3187	NOHI	NOLAB	1.00
+Sobald	w11_d788e3190	NOHI	NOLAB	1.00
+die	w13_d788e3194	NOHI	NOLAB	0.85
+|	w15_d788e3197	NOHI	NOLAB	0.93
+|	w17_d788e3200	NOHI	NOLAB	0.73
 </p>
 <p id="p8_d788e3203">
-ses	w1_d788e3207
-bekannt	w3_d788e3210
-wurde,	w5_d788e3213
-rotteten	w7_d788e3216
-sich	w9_d788e3219
-einige	w11_d788e3222
-100.	w13_d788e3226
-Leinweber	w1_d788e3231
-zusammen,	w3_d788e3234
-liefen	w5_d788e3237
-zu	w7_d788e3240
-dem	w9_d788e3243
-Schiffe,	w11_d788e3246
-bestiegen	w1_d788e3251
-es,	w3_d788e3254
-und	w5_d788e3257
-wollten	w7_d788e3260
-die	w9_d788e3263
-darauf	w11_d788e3266
-befind	w13_d788e3270
-liche	w1_d788e3276
-Habseligkeiten	w3_d788e3279
-verbrennen;	w5_d788e3282
-allein,	w7_d788e3285
-man	w9_d788e3288
-hatte	w1_d788e3293
-bereits	w3_d788e3296
-die	w5_d788e3299
-Vorsicht	w7_d788e3302
-gebraucht,	w9_d788e3305
-dieselbe	w11_d788e3308
-in	w1_d788e3313
-die	w3_d788e3316
-Vorrahts=häuser	w5_d788e3319
-des	w7_d788e3322
-Zollhauses	w9_d788e3325
-nie	w11_d788e3328
-derzulegen.	w1_d788e3333
-Da	w3_d788e3336
-nun	w5_d788e3339
-ihre	w7_d788e3342
-Unternehmung	w9_d788e3345
-durch	w1_d788e3351
-diese	w3_d788e3354
-Behutsamkeit	w5_d788e3357
-fruchtlos	w7_d788e3360
-gewor	w9_d788e3363
-den,	w1_d788e3368
-wollten	w3_d788e3371
-sie	w5_d788e3374
-sich	w7_d788e3377
-auf	w9_d788e3380
-dem	w11_d788e3383
-Schiffe	w13_d788e3387
-selbst	w15_d788e3390
-rächen,	w1_d788e3395
-und	w3_d788e3398
-machten	w5_d788e3401
-bereits	w7_d788e3404
-Anstalten,	w9_d788e3407
-das	w11_d788e3410
-selbe	w1_d788e3415
-in	w3_d788e3418
-Brand	w5_d788e3421
-zu	w7_d788e3424
-stecken.	w9_d788e3427
-Sie	w11_d788e3430
-wurden	w13_d788e3434
-aber	w1_d788e3440
-in	w3_d788e3443
-ihrer	w5_d788e3446
-Verrichtung	w7_d788e3449
-durch	w9_d788e3452
-einige	w11_d788e3455
-zur	w13_d788e3459
-Zeit	w1_d788e3464
-herbeygekommene	w3_d788e3467
-Trupen	w5_d788e3470
-gestöhret,	w7_d788e3473
-und	w1_d788e3478
-sogar	w3_d788e3481
-2.	w5_d788e3484
-von	w7_d788e3487
-den	w9_d788e3490
-Aufwieglern	w11_d788e3493
-beym	w13_d788e3497
-Kopf	w15_d788e3500
-ergriffen.	w1_d788e3505
-Hierauf	w3_d788e3508
-schritte	w5_d788e3511
-der	w7_d788e3514
-Haufen	w9_d788e3517
-zu	w11_d788e3520
-Thätlichkeiten,	w1_d788e3526
-und	w3_d788e3529
-nachdem	w5_d788e3532
-sie	w7_d788e3535
-die	w9_d788e3538
-Loslas	w11_d788e3541
-sung	w1_d788e3546
-ihrer	w3_d788e3549
-Mitgesellen	w5_d788e3552
-vergeblich	w7_d788e3555
-angesucht	w9_d788e3558
-hatten,	w1_d788e3563
-warfen	w3_d788e3566
-sie	w5_d788e3569
-unter	w7_d788e3572
-die	w9_d788e3575
-Trupen	w11_d788e3578
-so	w13_d788e3582
-häu	w15_d788e3585
-fig	w1_d788e3590
-mit	w3_d788e3593
-Steinen,	w5_d788e3596
-daß	w7_d788e3599
-dieselbe	w9_d788e3602
-sich	w11_d788e3605
-genöhtiget	w13_d788e3609
-sahen,	w1_d788e3615
-Gewalt	w3_d788e3618
-mit	w5_d788e3621
-Gewalt	w7_d788e3624
-abzutreiben,	w9_d788e3627
-und	w11_d788e3630
-unter	w1_d788e3635
-die	w3_d788e3638
-Aufrührer	w5_d788e3641
-zu	w7_d788e3644
-feueren.	w9_d788e3647
-Allein	w11_d788e3650
-sie	w13_d788e3654
-wurden	w1_d788e3659
-hierdurch	w3_d788e3662
-keineswegs	w5_d788e3665
-abgeschreckt,	w7_d788e3668
-sondern	w1_d788e3673
-vielmehr	w3_d788e3676
-erbittert,	w5_d788e3679
-und	w7_d788e3682
-setzten	w9_d788e3685
-den	w11_d788e3688
-Trupen	w1_d788e3694
-so	w3_d788e3697
-stark	w5_d788e3700
-zu	w7_d788e3703
-Leibe,	w9_d788e3706
-daß	w11_d788e3709
-sie	w13_d788e3713
-dieselbe	w15_d788e3716
-zum	w17_d788e3719
-weichen	w1_d788e3724
-nöhtigten.	w3_d788e3727
-Die	w5_d788e3730
-Partheilichkeit	w7_d788e3733
-brachte	w1_d788e3738
-es	w3_d788e3741
-weiter.	w5_d788e3744
-Da	w7_d788e3747
-sie	w9_d788e3750
-sahen,	w11_d788e3753
-daß	w13_d788e3757
-sie	w15_d788e3760
-ih	w17_d788e3763
-re	w1_d788e3768
-Mitgesellen	w3_d788e3771
-nicht	w5_d788e3774
-aus	w7_d788e3777
-den	w9_d788e3780
-Händen	w11_d788e3783
-der	w13_d788e3787
-Soldaten	w1_d788e3793
-reissen	w3_d788e3796
-konnten,	w5_d788e3799
-bestürmten	w7_d788e3802
-sie	w9_d788e3805
-die	w1_d788e3810
-Weber=stühle	w3_d788e3813
-des	w5_d788e3816
-Hrn.	w7_d788e3819
-Cottingham	w9_d788e3822
-zer	w11_d788e3825
-schnitten,	w1_d788e3830
-und	w3_d788e3833
-zersetzte	w5_d788e3836
-daselbst	w7_d788e3839
-für	w9_d788e3842
-einige	w11_d788e3845
-100.	w13_d788e3849
-Pf.	w1_d788e3854
-Sterl.	w3_d788e3857
-Zeug	w5_d788e3860
-und	w7_d788e3863
-Waaren.	w9_d788e3866
-Tages	w11_d788e3869
-dar	w13_d788e3873
-auf,	w1_d788e3879
-am	w3_d788e3882
-8ten,	w5_d788e3885
-henkten	w7_d788e3888
-sie	w9_d788e3891
-des	w11_d788e3894
-Cotting	w13_d788e3898
-hams	w1_d788e3903
-Bildnüß	w3_d788e3906
-nahe	w5_d788e3909
-bey	w7_d788e3912
-seinem	w9_d788e3915
-Hause	w11_d788e3918
-auf,	w13_d788e3922
-und	w1_d788e3927
-nachdem	w3_d788e3930
-sie	w5_d788e3933
-sich	w7_d788e3936
-mit	w9_d788e3939
-Schieß=gewehr	w11_d788e3942
-ver	w13_d788e3946
-sehen	w1_d788e3951
-hatten,	w3_d788e3954
-feuerten	w5_d788e3957
-sie	w7_d788e3960
-am	w9_d788e3963
-9.	w11_d788e3966
-den	w13_d788e3970
-ganzen	w15_d788e3973
-Tag	w1_d788e3979
-über	w3_d788e3982
-gegen	w5_d788e3985
-die	w7_d788e3988
-Soldaten,	w9_d788e3991
-also,	w11_d788e3994
-daß	w13_d788e3998
-die	w15_d788e4001
-ganze	w1_d788e4006
-Stadt	w3_d788e4009
-in	w5_d788e4012
-der	w7_d788e4015
-grösten	w9_d788e4018
-Verwirrung	w11_d788e4021
-war.	w13_d788e4025
-Erst	w1_d788e4030
-am	w3_d788e4033
-11.	w5_d788e4036
-hat	w7_d788e4039
-man	w9_d788e4042
-auf	w11_d788e4045
-die	w13_d788e4049
-Mittel	w15_d788e4052
-be	w17_d788e4055
-dacht	w1_d788e4060
-seyn	w3_d788e4063
-sollen,	w5_d788e4066
-wie	w7_d788e4069
-man	w9_d788e4072
-der	w11_d788e4075
-Einfuhr	w13_d788e4079
-der	w15_d788e4082
-Französischen	w1_d788e4088
-Manufacturen,	w3_d788e4091
-es	w5_d788e4094
-sey	w7_d788e4097
-grad	w9_d788e4100
-oder	w1_d788e4105
-durch	w3_d788e4108
-Neben=wege,	w5_d788e4111
-vorkommen	w7_d788e4114
-werde.	w9_d788e4117
+ses	w1_d788e3207	NOHI	NOLAB	1.00
+bekannt	w3_d788e3210	NOHI	NOLAB	1.00
+wurde,	w5_d788e3213	NOHI	NOLAB	0.99
+rotteten	w7_d788e3216	NOHI	NOLAB	0.99
+sich	w9_d788e3219	NOHI	NOLAB	1.00
+einige	w11_d788e3222	NOHI	NOLAB	1.00
+100.	w13_d788e3226	NOHI	NOLAB	0.95
+Leinweber	w1_d788e3231	NOHI	NOLAB	0.99
+zusammen,	w3_d788e3234	NOHI	NOLAB	0.99
+liefen	w5_d788e3237	NOHI	NOLAB	1.00
+zu	w7_d788e3240	NOHI	NOLAB	1.00
+dem	w9_d788e3243	NOHI	NOLAB	1.00
+Schiffe,	w11_d788e3246	NOHI	NOLAB	1.00
+bestiegen	w1_d788e3251	NOHI	NOLAB	0.98
+es,	w3_d788e3254	NOHI	NOLAB	1.00
+und	w5_d788e3257	NOHI	NOLAB	1.00
+wollten	w7_d788e3260	NOHI	NOLAB	1.00
+die	w9_d788e3263	NOHI	NOLAB	1.00
+darauf	w11_d788e3266	NOHI	NOLAB	1.00
+befind	w13_d788e3270	NOHI	NOLAB	0.96
+liche	w1_d788e3276	NOHI	NOLAB	0.96
+Habseligkeiten	w3_d788e3279	NOHI	NOLAB	0.97
+verbrennen;	w5_d788e3282	NOHI	NOLAB	1.00
+allein,	w7_d788e3285	NOHI	NOLAB	1.00
+man	w9_d788e3288	NOHI	NOLAB	1.00
+hatte	w1_d788e3293	NOHI	NOLAB	1.00
+bereits	w3_d788e3296	NOHI	NOLAB	1.00
+die	w5_d788e3299	NOHI	NOLAB	0.76
+Vorsicht	w7_d788e3302	NOHI	NOLAB	1.00
+gebraucht,	w9_d788e3305	NOHI	NOLAB	1.00
+dieselbe	w11_d788e3308	NOHI	NOLAB	0.93
+in	w1_d788e3313	NOHI	NOLAB	1.00
+die	w3_d788e3316	NOHI	NOLAB	0.87
+Vorrahts=häuser	w5_d788e3319	NOHI	NOLAB	1.00
+des	w7_d788e3322	NOHI	NOLAB	1.00
+Zollhauses	w9_d788e3325	NOHI	NOLAB	0.98
+nie	w11_d788e3328	NOHI	NOLAB	1.00
+derzulegen.	w1_d788e3333	NOHI	NOLAB	0.99
+Da	w3_d788e3336	NOHI	NOLAB	1.00
+nun	w5_d788e3339	NOHI	NOLAB	1.00
+ihre	w7_d788e3342	NOHI	NOLAB	1.00
+Unternehmung	w9_d788e3345	NOHI	NOLAB	1.00
+durch	w1_d788e3351	NOHI	NOLAB	1.00
+diese	w3_d788e3354	NOHI	NOLAB	1.00
+Behutsamkeit	w5_d788e3357	NOHI	NOLAB	1.00
+fruchtlos	w7_d788e3360	NOHI	NOLAB	0.99
+gewor	w9_d788e3363	NOHI	NOLAB	1.00
+den,	w1_d788e3368	NOHI	NOLAB	0.92
+wollten	w3_d788e3371	NOHI	NOLAB	1.00
+sie	w5_d788e3374	NOHI	NOLAB	0.94
+sich	w7_d788e3377	NOHI	NOLAB	1.00
+auf	w9_d788e3380	NOHI	NOLAB	1.00
+dem	w11_d788e3383	NOHI	NOLAB	1.00
+Schiffe	w13_d788e3387	NOHI	NOLAB	0.99
+selbst	w15_d788e3390	NOHI	NOLAB	1.00
+rächen,	w1_d788e3395	NOHI	NOLAB	1.00
+und	w3_d788e3398	NOHI	NOLAB	1.00
+machten	w5_d788e3401	NOHI	NOLAB	1.00
+bereits	w7_d788e3404	NOHI	NOLAB	0.93
+Anstalten,	w9_d788e3407	NOHI	NOLAB	1.00
+das	w11_d788e3410	NOHI	NOLAB	1.00
+selbe	w1_d788e3415	NOHI	NOLAB	1.00
+in	w3_d788e3418	NOHI	NOLAB	1.00
+Brand	w5_d788e3421	NOHI	NOLAB	1.00
+zu	w7_d788e3424	NOHI	NOLAB	0.80
+stecken.	w9_d788e3427	NOHI	NOLAB	0.95
+Sie	w11_d788e3430	NOHI	NOLAB	1.00
+wurden	w13_d788e3434	NOHI	NOLAB	1.00
+aber	w1_d788e3440	NOHI	NOLAB	1.00
+in	w3_d788e3443	NOHI	NOLAB	1.00
+ihrer	w5_d788e3446	NOHI	NOLAB	1.00
+Verrichtung	w7_d788e3449	NOHI	NOLAB	0.95
+durch	w9_d788e3452	NOHI	NOLAB	0.97
+einige	w11_d788e3455	NOHI	NOLAB	0.99
+zur	w13_d788e3459	NOHI	NOLAB	1.00
+Zeit	w1_d788e3464	NOHI	NOLAB	1.00
+herbeygekommene	w3_d788e3467	NOHI	NOLAB	1.00
+Trupen	w5_d788e3470	NOHI	NOLAB	1.00
+gestöhret,	w7_d788e3473	NOHI	NOLAB	1.00
+und	w1_d788e3478	NOHI	NOLAB	1.00
+sogar	w3_d788e3481	NOHI	NOLAB	1.00
+2.	w5_d788e3484	NOHI	NOLAB	0.87
+von	w7_d788e3487	NOHI	NOLAB	1.00
+den	w9_d788e3490	NOHI	NOLAB	0.90
+Aufwieglern	w11_d788e3493	NOHI	NOLAB	0.99
+beym	w13_d788e3497	NOHI	NOLAB	1.00
+Kopf	w15_d788e3500	NOHI	NOLAB	0.92
+ergriffen.	w1_d788e3505	NOHI	NOLAB	0.97
+Hierauf	w3_d788e3508	NOHI	NOLAB	1.00
+schritte	w5_d788e3511	NOHI	NOLAB	1.00
+der	w7_d788e3514	NOHI	NOLAB	0.97
+Haufen	w9_d788e3517	NOHI	NOLAB	1.00
+zu	w11_d788e3520	NOHI	NOLAB	1.00
+Thätlichkeiten,	w1_d788e3526	NOHI	NOLAB	1.00
+und	w3_d788e3529	NOHI	NOLAB	1.00
+nachdem	w5_d788e3532	NOHI	NOLAB	1.00
+sie	w7_d788e3535	NOHI	NOLAB	0.96
+die	w9_d788e3538	NOHI	NOLAB	0.92
+Loslas	w11_d788e3541	NOHI	NOLAB	1.00
+sung	w1_d788e3546	NOHI	NOLAB	1.00
+ihrer	w3_d788e3549	NOHI	NOLAB	0.99
+Mitgesellen	w5_d788e3552	NOHI	NOLAB	0.99
+vergeblich	w7_d788e3555	NOHI	NOLAB	0.98
+angesucht	w9_d788e3558	NOHI	NOLAB	0.98
+hatten,	w1_d788e3563	NOHI	NOLAB	1.00
+warfen	w3_d788e3566	NOHI	NOLAB	1.00
+sie	w5_d788e3569	NOHI	NOLAB	0.96
+unter	w7_d788e3572	NOHI	NOLAB	0.93
+die	w9_d788e3575	NOHI	NOLAB	0.85
+Trupen	w11_d788e3578	NOHI	NOLAB	1.00
+so	w13_d788e3582	NOHI	NOLAB	1.00
+häu	w15_d788e3585	NOHI	NOLAB	1.00
+fig	w1_d788e3590	NOHI	NOLAB	0.98
+mit	w3_d788e3593	NOHI	NOLAB	1.00
+Steinen,	w5_d788e3596	NOHI	NOLAB	1.00
+daß	w7_d788e3599	NOHI	NOLAB	1.00
+dieselbe	w9_d788e3602	NOHI	NOLAB	0.98
+sich	w11_d788e3605	NOHI	NOLAB	0.98
+genöhtiget	w13_d788e3609	NOHI	NOLAB	0.93
+sahen,	w1_d788e3615	NOHI	NOLAB	1.00
+Gewalt	w3_d788e3618	NOHI	NOLAB	0.98
+mit	w5_d788e3621	NOHI	NOLAB	1.00
+Gewalt	w7_d788e3624	NOHI	NOLAB	0.97
+abzutreiben,	w9_d788e3627	NOHI	NOLAB	0.99
+und	w11_d788e3630	NOHI	NOLAB	1.00
+unter	w1_d788e3635	NOHI	NOLAB	0.94
+die	w3_d788e3638	NOHI	NOLAB	0.92
+Aufrührer	w5_d788e3641	NOHI	NOLAB	1.00
+zu	w7_d788e3644	NOHI	NOLAB	1.00
+feueren.	w9_d788e3647	NOHI	NOLAB	0.95
+Allein	w11_d788e3650	NOHI	NOLAB	1.00
+sie	w13_d788e3654	NOHI	NOLAB	1.00
+wurden	w1_d788e3659	NOHI	NOLAB	1.00
+hierdurch	w3_d788e3662	NOHI	NOLAB	0.99
+keineswegs	w5_d788e3665	NOHI	NOLAB	0.95
+abgeschreckt,	w7_d788e3668	NOHI	NOLAB	1.00
+sondern	w1_d788e3673	NOHI	NOLAB	1.00
+vielmehr	w3_d788e3676	NOHI	NOLAB	1.00
+erbittert,	w5_d788e3679	NOHI	NOLAB	0.95
+und	w7_d788e3682	NOHI	NOLAB	1.00
+setzten	w9_d788e3685	NOHI	NOLAB	1.00
+den	w11_d788e3688	NOHI	NOLAB	1.00
+Trupen	w1_d788e3694	NOHI	NOLAB	1.00
+so	w3_d788e3697	NOHI	NOLAB	1.00
+stark	w5_d788e3700	NOHI	NOLAB	1.00
+zu	w7_d788e3703	NOHI	NOLAB	1.00
+Leibe,	w9_d788e3706	NOHI	NOLAB	0.96
+daß	w11_d788e3709	NOHI	NOLAB	1.00
+sie	w13_d788e3713	NOHI	NOLAB	0.89
+dieselbe	w15_d788e3716	NOHI	NOLAB	1.00
+zum	w17_d788e3719	NOHI	NOLAB	1.00
+weichen	w1_d788e3724	NOHI	NOLAB	1.00
+nöhtigten.	w3_d788e3727	NOHI	NOLAB	0.96
+Die	w5_d788e3730	NOHI	NOLAB	1.00
+Partheilichkeit	w7_d788e3733	NOHI	NOLAB	1.00
+brachte	w1_d788e3738	NOHI	NOLAB	0.96
+es	w3_d788e3741	NOHI	NOLAB	1.00
+weiter.	w5_d788e3744	NOHI	NOLAB	1.00
+Da	w7_d788e3747	NOHI	NOLAB	1.00
+sie	w9_d788e3750	NOHI	NOLAB	1.00
+sahen,	w11_d788e3753	NOHI	NOLAB	1.00
+daß	w13_d788e3757	NOHI	NOLAB	1.00
+sie	w15_d788e3760	NOHI	NOLAB	0.84
+ih	w17_d788e3763	NOHI	NOLAB	1.00
+re	w1_d788e3768	NOHI	NOLAB	1.00
+Mitgesellen	w3_d788e3771	NOHI	NOLAB	0.95
+nicht	w5_d788e3774	NOHI	NOLAB	1.00
+aus	w7_d788e3777	NOHI	NOLAB	1.00
+den	w9_d788e3780	NOHI	NOLAB	0.93
+Händen	w11_d788e3783	NOHI	NOLAB	1.00
+der	w13_d788e3787	NOHI	NOLAB	1.00
+Soldaten	w1_d788e3793	NOHI	NOLAB	1.00
+reissen	w3_d788e3796	NOHI	NOLAB	1.00
+konnten,	w5_d788e3799	NOHI	NOLAB	0.96
+bestürmten	w7_d788e3802	NOHI	NOLAB	0.97
+sie	w9_d788e3805	NOHI	NOLAB	1.00
+die	w1_d788e3810	NOHI	NOLAB	0.86
+Weber=stühle	w3_d788e3813	NOHI	NOLAB	1.00
+des	w5_d788e3816	NOHI	NOLAB	1.00
+Hrn.	w7_d788e3819	NOHI	NOLAB	1.00
+Cottingham	w9_d788e3822	NOHI	NOLAB	1.00
+zer	w11_d788e3825	NOHI	NOLAB	0.91
+schnitten,	w1_d788e3830	NOHI	NOLAB	0.99
+und	w3_d788e3833	NOHI	NOLAB	1.00
+zersetzte	w5_d788e3836	NOHI	NOLAB	0.95
+daselbst	w7_d788e3839	NOHI	NOLAB	0.99
+für	w9_d788e3842	NOHI	NOLAB	1.00
+einige	w11_d788e3845	NOHI	NOLAB	1.00
+100.	w13_d788e3849	NOHI	NOLAB	1.00
+Pf.	w1_d788e3854	NOHI	NOLAB	1.00
+Sterl.	w3_d788e3857	NOHI	NOLAB	1.00
+Zeug	w5_d788e3860	NOHI	NOLAB	1.00
+und	w7_d788e3863	NOHI	NOLAB	1.00
+Waaren.	w9_d788e3866	NOHI	NOLAB	1.00
+Tages	w11_d788e3869	NOHI	NOLAB	0.98
+dar	w13_d788e3873	NOHI	NOLAB	1.00
+auf,	w1_d788e3879	NOHI	NOLAB	1.00
+am	w3_d788e3882	NOHI	NOLAB	1.00
+8ten,	w5_d788e3885	NOHI	NOLAB	1.00
+henkten	w7_d788e3888	NOHI	NOLAB	1.00
+sie	w9_d788e3891	NOHI	NOLAB	1.00
+des	w11_d788e3894	NOHI	NOLAB	1.00
+Cotting	w13_d788e3898	NOHI	NOLAB	1.00
+hams	w1_d788e3903	NOHI	NOLAB	0.99
+Bildnüß	w3_d788e3906	NOHI	NOLAB	1.00
+nahe	w5_d788e3909	NOHI	NOLAB	1.00
+bey	w7_d788e3912	NOHI	NOLAB	1.00
+seinem	w9_d788e3915	NOHI	NOLAB	1.00
+Hause	w11_d788e3918	NOHI	NOLAB	1.00
+auf,	w13_d788e3922	NOHI	NOLAB	1.00
+und	w1_d788e3927	NOHI	NOLAB	1.00
+nachdem	w3_d788e3930	NOHI	NOLAB	1.00
+sie	w5_d788e3933	NOHI	NOLAB	0.92
+sich	w7_d788e3936	NOHI	NOLAB	1.00
+mit	w9_d788e3939	NOHI	NOLAB	1.00
+Schieß=gewehr	w11_d788e3942	NOHI	NOLAB	0.97
+ver	w13_d788e3946	NOHI	NOLAB	1.00
+sehen	w1_d788e3951	NOHI	NOLAB	1.00
+hatten,	w3_d788e3954	NOHI	NOLAB	1.00
+feuerten	w5_d788e3957	NOHI	NOLAB	1.00
+sie	w7_d788e3960	NOHI	NOLAB	1.00
+am	w9_d788e3963	NOHI	NOLAB	1.00
+9.	w11_d788e3966	NOHI	NOLAB	1.00
+den	w13_d788e3970	NOHI	NOLAB	1.00
+ganzen	w15_d788e3973	NOHI	NOLAB	1.00
+Tag	w1_d788e3979	NOHI	NOLAB	1.00
+über	w3_d788e3982	NOHI	NOLAB	0.98
+gegen	w5_d788e3985	NOHI	NOLAB	0.93
+die	w7_d788e3988	NOHI	NOLAB	0.87
+Soldaten,	w9_d788e3991	NOHI	NOLAB	1.00
+also,	w11_d788e3994	NOHI	NOLAB	0.99
+daß	w13_d788e3998	NOHI	NOLAB	1.00
+die	w15_d788e4001	NOHI	NOLAB	1.00
+ganze	w1_d788e4006	NOHI	NOLAB	0.98
+Stadt	w3_d788e4009	NOHI	NOLAB	1.00
+in	w5_d788e4012	NOHI	NOLAB	1.00
+der	w7_d788e4015	NOHI	NOLAB	0.96
+grösten	w9_d788e4018	NOHI	NOLAB	0.95
+Verwirrung	w11_d788e4021	NOHI	NOLAB	1.00
+war.	w13_d788e4025	NOHI	NOLAB	1.00
+Erst	w1_d788e4030	NOHI	NOLAB	0.94
+am	w3_d788e4033	NOHI	NOLAB	1.00
+11.	w5_d788e4036	NOHI	NOLAB	1.00
+hat	w7_d788e4039	NOHI	NOLAB	1.00
+man	w9_d788e4042	NOHI	NOLAB	1.00
+auf	w11_d788e4045	NOHI	NOLAB	1.00
+die	w13_d788e4049	NOHI	NOLAB	1.00
+Mittel	w15_d788e4052	NOHI	NOLAB	1.00
+be	w17_d788e4055	NOHI	NOLAB	0.99
+dacht	w1_d788e4060	NOHI	NOLAB	1.00
+seyn	w3_d788e4063	NOHI	NOLAB	1.00
+sollen,	w5_d788e4066	NOHI	NOLAB	1.00
+wie	w7_d788e4069	NOHI	NOLAB	1.00
+man	w9_d788e4072	NOHI	NOLAB	1.00
+der	w11_d788e4075	NOHI	NOLAB	1.00
+Einfuhr	w13_d788e4079	NOHI	NOLAB	0.99
+der	w15_d788e4082	NOHI	NOLAB	1.00
+Französischen	w1_d788e4088	NOHI	NOLAB	0.95
+Manufacturen,	w3_d788e4091	NOHI	NOLAB	1.00
+es	w5_d788e4094	NOHI	NOLAB	1.00
+sey	w7_d788e4097	NOHI	NOLAB	1.00
+grad	w9_d788e4100	NOHI	NOLAB	0.99
+oder	w1_d788e4105	NOHI	NOLAB	1.00
+durch	w3_d788e4108	NOHI	NOLAB	1.00
+Neben=wege,	w5_d788e4111	NOHI	NOLAB	0.97
+vorkommen	w7_d788e4114	NOHI	NOLAB	1.00
+werde.	w9_d788e4117	NOHI	NOLAB	0.98
 </p>
 <p id="p14_d788e4131">
-Aus	w1_d788e4135
-Nord=america	w3_d788e4138
-hat	w5_d788e4141
-man	w7_d788e4144
-gleichermas	w9_d788e4147
-sen	w1_d788e4152
-bedaurenswürdige	w3_d788e4155
-Nachrichten.	w5_d788e4158
-Detroit,	w7_d788e4161
-samt	w1_d788e4166
-einigen	w3_d788e4169
-eben	w5_d788e4172
-nicht	w7_d788e4175
-so	w9_d788e4178
-wichtigen	w11_d788e4181
-Schan	w13_d788e4185
-zen	w1_d788e4191
-sind	w3_d788e4194
-in	w5_d788e4197
-die	w7_d788e4200
-Macht	w9_d788e4203
-der	w11_d788e4206
-Wilden	w13_d788e4210
-gefallen,	w15_d788e4213
-und	w1_d788e4218
-die	w3_d788e4221
-darinn	w5_d788e4224
-befindliche	w7_d788e4227
-Besatzungen	w9_d788e4230
-er	w11_d788e4233
-mordet	w1_d788e4238
-worden.	w3_d788e4241
-Pitsburg	w5_d788e4244
-ist	w7_d788e4247
-auch	w9_d788e4250
-bereits	w11_d788e4253
-berennet.	w1_d788e4258
-Alle	w3_d788e4261
-von	w5_d788e4264
-den	w7_d788e4267
-befestigten	w9_d788e4270
-Plätzen	w11_d788e4273
-entfernte,	w1_d788e4279
-und	w3_d788e4282
-gegen	w5_d788e4285
-die	w7_d788e4288
-Landseen	w9_d788e4291
-und	w11_d788e4294
-das	w13_d788e4298
-Gebürge	w1_d788e4303
-Apalatai	w3_d788e4306
-gelegene	w5_d788e4309
-Engländische	w7_d788e4312
-Etablissementen	w1_d788e4317
-sind	w3_d788e4320
-verheeret,	w5_d788e4323
-und	w7_d788e4326
-die	w9_d788e4329
-da	w11_d788e4332
-selbst	w1_d788e4337
-Niedergesessene	w3_d788e4340
-erbärmlich	w5_d788e4343
-erwürget	w7_d788e4346
-worden.	w1_d788e4352
-Jhr	w3_d788e4355
-Grimm	w5_d788e4358
-ist	w7_d788e4361
-so	w9_d788e4364
-hoch	w11_d788e4367
-gestiegen,	w13_d788e4371
-daß	w1_d788e4376
-sie	w3_d788e4379
-die	w5_d788e4382
-Erklärung	w7_d788e4385
-von	w9_d788e4388
-sich	w11_d788e4391
-gegeben,	w13_d788e4395
-wie	w15_d788e4398
-sie	w1_d788e4403
-entschlossen	w3_d788e4406
-wären,	w5_d788e4409
-alle	w7_d788e4412
-Engländische	w9_d788e4415
-Pro	w11_d788e4418
-vinzen	w1_d788e4423
-zu	w3_d788e4426
-befehden,	w5_d788e4429
-und	w7_d788e4432
-keinem	w9_d788e4435
-einzigen,	w11_d788e4438
-es	w13_d788e4442
-sey	w1_d788e4448
-wer	w3_d788e4451
-es	w5_d788e4454
-immer	w7_d788e4457
-wolle,	w9_d788e4460
-Pardon	w11_d788e4463
-zu	w13_d788e4467
-geben,	w15_d788e4470
-sondern	w1_d788e4475
-alles	w3_d788e4478
-zu	w5_d788e4481
-massacriren.	w7_d788e4484
-Zu	w9_d788e4487
-dem	w11_d788e4490
-En	w13_d788e4494
-de	w1_d788e4499
-haben	w3_d788e4502
-verschiedene	w5_d788e4505
-Jndianische	w7_d788e4508
-Stämt	w9_d788e4511
-me	w1_d788e4516
-ein	w3_d788e4519
-Bündnüß	w5_d788e4522
-gemacht,	w7_d788e4525
-und	w9_d788e4528
-die	w11_d788e4531
-betrübte	w13_d788e4535
-sten	w1_d788e4541
-Spuren	w3_d788e4544
-ihres	w5_d788e4547
-grausamen	w7_d788e4550
-und	w9_d788e4553
-unmensch	w11_d788e4556
-lichen	w1_d788e4561
-Verfahrens	w3_d788e4564
-aller	w5_d788e4567
-Orten,	w7_d788e4570
-wo	w9_d788e4573
-sie	w11_d788e4576
-ihre	w13_d788e4580
-blutgierige	w1_d788e4585
-Schritte	w3_d788e4588
-hinrichten,	w5_d788e4591
-hinterlassen.	w7_d788e4594
-Briefe	w1_d788e4599
-aus	w3_d788e4602
-der	w5_d788e4605
-Schanze	w7_d788e4608
-Bedford,	w9_d788e4611
-vom	w11_d788e4614
-18.	w13_d788e4618
-Junii,	w1_d788e4624
-geben	w3_d788e4627
-davon	w5_d788e4630
-noch	w7_d788e4633
-nähere	w9_d788e4636
-Umstände.	w11_d788e4639
-Die	w1_d788e4644
-arme	w3_d788e4647
-Ackers=leute,	w5_d788e4650
-die,	w7_d788e4653
-um	w9_d788e4656
-ihr	w11_d788e4659
-Leben	w13_d788e4663
-zu	w1_d788e4668
-retten,	w3_d788e4671
-ihre	w5_d788e4674
-Wohnungen	w7_d788e4677
-verlassen,	w9_d788e4680
-und	w11_d788e4683
-nach	w1_d788e4688
-vorerwehnter	w3_d788e4691
-Schanze	w5_d788e4694
-geflüchtet	w7_d788e4697
-waren,	w9_d788e4700
-kehrten	w1_d788e4706
-wieder	w3_d788e4709
-zurück,	w5_d788e4712
-und	w7_d788e4715
-wollten	w9_d788e4718
-ihre	w11_d788e4721
-Früchten	w1_d788e4726
-einernden,	w3_d788e4729
-damit	w5_d788e4732
-sie	w7_d788e4735
-künftigen	w9_d788e4738
-Win	w11_d788e4741
-ter	w1_d788e4746
-nicht	w3_d788e4749
-vor	w5_d788e4752
-Hunger	w7_d788e4755
-sterben	w9_d788e4758
-möchten.	w11_d788e4761
-Diese	w13_d788e4765
-Gelegenheit	w1_d788e4770
-hätten	w3_d788e4773
-sich	w5_d788e4776
-sofort	w7_d788e4779
-die	w9_d788e4782
-Wilde	w11_d788e4785
-zu	w13_d788e4789
-Nutze	w1_d788e4795
-gemacht;	w3_d788e4798
-3.	w5_d788e4801
-bis	w7_d788e4804
-4.	w9_d788e4807
-Haushaltungen	w11_d788e4810
-am	w1_d788e4815
-17.	w3_d788e4818
-und	w5_d788e4821
-18.	w7_d788e4824
-zu	w9_d788e4827
-Denningscreek	w11_d788e4830
-überfal	w13_d788e4834
-len,	w1_d788e4839
-und	w3_d788e4842
-alle	w5_d788e4845
-gespiesset	w7_d788e4848
-und	w9_d788e4851
-massacrirt.	w11_d788e4854
-Ande	w13_d788e4858
-re	w1_d788e4863
-hingegen,	w3_d788e4866
-die	w5_d788e4869
-nach	w7_d788e4872
-der	w9_d788e4875
-Schanze	w11_d788e4878
-wieder	w13_d788e4882
-ei	w15_d788e4885
-ligst	w1_d788e4891
-zurückgekehret,	w3_d788e4894
-hätten	w5_d788e4897
-auf	w7_d788e4900
-ihrer	w9_d788e4903
-Rück	w11_d788e4906
-kehre,	w1_d788e4911
-da	w3_d788e4914
-sie	w5_d788e4917
-von	w7_d788e4920
-ihren	w9_d788e4923
-Wohnungen	w11_d788e4926
-eine	w13_d788e4930
-Mei	w15_d788e4933
-le	w1_d788e4938
-Weges	w3_d788e4941
-entfernet,	w5_d788e4944
-dieselbe	w7_d788e4947
-in	w9_d788e4950
-vollen	w11_d788e4953
-Flam	w13_d788e4957
-men	w1_d788e4962
-gesehen.	w3_d788e4965
+Aus	w1_d788e4135	NOHI	NOLAB	1.00
+Nord=america	w3_d788e4138	NOHI	NOLAB	0.98
+hat	w5_d788e4141	NOHI	NOLAB	0.84
+man	w7_d788e4144	NOHI	NOLAB	1.00
+gleichermas	w9_d788e4147	NOHI	NOLAB	0.99
+sen	w1_d788e4152	NOHI	NOLAB	0.97
+bedaurenswürdige	w3_d788e4155	NOHI	NOLAB	0.98
+Nachrichten.	w5_d788e4158	NOHI	NOLAB	0.92
+Detroit,	w7_d788e4161	NOHI	NOLAB	1.00
+samt	w1_d788e4166	NOHI	NOLAB	1.00
+einigen	w3_d788e4169	NOHI	NOLAB	0.97
+eben	w5_d788e4172	NOHI	NOLAB	1.00
+nicht	w7_d788e4175	NOHI	NOLAB	1.00
+so	w9_d788e4178	NOHI	NOLAB	1.00
+wichtigen	w11_d788e4181	NOHI	NOLAB	1.00
+Schan	w13_d788e4185	NOHI	NOLAB	1.00
+zen	w1_d788e4191	NOHI	NOLAB	1.00
+sind	w3_d788e4194	NOHI	NOLAB	1.00
+in	w5_d788e4197	NOHI	NOLAB	1.00
+die	w7_d788e4200	NOHI	NOLAB	1.00
+Macht	w9_d788e4203	NOHI	NOLAB	1.00
+der	w11_d788e4206	NOHI	NOLAB	1.00
+Wilden	w13_d788e4210	NOHI	NOLAB	1.00
+gefallen,	w15_d788e4213	NOHI	NOLAB	0.98
+und	w1_d788e4218	NOHI	NOLAB	1.00
+die	w3_d788e4221	NOHI	NOLAB	0.91
+darinn	w5_d788e4224	NOHI	NOLAB	1.00
+befindliche	w7_d788e4227	NOHI	NOLAB	0.97
+Besatzungen	w9_d788e4230	NOHI	NOLAB	0.97
+er	w11_d788e4233	NOHI	NOLAB	1.00
+mordet	w1_d788e4238	NOHI	NOLAB	1.00
+worden.	w3_d788e4241	NOHI	NOLAB	0.96
+Pitsburg	w5_d788e4244	NOHI	NOLAB	1.00
+ist	w7_d788e4247	NOHI	NOLAB	1.00
+auch	w9_d788e4250	NOHI	NOLAB	1.00
+bereits	w11_d788e4253	NOHI	NOLAB	1.00
+berennet.	w1_d788e4258	NOHI	NOLAB	0.95
+Alle	w3_d788e4261	NOHI	NOLAB	1.00
+von	w5_d788e4264	NOHI	NOLAB	1.00
+den	w7_d788e4267	NOHI	NOLAB	1.00
+befestigten	w9_d788e4270	NOHI	NOLAB	0.96
+Plätzen	w11_d788e4273	NOHI	NOLAB	0.94
+entfernte,	w1_d788e4279	NOHI	NOLAB	0.97
+und	w3_d788e4282	NOHI	NOLAB	1.00
+gegen	w5_d788e4285	NOHI	NOLAB	1.00
+die	w7_d788e4288	NOHI	NOLAB	0.85
+Landseen	w9_d788e4291	NOHI	NOLAB	0.96
+und	w11_d788e4294	NOHI	NOLAB	0.94
+das	w13_d788e4298	NOHI	NOLAB	1.00
+Gebürge	w1_d788e4303	NOHI	NOLAB	0.92
+Apalatai	w3_d788e4306	NOHI	NOLAB	1.00
+gelegene	w5_d788e4309	NOHI	NOLAB	0.96
+Engländische	w7_d788e4312	NOHI	NOLAB	0.99
+Etablissementen	w1_d788e4317	NOHI	NOLAB	1.00
+sind	w3_d788e4320	NOHI	NOLAB	1.00
+verheeret,	w5_d788e4323	NOHI	NOLAB	1.00
+und	w7_d788e4326	NOHI	NOLAB	1.00
+die	w9_d788e4329	NOHI	NOLAB	1.00
+da	w11_d788e4332	NOHI	NOLAB	1.00
+selbst	w1_d788e4337	NOHI	NOLAB	1.00
+Niedergesessene	w3_d788e4340	NOHI	NOLAB	0.99
+erbärmlich	w5_d788e4343	NOHI	NOLAB	1.00
+erwürget	w7_d788e4346	NOHI	NOLAB	0.96
+worden.	w1_d788e4352	NOHI	NOLAB	1.00
+Jhr	w3_d788e4355	NOHI	NOLAB	1.00
+Grimm	w5_d788e4358	NOHI	NOLAB	1.00
+ist	w7_d788e4361	NOHI	NOLAB	1.00
+so	w9_d788e4364	NOHI	NOLAB	1.00
+hoch	w11_d788e4367	NOHI	NOLAB	1.00
+gestiegen,	w13_d788e4371	NOHI	NOLAB	1.00
+daß	w1_d788e4376	NOHI	NOLAB	1.00
+sie	w3_d788e4379	NOHI	NOLAB	0.96
+die	w5_d788e4382	NOHI	NOLAB	1.00
+Erklärung	w7_d788e4385	NOHI	NOLAB	1.00
+von	w9_d788e4388	NOHI	NOLAB	1.00
+sich	w11_d788e4391	NOHI	NOLAB	1.00
+gegeben,	w13_d788e4395	NOHI	NOLAB	1.00
+wie	w15_d788e4398	NOHI	NOLAB	1.00
+sie	w1_d788e4403	NOHI	NOLAB	1.00
+entschlossen	w3_d788e4406	NOHI	NOLAB	1.00
+wären,	w5_d788e4409	NOHI	NOLAB	0.96
+alle	w7_d788e4412	NOHI	NOLAB	1.00
+Engländische	w9_d788e4415	NOHI	NOLAB	0.94
+Pro	w11_d788e4418	NOHI	NOLAB	1.00
+vinzen	w1_d788e4423	NOHI	NOLAB	1.00
+zu	w3_d788e4426	NOHI	NOLAB	1.00
+befehden,	w5_d788e4429	NOHI	NOLAB	0.99
+und	w7_d788e4432	NOHI	NOLAB	1.00
+keinem	w9_d788e4435	NOHI	NOLAB	1.00
+einzigen,	w11_d788e4438	NOHI	NOLAB	0.95
+es	w13_d788e4442	NOHI	NOLAB	1.00
+sey	w1_d788e4448	NOHI	NOLAB	0.95
+wer	w3_d788e4451	NOHI	NOLAB	1.00
+es	w5_d788e4454	NOHI	NOLAB	1.00
+immer	w7_d788e4457	NOHI	NOLAB	0.96
+wolle,	w9_d788e4460	NOHI	NOLAB	0.94
+Pardon	w11_d788e4463	NOHI	NOLAB	1.00
+zu	w13_d788e4467	NOHI	NOLAB	1.00
+geben,	w15_d788e4470	NOHI	NOLAB	0.84
+sondern	w1_d788e4475	NOHI	NOLAB	1.00
+alles	w3_d788e4478	NOHI	NOLAB	1.00
+zu	w5_d788e4481	NOHI	NOLAB	1.00
+massacriren.	w7_d788e4484	NOHI	NOLAB	1.00
+Zu	w9_d788e4487	NOHI	NOLAB	1.00
+dem	w11_d788e4490	NOHI	NOLAB	1.00
+En	w13_d788e4494	NOHI	NOLAB	1.00
+de	w1_d788e4499	NOHI	NOLAB	1.00
+haben	w3_d788e4502	NOHI	NOLAB	0.95
+verschiedene	w5_d788e4505	NOHI	NOLAB	0.99
+Jndianische	w7_d788e4508	NOHI	NOLAB	1.00
+Stämt	w9_d788e4511	NOHI	NOLAB	0.93
+me	w1_d788e4516	NOHI	NOLAB	1.00
+ein	w3_d788e4519	NOHI	NOLAB	1.00
+Bündnüß	w5_d788e4522	NOHI	NOLAB	1.00
+gemacht,	w7_d788e4525	NOHI	NOLAB	1.00
+und	w9_d788e4528	NOHI	NOLAB	1.00
+die	w11_d788e4531	NOHI	NOLAB	0.92
+betrübte	w13_d788e4535	NOHI	NOLAB	1.00
+sten	w1_d788e4541	NOHI	NOLAB	1.00
+Spuren	w3_d788e4544	NOHI	NOLAB	0.93
+ihres	w5_d788e4547	NOHI	NOLAB	0.90
+grausamen	w7_d788e4550	NOHI	NOLAB	1.00
+und	w9_d788e4553	NOHI	NOLAB	1.00
+unmensch	w11_d788e4556	NOHI	NOLAB	1.00
+lichen	w1_d788e4561	NOHI	NOLAB	1.00
+Verfahrens	w3_d788e4564	NOHI	NOLAB	1.00
+aller	w5_d788e4567	NOHI	NOLAB	1.00
+Orten,	w7_d788e4570	NOHI	NOLAB	1.00
+wo	w9_d788e4573	NOHI	NOLAB	1.00
+sie	w11_d788e4576	NOHI	NOLAB	1.00
+ihre	w13_d788e4580	NOHI	NOLAB	1.00
+blutgierige	w1_d788e4585	NOHI	NOLAB	1.00
+Schritte	w3_d788e4588	NOHI	NOLAB	0.98
+hinrichten,	w5_d788e4591	NOHI	NOLAB	0.94
+hinterlassen.	w7_d788e4594	NOHI	NOLAB	0.98
+Briefe	w1_d788e4599	NOHI	NOLAB	1.00
+aus	w3_d788e4602	NOHI	NOLAB	1.00
+der	w5_d788e4605	NOHI	NOLAB	1.00
+Schanze	w7_d788e4608	NOHI	NOLAB	1.00
+Bedford,	w9_d788e4611	NOHI	NOLAB	1.00
+vom	w11_d788e4614	NOHI	NOLAB	1.00
+18.	w13_d788e4618	NOHI	NOLAB	0.86
+Junii,	w1_d788e4624	NOHI	NOLAB	0.99
+geben	w3_d788e4627	NOHI	NOLAB	1.00
+davon	w5_d788e4630	NOHI	NOLAB	1.00
+noch	w7_d788e4633	NOHI	NOLAB	1.00
+nähere	w9_d788e4636	NOHI	NOLAB	1.00
+Umstände.	w11_d788e4639	NOHI	NOLAB	1.00
+Die	w1_d788e4644	NOHI	NOLAB	1.00
+arme	w3_d788e4647	NOHI	NOLAB	1.00
+Ackers=leute,	w5_d788e4650	NOHI	NOLAB	0.97
+die,	w7_d788e4653	NOHI	NOLAB	1.00
+um	w9_d788e4656	NOHI	NOLAB	1.00
+ihr	w11_d788e4659	NOHI	NOLAB	1.00
+Leben	w13_d788e4663	NOHI	NOLAB	1.00
+zu	w1_d788e4668	NOHI	NOLAB	1.00
+retten,	w3_d788e4671	NOHI	NOLAB	1.00
+ihre	w5_d788e4674	NOHI	NOLAB	1.00
+Wohnungen	w7_d788e4677	NOHI	NOLAB	1.00
+verlassen,	w9_d788e4680	NOHI	NOLAB	1.00
+und	w11_d788e4683	NOHI	NOLAB	1.00
+nach	w1_d788e4688	NOHI	NOLAB	0.99
+vorerwehnter	w3_d788e4691	NOHI	NOLAB	0.99
+Schanze	w5_d788e4694	NOHI	NOLAB	0.97
+geflüchtet	w7_d788e4697	NOHI	NOLAB	0.99
+waren,	w9_d788e4700	NOHI	NOLAB	1.00
+kehrten	w1_d788e4706	NOHI	NOLAB	1.00
+wieder	w3_d788e4709	NOHI	NOLAB	1.00
+zurück,	w5_d788e4712	NOHI	NOLAB	0.95
+und	w7_d788e4715	NOHI	NOLAB	1.00
+wollten	w9_d788e4718	NOHI	NOLAB	1.00
+ihre	w11_d788e4721	NOHI	NOLAB	0.89
+Früchten	w1_d788e4726	NOHI	NOLAB	0.97
+einernden,	w3_d788e4729	NOHI	NOLAB	0.99
+damit	w5_d788e4732	NOHI	NOLAB	1.00
+sie	w7_d788e4735	NOHI	NOLAB	0.85
+künftigen	w9_d788e4738	NOHI	NOLAB	1.00
+Win	w11_d788e4741	NOHI	NOLAB	1.00
+ter	w1_d788e4746	NOHI	NOLAB	0.98
+nicht	w3_d788e4749	NOHI	NOLAB	1.00
+vor	w5_d788e4752	NOHI	NOLAB	1.00
+Hunger	w7_d788e4755	NOHI	NOLAB	1.00
+sterben	w9_d788e4758	NOHI	NOLAB	1.00
+möchten.	w11_d788e4761	NOHI	NOLAB	1.00
+Diese	w13_d788e4765	NOHI	NOLAB	1.00
+Gelegenheit	w1_d788e4770	NOHI	NOLAB	1.00
+hätten	w3_d788e4773	NOHI	NOLAB	1.00
+sich	w5_d788e4776	NOHI	NOLAB	0.93
+sofort	w7_d788e4779	NOHI	NOLAB	0.93
+die	w9_d788e4782	NOHI	NOLAB	1.00
+Wilde	w11_d788e4785	NOHI	NOLAB	0.93
+zu	w13_d788e4789	NOHI	NOLAB	1.00
+Nutze	w1_d788e4795	NOHI	NOLAB	0.99
+gemacht;	w3_d788e4798	NOHI	NOLAB	0.94
+3.	w5_d788e4801	NOHI	NOLAB	1.00
+bis	w7_d788e4804	NOHI	NOLAB	1.00
+4.	w9_d788e4807	NOHI	NOLAB	0.95
+Haushaltungen	w11_d788e4810	NOHI	NOLAB	1.00
+am	w1_d788e4815	NOHI	NOLAB	1.00
+17.	w3_d788e4818	NOHI	NOLAB	1.00
+und	w5_d788e4821	NOHI	NOLAB	1.00
+18.	w7_d788e4824	NOHI	NOLAB	1.00
+zu	w9_d788e4827	NOHI	NOLAB	1.00
+Denningscreek	w11_d788e4830	NOHI	NOLAB	0.95
+überfal	w13_d788e4834	NOHI	NOLAB	0.99
+len,	w1_d788e4839	NOHI	NOLAB	1.00
+und	w3_d788e4842	NOHI	NOLAB	1.00
+alle	w5_d788e4845	NOHI	NOLAB	1.00
+gespiesset	w7_d788e4848	NOHI	NOLAB	0.99
+und	w9_d788e4851	NOHI	NOLAB	1.00
+massacrirt.	w11_d788e4854	NOHI	NOLAB	0.99
+Ande	w13_d788e4858	NOHI	NOLAB	1.00
+re	w1_d788e4863	NOHI	NOLAB	1.00
+hingegen,	w3_d788e4866	NOHI	NOLAB	0.97
+die	w5_d788e4869	NOHI	NOLAB	1.00
+nach	w7_d788e4872	NOHI	NOLAB	0.89
+der	w9_d788e4875	NOHI	NOLAB	1.00
+Schanze	w11_d788e4878	NOHI	NOLAB	1.00
+wieder	w13_d788e4882	NOHI	NOLAB	1.00
+ei	w15_d788e4885	NOHI	NOLAB	1.00
+ligst	w1_d788e4891	NOHI	NOLAB	1.00
+zurückgekehret,	w3_d788e4894	NOHI	NOLAB	1.00
+hätten	w5_d788e4897	NOHI	NOLAB	1.00
+auf	w7_d788e4900	NOHI	NOLAB	1.00
+ihrer	w9_d788e4903	NOHI	NOLAB	1.00
+Rück	w11_d788e4906	NOHI	NOLAB	1.00
+kehre,	w1_d788e4911	NOHI	NOLAB	0.98
+da	w3_d788e4914	NOHI	NOLAB	1.00
+sie	w5_d788e4917	NOHI	NOLAB	0.88
+von	w7_d788e4920	NOHI	NOLAB	1.00
+ihren	w9_d788e4923	NOHI	NOLAB	1.00
+Wohnungen	w11_d788e4926	NOHI	NOLAB	1.00
+eine	w13_d788e4930	NOHI	NOLAB	1.00
+Mei	w15_d788e4933	NOHI	NOLAB	1.00
+le	w1_d788e4938	NOHI	NOLAB	1.00
+Weges	w3_d788e4941	NOHI	NOLAB	0.97
+entfernet,	w5_d788e4944	NOHI	NOLAB	0.97
+dieselbe	w7_d788e4947	NOHI	NOLAB	0.98
+in	w9_d788e4950	NOHI	NOLAB	1.00
+vollen	w11_d788e4953	NOHI	NOLAB	1.00
+Flam	w13_d788e4957	NOHI	NOLAB	1.00
+men	w1_d788e4962	NOHI	NOLAB	1.00
+gesehen.	w3_d788e4965	NOHI	NOLAB	0.93
 </p>
 <head id="h2_d788e4971">
-Rußland	w1_d788e4975
-den	w3_d788e4978
-30.	w5_d788e4981
-Jul.	w7_d788e4984
+Rußland	w1_d788e4975	NOHI	NOLAB	1.00
+den	w3_d788e4978	NOHI	NOLAB	0.91
+30.	w5_d788e4981	NOHI	NOLAB	1.00
+Jul.	w7_d788e4984	NOHI	NOLAB	1.00
 </head>
 <p id="p4_d788e4987">
-Da	w1_d788e4991
-Jhro	w3_d788e4994
-Kaiserl.	w5_d788e4997
-Majestät	w7_d788e5000
-mit	w9_d788e5003
-dem	w11_d788e5006
-grösten	w1_d788e5011
-Theile	w3_d788e5014
-des	w5_d788e5017
-Hof=staats	w7_d788e5020
-sich	w9_d788e5023
-zu	w11_d788e5026
-Pe	w13_d788e5030
+Da	w1_d788e4991	NOHI	NOLAB	1.00
+Jhro	w3_d788e4994	NOHI	NOLAB	1.00
+Kaiserl.	w5_d788e4997	NOHI	NOLAB	0.99
+Majestät	w7_d788e5000	NOHI	NOLAB	0.93
+mit	w9_d788e5003	NOHI	NOLAB	1.00
+dem	w11_d788e5006	NOHI	NOLAB	1.00
+grösten	w1_d788e5011	NOHI	NOLAB	0.97
+Theile	w3_d788e5014	NOHI	NOLAB	1.00
+des	w5_d788e5017	NOHI	NOLAB	1.00
+Hof=staats	w7_d788e5020	NOHI	NOLAB	0.99
+sich	w9_d788e5023	NOHI	NOLAB	0.96
+zu	w11_d788e5026	NOHI	NOLAB	1.00
+Pe	w13_d788e5030	NOHI	NOLAB	1.00
 </p>
 <p id="p6_d788e5033">
-tershof	w1_d788e5037
-befinden,	w3_d788e5040
-so	w5_d788e5043
-ist	w7_d788e5046
-es	w9_d788e5049
-zu	w11_d788e5052
-Petersburg	w13_d788e5056
-wieder	w1_d788e5061
-einsam.	w3_d788e5064
-Jhro	w5_d788e5067
-Majestät	w7_d788e5070
-beliebten,	w9_d788e5073
-die	w1_d788e5078
-Reise	w3_d788e5081
-zu	w5_d788e5084
-Wasser	w7_d788e5087
-auf	w9_d788e5090
-einer	w11_d788e5093
-Jacht	w13_d788e5097
-anzutre	w15_d788e5100
-ten,	w1_d788e5106
-auf	w3_d788e5109
-welcher	w5_d788e5112
-die	w7_d788e5115
-Kaiserl.	w9_d788e5118
-Estandarte,	w11_d788e5121
-und	w1_d788e5126
-Wimpel	w3_d788e5129
-wehete,	w5_d788e5132
-welche	w7_d788e5135
-im	w9_d788e5138
-Vorbeypaßi	w11_d788e5141
-ren	w1_d788e5146
-der	w3_d788e5149
-Festung	w5_d788e5152
-durch	w7_d788e5155
-eine	w9_d788e5158
-starke	w11_d788e5161
-Canonade	w13_d788e5165
-salutiret	w1_d788e5170
-wurde.	w3_d788e5173
-Die	w5_d788e5176
-Staats=carossen	w7_d788e5179
-und	w9_d788e5182
-übriges	w1_d788e5188
-Gefolge	w3_d788e5191
-destlirten	w5_d788e5194
-indessen	w7_d788e5197
-den	w9_d788e5200
-Land	w11_d788e5203
-weg	w1_d788e5208
-nach	w3_d788e5211
-erwähntem	w5_d788e5214
-Lust=schlosse,	w7_d788e5217
-allwo	w9_d788e5220
-das	w1_d788e5225
-Verbleiben	w3_d788e5228
-wol	w5_d788e5231
-so	w7_d788e5234
-lange,	w9_d788e5237
-als	w11_d788e5240
-das	w13_d788e5244
-Wet	w15_d788e5247
-ter	w1_d788e5252
-angenehm,	w3_d788e5255
-dauern	w5_d788e5258
-möchte.	w7_d788e5261
-Den	w9_d788e5264
-20.	w11_d788e5267
-Junii	w1_d788e5273
-haben	w3_d788e5276
-Jhro	w5_d788e5279
-Kaiserl.	w7_d788e5282
-Majestät	w9_d788e5285
-dem	w11_d788e5288
-Herrn	w1_d788e5293
-General=major	w3_d788e5296
-und	w5_d788e5299
-bisherigen	w7_d788e5302
-Ober=procureur	w1_d788e5307
-vom	w3_d788e5310
-heil.	w5_d788e5313
-Synod,	w7_d788e5316
-Fürsten	w9_d788e5319
-Alexey	w1_d788e5324
-Koslowsky,	w3_d788e5327
-zum	w5_d788e5330
-General=leutenant	w7_d788e5333
-und	w1_d788e5339
-Beysitzer	w3_d788e5342
-im	w5_d788e5345
-Senats=Comtoir	w7_d788e5348
-zu	w9_d788e5351
-Moscau	w1_d788e5356
-allergnädigst	w3_d788e5359
-zu	w5_d788e5362
-ernennen	w7_d788e5365
-geruhet.	w9_d788e5368
+tershof	w1_d788e5037	NOHI	NOLAB	1.00
+befinden,	w3_d788e5040	NOHI	NOLAB	0.96
+so	w5_d788e5043	NOHI	NOLAB	1.00
+ist	w7_d788e5046	NOHI	NOLAB	0.96
+es	w9_d788e5049	NOHI	NOLAB	1.00
+zu	w11_d788e5052	NOHI	NOLAB	1.00
+Petersburg	w13_d788e5056	NOHI	NOLAB	0.98
+wieder	w1_d788e5061	NOHI	NOLAB	0.99
+einsam.	w3_d788e5064	NOHI	NOLAB	1.00
+Jhro	w5_d788e5067	NOHI	NOLAB	1.00
+Majestät	w7_d788e5070	NOHI	NOLAB	0.94
+beliebten,	w9_d788e5073	NOHI	NOLAB	1.00
+die	w1_d788e5078	NOHI	NOLAB	1.00
+Reise	w3_d788e5081	NOHI	NOLAB	1.00
+zu	w5_d788e5084	NOHI	NOLAB	1.00
+Wasser	w7_d788e5087	NOHI	NOLAB	0.96
+auf	w9_d788e5090	NOHI	NOLAB	1.00
+einer	w11_d788e5093	NOHI	NOLAB	1.00
+Jacht	w13_d788e5097	NOHI	NOLAB	1.00
+anzutre	w15_d788e5100	NOHI	NOLAB	0.97
+ten,	w1_d788e5106	NOHI	NOLAB	1.00
+auf	w3_d788e5109	NOHI	NOLAB	1.00
+welcher	w5_d788e5112	NOHI	NOLAB	1.00
+die	w7_d788e5115	NOHI	NOLAB	1.00
+Kaiserl.	w9_d788e5118	NOHI	NOLAB	1.00
+Estandarte,	w11_d788e5121	NOHI	NOLAB	0.98
+und	w1_d788e5126	NOHI	NOLAB	1.00
+Wimpel	w3_d788e5129	NOHI	NOLAB	1.00
+wehete,	w5_d788e5132	NOHI	NOLAB	1.00
+welche	w7_d788e5135	NOHI	NOLAB	0.95
+im	w9_d788e5138	NOHI	NOLAB	1.00
+Vorbeypaßi	w11_d788e5141	NOHI	NOLAB	1.00
+ren	w1_d788e5146	NOHI	NOLAB	1.00
+der	w3_d788e5149	NOHI	NOLAB	1.00
+Festung	w5_d788e5152	NOHI	NOLAB	1.00
+durch	w7_d788e5155	NOHI	NOLAB	0.95
+eine	w9_d788e5158	NOHI	NOLAB	1.00
+starke	w11_d788e5161	NOHI	NOLAB	1.00
+Canonade	w13_d788e5165	NOHI	NOLAB	1.00
+salutiret	w1_d788e5170	NOHI	NOLAB	1.00
+wurde.	w3_d788e5173	NOHI	NOLAB	1.00
+Die	w5_d788e5176	NOHI	NOLAB	0.96
+Staats=carossen	w7_d788e5179	NOHI	NOLAB	0.99
+und	w9_d788e5182	NOHI	NOLAB	1.00
+übriges	w1_d788e5188	NOHI	NOLAB	1.00
+Gefolge	w3_d788e5191	NOHI	NOLAB	0.89
+destlirten	w5_d788e5194	NOHI	NOLAB	0.94
+indessen	w7_d788e5197	NOHI	NOLAB	1.00
+den	w9_d788e5200	NOHI	NOLAB	0.93
+Land	w11_d788e5203	NOHI	NOLAB	1.00
+weg	w1_d788e5208	NOHI	NOLAB	1.00
+nach	w3_d788e5211	NOHI	NOLAB	1.00
+erwähntem	w5_d788e5214	NOHI	NOLAB	1.00
+Lust=schlosse,	w7_d788e5217	NOHI	NOLAB	0.96
+allwo	w9_d788e5220	NOHI	NOLAB	1.00
+das	w1_d788e5225	NOHI	NOLAB	1.00
+Verbleiben	w3_d788e5228	NOHI	NOLAB	1.00
+wol	w5_d788e5231	NOHI	NOLAB	1.00
+so	w7_d788e5234	NOHI	NOLAB	1.00
+lange,	w9_d788e5237	NOHI	NOLAB	1.00
+als	w11_d788e5240	NOHI	NOLAB	1.00
+das	w13_d788e5244	NOHI	NOLAB	1.00
+Wet	w15_d788e5247	NOHI	NOLAB	1.00
+ter	w1_d788e5252	NOHI	NOLAB	1.00
+angenehm,	w3_d788e5255	NOHI	NOLAB	1.00
+dauern	w5_d788e5258	NOHI	NOLAB	1.00
+möchte.	w7_d788e5261	NOHI	NOLAB	0.98
+Den	w9_d788e5264	NOHI	NOLAB	1.00
+20.	w11_d788e5267	NOHI	NOLAB	1.00
+Junii	w1_d788e5273	NOHI	NOLAB	1.00
+haben	w3_d788e5276	NOHI	NOLAB	1.00
+Jhro	w5_d788e5279	NOHI	NOLAB	1.00
+Kaiserl.	w7_d788e5282	NOHI	NOLAB	1.00
+Majestät	w9_d788e5285	NOHI	NOLAB	1.00
+dem	w11_d788e5288	NOHI	NOLAB	1.00
+Herrn	w1_d788e5293	NOHI	NOLAB	1.00
+General=major	w3_d788e5296	NOHI	NOLAB	0.98
+und	w5_d788e5299	NOHI	NOLAB	1.00
+bisherigen	w7_d788e5302	NOHI	NOLAB	1.00
+Ober=procureur	w1_d788e5307	NOHI	NOLAB	0.98
+vom	w3_d788e5310	NOHI	NOLAB	1.00
+heil.	w5_d788e5313	NOHI	NOLAB	1.00
+Synod,	w7_d788e5316	NOHI	NOLAB	1.00
+Fürsten	w9_d788e5319	NOHI	NOLAB	0.99
+Alexey	w1_d788e5324	NOHI	NOLAB	1.00
+Koslowsky,	w3_d788e5327	NOHI	NOLAB	0.96
+zum	w5_d788e5330	NOHI	NOLAB	1.00
+General=leutenant	w7_d788e5333	NOHI	NOLAB	0.98
+und	w1_d788e5339	NOHI	NOLAB	1.00
+Beysitzer	w3_d788e5342	NOHI	NOLAB	0.95
+im	w5_d788e5345	NOHI	NOLAB	1.00
+Senats=Comtoir	w7_d788e5348	NOHI	NOLAB	1.00
+zu	w9_d788e5351	NOHI	NOLAB	1.00
+Moscau	w1_d788e5356	NOHI	NOLAB	1.00
+allergnädigst	w3_d788e5359	NOHI	NOLAB	0.95
+zu	w5_d788e5362	NOHI	NOLAB	1.00
+ernennen	w7_d788e5365	NOHI	NOLAB	1.00
+geruhet.	w9_d788e5368	NOHI	NOLAB	0.94
 </p>
 <p id="p8_d788e5371">
-Auf	w1_d788e5375
-Befehl	w3_d788e5378
-Jhro	w5_d788e5381
-Kaiserl.	w7_d788e5384
-Majestät,	w9_d788e5387
-ist	w11_d788e5390
-aus	w1_d788e5395
-dem	w3_d788e5398
-dirigirenden	w5_d788e5401
-Senat	w7_d788e5404
-bekannt	w9_d788e5407
-ge	w11_d788e5410
-macht	w1_d788e5415
-worden,	w3_d788e5418
-daß	w5_d788e5421
-alle	w7_d788e5424
-Fremde,	w9_d788e5427
-welche,	w11_d788e5430
-um	w13_d788e5434
-sich	w1_d788e5440
-in	w3_d788e5443
-Rußland	w5_d788e5446
-niederzulassen,	w7_d788e5449
-ihre	w9_d788e5452
-Reise	w11_d788e5455
-nach	w1_d788e5460
-Petersburg	w3_d788e5463
-unternommen	w5_d788e5466
-haben,	w7_d788e5469
-bey	w9_d788e5472
-ihrer	w1_d788e5477
-Ankunft	w3_d788e5480
-daselbst	w5_d788e5483
-im	w7_d788e5486
-Dalmannischen	w9_d788e5489
-Hause,	w1_d788e5494
-in	w3_d788e5497
-der	w5_d788e5500
-Million=strasse	w7_d788e5503
-abtreten,	w9_d788e5506
-und	w11_d788e5509
-daselbst	w1_d788e5515
-14.	w3_d788e5518
-Tage	w5_d788e5521
-ohne	w7_d788e5524
-Entgeld	w9_d788e5527
-freyes	w11_d788e5530
-Quartier	w1_d788e5535
-haben	w3_d788e5538
-sollen.	w5_d788e5541
-Dem	w7_d788e5544
-Zoll=amte	w9_d788e5547
-in	w1_d788e5552
-gedachtem	w3_d788e5555
-Petersburg	w5_d788e5558
-ist	w7_d788e5561
-zu	w9_d788e5564
-gleicher	w11_d788e5567
-Zeit	w13_d788e5571
-aufgetragen	w1_d788e5576
-worden,	w3_d788e5579
-dergleichen	w5_d788e5582
-daselbst	w7_d788e5585
-anlangenden	w1_d788e5591
-Fremden	w3_d788e5594
-solches	w5_d788e5597
-bey	w7_d788e5600
-ihrer	w9_d788e5603
-Ankunft	w1_d788e5608
-zu	w3_d788e5611
-melden.	w5_d788e5614
+Auf	w1_d788e5375	NOHI	NOLAB	1.00
+Befehl	w3_d788e5378	NOHI	NOLAB	1.00
+Jhro	w5_d788e5381	NOHI	NOLAB	1.00
+Kaiserl.	w7_d788e5384	NOHI	NOLAB	1.00
+Majestät,	w9_d788e5387	NOHI	NOLAB	1.00
+ist	w11_d788e5390	NOHI	NOLAB	1.00
+aus	w1_d788e5395	NOHI	NOLAB	1.00
+dem	w3_d788e5398	NOHI	NOLAB	1.00
+dirigirenden	w5_d788e5401	NOHI	NOLAB	1.00
+Senat	w7_d788e5404	NOHI	NOLAB	1.00
+bekannt	w9_d788e5407	NOHI	NOLAB	1.00
+ge	w11_d788e5410	NOHI	NOLAB	1.00
+macht	w1_d788e5415	NOHI	NOLAB	1.00
+worden,	w3_d788e5418	NOHI	NOLAB	1.00
+daß	w5_d788e5421	NOHI	NOLAB	1.00
+alle	w7_d788e5424	NOHI	NOLAB	1.00
+Fremde,	w9_d788e5427	NOHI	NOLAB	1.00
+welche,	w11_d788e5430	NOHI	NOLAB	0.83
+um	w13_d788e5434	NOHI	NOLAB	1.00
+sich	w1_d788e5440	NOHI	NOLAB	0.99
+in	w3_d788e5443	NOHI	NOLAB	1.00
+Rußland	w5_d788e5446	NOHI	NOLAB	1.00
+niederzulassen,	w7_d788e5449	NOHI	NOLAB	0.98
+ihre	w9_d788e5452	NOHI	NOLAB	0.91
+Reise	w11_d788e5455	NOHI	NOLAB	1.00
+nach	w1_d788e5460	NOHI	NOLAB	0.98
+Petersburg	w3_d788e5463	NOHI	NOLAB	1.00
+unternommen	w5_d788e5466	NOHI	NOLAB	0.95
+haben,	w7_d788e5469	NOHI	NOLAB	1.00
+bey	w9_d788e5472	NOHI	NOLAB	1.00
+ihrer	w1_d788e5477	NOHI	NOLAB	0.96
+Ankunft	w3_d788e5480	NOHI	NOLAB	1.00
+daselbst	w5_d788e5483	NOHI	NOLAB	0.98
+im	w7_d788e5486	NOHI	NOLAB	1.00
+Dalmannischen	w9_d788e5489	NOHI	NOLAB	0.99
+Hause,	w1_d788e5494	NOHI	NOLAB	1.00
+in	w3_d788e5497	NOHI	NOLAB	1.00
+der	w5_d788e5500	NOHI	NOLAB	1.00
+Million=strasse	w7_d788e5503	NOHI	NOLAB	0.98
+abtreten,	w9_d788e5506	NOHI	NOLAB	1.00
+und	w11_d788e5509	NOHI	NOLAB	1.00
+daselbst	w1_d788e5515	NOHI	NOLAB	1.00
+14.	w3_d788e5518	NOHI	NOLAB	1.00
+Tage	w5_d788e5521	NOHI	NOLAB	1.00
+ohne	w7_d788e5524	NOHI	NOLAB	1.00
+Entgeld	w9_d788e5527	NOHI	NOLAB	1.00
+freyes	w11_d788e5530	NOHI	NOLAB	1.00
+Quartier	w1_d788e5535	NOHI	NOLAB	1.00
+haben	w3_d788e5538	NOHI	NOLAB	1.00
+sollen.	w5_d788e5541	NOHI	NOLAB	1.00
+Dem	w7_d788e5544	NOHI	NOLAB	1.00
+Zoll=amte	w9_d788e5547	NOHI	NOLAB	0.96
+in	w1_d788e5552	NOHI	NOLAB	1.00
+gedachtem	w3_d788e5555	NOHI	NOLAB	0.99
+Petersburg	w5_d788e5558	NOHI	NOLAB	1.00
+ist	w7_d788e5561	NOHI	NOLAB	1.00
+zu	w9_d788e5564	NOHI	NOLAB	1.00
+gleicher	w11_d788e5567	NOHI	NOLAB	0.93
+Zeit	w13_d788e5571	NOHI	NOLAB	1.00
+aufgetragen	w1_d788e5576	NOHI	NOLAB	1.00
+worden,	w3_d788e5579	NOHI	NOLAB	0.97
+dergleichen	w5_d788e5582	NOHI	NOLAB	0.97
+daselbst	w7_d788e5585	NOHI	NOLAB	1.00
+anlangenden	w1_d788e5591	NOHI	NOLAB	1.00
+Fremden	w3_d788e5594	NOHI	NOLAB	1.00
+solches	w5_d788e5597	NOHI	NOLAB	0.95
+bey	w7_d788e5600	NOHI	NOLAB	0.93
+ihrer	w9_d788e5603	NOHI	NOLAB	0.92
+Ankunft	w1_d788e5608	NOHI	NOLAB	1.00
+zu	w3_d788e5611	NOHI	NOLAB	1.00
+melden.	w5_d788e5614	NOHI	NOLAB	1.00
 </p>
 <p id="p10_d788e5617">
-Der	w1_d788e5621
-Königl.	w3_d788e5624
-Schwedische	w5_d788e5627
-Envoyk	w7_d788e5630
-Ex	w9_d788e5633
-traordinaire,	w1_d788e5638
-Herr	w3_d788e5641
-Baron	w5_d788e5644
-von	w7_d788e5647
-Posse,	w9_d788e5650
-wird	w11_d788e5653
-mit	w1_d788e5658
-dem	w3_d788e5661
-ehesten	w5_d788e5664
-von	w7_d788e5667
-Petersburg	w9_d788e5670
-nach	w11_d788e5673
-Schwe	w13_d788e5677
-den	w1_d788e5683
-zurück	w3_d788e5686
-reisen.	w5_d788e5689
+Der	w1_d788e5621	NOHI	NOLAB	0.85
+Königl.	w3_d788e5624	NOHI	NOLAB	1.00
+Schwedische	w5_d788e5627	NOHI	NOLAB	0.98
+Envoyk	w7_d788e5630	NOHI	NOLAB	0.99
+Ex	w9_d788e5633	NOHI	NOLAB	1.00
+traordinaire,	w1_d788e5638	NOHI	NOLAB	1.00
+Herr	w3_d788e5641	NOHI	NOLAB	1.00
+Baron	w5_d788e5644	NOHI	NOLAB	1.00
+von	w7_d788e5647	NOHI	NOLAB	1.00
+Posse,	w9_d788e5650	NOHI	NOLAB	0.95
+wird	w11_d788e5653	NOHI	NOLAB	1.00
+mit	w1_d788e5658	NOHI	NOLAB	1.00
+dem	w3_d788e5661	NOHI	NOLAB	1.00
+ehesten	w5_d788e5664	NOHI	NOLAB	1.00
+von	w7_d788e5667	NOHI	NOLAB	1.00
+Petersburg	w9_d788e5670	NOHI	NOLAB	1.00
+nach	w11_d788e5673	NOHI	NOLAB	0.97
+Schwe	w13_d788e5677	NOHI	NOLAB	0.93
+den	w1_d788e5683	NOHI	NOLAB	1.00
+zurück	w3_d788e5686	NOHI	NOLAB	0.97
+reisen.	w5_d788e5689	NOHI	NOLAB	0.97
 </p>
 <head id="h2_d788e5695">
-Von	w1_d788e5699
-den	w3_d788e5702
-Polnischen	w5_d788e5705
-Gränzen;	w7_d788e5708
-6.	w9_d788e5711
-Augusti.	w1_d788e5716
+Von	w1_d788e5699	NOHI	NOLAB	1.00
+den	w3_d788e5702	NOHI	NOLAB	1.00
+Polnischen	w5_d788e5705	NOHI	NOLAB	1.00
+Gränzen;	w7_d788e5708	NOHI	NOLAB	0.96
+6.	w9_d788e5711	NOHI	NOLAB	0.94
+Augusti.	w1_d788e5716	NOHI	NOLAB	1.00
 </head>
 <p id="p4_d788e5719">
-Von	w1_d788e5723
-Wilna	w3_d788e5726
-der	w5_d788e5729
-Hauptstadt	w7_d788e5732
-in	w9_d788e5735
-Lithauen	w11_d788e5738
-hat	w1_d788e5743
-man	w3_d788e5746
-die	w5_d788e5749
-Nachricht,	w7_d788e5752
-daß	w9_d788e5755
-die	w11_d788e5758
-Russen	w13_d788e5762
-gewiß	w15_d788e5765
-den	w1_d788e5770
-30	w3_d788e5773
-dieses	w5_d788e5776
-Monats	w7_d788e5779
-daselbst	w9_d788e5782
-einrücken	w11_d788e5785
-sol	w13_d788e5789
-len,	w1_d788e5795
-und	w3_d788e5798
-also	w5_d788e5801
-die	w7_d788e5804
-hin	w9_d788e5807
-und	w11_d788e5810
-wieder	w13_d788e5814
-von	w15_d788e5817
-den	w17_d788e5820
-Ma	w19_d788e5823
-gnaten	w1_d788e5828
-gehaltene	w3_d788e5831
-Conferenzen	w5_d788e5834
-dem	w7_d788e5837
-androhen	w9_d788e5840
-den	w1_d788e5845
-Uebel	w3_d788e5848
-nicht	w5_d788e5851
-zeitlich	w7_d788e5854
-genug	w9_d788e5857
-abhelfen	w11_d788e5860
-wer	w13_d788e5864
+Von	w1_d788e5723	NOHI	NOLAB	1.00
+Wilna	w3_d788e5726	NOHI	NOLAB	1.00
+der	w5_d788e5729	NOHI	NOLAB	1.00
+Hauptstadt	w7_d788e5732	NOHI	NOLAB	0.96
+in	w9_d788e5735	NOHI	NOLAB	1.00
+Lithauen	w11_d788e5738	NOHI	NOLAB	0.95
+hat	w1_d788e5743	NOHI	NOLAB	1.00
+man	w3_d788e5746	NOHI	NOLAB	1.00
+die	w5_d788e5749	NOHI	NOLAB	1.00
+Nachricht,	w7_d788e5752	NOHI	NOLAB	0.99
+daß	w9_d788e5755	NOHI	NOLAB	1.00
+die	w11_d788e5758	NOHI	NOLAB	0.90
+Russen	w13_d788e5762	NOHI	NOLAB	1.00
+gewiß	w15_d788e5765	NOHI	NOLAB	1.00
+den	w1_d788e5770	NOHI	NOLAB	1.00
+30	w3_d788e5773	NOHI	NOLAB	1.00
+dieses	w5_d788e5776	NOHI	NOLAB	0.96
+Monats	w7_d788e5779	NOHI	NOLAB	1.00
+daselbst	w9_d788e5782	NOHI	NOLAB	0.98
+einrücken	w11_d788e5785	NOHI	NOLAB	0.95
+sol	w13_d788e5789	NOHI	NOLAB	1.00
+len,	w1_d788e5795	NOHI	NOLAB	0.95
+und	w3_d788e5798	NOHI	NOLAB	0.87
+also	w5_d788e5801	NOHI	NOLAB	1.00
+die	w7_d788e5804	NOHI	NOLAB	0.94
+hin	w9_d788e5807	NOHI	NOLAB	1.00
+und	w11_d788e5810	NOHI	NOLAB	1.00
+wieder	w13_d788e5814	NOHI	NOLAB	1.00
+von	w15_d788e5817	NOHI	NOLAB	1.00
+den	w17_d788e5820	NOHI	NOLAB	1.00
+Ma	w19_d788e5823	NOHI	NOLAB	1.00
+gnaten	w1_d788e5828	NOHI	NOLAB	1.00
+gehaltene	w3_d788e5831	NOHI	NOLAB	1.00
+Conferenzen	w5_d788e5834	NOHI	NOLAB	1.00
+dem	w7_d788e5837	NOHI	NOLAB	1.00
+androhen	w9_d788e5840	NOHI	NOLAB	0.97
+den	w1_d788e5845	NOHI	NOLAB	1.00
+Uebel	w3_d788e5848	NOHI	NOLAB	1.00
+nicht	w5_d788e5851	NOHI	NOLAB	1.00
+zeitlich	w7_d788e5854	NOHI	NOLAB	0.98
+genug	w9_d788e5857	NOHI	NOLAB	0.91
+abhelfen	w11_d788e5860	NOHI	NOLAB	1.00
+wer	w13_d788e5864	NOHI	NOLAB	1.00
 </p>
 <p id="p10_d788e5877">
-den.	w1_d788e5881
-Jnzwischen	w3_d788e5884
-läßt	w5_d788e5887
-der	w7_d788e5890
-Herr	w9_d788e5893
-Großschatz	w11_d788e5896
-meister,	w1_d788e5901
-Graf	w3_d788e5904
-von	w5_d788e5907
-Flemming,	w7_d788e5910
-unaufhörlich	w9_d788e5913
-Völker	w1_d788e5918
-anwerben,	w3_d788e5921
-welche	w5_d788e5924
-Werbungen	w7_d788e5927
-auch	w9_d788e5930
-einen	w1_d788e5936
-grossen	w3_d788e5939
-Zulauf	w5_d788e5942
-haben.	w7_d788e5945
-Da	w9_d788e5948
-nun	w11_d788e5951
-der	w13_d788e5955
-ganzen	w1_d788e5960
-Nation	w3_d788e5963
-weder	w5_d788e5966
-von	w7_d788e5969
-Verträgen	w9_d788e5972
-selbst,	w11_d788e5975
-noch	w1_d788e5980
-von	w3_d788e5983
-Requisitorial	w5_d788e5986
-briefen,	w7_d788e5989
-die	w9_d788e5992
-derglei	w11_d788e5995
-chen	w1_d788e6000
-Anmarsch	w3_d788e6003
-billigen	w5_d788e6006
-solten,	w7_d788e6009
-nicht	w9_d788e6012
-das	w11_d788e6015
-mindeste	w1_d788e6021
-bewust,	w3_d788e6024
-siehet	w5_d788e6027
-man	w7_d788e6030
-über	w9_d788e6033
-den	w11_d788e6036
-Grund,	w13_d788e6040
-warum	w1_d788e6045
-der	w3_d788e6048
-Rußisch=kaiserliche	w5_d788e6051
-Hof	w7_d788e6054
-sich	w9_d788e6057
-in	w11_d788e6060
-die	w1_d788e6065
-Litthauische	w3_d788e6068
-Uneinigkeiten	w5_d788e6071
-mischet,	w7_d788e6074
-nach	w9_d788e6077
-stehende	w1_d788e6082
-Erklärung:	w3_d788e6085
+den.	w1_d788e5881	NOHI	NOLAB	1.00
+Jnzwischen	w3_d788e5884	NOHI	NOLAB	1.00
+läßt	w5_d788e5887	NOHI	NOLAB	1.00
+der	w7_d788e5890	NOHI	NOLAB	1.00
+Herr	w9_d788e5893	NOHI	NOLAB	1.00
+Großschatz	w11_d788e5896	NOHI	NOLAB	0.97
+meister,	w1_d788e5901	NOHI	NOLAB	1.00
+Graf	w3_d788e5904	NOHI	NOLAB	1.00
+von	w5_d788e5907	NOHI	NOLAB	1.00
+Flemming,	w7_d788e5910	NOHI	NOLAB	1.00
+unaufhörlich	w9_d788e5913	NOHI	NOLAB	1.00
+Völker	w1_d788e5918	NOHI	NOLAB	1.00
+anwerben,	w3_d788e5921	NOHI	NOLAB	0.99
+welche	w5_d788e5924	NOHI	NOLAB	0.93
+Werbungen	w7_d788e5927	NOHI	NOLAB	1.00
+auch	w9_d788e5930	NOHI	NOLAB	1.00
+einen	w1_d788e5936	NOHI	NOLAB	0.98
+grossen	w3_d788e5939	NOHI	NOLAB	1.00
+Zulauf	w5_d788e5942	NOHI	NOLAB	1.00
+haben.	w7_d788e5945	NOHI	NOLAB	1.00
+Da	w9_d788e5948	NOHI	NOLAB	1.00
+nun	w11_d788e5951	NOHI	NOLAB	1.00
+der	w13_d788e5955	NOHI	NOLAB	1.00
+ganzen	w1_d788e5960	NOHI	NOLAB	1.00
+Nation	w3_d788e5963	NOHI	NOLAB	1.00
+weder	w5_d788e5966	NOHI	NOLAB	0.96
+von	w7_d788e5969	NOHI	NOLAB	1.00
+Verträgen	w9_d788e5972	NOHI	NOLAB	1.00
+selbst,	w11_d788e5975	NOHI	NOLAB	0.93
+noch	w1_d788e5980	NOHI	NOLAB	0.94
+von	w3_d788e5983	NOHI	NOLAB	1.00
+Requisitorial	w5_d788e5986	NOHI	NOLAB	0.99
+briefen,	w7_d788e5989	NOHI	NOLAB	1.00
+die	w9_d788e5992	NOHI	NOLAB	1.00
+derglei	w11_d788e5995	NOHI	NOLAB	1.00
+chen	w1_d788e6000	NOHI	NOLAB	0.94
+Anmarsch	w3_d788e6003	NOHI	NOLAB	1.00
+billigen	w5_d788e6006	NOHI	NOLAB	0.96
+solten,	w7_d788e6009	NOHI	NOLAB	1.00
+nicht	w9_d788e6012	NOHI	NOLAB	1.00
+das	w11_d788e6015	NOHI	NOLAB	1.00
+mindeste	w1_d788e6021	NOHI	NOLAB	0.94
+bewust,	w3_d788e6024	NOHI	NOLAB	0.97
+siehet	w5_d788e6027	NOHI	NOLAB	1.00
+man	w7_d788e6030	NOHI	NOLAB	1.00
+über	w9_d788e6033	NOHI	NOLAB	1.00
+den	w11_d788e6036	NOHI	NOLAB	1.00
+Grund,	w13_d788e6040	NOHI	NOLAB	1.00
+warum	w1_d788e6045	NOHI	NOLAB	1.00
+der	w3_d788e6048	NOHI	NOLAB	1.00
+Rußisch=kaiserliche	w5_d788e6051	NOHI	NOLAB	0.99
+Hof	w7_d788e6054	NOHI	NOLAB	1.00
+sich	w9_d788e6057	NOHI	NOLAB	1.00
+in	w11_d788e6060	NOHI	NOLAB	1.00
+die	w1_d788e6065	NOHI	NOLAB	0.86
+Litthauische	w3_d788e6068	NOHI	NOLAB	0.96
+Uneinigkeiten	w5_d788e6071	NOHI	NOLAB	1.00
+mischet,	w7_d788e6074	NOHI	NOLAB	1.00
+nach	w9_d788e6077	NOHI	NOLAB	0.90
+stehende	w1_d788e6082	NOHI	NOLAB	1.00
+Erklärung:	w3_d788e6085	NOHI	NOLAB	1.00
 </p>
 <p id="p12_d788e6089">
-„Es	w1_d788e6093
-ist	w3_d788e6096
-bekannt,	w5_d788e6099
-daß,	w7_d788e6102
-als	w9_d788e6105
-die	w11_d788e6108
-Troublen	w13_d788e6112
-in	w1_d788e6117
-Pohlen	w3_d788e6120
-seit	w5_d788e6123
-1703.	w7_d788e6126
-bis	w9_d788e6129
-1716.	w11_d788e6132
-dauerten,	w13_d788e6136
-der	w1_d788e6141
-Kaiser	w3_d788e6144
-Peter	w5_d788e6147
-der	w7_d788e6150
-erste	w9_d788e6153
-sowohl	w11_d788e6156
-von	w13_d788e6160
-der	w15_d788e6163
-Nation,	w1_d788e6169
-als	w3_d788e6172
-dem	w5_d788e6175
-König,	w7_d788e6178
-ersucht	w9_d788e6181
-worden	w11_d788e6184
-ist,	w13_d788e6188
-selbige	w1_d788e6193
-zu	w3_d788e6196
-seiner	w5_d788e6199
-Erkenntniß	w7_d788e6202
-zu	w9_d788e6205
-ziehen,	w11_d788e6208
-und	w13_d788e6212
-zu	w1_d788e6217
-vermittlen.	w3_d788e6220
-Er	w5_d788e6223
-kam	w7_d788e6226
-1716.	w9_d788e6229
-damit	w11_d788e6232
-zu	w13_d788e6236
-Stande,	w1_d788e6241
-und	w3_d788e6244
-es	w5_d788e6247
-ward	w7_d788e6250
-eine	w9_d788e6253
-Convention	w11_d788e6256
-un	w13_d788e6260
-ter	w1_d788e6266
-der	w3_d788e6269
-Garantie	w5_d788e6272
-von	w7_d788e6275
-Rußland	w9_d788e6278
-geschlossen,	w11_d788e6281
-welche	w1_d788e6286
-auf	w3_d788e6289
-alle	w5_d788e6292
-Fälle,	w7_d788e6295
-sowohl	w9_d788e6298
-von	w11_d788e6301
-der	w13_d788e6305
-einen	w15_d788e6308
-als	w1_d788e6313
-der	w3_d788e6316
-anderen	w5_d788e6319
-Parthey,	w7_d788e6322
-reclamiret	w9_d788e6325
-werden	w11_d788e6328
-kan.	w1_d788e6333
-Da	w3_d788e6336
-nun	w5_d788e6339
-diese	w7_d788e6342
-Convention	w9_d788e6345
-und	w11_d788e6348
-die	w13_d788e6352
-Clauseln	w1_d788e6358
-dieser	w3_d788e6361
-Garantie	w5_d788e6364
-durch	w7_d788e6367
-den	w9_d788e6370
-solennen	w11_d788e6373
-Reichs=tag	w1_d788e6378
-von	w3_d788e6381
-1717.	w5_d788e6384
-confirmiret	w7_d788e6387
-worden	w9_d788e6390
-sind,	w1_d788e6395
-und	w3_d788e6398
-die	w5_d788e6401
-Gestalt	w7_d788e6404
-eines	w9_d788e6407
-Fundamentalge	w11_d788e6410
-setzes	w1_d788e6415
-der	w3_d788e6418
-Krone	w5_d788e6421
-Pohlen	w7_d788e6424
-angenommen	w9_d788e6427
-hat,	w11_d788e6430
-so	w1_d788e6436
-ist	w3_d788e6439
-dies	w5_d788e6442
-die	w7_d788e6445
-Ursach,	w9_d788e6448
-warum	w11_d788e6451
-Jhro	w13_d788e6455
-regieren	w15_d788e6458
-de	w1_d788e6463
-Rußisch=Kaiserliche	w3_d788e6466
-Majestät	w5_d788e6469
-befügt	w7_d788e6472
-ist,	w9_d788e6475
-sich	w1_d788e6480
-in	w3_d788e6483
-die	w5_d788e6486
-in	w7_d788e6489
-Litthauen	w9_d788e6492
-entstandene	w11_d788e6495
-Mißhel	w13_d788e6499
-ligkeiten	w1_d788e6504
-zu	w3_d788e6507
-mischen.	w5_d788e6510
+„Es	w1_d788e6093	NOHI	NOLAB	0.99
+ist	w3_d788e6096	NOHI	NOLAB	1.00
+bekannt,	w5_d788e6099	NOHI	NOLAB	1.00
+daß,	w7_d788e6102	NOHI	NOLAB	1.00
+als	w9_d788e6105	NOHI	NOLAB	1.00
+die	w11_d788e6108	NOHI	NOLAB	0.89
+Troublen	w13_d788e6112	NOHI	NOLAB	1.00
+in	w1_d788e6117	NOHI	NOLAB	1.00
+Pohlen	w3_d788e6120	NOHI	NOLAB	1.00
+seit	w5_d788e6123	NOHI	NOLAB	1.00
+1703.	w7_d788e6126	NOHI	NOLAB	1.00
+bis	w9_d788e6129	NOHI	NOLAB	1.00
+1716.	w11_d788e6132	NOHI	NOLAB	1.00
+dauerten,	w13_d788e6136	NOHI	NOLAB	1.00
+der	w1_d788e6141	NOHI	NOLAB	1.00
+Kaiser	w3_d788e6144	NOHI	NOLAB	1.00
+Peter	w5_d788e6147	NOHI	NOLAB	1.00
+der	w7_d788e6150	NOHI	NOLAB	1.00
+erste	w9_d788e6153	NOHI	NOLAB	1.00
+sowohl	w11_d788e6156	NOHI	NOLAB	1.00
+von	w13_d788e6160	NOHI	NOLAB	0.91
+der	w15_d788e6163	NOHI	NOLAB	1.00
+Nation,	w1_d788e6169	NOHI	NOLAB	1.00
+als	w3_d788e6172	NOHI	NOLAB	1.00
+dem	w5_d788e6175	NOHI	NOLAB	1.00
+König,	w7_d788e6178	NOHI	NOLAB	1.00
+ersucht	w9_d788e6181	NOHI	NOLAB	1.00
+worden	w11_d788e6184	NOHI	NOLAB	1.00
+ist,	w13_d788e6188	NOHI	NOLAB	0.90
+selbige	w1_d788e6193	NOHI	NOLAB	1.00
+zu	w3_d788e6196	NOHI	NOLAB	1.00
+seiner	w5_d788e6199	NOHI	NOLAB	1.00
+Erkenntniß	w7_d788e6202	NOHI	NOLAB	1.00
+zu	w9_d788e6205	NOHI	NOLAB	1.00
+ziehen,	w11_d788e6208	NOHI	NOLAB	1.00
+und	w13_d788e6212	NOHI	NOLAB	1.00
+zu	w1_d788e6217	NOHI	NOLAB	1.00
+vermittlen.	w3_d788e6220	NOHI	NOLAB	0.96
+Er	w5_d788e6223	NOHI	NOLAB	1.00
+kam	w7_d788e6226	NOHI	NOLAB	1.00
+1716.	w9_d788e6229	NOHI	NOLAB	1.00
+damit	w11_d788e6232	NOHI	NOLAB	1.00
+zu	w13_d788e6236	NOHI	NOLAB	1.00
+Stande,	w1_d788e6241	NOHI	NOLAB	1.00
+und	w3_d788e6244	NOHI	NOLAB	1.00
+es	w5_d788e6247	NOHI	NOLAB	1.00
+ward	w7_d788e6250	NOHI	NOLAB	1.00
+eine	w9_d788e6253	NOHI	NOLAB	1.00
+Convention	w11_d788e6256	NOHI	NOLAB	1.00
+un	w13_d788e6260	NOHI	NOLAB	1.00
+ter	w1_d788e6266	NOHI	NOLAB	1.00
+der	w3_d788e6269	NOHI	NOLAB	1.00
+Garantie	w5_d788e6272	NOHI	NOLAB	1.00
+von	w7_d788e6275	NOHI	NOLAB	1.00
+Rußland	w9_d788e6278	NOHI	NOLAB	1.00
+geschlossen,	w11_d788e6281	NOHI	NOLAB	0.99
+welche	w1_d788e6286	NOHI	NOLAB	1.00
+auf	w3_d788e6289	NOHI	NOLAB	1.00
+alle	w5_d788e6292	NOHI	NOLAB	1.00
+Fälle,	w7_d788e6295	NOHI	NOLAB	1.00
+sowohl	w9_d788e6298	NOHI	NOLAB	0.98
+von	w11_d788e6301	NOHI	NOLAB	1.00
+der	w13_d788e6305	NOHI	NOLAB	1.00
+einen	w15_d788e6308	NOHI	NOLAB	0.94
+als	w1_d788e6313	NOHI	NOLAB	1.00
+der	w3_d788e6316	NOHI	NOLAB	0.93
+anderen	w5_d788e6319	NOHI	NOLAB	1.00
+Parthey,	w7_d788e6322	NOHI	NOLAB	0.93
+reclamiret	w9_d788e6325	NOHI	NOLAB	1.00
+werden	w11_d788e6328	NOHI	NOLAB	0.98
+kan.	w1_d788e6333	NOHI	NOLAB	1.00
+Da	w3_d788e6336	NOHI	NOLAB	1.00
+nun	w5_d788e6339	NOHI	NOLAB	1.00
+diese	w7_d788e6342	NOHI	NOLAB	0.92
+Convention	w9_d788e6345	NOHI	NOLAB	1.00
+und	w11_d788e6348	NOHI	NOLAB	1.00
+die	w13_d788e6352	NOHI	NOLAB	1.00
+Clauseln	w1_d788e6358	NOHI	NOLAB	1.00
+dieser	w3_d788e6361	NOHI	NOLAB	0.98
+Garantie	w5_d788e6364	NOHI	NOLAB	1.00
+durch	w7_d788e6367	NOHI	NOLAB	0.92
+den	w9_d788e6370	NOHI	NOLAB	1.00
+solennen	w11_d788e6373	NOHI	NOLAB	1.00
+Reichs=tag	w1_d788e6378	NOHI	NOLAB	0.99
+von	w3_d788e6381	NOHI	NOLAB	1.00
+1717.	w5_d788e6384	NOHI	NOLAB	1.00
+confirmiret	w7_d788e6387	NOHI	NOLAB	1.00
+worden	w9_d788e6390	NOHI	NOLAB	1.00
+sind,	w1_d788e6395	NOHI	NOLAB	0.90
+und	w3_d788e6398	NOHI	NOLAB	1.00
+die	w5_d788e6401	NOHI	NOLAB	0.91
+Gestalt	w7_d788e6404	NOHI	NOLAB	1.00
+eines	w9_d788e6407	NOHI	NOLAB	1.00
+Fundamentalge	w11_d788e6410	NOHI	NOLAB	0.97
+setzes	w1_d788e6415	NOHI	NOLAB	1.00
+der	w3_d788e6418	NOHI	NOLAB	0.96
+Krone	w5_d788e6421	NOHI	NOLAB	1.00
+Pohlen	w7_d788e6424	NOHI	NOLAB	1.00
+angenommen	w9_d788e6427	NOHI	NOLAB	1.00
+hat,	w11_d788e6430	NOHI	NOLAB	1.00
+so	w1_d788e6436	NOHI	NOLAB	1.00
+ist	w3_d788e6439	NOHI	NOLAB	1.00
+dies	w5_d788e6442	NOHI	NOLAB	1.00
+die	w7_d788e6445	NOHI	NOLAB	1.00
+Ursach,	w9_d788e6448	NOHI	NOLAB	1.00
+warum	w11_d788e6451	NOHI	NOLAB	1.00
+Jhro	w13_d788e6455	NOHI	NOLAB	1.00
+regieren	w15_d788e6458	NOHI	NOLAB	0.84
+de	w1_d788e6463	NOHI	NOLAB	1.00
+Rußisch=Kaiserliche	w3_d788e6466	NOHI	NOLAB	0.98
+Majestät	w5_d788e6469	NOHI	NOLAB	0.99
+befügt	w7_d788e6472	NOHI	NOLAB	1.00
+ist,	w9_d788e6475	NOHI	NOLAB	1.00
+sich	w1_d788e6480	NOHI	NOLAB	1.00
+in	w3_d788e6483	NOHI	NOLAB	1.00
+die	w5_d788e6486	NOHI	NOLAB	0.86
+in	w7_d788e6489	NOHI	NOLAB	1.00
+Litthauen	w9_d788e6492	NOHI	NOLAB	0.99
+entstandene	w11_d788e6495	NOHI	NOLAB	1.00
+Mißhel	w13_d788e6499	NOHI	NOLAB	0.96
+ligkeiten	w1_d788e6504	NOHI	NOLAB	1.00
+zu	w3_d788e6507	NOHI	NOLAB	1.00
+mischen.	w5_d788e6510	NOHI	NOLAB	0.92
 </p>
 <head id="h2_d788e6517">
-Kurz	w1_d788e6521
-gefaßte	w3_d788e6524
-Nachrichten.	w5_d788e6527
+Kurz	w1_d788e6521	NOHI	NOLAB	0.91
+gefaßte	w3_d788e6524	NOHI	NOLAB	1.00
+Nachrichten.	w5_d788e6527	NOHI	NOLAB	0.98
 </head>
 <p id="p4_d788e6530">
-Aus	w1_d788e6534
-Sicilien	w3_d788e6537
-läuft	w5_d788e6540
-die	w7_d788e6543
-Nachricht	w9_d788e6546
-ein,	w11_d788e6549
-daß	w1_d788e6554
-der	w3_d788e6557
-See=obriste,	w5_d788e6560
-Don	w7_d788e6563
-Joseph	w9_d788e6566
-Martinez,	w11_d788e6569
-eine	w1_d788e6574
-leichte	w3_d788e6577
-Galeere	w5_d788e6580
-von	w7_d788e6583
-Tripoli,	w9_d788e6586
-die	w11_d788e6589
-erst	w13_d788e6593
-vor	w15_d788e6596
-14.	w1_d788e6602
-Tagen	w3_d788e6605
-in	w5_d788e6608
-die	w7_d788e6611
-See	w9_d788e6614
-gelaufen	w11_d788e6617
-war,	w13_d788e6621
-am	w15_d788e6624
-9.	w17_d788e6627
-dieses	w1_d788e6632
-Monats,	w3_d788e6635
-am	w5_d788e6638
-Vor=gebürge	w7_d788e6641
-von	w9_d788e6644
-Spartivento	w1_d788e6649
-erobert,	w3_d788e6652
-und	w5_d788e6655
-dieselbe	w7_d788e6658
-Tages	w9_d788e6661
-darauf	w1_d788e6666
-nach	w3_d788e6669
-Meßina	w5_d788e6672
-gebracht	w7_d788e6675
-hätte;	w9_d788e6678
-drey	w11_d788e6681
-Lagen	w1_d788e6687
-seyn	w3_d788e6690
-auf	w5_d788e6693
-dieselbe	w7_d788e6696
-losgebrannt	w9_d788e6699
-worden,	w11_d788e6702
-ehe	w1_d788e6707
-sie	w3_d788e6710
-sich	w5_d788e6713
-hätte	w7_d788e6716
-ergeben	w9_d788e6719
-wollen,	w11_d788e6722
-und	w13_d788e6726
-eben	w15_d788e6729
-da	w1_d788e6734
-man	w3_d788e6737
-die	w5_d788e6740
-Beute	w7_d788e6743
-anbinden	w9_d788e6746
-wollte,	w11_d788e6749
-machte	w13_d788e6753
-der	w1_d788e6758
-Türkische	w3_d788e6761
-Capitain,	w5_d788e6764
-ob	w7_d788e6767
-er	w9_d788e6770
-gleich	w11_d788e6773
-gefähr	w13_d788e6777
-lich	w1_d788e6783
-bleßirt	w3_d788e6786
-war,	w5_d788e6789
-noch	w7_d788e6792
-einen	w9_d788e6795
-Neapolitani	w11_d788e6798
+Aus	w1_d788e6534	NOHI	NOLAB	1.00
+Sicilien	w3_d788e6537	NOHI	NOLAB	1.00
+läuft	w5_d788e6540	NOHI	NOLAB	1.00
+die	w7_d788e6543	NOHI	NOLAB	0.84
+Nachricht	w9_d788e6546	NOHI	NOLAB	0.99
+ein,	w11_d788e6549	NOHI	NOLAB	1.00
+daß	w1_d788e6554	NOHI	NOLAB	1.00
+der	w3_d788e6557	NOHI	NOLAB	0.96
+See=obriste,	w5_d788e6560	NOHI	NOLAB	0.98
+Don	w7_d788e6563	NOHI	NOLAB	1.00
+Joseph	w9_d788e6566	NOHI	NOLAB	1.00
+Martinez,	w11_d788e6569	NOHI	NOLAB	1.00
+eine	w1_d788e6574	NOHI	NOLAB	1.00
+leichte	w3_d788e6577	NOHI	NOLAB	0.95
+Galeere	w5_d788e6580	NOHI	NOLAB	1.00
+von	w7_d788e6583	NOHI	NOLAB	1.00
+Tripoli,	w9_d788e6586	NOHI	NOLAB	1.00
+die	w11_d788e6589	NOHI	NOLAB	1.00
+erst	w13_d788e6593	NOHI	NOLAB	1.00
+vor	w15_d788e6596	NOHI	NOLAB	1.00
+14.	w1_d788e6602	NOHI	NOLAB	1.00
+Tagen	w3_d788e6605	NOHI	NOLAB	1.00
+in	w5_d788e6608	NOHI	NOLAB	1.00
+die	w7_d788e6611	NOHI	NOLAB	0.90
+See	w9_d788e6614	NOHI	NOLAB	1.00
+gelaufen	w11_d788e6617	NOHI	NOLAB	1.00
+war,	w13_d788e6621	NOHI	NOLAB	1.00
+am	w15_d788e6624	NOHI	NOLAB	1.00
+9.	w17_d788e6627	NOHI	NOLAB	0.99
+dieses	w1_d788e6632	NOHI	NOLAB	1.00
+Monats,	w3_d788e6635	NOHI	NOLAB	1.00
+am	w5_d788e6638	NOHI	NOLAB	1.00
+Vor=gebürge	w7_d788e6641	NOHI	NOLAB	0.96
+von	w9_d788e6644	NOHI	NOLAB	1.00
+Spartivento	w1_d788e6649	NOHI	NOLAB	1.00
+erobert,	w3_d788e6652	NOHI	NOLAB	1.00
+und	w5_d788e6655	NOHI	NOLAB	1.00
+dieselbe	w7_d788e6658	NOHI	NOLAB	1.00
+Tages	w9_d788e6661	NOHI	NOLAB	1.00
+darauf	w1_d788e6666	NOHI	NOLAB	1.00
+nach	w3_d788e6669	NOHI	NOLAB	1.00
+Meßina	w5_d788e6672	NOHI	NOLAB	1.00
+gebracht	w7_d788e6675	NOHI	NOLAB	1.00
+hätte;	w9_d788e6678	NOHI	NOLAB	1.00
+drey	w11_d788e6681	NOHI	NOLAB	1.00
+Lagen	w1_d788e6687	NOHI	NOLAB	1.00
+seyn	w3_d788e6690	NOHI	NOLAB	0.98
+auf	w5_d788e6693	NOHI	NOLAB	1.00
+dieselbe	w7_d788e6696	NOHI	NOLAB	0.97
+losgebrannt	w9_d788e6699	NOHI	NOLAB	1.00
+worden,	w11_d788e6702	NOHI	NOLAB	1.00
+ehe	w1_d788e6707	NOHI	NOLAB	0.96
+sie	w3_d788e6710	NOHI	NOLAB	1.00
+sich	w5_d788e6713	NOHI	NOLAB	0.98
+hätte	w7_d788e6716	NOHI	NOLAB	0.94
+ergeben	w9_d788e6719	NOHI	NOLAB	1.00
+wollen,	w11_d788e6722	NOHI	NOLAB	1.00
+und	w13_d788e6726	NOHI	NOLAB	1.00
+eben	w15_d788e6729	NOHI	NOLAB	1.00
+da	w1_d788e6734	NOHI	NOLAB	1.00
+man	w3_d788e6737	NOHI	NOLAB	1.00
+die	w5_d788e6740	NOHI	NOLAB	0.98
+Beute	w7_d788e6743	NOHI	NOLAB	1.00
+anbinden	w9_d788e6746	NOHI	NOLAB	1.00
+wollte,	w11_d788e6749	NOHI	NOLAB	1.00
+machte	w13_d788e6753	NOHI	NOLAB	1.00
+der	w1_d788e6758	NOHI	NOLAB	1.00
+Türkische	w3_d788e6761	NOHI	NOLAB	0.97
+Capitain,	w5_d788e6764	NOHI	NOLAB	1.00
+ob	w7_d788e6767	NOHI	NOLAB	1.00
+er	w9_d788e6770	NOHI	NOLAB	1.00
+gleich	w11_d788e6773	NOHI	NOLAB	1.00
+gefähr	w13_d788e6777	NOHI	NOLAB	1.00
+lich	w1_d788e6783	NOHI	NOLAB	1.00
+bleßirt	w3_d788e6786	NOHI	NOLAB	1.00
+war,	w5_d788e6789	NOHI	NOLAB	1.00
+noch	w7_d788e6792	NOHI	NOLAB	0.99
+einen	w9_d788e6795	NOHI	NOLAB	1.00
+Neapolitani	w11_d788e6798	NOHI	NOLAB	1.00
 </p>
 <p id="p6_d788e6801">
-schen	w1_d788e6805
-Constabler	w3_d788e6808
-nieder,	w5_d788e6811
-worauf	w7_d788e6814
-er	w9_d788e6817
-von	w11_d788e6820
-den	w13_d788e6824
-Unsrigen	w1_d788e6829
-in	w3_d788e6832
-Stücken	w5_d788e6835
-zerhauen	w7_d788e6838
-wurde.	w9_d788e6841
-Das	w11_d788e6844
-Schifs=volk	w1_d788e6849
-bestehet	w3_d788e6852
-aus	w5_d788e6855
-83.	w7_d788e6858
-Mohren,	w9_d788e6861
-unter	w11_d788e6864
-welchen	w1_d788e6870
-16.	w3_d788e6873
-hart	w5_d788e6876
-verwundet	w7_d788e6879
-sind.	w9_d788e6882
-Wann	w11_d788e6885
-das	w1_d788e6890
-Schif	w3_d788e6893
-die	w5_d788e6896
-Quarantaine	w7_d788e6899
-wird	w9_d788e6902
-ausgehal	w11_d788e6905
-ten	w1_d788e6910
-haben,	w3_d788e6913
-so	w5_d788e6916
-soll	w7_d788e6919
-es	w9_d788e6922
-hiehin	w11_d788e6925
-geführet	w13_d788e6929
-werden.	w15_d788e6932
+schen	w1_d788e6805	NOHI	NOLAB	1.00
+Constabler	w3_d788e6808	NOHI	NOLAB	0.99
+nieder,	w5_d788e6811	NOHI	NOLAB	0.94
+worauf	w7_d788e6814	NOHI	NOLAB	1.00
+er	w9_d788e6817	NOHI	NOLAB	0.99
+von	w11_d788e6820	NOHI	NOLAB	1.00
+den	w13_d788e6824	NOHI	NOLAB	1.00
+Unsrigen	w1_d788e6829	NOHI	NOLAB	0.94
+in	w3_d788e6832	NOHI	NOLAB	1.00
+Stücken	w5_d788e6835	NOHI	NOLAB	0.87
+zerhauen	w7_d788e6838	NOHI	NOLAB	1.00
+wurde.	w9_d788e6841	NOHI	NOLAB	0.85
+Das	w11_d788e6844	NOHI	NOLAB	1.00
+Schifs=volk	w1_d788e6849	NOHI	NOLAB	1.00
+bestehet	w3_d788e6852	NOHI	NOLAB	0.98
+aus	w5_d788e6855	NOHI	NOLAB	1.00
+83.	w7_d788e6858	NOHI	NOLAB	1.00
+Mohren,	w9_d788e6861	NOHI	NOLAB	1.00
+unter	w11_d788e6864	NOHI	NOLAB	0.94
+welchen	w1_d788e6870	NOHI	NOLAB	1.00
+16.	w3_d788e6873	NOHI	NOLAB	0.99
+hart	w5_d788e6876	NOHI	NOLAB	0.96
+verwundet	w7_d788e6879	NOHI	NOLAB	1.00
+sind.	w9_d788e6882	NOHI	NOLAB	0.92
+Wann	w11_d788e6885	NOHI	NOLAB	1.00
+das	w1_d788e6890	NOHI	NOLAB	1.00
+Schif	w3_d788e6893	NOHI	NOLAB	0.96
+die	w5_d788e6896	NOHI	NOLAB	0.94
+Quarantaine	w7_d788e6899	NOHI	NOLAB	1.00
+wird	w9_d788e6902	NOHI	NOLAB	0.99
+ausgehal	w11_d788e6905	NOHI	NOLAB	1.00
+ten	w1_d788e6910	NOHI	NOLAB	1.00
+haben,	w3_d788e6913	NOHI	NOLAB	1.00
+so	w5_d788e6916	NOHI	NOLAB	1.00
+soll	w7_d788e6919	NOHI	NOLAB	1.00
+es	w9_d788e6922	NOHI	NOLAB	0.98
+hiehin	w11_d788e6925	NOHI	NOLAB	1.00
+geführet	w13_d788e6929	NOHI	NOLAB	0.99
+werden.	w15_d788e6932	NOHI	NOLAB	0.99
 </p>
 <p id="p8_d788e6935">
-Der	w1_d788e6939
-neulich	w3_d788e6942
-gemeldete	w5_d788e6945
-Ausbruch	w7_d788e6948
-des	w9_d788e6951
-Aet	w11_d788e6954
-na	w1_d788e6959
-dauert	w3_d788e6962
-noch	w5_d788e6965
-fort.	w7_d788e6968
-Den	w9_d788e6971
-ersten	w11_d788e6974
-Julii	w13_d788e6978
-hat	w15_d788e6981
-te	w1_d788e6986
-sich	w3_d788e6989
-die	w5_d788e6992
-Lava	w7_d788e6995
-schon	w9_d788e6998
-bis	w11_d788e7001
-auf	w13_d788e7005
-12.	w15_d788e7008
-Meilen	w17_d788e7011
-von	w1_d788e7017
-ihrem	w3_d788e7020
-Ursprunge	w5_d788e7023
-ergossen.	w7_d788e7026
-Das	w9_d788e7029
-Ge	w11_d788e7032
-räusch,	w1_d788e7037
-welches	w3_d788e7040
-der	w5_d788e7043
-Vulcan	w7_d788e7046
-machet,	w9_d788e7049
-kan	w11_d788e7052
-man	w1_d788e7057
-auf	w3_d788e7060
-20.	w5_d788e7063
-Meilen	w7_d788e7066
-weit	w9_d788e7069
-hören.	w11_d788e7072
-Alles	w13_d788e7076
-ist	w15_d788e7079
-dadurch,	w1_d788e7084
-und	w3_d788e7087
-durch	w5_d788e7090
-die	w7_d788e7093
-häufigen	w9_d788e7096
-Erdbeben	w11_d788e7099
-in	w1_d788e7105
-das	w3_d788e7108
-gröste	w5_d788e7111
-Schröcken	w7_d788e7114
-versetzet.	w9_d788e7117
-Vom	w11_d788e7120
-29.	w1_d788e7125
-des	w3_d788e7128
-vorigen	w5_d788e7131
-Monats,	w7_d788e7134
-bis	w9_d788e7137
-zum	w11_d788e7140
-ersten	w13_d788e7144
-die	w15_d788e7147
-ses	w1_d788e7152
-warf	w3_d788e7155
-der	w5_d788e7158
-Schlund	w7_d788e7161
-des	w9_d788e7164
-Aetna	w11_d788e7167
-eine	w13_d788e7171
-gewal	w15_d788e7174
-tige	w1_d788e7179
-Menge	w3_d788e7182
-von	w5_d788e7185
-sehr	w7_d788e7188
-feinem	w9_d788e7191
-schwarzen	w11_d788e7194
-San	w13_d788e7198
-de	w1_d788e7204
-in	w3_d788e7207
-die	w5_d788e7210
-Luft,	w7_d788e7213
-welcher	w9_d788e7216
-als	w11_d788e7219
-ein	w13_d788e7223
-Nebel	w15_d788e7226
-herab	w17_d788e7229
-fiel,	w1_d788e7234
-und	w3_d788e7237
-einen	w5_d788e7240
-Bezirk	w7_d788e7243
-von	w9_d788e7246
-25.	w11_d788e7249
-Meilen	w13_d788e7253
-im	w15_d788e7256
-Umkreise	w1_d788e7261
-bedeckte.	w3_d788e7264
-Die	w5_d788e7267
-Luft	w7_d788e7270
-ward	w9_d788e7273
-dadurch	w11_d788e7276
-selbst	w1_d788e7281
-in	w3_d788e7284
-der	w5_d788e7287
-Stadt	w7_d788e7290
-Catanea	w9_d788e7293
-so	w11_d788e7296
-verdunkelt,	w13_d788e7300
-daß	w1_d788e7306
-man	w3_d788e7309
-die	w5_d788e7312
-Wege	w7_d788e7315
-und	w9_d788e7318
-Gassen	w11_d788e7321
-kaum	w13_d788e7325
-mehr	w15_d788e7328
-finden	w1_d788e7333
-konte.	w3_d788e7336
-Zum	w5_d788e7339
-Glücke	w7_d788e7342
-hat	w9_d788e7345
-dieser	w11_d788e7348
-Aus	w13_d788e7352
-bruch	w1_d788e7357
-weiter	w3_d788e7360
-keinen	w5_d788e7363
-Schaden	w7_d788e7366
-gethan,	w9_d788e7369
-als	w11_d788e7372
-daß	w1_d788e7377
-einige	w3_d788e7380
-Bäume	w5_d788e7383
-in	w7_d788e7386
-dem	w9_d788e7389
-Walde	w11_d788e7392
-zu	w13_d788e7396
-Pater	w15_d788e7399
-no	w1_d788e7405
-dadurch	w3_d788e7408
-verbraunt	w5_d788e7411
-sind.	w7_d788e7414
+Der	w1_d788e6939	NOHI	NOLAB	1.00
+neulich	w3_d788e6942	NOHI	NOLAB	1.00
+gemeldete	w5_d788e6945	NOHI	NOLAB	1.00
+Ausbruch	w7_d788e6948	NOHI	NOLAB	0.95
+des	w9_d788e6951	NOHI	NOLAB	1.00
+Aet	w11_d788e6954	NOHI	NOLAB	0.99
+na	w1_d788e6959	NOHI	NOLAB	1.00
+dauert	w3_d788e6962	NOHI	NOLAB	1.00
+noch	w5_d788e6965	NOHI	NOLAB	1.00
+fort.	w7_d788e6968	NOHI	NOLAB	1.00
+Den	w9_d788e6971	NOHI	NOLAB	1.00
+ersten	w11_d788e6974	NOHI	NOLAB	1.00
+Julii	w13_d788e6978	NOHI	NOLAB	1.00
+hat	w15_d788e6981	NOHI	NOLAB	0.99
+te	w1_d788e6986	NOHI	NOLAB	1.00
+sich	w3_d788e6989	NOHI	NOLAB	0.88
+die	w5_d788e6992	NOHI	NOLAB	0.87
+Lava	w7_d788e6995	NOHI	NOLAB	1.00
+schon	w9_d788e6998	NOHI	NOLAB	0.95
+bis	w11_d788e7001	NOHI	NOLAB	1.00
+auf	w13_d788e7005	NOHI	NOLAB	1.00
+12.	w15_d788e7008	NOHI	NOLAB	1.00
+Meilen	w17_d788e7011	NOHI	NOLAB	1.00
+von	w1_d788e7017	NOHI	NOLAB	1.00
+ihrem	w3_d788e7020	NOHI	NOLAB	1.00
+Ursprunge	w5_d788e7023	NOHI	NOLAB	1.00
+ergossen.	w7_d788e7026	NOHI	NOLAB	1.00
+Das	w9_d788e7029	NOHI	NOLAB	1.00
+Ge	w11_d788e7032	NOHI	NOLAB	1.00
+räusch,	w1_d788e7037	NOHI	NOLAB	1.00
+welches	w3_d788e7040	NOHI	NOLAB	0.94
+der	w5_d788e7043	NOHI	NOLAB	1.00
+Vulcan	w7_d788e7046	NOHI	NOLAB	1.00
+machet,	w9_d788e7049	NOHI	NOLAB	1.00
+kan	w11_d788e7052	NOHI	NOLAB	1.00
+man	w1_d788e7057	NOHI	NOLAB	1.00
+auf	w3_d788e7060	NOHI	NOLAB	1.00
+20.	w5_d788e7063	NOHI	NOLAB	1.00
+Meilen	w7_d788e7066	NOHI	NOLAB	0.96
+weit	w9_d788e7069	NOHI	NOLAB	1.00
+hören.	w11_d788e7072	NOHI	NOLAB	1.00
+Alles	w13_d788e7076	NOHI	NOLAB	1.00
+ist	w15_d788e7079	NOHI	NOLAB	0.86
+dadurch,	w1_d788e7084	NOHI	NOLAB	1.00
+und	w3_d788e7087	NOHI	NOLAB	1.00
+durch	w5_d788e7090	NOHI	NOLAB	0.99
+die	w7_d788e7093	NOHI	NOLAB	0.94
+häufigen	w9_d788e7096	NOHI	NOLAB	0.98
+Erdbeben	w11_d788e7099	NOHI	NOLAB	1.00
+in	w1_d788e7105	NOHI	NOLAB	1.00
+das	w3_d788e7108	NOHI	NOLAB	1.00
+gröste	w5_d788e7111	NOHI	NOLAB	0.98
+Schröcken	w7_d788e7114	NOHI	NOLAB	1.00
+versetzet.	w9_d788e7117	NOHI	NOLAB	0.98
+Vom	w11_d788e7120	NOHI	NOLAB	1.00
+29.	w1_d788e7125	NOHI	NOLAB	0.93
+des	w3_d788e7128	NOHI	NOLAB	1.00
+vorigen	w5_d788e7131	NOHI	NOLAB	0.98
+Monats,	w7_d788e7134	NOHI	NOLAB	1.00
+bis	w9_d788e7137	NOHI	NOLAB	1.00
+zum	w11_d788e7140	NOHI	NOLAB	1.00
+ersten	w13_d788e7144	NOHI	NOLAB	1.00
+die	w15_d788e7147	NOHI	NOLAB	1.00
+ses	w1_d788e7152	NOHI	NOLAB	1.00
+warf	w3_d788e7155	NOHI	NOLAB	1.00
+der	w5_d788e7158	NOHI	NOLAB	1.00
+Schlund	w7_d788e7161	NOHI	NOLAB	1.00
+des	w9_d788e7164	NOHI	NOLAB	1.00
+Aetna	w11_d788e7167	NOHI	NOLAB	0.99
+eine	w13_d788e7171	NOHI	NOLAB	1.00
+gewal	w15_d788e7174	NOHI	NOLAB	0.92
+tige	w1_d788e7179	NOHI	NOLAB	0.99
+Menge	w3_d788e7182	NOHI	NOLAB	1.00
+von	w5_d788e7185	NOHI	NOLAB	1.00
+sehr	w7_d788e7188	NOHI	NOLAB	0.96
+feinem	w9_d788e7191	NOHI	NOLAB	1.00
+schwarzen	w11_d788e7194	NOHI	NOLAB	0.96
+San	w13_d788e7198	NOHI	NOLAB	1.00
+de	w1_d788e7204	NOHI	NOLAB	1.00
+in	w3_d788e7207	NOHI	NOLAB	1.00
+die	w5_d788e7210	NOHI	NOLAB	1.00
+Luft,	w7_d788e7213	NOHI	NOLAB	0.96
+welcher	w9_d788e7216	NOHI	NOLAB	1.00
+als	w11_d788e7219	NOHI	NOLAB	1.00
+ein	w13_d788e7223	NOHI	NOLAB	1.00
+Nebel	w15_d788e7226	NOHI	NOLAB	1.00
+herab	w17_d788e7229	NOHI	NOLAB	1.00
+fiel,	w1_d788e7234	NOHI	NOLAB	0.98
+und	w3_d788e7237	NOHI	NOLAB	1.00
+einen	w5_d788e7240	NOHI	NOLAB	0.90
+Bezirk	w7_d788e7243	NOHI	NOLAB	0.95
+von	w9_d788e7246	NOHI	NOLAB	1.00
+25.	w11_d788e7249	NOHI	NOLAB	1.00
+Meilen	w13_d788e7253	NOHI	NOLAB	1.00
+im	w15_d788e7256	NOHI	NOLAB	1.00
+Umkreise	w1_d788e7261	NOHI	NOLAB	1.00
+bedeckte.	w3_d788e7264	NOHI	NOLAB	0.97
+Die	w5_d788e7267	NOHI	NOLAB	1.00
+Luft	w7_d788e7270	NOHI	NOLAB	1.00
+ward	w9_d788e7273	NOHI	NOLAB	1.00
+dadurch	w11_d788e7276	NOHI	NOLAB	1.00
+selbst	w1_d788e7281	NOHI	NOLAB	1.00
+in	w3_d788e7284	NOHI	NOLAB	1.00
+der	w5_d788e7287	NOHI	NOLAB	1.00
+Stadt	w7_d788e7290	NOHI	NOLAB	1.00
+Catanea	w9_d788e7293	NOHI	NOLAB	1.00
+so	w11_d788e7296	NOHI	NOLAB	1.00
+verdunkelt,	w13_d788e7300	NOHI	NOLAB	0.99
+daß	w1_d788e7306	NOHI	NOLAB	1.00
+man	w3_d788e7309	NOHI	NOLAB	1.00
+die	w5_d788e7312	NOHI	NOLAB	0.87
+Wege	w7_d788e7315	NOHI	NOLAB	1.00
+und	w9_d788e7318	NOHI	NOLAB	1.00
+Gassen	w11_d788e7321	NOHI	NOLAB	0.99
+kaum	w13_d788e7325	NOHI	NOLAB	1.00
+mehr	w15_d788e7328	NOHI	NOLAB	1.00
+finden	w1_d788e7333	NOHI	NOLAB	1.00
+konte.	w3_d788e7336	NOHI	NOLAB	0.98
+Zum	w5_d788e7339	NOHI	NOLAB	1.00
+Glücke	w7_d788e7342	NOHI	NOLAB	1.00
+hat	w9_d788e7345	NOHI	NOLAB	1.00
+dieser	w11_d788e7348	NOHI	NOLAB	0.98
+Aus	w13_d788e7352	NOHI	NOLAB	1.00
+bruch	w1_d788e7357	NOHI	NOLAB	1.00
+weiter	w3_d788e7360	NOHI	NOLAB	1.00
+keinen	w5_d788e7363	NOHI	NOLAB	1.00
+Schaden	w7_d788e7366	NOHI	NOLAB	1.00
+gethan,	w9_d788e7369	NOHI	NOLAB	1.00
+als	w11_d788e7372	NOHI	NOLAB	1.00
+daß	w1_d788e7377	NOHI	NOLAB	1.00
+einige	w3_d788e7380	NOHI	NOLAB	0.99
+Bäume	w5_d788e7383	NOHI	NOLAB	0.98
+in	w7_d788e7386	NOHI	NOLAB	1.00
+dem	w9_d788e7389	NOHI	NOLAB	1.00
+Walde	w11_d788e7392	NOHI	NOLAB	1.00
+zu	w13_d788e7396	NOHI	NOLAB	1.00
+Pater	w15_d788e7399	NOHI	NOLAB	1.00
+no	w1_d788e7405	NOHI	NOLAB	1.00
+dadurch	w3_d788e7408	NOHI	NOLAB	1.00
+verbraunt	w5_d788e7411	NOHI	NOLAB	0.97
+sind.	w7_d788e7414	NOHI	NOLAB	0.96
 </p>
 <p id="p10_d788e7417">
-Zu	w1_d788e7421
-Edam,	w3_d788e7424
-einer	w5_d788e7427
-3.	w7_d788e7430
-Meilen	w9_d788e7433
-von	w11_d788e7436
-Amster	w13_d788e7440
-dam	w1_d788e7445
-gelegenen	w3_d788e7448
-Stadt	w5_d788e7451
-in	w7_d788e7454
-Nord=holland,	w9_d788e7457
-wurde	w1_d788e7462
-am	w3_d788e7465
-13.	w5_d788e7468
-August	w7_d788e7471
-die	w9_d788e7474
-Ehe=frau,	w11_d788e7477
-von	w13_d788e7481
-Hein	w1_d788e7487
-Janssen	w3_d788e7490
-Visser	w5_d788e7493
-von	w7_d788e7496
-3.	w9_d788e7499
-Töchtern	w11_d788e7502
-glück	w13_d788e7506
-lich	w1_d788e7511
-entbunden,	w3_d788e7514
-welche	w5_d788e7517
-Tages	w7_d788e7520
-darauf	w9_d788e7523
-in	w11_d788e7526
-der	w13_d788e7530
-dasigen	w1_d788e7535
-grossen	w3_d788e7538
-Kirche	w5_d788e7541
-getauft	w7_d788e7544
-worden.	w9_d788e7547
+Zu	w1_d788e7421	NOHI	NOLAB	1.00
+Edam,	w3_d788e7424	NOHI	NOLAB	1.00
+einer	w5_d788e7427	NOHI	NOLAB	1.00
+3.	w7_d788e7430	NOHI	NOLAB	1.00
+Meilen	w9_d788e7433	NOHI	NOLAB	1.00
+von	w11_d788e7436	NOHI	NOLAB	1.00
+Amster	w13_d788e7440	NOHI	NOLAB	1.00
+dam	w1_d788e7445	NOHI	NOLAB	0.99
+gelegenen	w3_d788e7448	NOHI	NOLAB	1.00
+Stadt	w5_d788e7451	NOHI	NOLAB	1.00
+in	w7_d788e7454	NOHI	NOLAB	1.00
+Nord=holland,	w9_d788e7457	NOHI	NOLAB	1.00
+wurde	w1_d788e7462	NOHI	NOLAB	1.00
+am	w3_d788e7465	NOHI	NOLAB	1.00
+13.	w5_d788e7468	NOHI	NOLAB	0.99
+August	w7_d788e7471	NOHI	NOLAB	1.00
+die	w9_d788e7474	NOHI	NOLAB	1.00
+Ehe=frau,	w11_d788e7477	NOHI	NOLAB	1.00
+von	w13_d788e7481	NOHI	NOLAB	1.00
+Hein	w1_d788e7487	NOHI	NOLAB	1.00
+Janssen	w3_d788e7490	NOHI	NOLAB	1.00
+Visser	w5_d788e7493	NOHI	NOLAB	0.99
+von	w7_d788e7496	NOHI	NOLAB	1.00
+3.	w9_d788e7499	NOHI	NOLAB	1.00
+Töchtern	w11_d788e7502	NOHI	NOLAB	0.99
+glück	w13_d788e7506	NOHI	NOLAB	1.00
+lich	w1_d788e7511	NOHI	NOLAB	1.00
+entbunden,	w3_d788e7514	NOHI	NOLAB	0.99
+welche	w5_d788e7517	NOHI	NOLAB	0.95
+Tages	w7_d788e7520	NOHI	NOLAB	1.00
+darauf	w9_d788e7523	NOHI	NOLAB	1.00
+in	w11_d788e7526	NOHI	NOLAB	1.00
+der	w13_d788e7530	NOHI	NOLAB	1.00
+dasigen	w1_d788e7535	NOHI	NOLAB	0.95
+grossen	w3_d788e7538	NOHI	NOLAB	1.00
+Kirche	w5_d788e7541	NOHI	NOLAB	1.00
+getauft	w7_d788e7544	NOHI	NOLAB	1.00
+worden.	w9_d788e7547	NOHI	NOLAB	0.88
 </p>
 <head id="h2_d788e7553">
-Wien	w1_d788e7557
-den	w3_d788e7560
-3.	w5_d788e7563
-Septemb.	w7_d788e7566
-1763.	w9_d788e7569
+Wien	w1_d788e7557	NOHI	NOLAB	0.89
+den	w3_d788e7560	NOHI	NOLAB	1.00
+3.	w5_d788e7563	NOHI	NOLAB	1.00
+Septemb.	w7_d788e7566	NOHI	NOLAB	1.00
+1763.	w9_d788e7569	NOHI	NOLAB	1.00
 </head>
 <p id="p4_d788e7572">
-Den	w1_d788e7576
-Nachrichten	w3_d788e7579
-von	w5_d788e7582
-Schloß=hof	w7_d788e7585
-zufol	w9_d788e7588
-ge	w1_d788e7593
-befinden	w3_d788e7596
-die	w5_d788e7599
-höchsten	w7_d788e7602
-Herrschaften	w9_d788e7605
-sich	w1_d788e7610
-allda	w3_d788e7613
-im	w5_d788e7616
-besten	w7_d788e7619
-Wol.	w9_d788e7622
+Den	w1_d788e7576	NOHI	NOLAB	1.00
+Nachrichten	w3_d788e7579	NOHI	NOLAB	1.00
+von	w5_d788e7582	NOHI	NOLAB	1.00
+Schloß=hof	w7_d788e7585	NOHI	NOLAB	0.98
+zufol	w9_d788e7588	NOHI	NOLAB	0.93
+ge	w1_d788e7593	NOHI	NOLAB	0.81
+befinden	w3_d788e7596	NOHI	NOLAB	1.00
+die	w5_d788e7599	NOHI	NOLAB	1.00
+höchsten	w7_d788e7602	NOHI	NOLAB	1.00
+Herrschaften	w9_d788e7605	NOHI	NOLAB	1.00
+sich	w1_d788e7610	NOHI	NOLAB	0.96
+allda	w3_d788e7613	NOHI	NOLAB	1.00
+im	w5_d788e7616	NOHI	NOLAB	1.00
+besten	w7_d788e7619	NOHI	NOLAB	0.99
+Wol.	w9_d788e7622	NOHI	NOLAB	1.00
 </p>
 <p id="p6_d788e7625">
-Donnerstags	w1_d788e7629
-den	w3_d788e7632
-1.	w5_d788e7635
-dieses	w7_d788e7638
-haben	w9_d788e7641
-beede	w11_d788e7644
-Kaiserl.	w1_d788e7649
-Königl.	w3_d788e7652
-Majestäten	w5_d788e7655
-sich	w7_d788e7658
-mit	w9_d788e7661
-den	w11_d788e7664
-3.	w13_d788e7668
-Erzherzoginnen	w1_d788e7673
-Maria	w3_d788e7676
-Anna,	w5_d788e7679
-Maria	w7_d788e7682
-Chri	w9_d788e7685
-stina	w1_d788e7691
-und	w3_d788e7694
-Maria	w5_d788e7697
-Elisabetha	w7_d788e7700
-Königl.	w9_d788e7703
-Hohei	w11_d788e7706
-ten	w1_d788e7711
-zu	w3_d788e7714
-dem	w5_d788e7717
-Hrn.	w7_d788e7720
-Feldmarschallen	w9_d788e7723
-und	w11_d788e7726
-com	w13_d788e7730
+Donnerstags	w1_d788e7629	NOHI	NOLAB	0.96
+den	w3_d788e7632	NOHI	NOLAB	1.00
+1.	w5_d788e7635	NOHI	NOLAB	1.00
+dieses	w7_d788e7638	NOHI	NOLAB	1.00
+haben	w9_d788e7641	NOHI	NOLAB	1.00
+beede	w11_d788e7644	NOHI	NOLAB	0.96
+Kaiserl.	w1_d788e7649	NOHI	NOLAB	1.00
+Königl.	w3_d788e7652	NOHI	NOLAB	1.00
+Majestäten	w5_d788e7655	NOHI	NOLAB	1.00
+sich	w7_d788e7658	NOHI	NOLAB	1.00
+mit	w9_d788e7661	NOHI	NOLAB	1.00
+den	w11_d788e7664	NOHI	NOLAB	0.86
+3.	w13_d788e7668	NOHI	NOLAB	1.00
+Erzherzoginnen	w1_d788e7673	NOHI	NOLAB	1.00
+Maria	w3_d788e7676	NOHI	NOLAB	1.00
+Anna,	w5_d788e7679	NOHI	NOLAB	0.95
+Maria	w7_d788e7682	NOHI	NOLAB	1.00
+Chri	w9_d788e7685	NOHI	NOLAB	1.00
+stina	w1_d788e7691	NOHI	NOLAB	1.00
+und	w3_d788e7694	NOHI	NOLAB	1.00
+Maria	w5_d788e7697	NOHI	NOLAB	1.00
+Elisabetha	w7_d788e7700	NOHI	NOLAB	1.00
+Königl.	w9_d788e7703	NOHI	NOLAB	1.00
+Hohei	w11_d788e7706	NOHI	NOLAB	1.00
+ten	w1_d788e7711	NOHI	NOLAB	1.00
+zu	w3_d788e7714	NOHI	NOLAB	1.00
+dem	w5_d788e7717	NOHI	NOLAB	1.00
+Hrn.	w7_d788e7720	NOHI	NOLAB	0.91
+Feldmarschallen	w9_d788e7723	NOHI	NOLAB	0.99
+und	w11_d788e7726	NOHI	NOLAB	1.00
+com	w13_d788e7730	NOHI	NOLAB	1.00
 </p>
 <list id="l12_d788e7744">
-AVERTISSEMENT	w1_d788e7748
+AVERTISSEMENT	w1_d788e7748	NOHI	NOLAB	1.00
 </list>
 <head id="h4_d788e7765">
-Lista	w1_d788e7769
-deren	w3_d788e7772
-Verstorbenen	w5_d788e7775
-zu	w7_d788e7778
-Wien	w9_d788e7781
-in	w1_d788e7786
-und	w3_d788e7789
-vor	w5_d788e7792
-der	w7_d788e7795
-Stadt.	w9_d788e7798
-Den	w1_d788e7803
-30.	w3_d788e7806
-Aug.	w5_d788e7809
-Jn	w7_d788e7812
-der	w9_d788e7815
-Stadt.	w11_d788e7818
-Dem	w1_d788e7824
-Hoch=edel=geb.	w3_d788e7827
-Hrn	w5_d788e7830
-Ferd.	w7_d788e7833
-Maria	w9_d788e7836
-v.	w11_d788e7839
-und	w13_d788e7843
-zu	w15_d788e7846
+Lista	w1_d788e7769	NOHI	NOLAB	0.90
+deren	w3_d788e7772	NOHI	NOLAB	0.97
+Verstorbenen	w5_d788e7775	NOHI	NOLAB	0.96
+zu	w7_d788e7778	NOHI	NOLAB	1.00
+Wien	w9_d788e7781	NOHI	NOLAB	1.00
+in	w1_d788e7786	NOHI	NOLAB	1.00
+und	w3_d788e7789	NOHI	NOLAB	1.00
+vor	w5_d788e7792	NOHI	NOLAB	1.00
+der	w7_d788e7795	NOHI	NOLAB	1.00
+Stadt.	w9_d788e7798	NOHI	NOLAB	1.00
+Den	w1_d788e7803	NOHI	NOLAB	1.00
+30.	w3_d788e7806	NOHI	NOLAB	1.00
+Aug.	w5_d788e7809	NOHI	NOLAB	1.00
+Jn	w7_d788e7812	NOHI	NOLAB	1.00
+der	w9_d788e7815	NOHI	NOLAB	1.00
+Stadt.	w11_d788e7818	NOHI	NOLAB	1.00
+Dem	w1_d788e7824	NOHI	NOLAB	0.84
+Hoch=edel=geb.	w3_d788e7827	NOHI	NOLAB	1.00
+Hrn	w5_d788e7830	NOHI	NOLAB	1.00
+Ferd.	w7_d788e7833	NOHI	NOLAB	1.00
+Maria	w9_d788e7836	NOHI	NOLAB	1.00
+v.	w11_d788e7839	NOHI	NOLAB	1.00
+und	w13_d788e7843	NOHI	NOLAB	1.00
+zu	w15_d788e7846	NOHI	NOLAB	1.00
 </head>
 <list id="l6_d788e7849">
-Bey	w1_d788e7853
-denen	w3_d788e7856
-Verlegern	w5_d788e7859
-des	w7_d788e7862
-Wienerischen	w9_d788e7865
-Diarii	w11_d788e7868
+Bey	w1_d788e7853	NOHI	NOLAB	1.00
+denen	w3_d788e7856	NOHI	NOLAB	1.00
+Verlegern	w5_d788e7859	NOHI	NOLAB	1.00
+des	w7_d788e7862	NOHI	NOLAB	1.00
+Wienerischen	w9_d788e7865	NOHI	NOLAB	1.00
+Diarii	w11_d788e7868	NOHI	NOLAB	1.00
 </list>
 <list id="l8_d788e7872">
-Bey	w1_d788e7876
-denen	w3_d788e7879
-Verlegern	w5_d788e7882
-des	w7_d788e7885
-Wienerischen	w9_d788e7888
-Diarii	w11_d788e7891
-ist	w1_d788e7896
-zu	w3_d788e7899
-haben.	w5_d788e7902
-Adjumentum	w1_d788e7907
-Memoriæ	w3_d788e7910
-Manuale	w5_d788e7913
-Chronolog.	w7_d788e7916
-Genealogico-Historicum,	w1_d788e7922
-Eruditis	w3_d788e7925
-omnibus	w5_d788e7928
-ju	w7_d788e7931
-cundum,	w1_d788e7936
-cumprimis	w3_d788e7939
-verò	w5_d788e7942
-studiosæ	w7_d788e7945
-Nobil.	w9_d788e7948
-Juven-	w11_d788e7951
-tuti	w1_d788e7956
-commodo	w3_d788e7959
-concinnatum.	w5_d788e7962
-Das	w7_d788e7965
-Stück	w9_d788e7968
-für	w11_d788e7971
-30.	w1_d788e7976
-kr.	w3_d788e7979
+Bey	w1_d788e7876	NOHI	NOLAB	1.00
+denen	w3_d788e7879	NOHI	NOLAB	1.00
+Verlegern	w5_d788e7882	NOHI	NOLAB	1.00
+des	w7_d788e7885	NOHI	NOLAB	1.00
+Wienerischen	w9_d788e7888	NOHI	NOLAB	1.00
+Diarii	w11_d788e7891	NOHI	NOLAB	1.00
+ist	w1_d788e7896	NOHI	NOLAB	1.00
+zu	w3_d788e7899	NOHI	NOLAB	1.00
+haben.	w5_d788e7902	NOHI	NOLAB	0.96
+Adjumentum	w1_d788e7907	NOHI	NOLAB	1.00
+Memoriæ	w3_d788e7910	NOHI	NOLAB	0.99
+Manuale	w5_d788e7913	NOHI	NOLAB	1.00
+Chronolog.	w7_d788e7916	NOHI	NOLAB	1.00
+Genealogico-Historicum,	w1_d788e7922	NOHI	NOLAB	1.00
+Eruditis	w3_d788e7925	NOHI	NOLAB	1.00
+omnibus	w5_d788e7928	NOHI	NOLAB	1.00
+ju	w7_d788e7931	NOHI	NOLAB	1.00
+cundum,	w1_d788e7936	NOHI	NOLAB	1.00
+cumprimis	w3_d788e7939	NOHI	NOLAB	1.00
+verò	w5_d788e7942	NOHI	NOLAB	0.88
+studiosæ	w7_d788e7945	NOHI	NOLAB	0.97
+Nobil.	w9_d788e7948	NOHI	NOLAB	0.95
+Juven-	w11_d788e7951	NOHI	NOLAB	0.98
+tuti	w1_d788e7956	NOHI	NOLAB	1.00
+commodo	w3_d788e7959	NOHI	NOLAB	1.00
+concinnatum.	w5_d788e7962	NOHI	NOLAB	1.00
+Das	w7_d788e7965	NOHI	NOLAB	1.00
+Stück	w9_d788e7968	NOHI	NOLAB	1.00
+für	w11_d788e7971	NOHI	NOLAB	1.00
+30.	w1_d788e7976	NOHI	NOLAB	0.99
+kr.	w3_d788e7979	NOHI	NOLAB	1.00
 </list>
 <list id="l10_d788e7983">
 </list>
 <p id="p12_d788e7989">
-Entbiete	w1_d788e7993
-N.	w3_d788e7996
-allen	w5_d788e7999
-und	w7_d788e8002
-jeden,	w9_d788e8005
-was	w11_d788e8008
-Standes	w13_d788e8012
-oder	w15_d788e8015
-Würde	w1_d788e8020
-die	w3_d788e8023
-seynd,	w5_d788e8026
-der	w7_d788e8029
-Gebühr	w9_d788e8032
-nach	w11_d788e8035
-meinen	w13_d788e8039
-respeck.	w15_d788e8042
-Dienst	w1_d788e8047
-in	w3_d788e8050
-guten	w5_d788e8053
-Willen	w7_d788e8056
-zuvor,	w9_d788e8059
-und	w11_d788e8062
-gebe	w13_d788e8066
-hiemit	w15_d788e8069
-zu	w1_d788e8075
-vernehmen:	w3_d788e8078
-Nachdeme	w1_d788e8083
-die	w3_d788e8086
-wegen	w5_d788e8089
-Versteigerung	w7_d788e8092
-des	w9_d788e8095
-Gräfl.	w11_d788e8098
-Scalvignonischen	w1_d788e8103
-Hauses	w3_d788e8106
-hinter	w5_d788e8109
-denen	w7_d788e8112
-P.	w9_d788e8115
-P.	w11_d788e8118
-Mi	w13_d788e8122
-noriten	w1_d788e8127
-allhier	w3_d788e8130
-den	w5_d788e8133
-12ten	w7_d788e8136
-Julii	w9_d788e8139
-jüngsthin	w11_d788e8142
-fürge	w13_d788e8146
-weste	w1_d788e8152
+Entbiete	w1_d788e7993	NOHI	NOLAB	1.00
+N.	w3_d788e7996	NOHI	NOLAB	0.80
+allen	w5_d788e7999	NOHI	NOLAB	1.00
+und	w7_d788e8002	NOHI	NOLAB	1.00
+jeden,	w9_d788e8005	NOHI	NOLAB	1.00
+was	w11_d788e8008	NOHI	NOLAB	1.00
+Standes	w13_d788e8012	NOHI	NOLAB	1.00
+oder	w15_d788e8015	NOHI	NOLAB	1.00
+Würde	w1_d788e8020	NOHI	NOLAB	1.00
+die	w3_d788e8023	NOHI	NOLAB	0.94
+seynd,	w5_d788e8026	NOHI	NOLAB	1.00
+der	w7_d788e8029	NOHI	NOLAB	0.92
+Gebühr	w9_d788e8032	NOHI	NOLAB	1.00
+nach	w11_d788e8035	NOHI	NOLAB	1.00
+meinen	w13_d788e8039	NOHI	NOLAB	1.00
+respeck.	w15_d788e8042	NOHI	NOLAB	0.90
+Dienst	w1_d788e8047	NOHI	NOLAB	1.00
+in	w3_d788e8050	NOHI	NOLAB	1.00
+guten	w5_d788e8053	NOHI	NOLAB	1.00
+Willen	w7_d788e8056	NOHI	NOLAB	1.00
+zuvor,	w9_d788e8059	NOHI	NOLAB	1.00
+und	w11_d788e8062	NOHI	NOLAB	1.00
+gebe	w13_d788e8066	NOHI	NOLAB	1.00
+hiemit	w15_d788e8069	NOHI	NOLAB	1.00
+zu	w1_d788e8075	NOHI	NOLAB	1.00
+vernehmen:	w3_d788e8078	NOHI	NOLAB	1.00
+Nachdeme	w1_d788e8083	NOHI	NOLAB	0.87
+die	w3_d788e8086	NOHI	NOLAB	1.00
+wegen	w5_d788e8089	NOHI	NOLAB	1.00
+Versteigerung	w7_d788e8092	NOHI	NOLAB	0.98
+des	w9_d788e8095	NOHI	NOLAB	1.00
+Gräfl.	w11_d788e8098	NOHI	NOLAB	1.00
+Scalvignonischen	w1_d788e8103	NOHI	NOLAB	0.99
+Hauses	w3_d788e8106	NOHI	NOLAB	1.00
+hinter	w5_d788e8109	NOHI	NOLAB	1.00
+denen	w7_d788e8112	NOHI	NOLAB	1.00
+P.	w9_d788e8115	NOHI	NOLAB	1.00
+P.	w11_d788e8118	NOHI	NOLAB	1.00
+Mi	w13_d788e8122	NOHI	NOLAB	1.00
+noriten	w1_d788e8127	NOHI	NOLAB	1.00
+allhier	w3_d788e8130	NOHI	NOLAB	1.00
+den	w5_d788e8133	NOHI	NOLAB	1.00
+12ten	w7_d788e8136	NOHI	NOLAB	1.00
+Julii	w9_d788e8139	NOHI	NOLAB	1.00
+jüngsthin	w11_d788e8142	NOHI	NOLAB	0.99
+fürge	w13_d788e8146	NOHI	NOLAB	0.89
+weste	w1_d788e8152	NOHI	NOLAB	1.00
 </p>
 <list id="l16_d788e8157">
-Zukünftigen	w1_d788e8161
-Mittwoch,	w3_d788e8164
-als	w5_d788e8167
-den	w7_d788e8170
-7.	w9_d788e8173
-dies	w11_d788e8176
-Monats	w13_d788e8180
+Zukünftigen	w1_d788e8161	NOHI	NOLAB	1.00
+Mittwoch,	w3_d788e8164	NOHI	NOLAB	0.91
+als	w5_d788e8167	NOHI	NOLAB	0.98
+den	w7_d788e8170	NOHI	NOLAB	1.00
+7.	w9_d788e8173	NOHI	NOLAB	1.00
+dies	w11_d788e8176	NOHI	NOLAB	1.00
+Monats	w13_d788e8180	NOHI	NOLAB	1.00
 </list>
 <list id="l20_d788e8186">
-Es	w1_d788e8190
-dienet	w3_d788e8193
-dem	w5_d788e8196
-Publieo	w7_d788e8199
-zur	w9_d788e8202
-Nachricht:	w11_d788e8205
-daß	w13_d788e8209
-den	w15_d788e8212
+Es	w1_d788e8190	NOHI	NOLAB	0.93
+dienet	w3_d788e8193	NOHI	NOLAB	0.94
+dem	w5_d788e8196	NOHI	NOLAB	1.00
+Publieo	w7_d788e8199	NOHI	NOLAB	0.80
+zur	w9_d788e8202	NOHI	NOLAB	0.97
+Nachricht:	w11_d788e8205	NOHI	NOLAB	0.97
+daß	w13_d788e8209	NOHI	NOLAB	0.98
+den	w15_d788e8212	NOHI	NOLAB	0.80
 </list>
 <list id="l22_d788e8216">
-Auf	w1_d788e8220
-nächst	w3_d788e8223
-künftigen	w5_d788e8226
-Dienstag	w7_d788e8229
-als	w9_d788e8232
-den	w11_d788e8235
-6.	w13_d788e8239
-Seyt.	w15_d788e8242
+Auf	w1_d788e8220	NOHI	NOLAB	1.00
+nächst	w3_d788e8223	NOHI	NOLAB	0.92
+künftigen	w5_d788e8226	NOHI	NOLAB	0.95
+Dienstag	w7_d788e8229	NOHI	NOLAB	1.00
+als	w9_d788e8232	NOHI	NOLAB	1.00
+den	w11_d788e8235	NOHI	NOLAB	1.00
+6.	w13_d788e8239	NOHI	NOLAB	1.00
+Seyt.	w15_d788e8242	NOHI	NOLAB	0.93
 </list>
 <list id="l24_d788e8247">
-Den	w1_d788e8251
-5.	w3_d788e8254
-und	w5_d788e8257
-6.	w7_d788e8260
-nächstkünftigen	w9_d788e8263
-Monats	w11_d788e8266
-Sept	w13_d788e8270
+Den	w1_d788e8251	NOHI	NOLAB	1.00
+5.	w3_d788e8254	NOHI	NOLAB	1.00
+und	w5_d788e8257	NOHI	NOLAB	1.00
+6.	w7_d788e8260	NOHI	NOLAB	1.00
+nächstkünftigen	w9_d788e8263	NOHI	NOLAB	0.98
+Monats	w11_d788e8266	NOHI	NOLAB	1.00
+Sept	w13_d788e8270	NOHI	NOLAB	1.00
 </list>
 <list id="l26_d788e8274">
-Wir	w1_d788e8278
-Burgermeister	w3_d788e8281
-amts=verwalter	w5_d788e8284
-und	w7_d788e8287
-Rath	w9_d788e8290
+Wir	w1_d788e8278	NOHI	NOLAB	0.93
+Burgermeister	w3_d788e8281	NOHI	NOLAB	1.00
+amts=verwalter	w5_d788e8284	NOHI	NOLAB	0.96
+und	w7_d788e8287	NOHI	NOLAB	1.00
+Rath	w9_d788e8290	NOHI	NOLAB	1.00
 </list>
 <list id="l28_d788e8294">
-Nächst=künftigen	w1_d788e8298
-Montag,	w3_d788e8301
-als	w5_d788e8304
-den	w7_d788e8307
-5.	w9_d788e8310
-dieses	w11_d788e8313
-Mo	w13_d788e8317
+Nächst=künftigen	w1_d788e8298	NOHI	NOLAB	0.98
+Montag,	w3_d788e8301	NOHI	NOLAB	1.00
+als	w5_d788e8304	NOHI	NOLAB	1.00
+den	w7_d788e8307	NOHI	NOLAB	1.00
+5.	w9_d788e8310	NOHI	NOLAB	0.99
+dieses	w11_d788e8313	NOHI	NOLAB	0.95
+Mo	w13_d788e8317	NOHI	NOLAB	1.00
 </list>
 <list id="l30_d788e8321">
-Von	w1_d788e8325
-des	w3_d788e8328
-Gräflich=Walseggischen	w5_d788e8331
-Judicii	w7_d788e8334
-de-	w9_d788e8337
+Von	w1_d788e8325	NOHI	NOLAB	1.00
+des	w3_d788e8328	NOHI	NOLAB	0.93
+Gräflich=Walseggischen	w5_d788e8331	NOHI	NOLAB	0.98
+Judicii	w7_d788e8334	NOHI	NOLAB	1.00
+de-	w9_d788e8337	NOHI	NOLAB	0.79
 </list>
 <list id="l32_d788e8341">
-Es	w1_d788e8345
-seynd	w3_d788e8348
-täglich	w5_d788e8351
-Tockayer=weine	w7_d788e8354
-Flaschen	w9_d788e8357
+Es	w1_d788e8345	NOHI	NOLAB	1.00
+seynd	w3_d788e8348	NOHI	NOLAB	1.00
+täglich	w5_d788e8351	NOHI	NOLAB	1.00
+Tockayer=weine	w7_d788e8354	NOHI	NOLAB	1.00
+Flaschen	w9_d788e8357	NOHI	NOLAB	0.94
 </list>
 <list id="l34_d788e8361">
-Es	w1_d788e8365
-ist	w3_d788e8368
-allhier	w5_d788e8371
-auf	w7_d788e8374
-der	w9_d788e8377
-Wieden	w11_d788e8380
-neben	w13_d788e8384
-denen	w15_d788e8387
-PP.	w17_d788e8390
+Es	w1_d788e8365	NOHI	NOLAB	1.00
+ist	w3_d788e8368	NOHI	NOLAB	0.89
+allhier	w5_d788e8371	NOHI	NOLAB	0.96
+auf	w7_d788e8374	NOHI	NOLAB	1.00
+der	w9_d788e8377	NOHI	NOLAB	0.95
+Wieden	w11_d788e8380	NOHI	NOLAB	1.00
+neben	w13_d788e8384	NOHI	NOLAB	1.00
+denen	w15_d788e8387	NOHI	NOLAB	0.94
+PP.	w17_d788e8390	NOHI	NOLAB	0.96
 </list>
 <list id="l38_d788e8397">
-Von	w1_d788e8401
-inländischen	w3_d788e8404
-gelehrten	w5_d788e8407
-Sachen.	w7_d788e8410
-siteuet.	w1_d788e8415
-Dasselbe	w3_d788e8418
-ist	w5_d788e8421
-nur	w7_d788e8424
-eine	w9_d788e8427
-Vorbereitung	w11_d788e8430
+Von	w1_d788e8401	NOHI	NOLAB	1.00
+inländischen	w3_d788e8404	NOHI	NOLAB	1.00
+gelehrten	w5_d788e8407	NOHI	NOLAB	1.00
+Sachen.	w7_d788e8410	NOHI	NOLAB	1.00
+siteuet.	w1_d788e8415	NOHI	NOLAB	0.87
+Dasselbe	w3_d788e8418	NOHI	NOLAB	1.00
+ist	w5_d788e8421	NOHI	NOLAB	0.96
+nur	w7_d788e8424	NOHI	NOLAB	1.00
+eine	w9_d788e8427	NOHI	NOLAB	0.89
+Vorbereitung	w11_d788e8430	NOHI	NOLAB	1.00
 </list>
 <p id="p40_d788e8434">
-Joh.	w1_d788e8438
-Thom.	w3_d788e8441
-Trattner	w5_d788e8444
-hat	w7_d788e8447
-gedruckt:	w9_d788e8450
-Tbeologicorum	w1_d788e8455
-Prolegomenorum	w3_d788e8458
-libri	w5_d788e8461
-duc	w7_d788e8464
-Jn	w1_d788e8469
-vsum	w3_d788e8472
-sebolae	w5_d788e8475
-tbeologicae	w7_d788e8478
-conscripti	w9_d788e8481
-a	w11_d788e8484
-P.	w13_d788e8488
-Joan-	w15_d788e8491
-ne	w1_d788e8497
-Baptista	w3_d788e8500
-Prilesaki	w5_d788e8503
-e	w7_d788e8506
-S.	w9_d788e8509
-J.	w11_d788e8512
-SS.	w13_d788e8516
-Theel.	w15_d788e8519
-Do-	w17_d788e8522
-ctore.	w1_d788e8527
-Viennae	w3_d788e8530
-Austr.	w5_d788e8533
-in	w7_d788e8536
-groß	w9_d788e8539
-8.	w11_d788e8542
+Joh.	w1_d788e8438	NOHI	NOLAB	0.91
+Thom.	w3_d788e8441	NOHI	NOLAB	1.00
+Trattner	w5_d788e8444	NOHI	NOLAB	1.00
+hat	w7_d788e8447	NOHI	NOLAB	1.00
+gedruckt:	w9_d788e8450	NOHI	NOLAB	0.95
+Tbeologicorum	w1_d788e8455	NOHI	NOLAB	0.98
+Prolegomenorum	w3_d788e8458	NOHI	NOLAB	0.98
+libri	w5_d788e8461	NOHI	NOLAB	1.00
+duc	w7_d788e8464	NOHI	NOLAB	0.95
+Jn	w1_d788e8469	NOHI	NOLAB	0.50
+vsum	w3_d788e8472	NOHI	NOLAB	0.93
+sebolae	w5_d788e8475	NOHI	NOLAB	0.88
+tbeologicae	w7_d788e8478	NOHI	NOLAB	0.99
+conscripti	w9_d788e8481	NOHI	NOLAB	0.98
+a	w11_d788e8484	NOHI	NOLAB	1.00
+P.	w13_d788e8488	NOHI	NOLAB	1.00
+Joan-	w15_d788e8491	NOHI	NOLAB	0.97
+ne	w1_d788e8497	NOHI	NOLAB	0.99
+Baptista	w3_d788e8500	NOHI	NOLAB	0.92
+Prilesaki	w5_d788e8503	NOHI	NOLAB	0.90
+e	w7_d788e8506	NOHI	NOLAB	1.00
+S.	w9_d788e8509	NOHI	NOLAB	0.87
+J.	w11_d788e8512	NOHI	NOLAB	1.00
+SS.	w13_d788e8516	NOHI	NOLAB	1.00
+Theel.	w15_d788e8519	NOHI	NOLAB	0.80
+Do-	w17_d788e8522	NOHI	NOLAB	0.91
+ctore.	w1_d788e8527	NOHI	NOLAB	0.96
+Viennae	w3_d788e8530	NOHI	NOLAB	1.00
+Austr.	w5_d788e8533	NOHI	NOLAB	1.00
+in	w7_d788e8536	NOHI	NOLAB	1.00
+groß	w9_d788e8539	NOHI	NOLAB	1.00
+8.	w11_d788e8542	NOHI	NOLAB	1.00
 </p>
 <p id="p44_d788e8547">
-VII.	w1_d788e8551
-Von	w3_d788e8554
-der	w5_d788e8557
-Vernunftlehre,	w7_d788e8560
-Weltwelsheit,	w9_d788e8563
-hebräischen	w1_d788e8568
-und	w3_d788e8571
-griechischen	w5_d788e8574
-Sprache,	w7_d788e8577
-als	w9_d788e8580
-Hülfsmitteln	w1_d788e8585
-der	w3_d788e8588
-Theologie.	w5_d788e8591
-Eine	w7_d788e8594
-Probe	w9_d788e8597
-der	w1_d788e8603
-Bescheidenheit	w3_d788e8606
-unsers	w5_d788e8609
-Verfassers	w7_d788e8612
-in	w9_d788e8615
-der	w11_d788e8618
-Schreibart,	w1_d788e8623
-dieser	w3_d788e8626
-so	w5_d788e8629
-seltenen	w7_d788e8632
-Gabe,	w9_d788e8635
-scheint	w11_d788e8638
-uns	w1_d788e8643
-die	w3_d788e8646
-Art	w5_d788e8649
-zu	w7_d788e8652
-seyn,	w9_d788e8655
-womit	w11_d788e8658
-er	w13_d788e8662
-die	w15_d788e8665
-bekannte	w17_d788e8668
-Streitfrage	w1_d788e8673
-berühret:	w3_d788e8676
-Ob	w5_d788e8679
-der	w7_d788e8682
-Pabst	w9_d788e8685
-einer	w11_d788e8688
-allgemeinen	w1_d788e8694
-Kirchenversamlung	w3_d788e8697
-unterwürfig	w5_d788e8700
-sey;	w1_d788e8705
-wie	w3_d788e8708
-solches	w5_d788e8711
-die	w7_d788e8714
-französische	w9_d788e8717
-Geistlichkeit	w11_d788e8720
-behauptet.	w1_d788e8725
-Er	w3_d788e8728
-bringet	w5_d788e8731
-diesen	w7_d788e8734
-Satz	w9_d788e8737
-S.	w11_d788e8740
-271.	w13_d788e8744
-auf	w1_d788e8749
-die	w3_d788e8752
-Bahne,	w5_d788e8755
-und	w7_d788e8758
-begegnet	w9_d788e8761
-demselben	w11_d788e8764
-allein	w13_d788e8768
-mit	w1_d788e8774
-glimpflicher	w3_d788e8777
-Anführung	w5_d788e8780
-seiner	w7_d788e8783
-Gegen	w9_d788e8786
-beweise.	w1_d788e8791
-Was	w3_d788e8794
-kann	w5_d788e8797
-man	w7_d788e8800
-von	w9_d788e8803
-einem	w11_d788e8806
-seines	w13_d788e8810
-Ordens	w1_d788e8815
-mehr	w3_d788e8818
-fodern?	w5_d788e8821
-Er	w7_d788e8824
-ist	w9_d788e8827
-auch	w11_d788e8830
-in	w13_d788e8834
-Be	w15_d788e8837
-nennung	w1_d788e8842
-der	w3_d788e8845
-Gottesgelehrten	w5_d788e8848
-anderer	w7_d788e8851
-Ge	w9_d788e8854
-meinden	w1_d788e8860
-unpartheyisch;	w3_d788e8863
-in	w5_d788e8866
-der	w7_d788e8869
-Anfnahme	w9_d788e8872
-aber	w1_d788e8877
-geistlicher	w3_d788e8880
-Schriftsteller	w5_d788e8883
-zu	w7_d788e8886
-Kirchenvä	w9_d788e8889
-tern,	w1_d788e8894
-wie	w3_d788e8897
-uns	w5_d788e8900
-dünkt,	w7_d788e8903
-gar	w9_d788e8906
-zu	w11_d788e8909
-freygebig;	w13_d788e8913
-indem	w1_d788e8918
-er	w3_d788e8921
-nicht	w5_d788e8924
-nur,	w7_d788e8927
-gleich	w9_d788e8930
-andern,	w11_d788e8933
-die	w13_d788e8937
-Reihe	w15_d788e8940
-der	w1_d788e8946
-Kirchenväter	w3_d788e8949
-bis	w5_d788e8952
-zu	w7_d788e8955
-dem	w9_d788e8958
-zwölften	w11_d788e8961
-Jahr	w13_d788e8965
-hunderte	w1_d788e8970
-herab	w3_d788e8973
-erstrecket,	w5_d788e8976
-vermuthlich	w7_d788e8979
-um	w9_d788e8982
-den	w1_d788e8987
-heil.	w3_d788e8990
-Bernhard	w5_d788e8993
-noch	w7_d788e8996
-mit	w9_d788e8999
-einzuschließen,	w11_d788e9002
-sondern	w1_d788e9007
-auch	w3_d788e9010
-etliche	w5_d788e9013
-Scribenten,	w7_d788e9016
-die	w9_d788e9019
-weni	w11_d788e9022
-ger	w1_d788e9028
-Recht	w3_d788e9031
-dazu	w5_d788e9034
-haben,	w7_d788e9037
-als	w9_d788e9040
-z.	w11_d788e9043
-B.	w13_d788e9047
-Luit	w15_d788e9050
-prand	w1_d788e9055
-von	w3_d788e9058
-Pavia	w5_d788e9061
-rc.	w7_d788e9064
-mit	w9_d788e9067
-darunter	w11_d788e9070
-laufen	w13_d788e9074
-läßt.	w1_d788e9079
+VII.	w1_d788e8551	NOHI	NOLAB	1.00
+Von	w3_d788e8554	NOHI	NOLAB	1.00
+der	w5_d788e8557	NOHI	NOLAB	1.00
+Vernunftlehre,	w7_d788e8560	NOHI	NOLAB	0.98
+Weltwelsheit,	w9_d788e8563	NOHI	NOLAB	0.99
+hebräischen	w1_d788e8568	NOHI	NOLAB	1.00
+und	w3_d788e8571	NOHI	NOLAB	1.00
+griechischen	w5_d788e8574	NOHI	NOLAB	0.99
+Sprache,	w7_d788e8577	NOHI	NOLAB	0.96
+als	w9_d788e8580	NOHI	NOLAB	1.00
+Hülfsmitteln	w1_d788e8585	NOHI	NOLAB	1.00
+der	w3_d788e8588	NOHI	NOLAB	0.99
+Theologie.	w5_d788e8591	NOHI	NOLAB	1.00
+Eine	w7_d788e8594	NOHI	NOLAB	1.00
+Probe	w9_d788e8597	NOHI	NOLAB	0.88
+der	w1_d788e8603	NOHI	NOLAB	1.00
+Bescheidenheit	w3_d788e8606	NOHI	NOLAB	1.00
+unsers	w5_d788e8609	NOHI	NOLAB	1.00
+Verfassers	w7_d788e8612	NOHI	NOLAB	0.93
+in	w9_d788e8615	NOHI	NOLAB	1.00
+der	w11_d788e8618	NOHI	NOLAB	1.00
+Schreibart,	w1_d788e8623	NOHI	NOLAB	1.00
+dieser	w3_d788e8626	NOHI	NOLAB	0.97
+so	w5_d788e8629	NOHI	NOLAB	1.00
+seltenen	w7_d788e8632	NOHI	NOLAB	0.96
+Gabe,	w9_d788e8635	NOHI	NOLAB	0.94
+scheint	w11_d788e8638	NOHI	NOLAB	0.88
+uns	w1_d788e8643	NOHI	NOLAB	0.99
+die	w3_d788e8646	NOHI	NOLAB	0.96
+Art	w5_d788e8649	NOHI	NOLAB	1.00
+zu	w7_d788e8652	NOHI	NOLAB	1.00
+seyn,	w9_d788e8655	NOHI	NOLAB	1.00
+womit	w11_d788e8658	NOHI	NOLAB	1.00
+er	w13_d788e8662	NOHI	NOLAB	1.00
+die	w15_d788e8665	NOHI	NOLAB	0.99
+bekannte	w17_d788e8668	NOHI	NOLAB	0.94
+Streitfrage	w1_d788e8673	NOHI	NOLAB	1.00
+berühret:	w3_d788e8676	NOHI	NOLAB	1.00
+Ob	w5_d788e8679	NOHI	NOLAB	1.00
+der	w7_d788e8682	NOHI	NOLAB	1.00
+Pabst	w9_d788e8685	NOHI	NOLAB	1.00
+einer	w11_d788e8688	NOHI	NOLAB	1.00
+allgemeinen	w1_d788e8694	NOHI	NOLAB	1.00
+Kirchenversamlung	w3_d788e8697	NOHI	NOLAB	1.00
+unterwürfig	w5_d788e8700	NOHI	NOLAB	1.00
+sey;	w1_d788e8705	NOHI	NOLAB	1.00
+wie	w3_d788e8708	NOHI	NOLAB	1.00
+solches	w5_d788e8711	NOHI	NOLAB	1.00
+die	w7_d788e8714	NOHI	NOLAB	1.00
+französische	w9_d788e8717	NOHI	NOLAB	0.95
+Geistlichkeit	w11_d788e8720	NOHI	NOLAB	1.00
+behauptet.	w1_d788e8725	NOHI	NOLAB	1.00
+Er	w3_d788e8728	NOHI	NOLAB	1.00
+bringet	w5_d788e8731	NOHI	NOLAB	1.00
+diesen	w7_d788e8734	NOHI	NOLAB	1.00
+Satz	w9_d788e8737	NOHI	NOLAB	0.98
+S.	w11_d788e8740	NOHI	NOLAB	1.00
+271.	w13_d788e8744	NOHI	NOLAB	1.00
+auf	w1_d788e8749	NOHI	NOLAB	1.00
+die	w3_d788e8752	NOHI	NOLAB	1.00
+Bahne,	w5_d788e8755	NOHI	NOLAB	1.00
+und	w7_d788e8758	NOHI	NOLAB	1.00
+begegnet	w9_d788e8761	NOHI	NOLAB	1.00
+demselben	w11_d788e8764	NOHI	NOLAB	1.00
+allein	w13_d788e8768	NOHI	NOLAB	1.00
+mit	w1_d788e8774	NOHI	NOLAB	0.97
+glimpflicher	w3_d788e8777	NOHI	NOLAB	1.00
+Anführung	w5_d788e8780	NOHI	NOLAB	1.00
+seiner	w7_d788e8783	NOHI	NOLAB	0.99
+Gegen	w9_d788e8786	NOHI	NOLAB	1.00
+beweise.	w1_d788e8791	NOHI	NOLAB	0.94
+Was	w3_d788e8794	NOHI	NOLAB	1.00
+kann	w5_d788e8797	NOHI	NOLAB	1.00
+man	w7_d788e8800	NOHI	NOLAB	1.00
+von	w9_d788e8803	NOHI	NOLAB	1.00
+einem	w11_d788e8806	NOHI	NOLAB	1.00
+seines	w13_d788e8810	NOHI	NOLAB	0.92
+Ordens	w1_d788e8815	NOHI	NOLAB	1.00
+mehr	w3_d788e8818	NOHI	NOLAB	1.00
+fodern?	w5_d788e8821	NOHI	NOLAB	0.98
+Er	w7_d788e8824	NOHI	NOLAB	1.00
+ist	w9_d788e8827	NOHI	NOLAB	1.00
+auch	w11_d788e8830	NOHI	NOLAB	0.99
+in	w13_d788e8834	NOHI	NOLAB	1.00
+Be	w15_d788e8837	NOHI	NOLAB	1.00
+nennung	w1_d788e8842	NOHI	NOLAB	0.97
+der	w3_d788e8845	NOHI	NOLAB	1.00
+Gottesgelehrten	w5_d788e8848	NOHI	NOLAB	0.95
+anderer	w7_d788e8851	NOHI	NOLAB	1.00
+Ge	w9_d788e8854	NOHI	NOLAB	1.00
+meinden	w1_d788e8860	NOHI	NOLAB	0.94
+unpartheyisch;	w3_d788e8863	NOHI	NOLAB	1.00
+in	w5_d788e8866	NOHI	NOLAB	1.00
+der	w7_d788e8869	NOHI	NOLAB	1.00
+Anfnahme	w9_d788e8872	NOHI	NOLAB	0.99
+aber	w1_d788e8877	NOHI	NOLAB	1.00
+geistlicher	w3_d788e8880	NOHI	NOLAB	0.97
+Schriftsteller	w5_d788e8883	NOHI	NOLAB	0.95
+zu	w7_d788e8886	NOHI	NOLAB	1.00
+Kirchenvä	w9_d788e8889	NOHI	NOLAB	1.00
+tern,	w1_d788e8894	NOHI	NOLAB	1.00
+wie	w3_d788e8897	NOHI	NOLAB	0.99
+uns	w5_d788e8900	NOHI	NOLAB	1.00
+dünkt,	w7_d788e8903	NOHI	NOLAB	1.00
+gar	w9_d788e8906	NOHI	NOLAB	1.00
+zu	w11_d788e8909	NOHI	NOLAB	1.00
+freygebig;	w13_d788e8913	NOHI	NOLAB	1.00
+indem	w1_d788e8918	NOHI	NOLAB	1.00
+er	w3_d788e8921	NOHI	NOLAB	1.00
+nicht	w5_d788e8924	NOHI	NOLAB	1.00
+nur,	w7_d788e8927	NOHI	NOLAB	1.00
+gleich	w9_d788e8930	NOHI	NOLAB	1.00
+andern,	w11_d788e8933	NOHI	NOLAB	1.00
+die	w13_d788e8937	NOHI	NOLAB	0.99
+Reihe	w15_d788e8940	NOHI	NOLAB	1.00
+der	w1_d788e8946	NOHI	NOLAB	0.85
+Kirchenväter	w3_d788e8949	NOHI	NOLAB	1.00
+bis	w5_d788e8952	NOHI	NOLAB	1.00
+zu	w7_d788e8955	NOHI	NOLAB	1.00
+dem	w9_d788e8958	NOHI	NOLAB	1.00
+zwölften	w11_d788e8961	NOHI	NOLAB	0.95
+Jahr	w13_d788e8965	NOHI	NOLAB	1.00
+hunderte	w1_d788e8970	NOHI	NOLAB	0.98
+herab	w3_d788e8973	NOHI	NOLAB	1.00
+erstrecket,	w5_d788e8976	NOHI	NOLAB	0.96
+vermuthlich	w7_d788e8979	NOHI	NOLAB	0.97
+um	w9_d788e8982	NOHI	NOLAB	1.00
+den	w1_d788e8987	NOHI	NOLAB	1.00
+heil.	w3_d788e8990	NOHI	NOLAB	1.00
+Bernhard	w5_d788e8993	NOHI	NOLAB	1.00
+noch	w7_d788e8996	NOHI	NOLAB	1.00
+mit	w9_d788e8999	NOHI	NOLAB	1.00
+einzuschließen,	w11_d788e9002	NOHI	NOLAB	0.98
+sondern	w1_d788e9007	NOHI	NOLAB	1.00
+auch	w3_d788e9010	NOHI	NOLAB	1.00
+etliche	w5_d788e9013	NOHI	NOLAB	0.95
+Scribenten,	w7_d788e9016	NOHI	NOLAB	1.00
+die	w9_d788e9019	NOHI	NOLAB	0.95
+weni	w11_d788e9022	NOHI	NOLAB	1.00
+ger	w1_d788e9028	NOHI	NOLAB	1.00
+Recht	w3_d788e9031	NOHI	NOLAB	1.00
+dazu	w5_d788e9034	NOHI	NOLAB	1.00
+haben,	w7_d788e9037	NOHI	NOLAB	1.00
+als	w9_d788e9040	NOHI	NOLAB	1.00
+z.	w11_d788e9043	NOHI	NOLAB	1.00
+B.	w13_d788e9047	NOHI	NOLAB	1.00
+Luit	w15_d788e9050	NOHI	NOLAB	1.00
+prand	w1_d788e9055	NOHI	NOLAB	1.00
+von	w3_d788e9058	NOHI	NOLAB	1.00
+Pavia	w5_d788e9061	NOHI	NOLAB	1.00
+rc.	w7_d788e9064	NOHI	NOLAB	1.00
+mit	w9_d788e9067	NOHI	NOLAB	1.00
+darunter	w11_d788e9070	NOHI	NOLAB	1.00
+laufen	w13_d788e9074	NOHI	NOLAB	1.00
+läßt.	w1_d788e9079	NOHI	NOLAB	1.00
 </p>
 <p id="p46_d788e9082">
-Wir	w1_d788e9086
-können	w3_d788e9089
-ein	w5_d788e9092
-altes	w7_d788e9095
-theologisches	w9_d788e9098
-Buch,	w11_d788e9101
-das	w1_d788e9108
-aber	w3_d788e9111
-erst	w5_d788e9114
-itzo	w7_d788e9117
-zum	w9_d788e9120
-erstenmale	w11_d788e9123
-ans	w13_d788e9127
-Licht	w1_d788e9132
-tritt,	w3_d788e9135
-nicht	w5_d788e9138
-mit	w7_d788e9141
-Stillschweigen	w9_d788e9144
-um	w11_d788e9147
-gehen.	w1_d788e9153
+Wir	w1_d788e9086	NOHI	NOLAB	1.00
+können	w3_d788e9089	NOHI	NOLAB	1.00
+ein	w5_d788e9092	NOHI	NOLAB	1.00
+altes	w7_d788e9095	NOHI	NOLAB	1.00
+theologisches	w9_d788e9098	NOHI	NOLAB	1.00
+Buch,	w11_d788e9101	NOHI	NOLAB	0.99
+das	w1_d788e9108	NOHI	NOLAB	1.00
+aber	w3_d788e9111	NOHI	NOLAB	0.97
+erst	w5_d788e9114	NOHI	NOLAB	1.00
+itzo	w7_d788e9117	NOHI	NOLAB	1.00
+zum	w9_d788e9120	NOHI	NOLAB	1.00
+erstenmale	w11_d788e9123	NOHI	NOLAB	1.00
+ans	w13_d788e9127	NOHI	NOLAB	0.84
+Licht	w1_d788e9132	NOHI	NOLAB	0.93
+tritt,	w3_d788e9135	NOHI	NOLAB	1.00
+nicht	w5_d788e9138	NOHI	NOLAB	0.99
+mit	w7_d788e9141	NOHI	NOLAB	1.00
+Stillschweigen	w9_d788e9144	NOHI	NOLAB	1.00
+um	w11_d788e9147	NOHI	NOLAB	1.00
+gehen.	w1_d788e9153	NOHI	NOLAB	0.96
 </p>
 <p id="p48_d788e9157">
-Isidori	w1_d788e9161
-Clarii	w3_d788e9164
-ex	w5_d788e9167
-monacho	w7_d788e9170
-Parmensis	w9_d788e9173
-mona-	w11_d788e9176
-sterii	w1_d788e9181
-episcopi	w3_d788e9184
-Fulginatis	w5_d788e9187
-Commentariorum	w7_d788e9190
-in	w9_d788e9193
-cap.	w1_d788e9198
-XV.	w3_d788e9201
-epistolae	w5_d788e9204
-prioris	w7_d788e9207
-diuini	w9_d788e9210
-Pauli	w11_d788e9213
-ad	w13_d788e9217
-Co-	w15_d788e9220
-rintbios,	w1_d788e9226
-ad	w3_d788e9229
-Basilium	w5_d788e9232
-fratrem	w7_d788e9235
-libri	w9_d788e9238
-III.	w11_d788e9241
-pro-	w13_d788e9245
-deunt	w1_d788e9250
-nunc	w3_d788e9253
-primum	w5_d788e9256
-in	w7_d788e9259
-lucem	w9_d788e9262
-opera	w11_d788e9265
-&	w13_d788e9269
-studio	w15_d788e9272
-R.	w1_d788e9277
-P.	w3_d788e9280
-Martini	w5_d788e9283
-Kropf	w7_d788e9286
-lib.	w9_d788e9289
-&	w11_d788e9292
-exemp.	w13_d788e9296
-monast.	w15_d788e9299
-Mellicensis	w1_d788e9304
-ord.	w3_d788e9307
-S.	w5_d788e9310
-Bened.	w7_d788e9313
-professi	w9_d788e9316
-&	w11_d788e9319
-biblio	w13_d788e9323
-abecarii.	w1_d788e9329
-Styrae	w3_d788e9332
-literis	w5_d788e9335
-Greg.	w7_d788e9338
-Manbardi	w9_d788e9341
-1763.	w1_d788e9346
-in	w3_d788e9349
-4.	w5_d788e9352
+Isidori	w1_d788e9161	NOHI	NOLAB	0.93
+Clarii	w3_d788e9164	NOHI	NOLAB	1.00
+ex	w5_d788e9167	NOHI	NOLAB	0.76
+monacho	w7_d788e9170	NOHI	NOLAB	0.98
+Parmensis	w9_d788e9173	NOHI	NOLAB	1.00
+mona-	w11_d788e9176	NOHI	NOLAB	0.97
+sterii	w1_d788e9181	NOHI	NOLAB	1.00
+episcopi	w3_d788e9184	NOHI	NOLAB	1.00
+Fulginatis	w5_d788e9187	NOHI	NOLAB	1.00
+Commentariorum	w7_d788e9190	NOHI	NOLAB	1.00
+in	w9_d788e9193	NOHI	NOLAB	1.00
+cap.	w1_d788e9198	NOHI	NOLAB	0.99
+XV.	w3_d788e9201	NOHI	NOLAB	1.00
+epistolae	w5_d788e9204	NOHI	NOLAB	1.00
+prioris	w7_d788e9207	NOHI	NOLAB	0.99
+diuini	w9_d788e9210	NOHI	NOLAB	0.99
+Pauli	w11_d788e9213	NOHI	NOLAB	1.00
+ad	w13_d788e9217	NOHI	NOLAB	1.00
+Co-	w15_d788e9220	NOHI	NOLAB	0.98
+rintbios,	w1_d788e9226	NOHI	NOLAB	0.93
+ad	w3_d788e9229	NOHI	NOLAB	1.00
+Basilium	w5_d788e9232	NOHI	NOLAB	1.00
+fratrem	w7_d788e9235	NOHI	NOLAB	0.90
+libri	w9_d788e9238	NOHI	NOLAB	0.91
+III.	w11_d788e9241	NOHI	NOLAB	0.99
+pro-	w13_d788e9245	NOHI	NOLAB	0.96
+deunt	w1_d788e9250	NOHI	NOLAB	0.98
+nunc	w3_d788e9253	NOHI	NOLAB	1.00
+primum	w5_d788e9256	NOHI	NOLAB	1.00
+in	w7_d788e9259	NOHI	NOLAB	1.00
+lucem	w9_d788e9262	NOHI	NOLAB	1.00
+opera	w11_d788e9265	NOHI	NOLAB	1.00
+&	w13_d788e9269	NOHI	NOLAB	1.00
+studio	w15_d788e9272	NOHI	NOLAB	1.00
+R.	w1_d788e9277	NOHI	NOLAB	1.00
+P.	w3_d788e9280	NOHI	NOLAB	1.00
+Martini	w5_d788e9283	NOHI	NOLAB	0.99
+Kropf	w7_d788e9286	NOHI	NOLAB	1.00
+lib.	w9_d788e9289	NOHI	NOLAB	1.00
+&	w11_d788e9292	NOHI	NOLAB	0.99
+exemp.	w13_d788e9296	NOHI	NOLAB	1.00
+monast.	w15_d788e9299	NOHI	NOLAB	0.97
+Mellicensis	w1_d788e9304	NOHI	NOLAB	0.95
+ord.	w3_d788e9307	NOHI	NOLAB	1.00
+S.	w5_d788e9310	NOHI	NOLAB	1.00
+Bened.	w7_d788e9313	NOHI	NOLAB	1.00
+professi	w9_d788e9316	NOHI	NOLAB	1.00
+&	w11_d788e9319	NOHI	NOLAB	0.99
+biblio	w13_d788e9323	NOHI	NOLAB	0.96
+abecarii.	w1_d788e9329	NOHI	NOLAB	0.94
+Styrae	w3_d788e9332	NOHI	NOLAB	0.89
+literis	w5_d788e9335	NOHI	NOLAB	1.00
+Greg.	w7_d788e9338	NOHI	NOLAB	1.00
+Manbardi	w9_d788e9341	NOHI	NOLAB	0.98
+1763.	w1_d788e9346	NOHI	NOLAB	1.00
+in	w3_d788e9349	NOHI	NOLAB	1.00
+4.	w5_d788e9352	NOHI	NOLAB	0.99
 </p>
 <p id="p50_d788e9355">
-Der	w1_d788e9359
-gelehrte	w3_d788e9362
-Herr	w5_d788e9365
-Herausgeber	w7_d788e9368
-hat	w9_d788e9371
-die	w11_d788e9374
-ses	w1_d788e9379
-Buch	w3_d788e9382
-seinem	w5_d788e9385
-neuerwählten	w7_d788e9388
-hochwürdi	w9_d788e9391
-gen	w1_d788e9396
-Hrn.	w3_d788e9399
-Abten	w5_d788e9402
-in	w7_d788e9405
-einer	w9_d788e9408
-langen	w11_d788e9411
-Zueignungs	w13_d788e9415
+Der	w1_d788e9359	NOHI	NOLAB	1.00
+gelehrte	w3_d788e9362	NOHI	NOLAB	1.00
+Herr	w5_d788e9365	NOHI	NOLAB	1.00
+Herausgeber	w7_d788e9368	NOHI	NOLAB	0.97
+hat	w9_d788e9371	NOHI	NOLAB	1.00
+die	w11_d788e9374	NOHI	NOLAB	1.00
+ses	w1_d788e9379	NOHI	NOLAB	1.00
+Buch	w3_d788e9382	NOHI	NOLAB	0.89
+seinem	w5_d788e9385	NOHI	NOLAB	1.00
+neuerwählten	w7_d788e9388	NOHI	NOLAB	0.95
+hochwürdi	w9_d788e9391	NOHI	NOLAB	0.93
+gen	w1_d788e9396	NOHI	NOLAB	1.00
+Hrn.	w3_d788e9399	NOHI	NOLAB	1.00
+Abten	w5_d788e9402	NOHI	NOLAB	1.00
+in	w7_d788e9405	NOHI	NOLAB	1.00
+einer	w9_d788e9408	NOHI	NOLAB	1.00
+langen	w11_d788e9411	NOHI	NOLAB	1.00
+Zueignungs	w13_d788e9415	NOHI	NOLAB	1.00
 </p>
 <p id="p52_d788e9418">
-schrift	w1_d788e9422
-gewidmet.	w3_d788e9425
-Jn	w5_d788e9428
-der	w7_d788e9431
-Vorrede	w9_d788e9434
-zeiget	w11_d788e9437
-er	w13_d788e9441
-die	w1_d788e9446
-Ursachen	w3_d788e9449
-an,	w5_d788e9452
-die	w7_d788e9455
-ihn	w9_d788e9458
-zur	w11_d788e9461
-Ausgabe	w13_d788e9465
-die	w15_d788e9468
-ser	w1_d788e9473
-Schrift	w3_d788e9476
-bewogen	w5_d788e9479
-haben;	w7_d788e9482
-worunter	w9_d788e9485
-die	w11_d788e9488
-Ermunterung	w1_d788e9494
-dazu	w3_d788e9497
-Seiner	w5_d788e9500
-fürstl.	w7_d788e9503
-Eminenz	w9_d788e9506
-unsers	w1_d788e9511
-Hrn.	w3_d788e9514
-Erzbischofen	w5_d788e9517
-eine	w7_d788e9520
-der	w9_d788e9523
-ersten	w11_d788e9526
-ist.	w13_d788e9530
-Jsidor	w1_d788e9535
-Clarius	w3_d788e9538
-war	w5_d788e9541
-ein	w7_d788e9544
-berühmter	w9_d788e9547
-Gottes	w11_d788e9550
-gelehrter	w1_d788e9555
-des	w3_d788e9558
-benedictiner	w5_d788e9561
-Ordens,	w7_d788e9564
-und	w9_d788e9567
-ein	w11_d788e9570
-vortrefflicher	w1_d788e9576
-lateinischer	w3_d788e9579
-Redner:	w5_d788e9582
-er	w7_d788e9585
-|	w9_d788e9588
-|	w11_d788e9591
-wohnte	w1_d788e9596
-der	w3_d788e9599
-Kirchenversammlung	w5_d788e9602
-zu	w7_d788e9605
-Trient	w9_d788e9608
-bey.	w1_d788e9613
-Seine	w3_d788e9616
-Lebensumstände	w5_d788e9619
-und	w7_d788e9622
-Schrif	w9_d788e9625
-ten	w1_d788e9630
-werden	w3_d788e9633
-dabey	w5_d788e9636
-angeführet.	w7_d788e9639
-Gewiß,	w9_d788e9642
-er	w11_d788e9645
-dienet	w1_d788e9651
-nebst	w3_d788e9654
-andern	w5_d788e9657
-zum	w7_d788e9660
-Beweise,	w9_d788e9663
-daß	w11_d788e9666
-zu	w13_d788e9670
-seiner	w1_d788e9675
-Zeit	w3_d788e9678
-auch	w5_d788e9681
-bey	w7_d788e9684
-catholischen	w9_d788e9687
-Geistlichen,	w11_d788e9690
-welche	w1_d788e9695
-die	w3_d788e9698
-schönen	w5_d788e9701
-Wissenschaften	w7_d788e9704
-liebten,	w9_d788e9707
-die	w1_d788e9712
-gründliche	w3_d788e9715
-Kenntniß	w5_d788e9718
-der	w7_d788e9721
-heil.	w9_d788e9724
-Schrift	w11_d788e9727
-der	w13_d788e9731
-Hauptgegenwurf	w1_d788e9737
-ihrer	w3_d788e9740
-Bemühungen	w5_d788e9743
-gewe	w7_d788e9746
-sen.	w1_d788e9751
-Clarius	w3_d788e9754
-hat	w5_d788e9757
-über	w7_d788e9760
-dem	w9_d788e9763
-15ten	w11_d788e9766
-Capi	w13_d788e9770
-tel	w1_d788e9775
-des	w3_d788e9778
-erstern	w5_d788e9781
-Sendschreibens	w7_d788e9784
-Pauli	w9_d788e9787
-an	w11_d788e9790
-die	w13_d788e9794
-Corinther,	w1_d788e9799
-3.	w3_d788e9802
-Bücher,	w5_d788e9805
-voll	w7_d788e9808
-männlicher	w9_d788e9811
-Be	w11_d788e9814
-redsamkeit,	w1_d788e9820
-und	w3_d788e9823
-in	w5_d788e9826
-einer	w7_d788e9829
-sehr	w9_d788e9832
-reinen	w11_d788e9835
-Schreib	w13_d788e9839
-art	w1_d788e9844
-verfertiget.	w3_d788e9847
-Es	w5_d788e9850
-bleiben	w7_d788e9853
-dieselben	w9_d788e9856
-im	w11_d788e9859
-mer	w1_d788e9864
-nützlich,	w3_d788e9867
-und	w5_d788e9870
-man	w7_d788e9873
-findet	w9_d788e9876
-Gründe	w11_d788e9879
-darinn,	w13_d788e9883
-die	w1_d788e9888
-Lehre	w3_d788e9891
-Pauli	w5_d788e9894
-absonderlich	w7_d788e9897
-von	w9_d788e9900
-der	w11_d788e9903
-Aufer	w13_d788e9907
-stehung	w1_d788e9913
-der	w3_d788e9916
-Todten	w5_d788e9919
-wider	w7_d788e9922
-diejenigen	w9_d788e9925
-zu	w11_d788e9928
-ver	w13_d788e9932
-fechten,	w1_d788e9937
-die	w3_d788e9940
-daran	w5_d788e9943
-zweifeln;	w7_d788e9946
-derer	w9_d788e9949
-Secte	w11_d788e9952
-noch	w1_d788e9957
-heute	w3_d788e9960
-zu	w5_d788e9963
-Tage	w7_d788e9966
-nicht	w9_d788e9969
-ausgerottet	w11_d788e9972
-ist.	w13_d788e9976
+schrift	w1_d788e9422	NOHI	NOLAB	1.00
+gewidmet.	w3_d788e9425	NOHI	NOLAB	0.99
+Jn	w5_d788e9428	NOHI	NOLAB	1.00
+der	w7_d788e9431	NOHI	NOLAB	1.00
+Vorrede	w9_d788e9434	NOHI	NOLAB	0.98
+zeiget	w11_d788e9437	NOHI	NOLAB	0.82
+er	w13_d788e9441	NOHI	NOLAB	1.00
+die	w1_d788e9446	NOHI	NOLAB	0.85
+Ursachen	w3_d788e9449	NOHI	NOLAB	1.00
+an,	w5_d788e9452	NOHI	NOLAB	1.00
+die	w7_d788e9455	NOHI	NOLAB	1.00
+ihn	w9_d788e9458	NOHI	NOLAB	1.00
+zur	w11_d788e9461	NOHI	NOLAB	1.00
+Ausgabe	w13_d788e9465	NOHI	NOLAB	1.00
+die	w15_d788e9468	NOHI	NOLAB	1.00
+ser	w1_d788e9473	NOHI	NOLAB	1.00
+Schrift	w3_d788e9476	NOHI	NOLAB	1.00
+bewogen	w5_d788e9479	NOHI	NOLAB	1.00
+haben;	w7_d788e9482	NOHI	NOLAB	1.00
+worunter	w9_d788e9485	NOHI	NOLAB	0.95
+die	w11_d788e9488	NOHI	NOLAB	0.94
+Ermunterung	w1_d788e9494	NOHI	NOLAB	1.00
+dazu	w3_d788e9497	NOHI	NOLAB	1.00
+Seiner	w5_d788e9500	NOHI	NOLAB	1.00
+fürstl.	w7_d788e9503	NOHI	NOLAB	0.98
+Eminenz	w9_d788e9506	NOHI	NOLAB	0.98
+unsers	w1_d788e9511	NOHI	NOLAB	0.98
+Hrn.	w3_d788e9514	NOHI	NOLAB	1.00
+Erzbischofen	w5_d788e9517	NOHI	NOLAB	0.96
+eine	w7_d788e9520	NOHI	NOLAB	0.95
+der	w9_d788e9523	NOHI	NOLAB	1.00
+ersten	w11_d788e9526	NOHI	NOLAB	1.00
+ist.	w13_d788e9530	NOHI	NOLAB	0.91
+Jsidor	w1_d788e9535	NOHI	NOLAB	1.00
+Clarius	w3_d788e9538	NOHI	NOLAB	1.00
+war	w5_d788e9541	NOHI	NOLAB	1.00
+ein	w7_d788e9544	NOHI	NOLAB	1.00
+berühmter	w9_d788e9547	NOHI	NOLAB	1.00
+Gottes	w11_d788e9550	NOHI	NOLAB	1.00
+gelehrter	w1_d788e9555	NOHI	NOLAB	1.00
+des	w3_d788e9558	NOHI	NOLAB	1.00
+benedictiner	w5_d788e9561	NOHI	NOLAB	1.00
+Ordens,	w7_d788e9564	NOHI	NOLAB	1.00
+und	w9_d788e9567	NOHI	NOLAB	1.00
+ein	w11_d788e9570	NOHI	NOLAB	1.00
+vortrefflicher	w1_d788e9576	NOHI	NOLAB	1.00
+lateinischer	w3_d788e9579	NOHI	NOLAB	1.00
+Redner:	w5_d788e9582	NOHI	NOLAB	0.94
+er	w7_d788e9585	NOHI	NOLAB	0.95
+|	w9_d788e9588	NOHI	NOLAB	0.99
+|	w11_d788e9591	NOHI	NOLAB	0.98
+wohnte	w1_d788e9596	NOHI	NOLAB	1.00
+der	w3_d788e9599	NOHI	NOLAB	0.97
+Kirchenversammlung	w5_d788e9602	NOHI	NOLAB	1.00
+zu	w7_d788e9605	NOHI	NOLAB	1.00
+Trient	w9_d788e9608	NOHI	NOLAB	1.00
+bey.	w1_d788e9613	NOHI	NOLAB	1.00
+Seine	w3_d788e9616	NOHI	NOLAB	1.00
+Lebensumstände	w5_d788e9619	NOHI	NOLAB	0.99
+und	w7_d788e9622	NOHI	NOLAB	1.00
+Schrif	w9_d788e9625	NOHI	NOLAB	0.96
+ten	w1_d788e9630	NOHI	NOLAB	1.00
+werden	w3_d788e9633	NOHI	NOLAB	1.00
+dabey	w5_d788e9636	NOHI	NOLAB	1.00
+angeführet.	w7_d788e9639	NOHI	NOLAB	1.00
+Gewiß,	w9_d788e9642	NOHI	NOLAB	0.92
+er	w11_d788e9645	NOHI	NOLAB	1.00
+dienet	w1_d788e9651	NOHI	NOLAB	0.98
+nebst	w3_d788e9654	NOHI	NOLAB	1.00
+andern	w5_d788e9657	NOHI	NOLAB	1.00
+zum	w7_d788e9660	NOHI	NOLAB	1.00
+Beweise,	w9_d788e9663	NOHI	NOLAB	1.00
+daß	w11_d788e9666	NOHI	NOLAB	1.00
+zu	w13_d788e9670	NOHI	NOLAB	1.00
+seiner	w1_d788e9675	NOHI	NOLAB	1.00
+Zeit	w3_d788e9678	NOHI	NOLAB	0.92
+auch	w5_d788e9681	NOHI	NOLAB	1.00
+bey	w7_d788e9684	NOHI	NOLAB	1.00
+catholischen	w9_d788e9687	NOHI	NOLAB	0.96
+Geistlichen,	w11_d788e9690	NOHI	NOLAB	0.96
+welche	w1_d788e9695	NOHI	NOLAB	0.99
+die	w3_d788e9698	NOHI	NOLAB	0.99
+schönen	w5_d788e9701	NOHI	NOLAB	0.92
+Wissenschaften	w7_d788e9704	NOHI	NOLAB	1.00
+liebten,	w9_d788e9707	NOHI	NOLAB	0.97
+die	w1_d788e9712	NOHI	NOLAB	0.90
+gründliche	w3_d788e9715	NOHI	NOLAB	1.00
+Kenntniß	w5_d788e9718	NOHI	NOLAB	0.98
+der	w7_d788e9721	NOHI	NOLAB	1.00
+heil.	w9_d788e9724	NOHI	NOLAB	1.00
+Schrift	w11_d788e9727	NOHI	NOLAB	1.00
+der	w13_d788e9731	NOHI	NOLAB	1.00
+Hauptgegenwurf	w1_d788e9737	NOHI	NOLAB	1.00
+ihrer	w3_d788e9740	NOHI	NOLAB	1.00
+Bemühungen	w5_d788e9743	NOHI	NOLAB	0.94
+gewe	w7_d788e9746	NOHI	NOLAB	0.97
+sen.	w1_d788e9751	NOHI	NOLAB	1.00
+Clarius	w3_d788e9754	NOHI	NOLAB	1.00
+hat	w5_d788e9757	NOHI	NOLAB	1.00
+über	w7_d788e9760	NOHI	NOLAB	1.00
+dem	w9_d788e9763	NOHI	NOLAB	1.00
+15ten	w11_d788e9766	NOHI	NOLAB	0.91
+Capi	w13_d788e9770	NOHI	NOLAB	1.00
+tel	w1_d788e9775	NOHI	NOLAB	1.00
+des	w3_d788e9778	NOHI	NOLAB	1.00
+erstern	w5_d788e9781	NOHI	NOLAB	1.00
+Sendschreibens	w7_d788e9784	NOHI	NOLAB	0.96
+Pauli	w9_d788e9787	NOHI	NOLAB	1.00
+an	w11_d788e9790	NOHI	NOLAB	1.00
+die	w13_d788e9794	NOHI	NOLAB	0.91
+Corinther,	w1_d788e9799	NOHI	NOLAB	1.00
+3.	w3_d788e9802	NOHI	NOLAB	1.00
+Bücher,	w5_d788e9805	NOHI	NOLAB	1.00
+voll	w7_d788e9808	NOHI	NOLAB	1.00
+männlicher	w9_d788e9811	NOHI	NOLAB	0.95
+Be	w11_d788e9814	NOHI	NOLAB	1.00
+redsamkeit,	w1_d788e9820	NOHI	NOLAB	0.96
+und	w3_d788e9823	NOHI	NOLAB	1.00
+in	w5_d788e9826	NOHI	NOLAB	1.00
+einer	w7_d788e9829	NOHI	NOLAB	1.00
+sehr	w9_d788e9832	NOHI	NOLAB	0.88
+reinen	w11_d788e9835	NOHI	NOLAB	1.00
+Schreib	w13_d788e9839	NOHI	NOLAB	0.93
+art	w1_d788e9844	NOHI	NOLAB	1.00
+verfertiget.	w3_d788e9847	NOHI	NOLAB	1.00
+Es	w5_d788e9850	NOHI	NOLAB	1.00
+bleiben	w7_d788e9853	NOHI	NOLAB	1.00
+dieselben	w9_d788e9856	NOHI	NOLAB	0.95
+im	w11_d788e9859	NOHI	NOLAB	1.00
+mer	w1_d788e9864	NOHI	NOLAB	1.00
+nützlich,	w3_d788e9867	NOHI	NOLAB	0.98
+und	w5_d788e9870	NOHI	NOLAB	1.00
+man	w7_d788e9873	NOHI	NOLAB	1.00
+findet	w9_d788e9876	NOHI	NOLAB	1.00
+Gründe	w11_d788e9879	NOHI	NOLAB	0.95
+darinn,	w13_d788e9883	NOHI	NOLAB	1.00
+die	w1_d788e9888	NOHI	NOLAB	0.91
+Lehre	w3_d788e9891	NOHI	NOLAB	1.00
+Pauli	w5_d788e9894	NOHI	NOLAB	1.00
+absonderlich	w7_d788e9897	NOHI	NOLAB	1.00
+von	w9_d788e9900	NOHI	NOLAB	1.00
+der	w11_d788e9903	NOHI	NOLAB	1.00
+Aufer	w13_d788e9907	NOHI	NOLAB	1.00
+stehung	w1_d788e9913	NOHI	NOLAB	0.97
+der	w3_d788e9916	NOHI	NOLAB	1.00
+Todten	w5_d788e9919	NOHI	NOLAB	0.92
+wider	w7_d788e9922	NOHI	NOLAB	1.00
+diejenigen	w9_d788e9925	NOHI	NOLAB	0.89
+zu	w11_d788e9928	NOHI	NOLAB	1.00
+ver	w13_d788e9932	NOHI	NOLAB	1.00
+fechten,	w1_d788e9937	NOHI	NOLAB	0.95
+die	w3_d788e9940	NOHI	NOLAB	1.00
+daran	w5_d788e9943	NOHI	NOLAB	1.00
+zweifeln;	w7_d788e9946	NOHI	NOLAB	1.00
+derer	w9_d788e9949	NOHI	NOLAB	1.00
+Secte	w11_d788e9952	NOHI	NOLAB	0.92
+noch	w1_d788e9957	NOHI	NOLAB	0.99
+heute	w3_d788e9960	NOHI	NOLAB	1.00
+zu	w5_d788e9963	NOHI	NOLAB	1.00
+Tage	w7_d788e9966	NOHI	NOLAB	1.00
+nicht	w9_d788e9969	NOHI	NOLAB	1.00
+ausgerottet	w11_d788e9972	NOHI	NOLAB	1.00
+ist.	w13_d788e9976	NOHI	NOLAB	1.00
 </p>
 <p id="p54_d788e9979">
-Jnser	w1_d788e9983
-Wunsch,	w3_d788e9986
-womit	w5_d788e9989
-wir	w7_d788e9992
-neulich	w9_d788e9995
-den	w11_d788e9998
-Auszug	w1_d788e10003
-des	w3_d788e10006
-Hrn.	w5_d788e10009
-Jacquin	w7_d788e10012
-Historia	w9_d788e10015
-selectarum	w1_d788e10020
-stirpium	w3_d788e10023
-Americanarums	w5_d788e10026
-in	w7_d788e10029
-den	w9_d788e10032
-gelehrten	w1_d788e10038
-Nachrichten	w3_d788e10041
-N.	w5_d788e10044
-55.	w7_d788e10047
-beschlossen	w9_d788e10050
-haben,	w1_d788e10055
-ist	w3_d788e10058
-erfüllet.	w5_d788e10061
-Derselbe	w7_d788e10064
-ist	w9_d788e10067
-von	w11_d788e10070
-Jh	w13_d788e10074
-ro	w1_d788e10079
-kaiserl.	w3_d788e10082
-königl.	w5_d788e10085
-apostol.	w7_d788e10088
-Majestät	w9_d788e10091
-zum	w11_d788e10094
-wirklichen	w1_d788e10099
-Bergrathe	w3_d788e10102
-im	w5_d788e10105
-Königreiche	w7_d788e10108
-Hun	w9_d788e10111
-garn,	w1_d788e10117
-und	w3_d788e10120
-zum	w5_d788e10123
-öffentlichen	w7_d788e10126
-Lehrer	w9_d788e10129
-des	w11_d788e10132
-Chemiewesens	w1_d788e10137
-bey	w3_d788e10140
-den	w5_d788e10143
-dortigen	w7_d788e10146
-Bergwer	w9_d788e10149
-ken	w1_d788e10154
-mit	w3_d788e10157
-einem	w5_d788e10160
-jährlichen	w7_d788e10163
-Gehalte	w9_d788e10166
-von	w11_d788e10169
-2000.	w13_d788e10173
-Gulden	w1_d788e10178
-allergnädigst	w3_d788e10181
-ernannt	w5_d788e10184
-worden;	w7_d788e10187
-wo	w9_d788e10190
-durch	w1_d788e10196
-er	w3_d788e10199
-Gelegenheit	w5_d788e10202
-erhält,	w7_d788e10205
-seine	w9_d788e10208
-Einsicht	w11_d788e10211
-in	w1_d788e10216
-das	w3_d788e10219
-Naturreich	w5_d788e10222
-auch	w7_d788e10225
-in	w9_d788e10228
-diesem	w11_d788e10231
-Theile	w13_d788e10235
-zu	w1_d788e10240
-üben,	w3_d788e10243
-und	w5_d788e10246
-auf	w7_d788e10249
-unsre	w9_d788e10252
-eigene	w11_d788e10255
-Länder	w13_d788e10259
-mit	w15_d788e10262
-Nutzen	w1_d788e10267
-anzuwenden.	w3_d788e10270
+Jnser	w1_d788e9983	NOHI	NOLAB	0.97
+Wunsch,	w3_d788e9986	NOHI	NOLAB	0.98
+womit	w5_d788e9989	NOHI	NOLAB	0.99
+wir	w7_d788e9992	NOHI	NOLAB	0.87
+neulich	w9_d788e9995	NOHI	NOLAB	1.00
+den	w11_d788e9998	NOHI	NOLAB	1.00
+Auszug	w1_d788e10003	NOHI	NOLAB	1.00
+des	w3_d788e10006	NOHI	NOLAB	1.00
+Hrn.	w5_d788e10009	NOHI	NOLAB	0.92
+Jacquin	w7_d788e10012	NOHI	NOLAB	1.00
+Historia	w9_d788e10015	NOHI	NOLAB	0.95
+selectarum	w1_d788e10020	NOHI	NOLAB	0.98
+stirpium	w3_d788e10023	NOHI	NOLAB	0.90
+Americanarums	w5_d788e10026	NOHI	NOLAB	0.95
+in	w7_d788e10029	NOHI	NOLAB	1.00
+den	w9_d788e10032	NOHI	NOLAB	1.00
+gelehrten	w1_d788e10038	NOHI	NOLAB	0.99
+Nachrichten	w3_d788e10041	NOHI	NOLAB	0.98
+N.	w5_d788e10044	NOHI	NOLAB	1.00
+55.	w7_d788e10047	NOHI	NOLAB	1.00
+beschlossen	w9_d788e10050	NOHI	NOLAB	0.96
+haben,	w1_d788e10055	NOHI	NOLAB	1.00
+ist	w3_d788e10058	NOHI	NOLAB	1.00
+erfüllet.	w5_d788e10061	NOHI	NOLAB	1.00
+Derselbe	w7_d788e10064	NOHI	NOLAB	0.95
+ist	w9_d788e10067	NOHI	NOLAB	1.00
+von	w11_d788e10070	NOHI	NOLAB	1.00
+Jh	w13_d788e10074	NOHI	NOLAB	1.00
+ro	w1_d788e10079	NOHI	NOLAB	1.00
+kaiserl.	w3_d788e10082	NOHI	NOLAB	1.00
+königl.	w5_d788e10085	NOHI	NOLAB	0.97
+apostol.	w7_d788e10088	NOHI	NOLAB	0.97
+Majestät	w9_d788e10091	NOHI	NOLAB	0.98
+zum	w11_d788e10094	NOHI	NOLAB	1.00
+wirklichen	w1_d788e10099	NOHI	NOLAB	1.00
+Bergrathe	w3_d788e10102	NOHI	NOLAB	1.00
+im	w5_d788e10105	NOHI	NOLAB	1.00
+Königreiche	w7_d788e10108	NOHI	NOLAB	0.99
+Hun	w9_d788e10111	NOHI	NOLAB	1.00
+garn,	w1_d788e10117	NOHI	NOLAB	1.00
+und	w3_d788e10120	NOHI	NOLAB	0.87
+zum	w5_d788e10123	NOHI	NOLAB	1.00
+öffentlichen	w7_d788e10126	NOHI	NOLAB	0.99
+Lehrer	w9_d788e10129	NOHI	NOLAB	1.00
+des	w11_d788e10132	NOHI	NOLAB	1.00
+Chemiewesens	w1_d788e10137	NOHI	NOLAB	0.97
+bey	w3_d788e10140	NOHI	NOLAB	1.00
+den	w5_d788e10143	NOHI	NOLAB	1.00
+dortigen	w7_d788e10146	NOHI	NOLAB	1.00
+Bergwer	w9_d788e10149	NOHI	NOLAB	1.00
+ken	w1_d788e10154	NOHI	NOLAB	1.00
+mit	w3_d788e10157	NOHI	NOLAB	1.00
+einem	w5_d788e10160	NOHI	NOLAB	0.90
+jährlichen	w7_d788e10163	NOHI	NOLAB	1.00
+Gehalte	w9_d788e10166	NOHI	NOLAB	1.00
+von	w11_d788e10169	NOHI	NOLAB	1.00
+2000.	w13_d788e10173	NOHI	NOLAB	0.91
+Gulden	w1_d788e10178	NOHI	NOLAB	0.98
+allergnädigst	w3_d788e10181	NOHI	NOLAB	1.00
+ernannt	w5_d788e10184	NOHI	NOLAB	1.00
+worden;	w7_d788e10187	NOHI	NOLAB	1.00
+wo	w9_d788e10190	NOHI	NOLAB	1.00
+durch	w1_d788e10196	NOHI	NOLAB	1.00
+er	w3_d788e10199	NOHI	NOLAB	1.00
+Gelegenheit	w5_d788e10202	NOHI	NOLAB	0.96
+erhält,	w7_d788e10205	NOHI	NOLAB	1.00
+seine	w9_d788e10208	NOHI	NOLAB	1.00
+Einsicht	w11_d788e10211	NOHI	NOLAB	0.92
+in	w1_d788e10216	NOHI	NOLAB	1.00
+das	w3_d788e10219	NOHI	NOLAB	1.00
+Naturreich	w5_d788e10222	NOHI	NOLAB	1.00
+auch	w7_d788e10225	NOHI	NOLAB	1.00
+in	w9_d788e10228	NOHI	NOLAB	1.00
+diesem	w11_d788e10231	NOHI	NOLAB	1.00
+Theile	w13_d788e10235	NOHI	NOLAB	1.00
+zu	w1_d788e10240	NOHI	NOLAB	0.93
+üben,	w3_d788e10243	NOHI	NOLAB	1.00
+und	w5_d788e10246	NOHI	NOLAB	1.00
+auf	w7_d788e10249	NOHI	NOLAB	1.00
+unsre	w9_d788e10252	NOHI	NOLAB	1.00
+eigene	w11_d788e10255	NOHI	NOLAB	1.00
+Länder	w13_d788e10259	NOHI	NOLAB	1.00
+mit	w15_d788e10262	NOHI	NOLAB	1.00
+Nutzen	w1_d788e10267	NOHI	NOLAB	1.00
+anzuwenden.	w3_d788e10270	NOHI	NOLAB	0.99
 </p>
 <p id="p58_d788e10275">
-DEm	w1_d788e10279
-Publico	w3_d788e10282
-wird	w5_d788e10285
-hiemit	w7_d788e10288
-kund	w9_d788e10291
-ge	w11_d788e10294
-macht	w1_d788e10299
-/	w3_d788e10302
-daß	w5_d788e10305
-die	w7_d788e10308
-Kaiserl.	w9_d788e10311
-Königl.	w11_d788e10314
-Pri-	w13_d788e10318
-vilegirte	w1_d788e10323
-Hollsteinische	w3_d788e10326
-SametFabric	w5_d788e10329
-Nie	w1_d788e10335
-derlag	w1_d788e10340
-ihre	w3_d788e10343
-von	w5_d788e10346
-dem	w7_d788e10349
-David	w9_d788e10352
-Fleurriet	w11_d788e10355
-in	w13_d788e10359
-bester	w1_d788e10364
-Qualität	w3_d788e10367
-erzeigte	w5_d788e10370
-sowohl	w7_d788e10373
-von	w9_d788e10376
-geschnit	w11_d788e10379
-ten	w1_d788e10384
-als	w3_d788e10387
-ungeschnittenen	w5_d788e10390
-Samet	w7_d788e10393
-um	w9_d788e10396
-billi	w11_d788e10399
-gen	w1_d788e10405
-Preis	w3_d788e10408
-zu	w5_d788e10411
-al	w7_d788e10414
-in	w9_d788e10417
-grosso	w11_d788e10420
-Verkauf	w13_d788e10424
-wo	w1_d788e10429
-von	w1_d788e10434
-der	w3_d788e10437
-Kosten	w5_d788e10440
-denen	w7_d788e10443
-Committenten	w9_d788e10446
-zur	w1_d788e10451
-Erkanntnuß	w3_d788e10454
-verabfolget	w5_d788e10457
-/)	w7_d788e10460
-dermahlen	w9_d788e10463
-bey	w1_d788e10469
-Herrn	w3_d788e10472
-Johann	w5_d788e10475
-Thaddäus	w7_d788e10478
-Aichinger	w9_d788e10481
-/	w11_d788e10484
-zu	w1_d788e10489
-denen	w3_d788e10492
-drey	w5_d788e10495
-goldenen	w1_d788e10500
-Löwen	w3_d788e10503
-an	w5_d788e10506
-der	w7_d788e10509
-Brandstadt	w1_d788e10514
-alhier	w3_d788e10517
-in	w5_d788e10520
-seinem	w7_d788e10523
-inhaben.	w9_d788e10526
-den	w1_d788e10532
-Gewölb	w3_d788e10535
-zu	w5_d788e10538
-haben	w7_d788e10541
-seynd.	w1_d788e10546
+DEm	w1_d788e10279	NOHI	NOLAB	0.95
+Publico	w3_d788e10282	NOHI	NOLAB	0.99
+wird	w5_d788e10285	NOHI	NOLAB	1.00
+hiemit	w7_d788e10288	NOHI	NOLAB	0.99
+kund	w9_d788e10291	NOHI	NOLAB	1.00
+ge	w11_d788e10294	NOHI	NOLAB	0.89
+macht	w1_d788e10299	NOHI	NOLAB	1.00
+/	w3_d788e10302	NOHI	NOLAB	0.99
+daß	w5_d788e10305	NOHI	NOLAB	1.00
+die	w7_d788e10308	NOHI	NOLAB	0.93
+Kaiserl.	w9_d788e10311	NOHI	NOLAB	0.98
+Königl.	w11_d788e10314	NOHI	NOLAB	0.94
+Pri-	w13_d788e10318	NOHI	NOLAB	0.98
+vilegirte	w1_d788e10323	NOHI	NOLAB	0.99
+Hollsteinische	w3_d788e10326	NOHI	NOLAB	0.98
+SametFabric	w5_d788e10329	NOHI	NOLAB	0.94
+Nie	w1_d788e10335	NOHI	NOLAB	0.97
+derlag	w1_d788e10340	NOHI	NOLAB	1.00
+ihre	w3_d788e10343	NOHI	NOLAB	1.00
+von	w5_d788e10346	NOHI	NOLAB	1.00
+dem	w7_d788e10349	NOHI	NOLAB	1.00
+David	w9_d788e10352	NOHI	NOLAB	1.00
+Fleurriet	w11_d788e10355	NOHI	NOLAB	0.99
+in	w13_d788e10359	NOHI	NOLAB	1.00
+bester	w1_d788e10364	NOHI	NOLAB	1.00
+Qualität	w3_d788e10367	NOHI	NOLAB	0.98
+erzeigte	w5_d788e10370	NOHI	NOLAB	0.96
+sowohl	w7_d788e10373	NOHI	NOLAB	1.00
+von	w9_d788e10376	NOHI	NOLAB	1.00
+geschnit	w11_d788e10379	NOHI	NOLAB	0.97
+ten	w1_d788e10384	NOHI	NOLAB	0.96
+als	w3_d788e10387	NOHI	NOLAB	1.00
+ungeschnittenen	w5_d788e10390	NOHI	NOLAB	1.00
+Samet	w7_d788e10393	NOHI	NOLAB	0.96
+um	w9_d788e10396	NOHI	NOLAB	1.00
+billi	w11_d788e10399	NOHI	NOLAB	1.00
+gen	w1_d788e10405	NOHI	NOLAB	1.00
+Preis	w3_d788e10408	NOHI	NOLAB	1.00
+zu	w5_d788e10411	NOHI	NOLAB	1.00
+al	w7_d788e10414	NOHI	NOLAB	0.92
+in	w9_d788e10417	NOHI	NOLAB	1.00
+grosso	w11_d788e10420	NOHI	NOLAB	1.00
+Verkauf	w13_d788e10424	NOHI	NOLAB	1.00
+wo	w1_d788e10429	NOHI	NOLAB	0.93
+von	w1_d788e10434	NOHI	NOLAB	1.00
+der	w3_d788e10437	NOHI	NOLAB	1.00
+Kosten	w5_d788e10440	NOHI	NOLAB	1.00
+denen	w7_d788e10443	NOHI	NOLAB	1.00
+Committenten	w9_d788e10446	NOHI	NOLAB	0.99
+zur	w1_d788e10451	NOHI	NOLAB	1.00
+Erkanntnuß	w3_d788e10454	NOHI	NOLAB	1.00
+verabfolget	w5_d788e10457	NOHI	NOLAB	1.00
+/)	w7_d788e10460	NOHI	NOLAB	0.94
+dermahlen	w9_d788e10463	NOHI	NOLAB	1.00
+bey	w1_d788e10469	NOHI	NOLAB	1.00
+Herrn	w3_d788e10472	NOHI	NOLAB	1.00
+Johann	w5_d788e10475	NOHI	NOLAB	1.00
+Thaddäus	w7_d788e10478	NOHI	NOLAB	1.00
+Aichinger	w9_d788e10481	NOHI	NOLAB	0.97
+/	w11_d788e10484	NOHI	NOLAB	0.85
+zu	w1_d788e10489	NOHI	NOLAB	0.79
+denen	w3_d788e10492	NOHI	NOLAB	1.00
+drey	w5_d788e10495	NOHI	NOLAB	0.93
+goldenen	w1_d788e10500	NOHI	NOLAB	0.97
+Löwen	w3_d788e10503	NOHI	NOLAB	1.00
+an	w5_d788e10506	NOHI	NOLAB	1.00
+der	w7_d788e10509	NOHI	NOLAB	0.93
+Brandstadt	w1_d788e10514	NOHI	NOLAB	1.00
+alhier	w3_d788e10517	NOHI	NOLAB	1.00
+in	w5_d788e10520	NOHI	NOLAB	1.00
+seinem	w7_d788e10523	NOHI	NOLAB	1.00
+inhaben.	w9_d788e10526	NOHI	NOLAB	0.98
+den	w1_d788e10532	NOHI	NOLAB	0.92
+Gewölb	w3_d788e10535	NOHI	NOLAB	1.00
+zu	w5_d788e10538	NOHI	NOLAB	1.00
+haben	w7_d788e10541	NOHI	NOLAB	0.90
+seynd.	w1_d788e10546	NOHI	NOLAB	1.00
 </p>
 <head id="h2_d788e10552">
-AVERIISSEMENT.	w1_d788e10556
+AVERIISSEMENT.	w1_d788e10556	NOHI	NOLAB	0.93
 </head>
 </doc>
