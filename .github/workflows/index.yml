@@ -93,10 +93,10 @@ jobs:
       - name: Build verticals
         run: |
           pipenv run python noske/mk_verticals.py
-      - name: Commit data
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Verticals/Created
+      # - name: Commit data
+      #   uses: stefanzweifel/git-auto-commit-action@v4
+      #   with:
+      #     commit_message: Verticals/Created
       - name: Create tags based on git data
         id: meta
         uses: docker/metadata-action@v5
