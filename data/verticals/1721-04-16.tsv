@@ -1,0 +1,6918 @@
+<doc id="edoc_wd_1721-04-16" attrs="word id hi label cert" year="1721" month="04" day="16" corpus="1" cert="1.00">
+<docTitle id="docTitle_1">
+Num	w1	YES	NO	1.00
+<g/>
+.
+1848	w3	YES	NO	1.00
+<g/>
+.
+Wienerisches	w5	NO	NO	1.00
+Diarium	w6	YES	NO	1.00
+Enthaltend	w7	NO	NO	1.00
+alles	w8	NO	NO	1.00
+dasjenige	w9	NO	NO	1.00
+<g/>
+/
+was	w11	NO	NO	1.00
+von	w12	NO	NO	1.00
+Tag	w13	NO	NO	1.00
+zu	w14	NO	NO	1.00
+Tag	w15	NO	NO	1.00
+<g/>
+/
+sowohl	w17	NO	NO	1.00
+in	w18	NO	NO	1.00
+dieser	w19	NO	NO	1.00
+Residenz	w20	NO	NO	1.00
+<g/>
+=
+Stadt	w22	NO	NO	1.00
+Wien	w23	NO	NO	1.00
+Denkwürdiges	w24	NO	NO	1.00
+<g/>
+/
+und	w26	NO	NO	1.00
+sich	w27	NO	NO	1.00
+Neues	w28	NO	NO	1.00
+zugetragen	w29	NO	NO	1.00
+<g/>
+;
+Als	w31	NO	NO	1.00
+auch	w32	NO	NO	1.00
+<g/>
+/
+was	w34	NO	NO	1.00
+dergleichen	w35	NO	NO	1.00
+nachrichtlich	w36	NO	NO	1.00
+alda	w37	NO	NO	1.00
+eingeloffen	w38	NO	NO	1.00
+<g/>
+/
+samt	w40	NO	NO	1.00
+einem	w41	NO	NO	1.00
+Anhang	w42	NO	NO	1.00
+jedermaliger	w43	NO	NO	1.00
+Verzeichnuß	w44	NO	NO	1.00
+<g/>
+:
+Erstlich	w46	NO	NO	1.00
+deren	w47	NO	NO	1.00
+täglich	w48	NO	NO	1.00
+alhier	w49	NO	NO	1.00
+Ankom=menden	w50	NO	NO	1.00
+<g/>
+=
+<g/>
+:
+Zweytens	w53	NO	NO	1.00
+deren	w54	NO	NO	1.00
+in	w55	NO	NO	1.00
+<g/>
+=
+und	w57	NO	NO	1.00
+vor	w58	NO	NO	1.00
+der	w59	NO	NO	1.00
+Stadt	w60	NO	NO	1.00
+getauften	w61	NO	NO	1.00
+Kindern	w62	NO	NO	1.00
+<g/>
+:
+Drittens	w64	NO	NO	1.00
+derer	w65	NO	NO	1.00
+Verehlichten	w66	NO	NO	1.00
+<g/>
+/
+und	w68	NO	NO	1.00
+Vierdtens	w69	NO	NO	1.00
+deren	w70	NO	NO	1.00
+verstorbenen	w71	NO	NO	1.00
+Personen	w72	NO	NO	1.00
+<g/>
+.
+</docTitle>
+<imprimatur id="tit4">
+Mit	w74	NO	NO	1.00
+Jhrer	w75	NO	NO	1.00
+Römisch	w76	NO	NO	1.00
+<g/>
+=
+Kaiserlich	w78	NO	NO	1.00
+<g/>
+=
+und	w80	NO	NO	1.00
+Catholischen	w81	NO	NO	1.00
+Majestät	w82	NO	NO	1.00
+Freyheit	w83	NO	NO	1.00
+<g/>
+/
+Gedruckt	w85	NO	NO	1.00
+in	w86	NO	NO	1.00
+der	w87	NO	NO	1.00
+Kaiserlichen	w88	NO	NO	1.00
+Reichs	w89	NO	NO	1.00
+<g/>
+=
+und	w91	NO	NO	1.00
+Hof	w92	NO	NO	1.00
+<g/>
+=
+Buchdruckerey	w94	NO	NO	1.00
+<g/>
+/
+</imprimatur>
+<head id="hl1">
+Wien	w101	NO	NO	1.00
+<g/>
+/
+vom	w103	NO	NO	1.00
+16	w104	NO	NO	1.00
+<g/>
+.
+bis	w106	NO	NO	1.00
+18	w107	NO	NO	1.00
+<g/>
+.
+April	w109	NO	NO	1.00
+<g/>
+/
+1721	w111	NO	NO	1.00
+<g/>
+.
+</head>
+<p id="p4">
+MJtwoch	w113	NO	NO	1.00
+<g/>
+/
+den	w115	NO	NO	1.00
+16	w116	NO	NO	1.00
+<g/>
+.
+April	w118	NO	NO	1.00
+<g/>
+.
+Jhre	w120	NO	NO	1.00
+Glorwürdigst	w121	NO	NO	1.00
+<g/>
+=
+Regierend	w123	NO	NO	1.00
+<g/>
+=
+Rö=misch	w125	NO	NO	1.00
+<g/>
+=
+<g/>
+=
+Kaiserlich	w128	NO	NO	1.00
+<g/>
+=
+und	w130	NO	NO	1.00
+Königlich	w131	NO	NO	1.00
+<g/>
+=
+Catholische	w133	NO	NO	1.00
+Majestät	w134	NO	NO	1.00
+haben	w135	NO	NO	1.00
+jüngstens	w136	NO	NO	1.00
+den	w137	NO	NO	1.00
+Titl	w138	NO	NO	1.00
+<g/>
+.
+Herrn	w140	NO	NO	1.00
+Georg	w141	NO	NO	1.00
+Sigmund	w142	NO	NO	1.00
+Hechensteiner	w143	NO	NO	1.00
+<g/>
+/
+Churfürstlichen	w145	NO	NO	1.00
+Regiments	w146	NO	NO	1.00
+<g/>
+=
+Raht	w148	NO	NO	1.00
+zu	w149	NO	NO	1.00
+Straubing	w150	NO	NO	1.00
+<g/>
+/
+in	w152	NO	NO	1.00
+Bayern	w153	NO	NO	1.00
+<g/>
+/
+in	w155	NO	NO	1.00
+An=sehung	w156	NO	NO	1.00
+<g/>
+=
+deren	w158	NO	NO	1.00
+ihm	w159	NO	NO	1.00
+beywohnend	w160	NO	NO	1.00
+<g/>
+=
+guten	w162	NO	NO	1.00
+Gemüts	w163	NO	NO	1.00
+<g/>
+=
+Gaben	w165	NO	NO	1.00
+<g/>
+/
+und	w167	NO	NO	1.00
+so	w168	NO	NO	1.00
+wohl	w169	NO	NO	1.00
+Väterlich	w170	NO	NO	1.00
+<g/>
+=
+als	w172	NO	NO	1.00
+eigen	w173	NO	NO	1.00
+<g/>
+=
+erworbenen	w175	NO	NO	1.00
+Verdiensten	w176	NO	NO	1.00
+<g/>
+/
+samt	w178	NO	NO	1.00
+seinen	w179	NO	NO	1.00
+Descen-denten	w180	NO	NO	1.00
+<g/>
+-
+<g/>
+/
+in	w183	NO	NO	1.00
+des	w184	NO	NO	1.00
+Heil	w185	NO	NO	1.00
+<g/>
+.
+Römischen	w187	NO	NO	1.00
+Reichs	w188	NO	NO	1.00
+Adel	w189	NO	NO	1.00
+<g/>
+=
+Stand	w191	NO	NO	1.00
+<g/>
+/
+mit	w193	NO	NO	1.00
+dem	w194	NO	NO	1.00
+Adeli=chen	w195	NO	NO	1.00
+<g/>
+=
+Prädicat	w197	NO	NO	1.00
+von	w198	NO	NO	1.00
+Hechensteiner	w199	NO	NO	1.00
+<g/>
+/
+erhoben	w201	NO	NO	1.00
+<g/>
+/
+auch	w203	NO	NO	1.00
+ihme	w204	NO	NO	1.00
+dieser	w205	NO	NO	1.00
+Tagen	w206	NO	NO	1.00
+darüber	w207	NO	NO	1.00
+das	w208	NO	NO	1.00
+gewöhnliche	w209	NO	NO	1.00
+Diploma	w210	YES	NO	1.00
+aus	w211	NO	NO	1.00
+Dero	w212	NO	NO	1.00
+Löblich	w213	NO	NO	1.00
+<g/>
+=
+Kaiserlich	w215	NO	NO	1.00
+<g/>
+=
+ge=heimen	w217	NO	NO	1.00
+<g/>
+=
+Reichs	w219	NO	NO	1.00
+<g/>
+=
+Hof	w221	NO	NO	1.00
+<g/>
+=
+Canzley	w223	NO	NO	1.00
+ausfertigen	w224	NO	NO	1.00
+lassen	w225	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p5">
+Sonsten	w227	NO	NO	1.00
+folget	w228	NO	NO	1.00
+hierbey	w229	NO	NO	1.00
+die	w230	NO	NO	1.00
+Continuation	w231	NO	NO	1.00
+des	w232	NO	NO	1.00
+Berichts	w233	NO	NO	1.00
+<g/>
+/
+was	w235	NO	NO	1.00
+seit=her	w236	NO	NO	1.00
+<g/>
+=
+nach	w238	NO	NO	1.00
+der	w239	NO	NO	1.00
+Begräbnuß	w240	NO	NO	1.00
+Pabst	w241	NO	NO	1.00
+Clemens	w242	NO	NO	1.00
+<g/>
+/
+des	w244	NO	NO	1.00
+Eilften	w245	NO	NO	1.00
+<g/>
+/
+und	w247	NO	NO	1.00
+dan	w248	NO	NO	1.00
+vor=wie	w249	NO	NO	1.00
+<g/>
+=
+auch	w251	NO	NO	1.00
+bey	w252	NO	NO	1.00
+dem	w253	NO	NO	1.00
+Eintrit	w254	NO	NO	1.00
+des	w255	NO	NO	1.00
+S	w256	YES	NO	1.00
+<g/>
+.
+Collegii	w258	YES	NO	1.00
+in	w259	NO	NO	1.00
+das	w260	NO	NO	1.00
+Conclave	w261	YES	NO	1.00
+zu	w262	NO	NO	1.00
+Rom	w263	NO	NO	1.00
+vom	w264	NO	NO	1.00
+30	w265	NO	NO	1.00
+<g/>
+.
+bis	w267	NO	NO	1.00
+den	w268	NO	NO	1.00
+31	w269	NO	NO	1.00
+<g/>
+.
+März	w271	NO	NO	1.00
+dieses	w272	NO	NO	1.00
+laufenden	w273	NO	NO	1.00
+Jahrs	w274	NO	NO	1.00
+<g/>
+/
+sich	w276	NO	NO	1.00
+merkwürdig	w277	NO	NO	1.00
+zugetragen	w278	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p6">
+Donnerstag	w280	NO	NO	1.00
+<g/>
+/
+den	w282	NO	NO	1.00
+17	w283	NO	NO	1.00
+<g/>
+.
+April	w285	NO	NO	1.00
+<g/>
+.
+Heute	w287	NO	NO	1.00
+<g/>
+/
+Vormittag	w289	NO	NO	1.00
+<g/>
+/
+ist	w291	NO	NO	1.00
+Jhrer	w292	NO	NO	1.00
+Rö=misch	w293	NO	NO	1.00
+<g/>
+=
+<g/>
+=
+Kaiserlich	w296	NO	NO	1.00
+<g/>
+=
+und	w298	NO	NO	1.00
+Catholischen	w299	NO	NO	1.00
+Majestät	w300	NO	NO	1.00
+wirklicher	w301	NO	NO	1.00
+Cammerer	w302	NO	NO	1.00
+<g/>
+/
+Hof	w304	NO	NO	1.00
+<g/>
+=
+Cammer	w306	NO	NO	1.00
+<g/>
+=
+Raht	w308	NO	NO	1.00
+<g/>
+/
+und	w310	NO	NO	1.00
+etlicher	w311	NO	NO	1.00
+Cameral	w312	NO	NO	1.00
+<g/>
+=
+Haubt	w314	NO	NO	1.00
+<g/>
+=
+Commissionen	w316	NO	NO	1.00
+ge=wester	w317	NO	NO	1.00
+<g/>
+=
+Praeses	w319	YES	NO	1.00
+<g/>
+,
+Titl	w321	NO	NO	1.00
+<g/>
+.
+Herr	w323	NO	NO	1.00
+Philipp	w324	NO	NO	1.00
+<g/>
+/
+des	w326	NO	NO	1.00
+Heil	w327	NO	NO	1.00
+<g/>
+.
+Römischen	w329	NO	NO	1.00
+Reichs	w330	NO	NO	1.00
+Graf	w331	NO	NO	1.00
+von	w332	NO	NO	1.00
+Ursin	w333	NO	NO	1.00
+und	w334	NO	NO	1.00
+Rosenberg	w335	NO	NO	1.00
+<g/>
+/
+ꝛc	w337	NO	NO	1.00
+<g/>
+.
+in	w339	NO	NO	1.00
+das	w340	NO	NO	1.00
+durch	w341	NO	NO	1.00
+Jhrer	w342	NO	NO	1.00
+Römisch	w343	NO	NO	1.00
+<g/>
+=
+Kaiser=lich	w345	NO	NO	1.00
+<g/>
+=
+<g/>
+=
+und	w348	NO	NO	1.00
+Catholischen	w349	NO	NO	1.00
+Majestät	w350	NO	NO	1.00
+gerechtest	w351	NO	NO	1.00
+<g/>
+=
+Kaiserliche	w353	NO	NO	1.00
+Waffen	w354	NO	NO	1.00
+erober=te	w355	NO	NO	1.00
+<g/>
+=
+Königreich	w357	NO	NO	1.00
+Servien	w358	NO	NO	1.00
+nacher	w359	NO	NO	1.00
+Belgrad	w360	NO	NO	1.00
+zu	w361	NO	NO	1.00
+Wasser	w362	NO	NO	1.00
+abgereiset	w363	NO	NO	1.00
+<g/>
+/
+um	w365	NO	NO	1.00
+al=dort	w366	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+als	w369	NO	NO	1.00
+erster	w370	NO	NO	1.00
+Raht	w371	NO	NO	1.00
+<g/>
+/
+den	w373	NO	NO	1.00
+Besiz	w374	NO	NO	1.00
+zunehmen	w375	NO	NO	1.00
+<g/>
+/
+und	w377	NO	NO	1.00
+zugleich	w378	NO	NO	1.00
+<g/>
+/
+nebst	w380	NO	NO	1.00
+dasigen	w381	NO	NO	1.00
+</p>
+<p id="p7">
+Kaiserlichen	w382	NO	NO	1.00
+Guvernatorn	w383	NO	NO	1.00
+<g/>
+/
+wie	w385	NO	NO	1.00
+auch	w386	NO	NO	1.00
+Administratorn	w387	NO	NO	1.00
+<g/>
+/
+Jhro	w389	NO	NO	1.00
+Hoch=fürstlichen	w390	NO	NO	1.00
+<g/>
+=
+Durchleucht	w392	NO	NO	1.00
+<g/>
+/
+Prinzen	w394	NO	NO	1.00
+Alexander	w395	NO	NO	1.00
+<g/>
+/
+Herzogen	w397	NO	NO	1.00
+zu	w398	NO	NO	1.00
+Würtemberg	w399	NO	NO	1.00
+<g/>
+/
+Allerhöchst	w401	NO	NO	1.00
+<g/>
+=
+gedacht	w403	NO	NO	1.00
+<g/>
+=
+Jhrer	w405	NO	NO	1.00
+Römisch	w406	NO	NO	1.00
+<g/>
+=
+Kaiserlich	w408	NO	NO	1.00
+<g/>
+=
+und	w410	NO	NO	1.00
+Königlich	w411	NO	NO	1.00
+<g/>
+=
+Catho=lischen	w413	NO	NO	1.00
+<g/>
+=
+Majestät	w415	NO	NO	1.00
+wirklich	w416	NO	NO	1.00
+<g/>
+=
+geheimen	w418	NO	NO	1.00
+Raht	w419	NO	NO	1.00
+<g/>
+/
+und	w421	NO	NO	1.00
+Feld	w422	NO	NO	1.00
+<g/>
+=
+Marschallen	w424	NO	NO	1.00
+ꝛc	w425	NO	NO	1.00
+<g/>
+.
+ein	w427	NO	NO	1.00
+<g/>
+=
+und	w429	NO	NO	1.00
+anders	w430	NO	NO	1.00
+<g/>
+/
+das	w432	NO	NO	1.00
+Cameral	w433	NO	NO	1.00
+<g/>
+=
+Weesen	w435	NO	NO	1.00
+betreflich	w436	NO	NO	1.00
+<g/>
+/
+einzurichten	w438	NO	NO	1.00
+<g/>
+/
+und	w440	NO	NO	1.00
+in	w441	NO	NO	1.00
+guten	w442	NO	NO	1.00
+Stand	w443	NO	NO	1.00
+zubringen	w444	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p8">
+Freytag	w446	NO	NO	1.00
+<g/>
+/
+den	w448	NO	NO	1.00
+18	w449	NO	NO	1.00
+<g/>
+.
+April	w451	NO	NO	1.00
+<g/>
+.
+Die	w453	NO	NO	1.00
+Kaiserliche	w454	NO	NO	1.00
+Werbungen	w455	NO	NO	1.00
+haben	w456	NO	NO	1.00
+so	w457	NO	NO	1.00
+wohl	w458	NO	NO	1.00
+dahier	w459	NO	NO	1.00
+<g/>
+/
+als	w461	NO	NO	1.00
+anderwärts	w462	NO	NO	1.00
+noch	w463	NO	NO	1.00
+grossen	w464	NO	NO	1.00
+Zulauf	w465	NO	NO	1.00
+<g/>
+;
+Wie	w467	NO	NO	1.00
+dan	w468	NO	NO	1.00
+auch	w469	NO	NO	1.00
+Heut	w470	NO	NO	1.00
+einige	w471	NO	NO	1.00
+Schiffe	w472	NO	NO	1.00
+mit	w473	NO	NO	1.00
+etlich	w474	NO	NO	1.00
+hundert	w475	NO	NO	1.00
+Mann	w476	NO	NO	1.00
+neugeworbener	w477	NO	NO	1.00
+Leuthen	w478	NO	NO	1.00
+aus	w479	NO	NO	1.00
+dem	w480	NO	NO	1.00
+Reich	w481	NO	NO	1.00
+dahier	w482	NO	NO	1.00
+angelanget	w483	NO	NO	1.00
+<g/>
+/
+um	w485	NO	NO	1.00
+ferners	w486	NO	NO	1.00
+nach	w487	NO	NO	1.00
+dem	w488	NO	NO	1.00
+Königreich	w489	NO	NO	1.00
+Hungarn	w490	NO	NO	1.00
+zu	w491	NO	NO	1.00
+den	w492	NO	NO	1.00
+aldort	w493	NO	NO	1.00
+befindlich	w494	NO	NO	1.00
+<g/>
+=
+gehörigen	w496	NO	NO	1.00
+Regimenteren	w497	NO	NO	1.00
+geführet	w498	NO	NO	1.00
+zuwerden	w499	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p9">
+Dito	w501	NO	NO	1.00
+wurde	w502	NO	NO	1.00
+mit	w503	NO	NO	1.00
+Brieffen	w504	NO	NO	1.00
+<g/>
+/
+vom	w506	NO	NO	1.00
+14	w507	NO	NO	1.00
+<g/>
+.
+April	w509	NO	NO	1.00
+<g/>
+/
+aus	w511	NO	NO	1.00
+Dresden	w512	NO	NO	1.00
+berich=tet	w513	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+wie	w516	NO	NO	1.00
+daß	w517	NO	NO	1.00
+man	w518	NO	NO	1.00
+daselbsten	w519	NO	NO	1.00
+von	w520	NO	NO	1.00
+der	w521	NO	NO	1.00
+glücklichen	w522	NO	NO	1.00
+Ankunft	w523	NO	NO	1.00
+Jhrer	w524	NO	NO	1.00
+Kö=niglich	w525	NO	NO	1.00
+<g/>
+=
+<g/>
+=
+Polnischen	w528	NO	NO	1.00
+Majestät	w529	NO	NO	1.00
+<g/>
+/
+und	w531	NO	NO	1.00
+Churfürstlichen	w532	NO	NO	1.00
+Durchleucht	w533	NO	NO	1.00
+zu	w534	NO	NO	1.00
+Sachsen	w535	NO	NO	1.00
+in	w536	NO	NO	1.00
+Warschau	w537	NO	NO	1.00
+die	w538	NO	NO	1.00
+Nachricht	w539	NO	NO	1.00
+erhalten	w540	NO	NO	1.00
+<g/>
+/
+für	w542	NO	NO	1.00
+welch	w543	NO	NO	1.00
+<g/>
+=
+höchste	w545	NO	NO	1.00
+Ma=jestät	w546	NO	NO	1.00
+<g/>
+=
+in	w548	NO	NO	1.00
+den	w549	NO	NO	1.00
+Kirchen	w550	NO	NO	1.00
+zu	w551	NO	NO	1.00
+besagtem	w552	NO	NO	1.00
+Dresden	w553	NO	NO	1.00
+das	w554	NO	NO	1.00
+gewöhnliche	w555	NO	NO	1.00
+Gebeht	w556	NO	NO	1.00
+nach	w557	NO	NO	1.00
+der	w558	NO	NO	1.00
+Predig	w559	NO	NO	1.00
+wieder	w560	NO	NO	1.00
+angefangen	w561	NO	NO	1.00
+worden	w562	NO	NO	1.00
+<g/>
+;
+Jhre	w564	NO	NO	1.00
+Hoheit	w565	NO	NO	1.00
+<g/>
+/
+der	w567	NO	NO	1.00
+König=liche	w568	NO	NO	1.00
+<g/>
+=
+Chur	w570	NO	NO	1.00
+<g/>
+=
+Prinz	w572	NO	NO	1.00
+<g/>
+/
+erlustigten	w574	NO	NO	1.00
+sich	w575	NO	NO	1.00
+entzwischen	w576	NO	NO	1.00
+in	w577	NO	NO	1.00
+der	w578	NO	NO	1.00
+Torgauischen	w579	NO	NO	1.00
+und	w580	NO	NO	1.00
+anderen	w581	NO	NO	1.00
+Gegenden	w582	NO	NO	1.00
+mit	w583	NO	NO	1.00
+der	w584	NO	NO	1.00
+Auerhahn	w585	NO	NO	1.00
+<g/>
+=
+Pfaltz	w587	NO	NO	1.00
+<g/>
+/
+und	w589	NO	NO	1.00
+langten	w590	NO	NO	1.00
+zu	w591	NO	NO	1.00
+Dresden	w592	NO	NO	1.00
+jedesmalen	w593	NO	NO	1.00
+wieder	w594	NO	NO	1.00
+an	w595	NO	NO	1.00
+<g/>
+;
+Daselbsten	w597	NO	NO	1.00
+sie	w598	NO	NO	1.00
+dan	w599	NO	NO	1.00
+und	w600	NO	NO	1.00
+dero	w601	NO	NO	1.00
+Frau	w602	NO	NO	1.00
+Gemahlin	w603	NO	NO	1.00
+<g/>
+/
+die	w605	NO	NO	1.00
+Durchleuchtigste	w606	NO	NO	1.00
+Erz	w607	NO	NO	1.00
+<g/>
+=
+Herzogin	w609	NO	NO	1.00
+<g/>
+/
+Maria	w611	NO	NO	1.00
+Josepha	w612	NO	NO	1.00
+<g/>
+/
+auch	w614	NO	NO	1.00
+öfters	w615	NO	NO	1.00
+der	w616	NO	NO	1.00
+Andacht	w617	NO	NO	1.00
+in	w618	NO	NO	1.00
+der	w619	NO	NO	1.00
+Catholischen	w620	NO	NO	1.00
+Schloß	w621	NO	NO	1.00
+<g/>
+=
+Capell	w623	NO	NO	1.00
+offentlich	w624	NO	NO	1.00
+abwar=teten	w625	NO	NO	1.00
+<g/>
+=
+<g/>
+.
+</p>
+<p id="p10">
+Aus	w628	NO	NO	1.00
+Polen	w629	NO	NO	1.00
+<g/>
+/
+von	w631	NO	NO	1.00
+dem	w632	NO	NO	1.00
+11	w633	NO	NO	1.00
+<g/>
+.
+April	w635	NO	NO	1.00
+<g/>
+.
+Daß	w637	NO	NO	1.00
+der	w638	NO	NO	1.00
+Herr	w639	NO	NO	1.00
+Dobros	w640	YES	NO	1.00
+<g/>
+,
+als	w642	NO	NO	1.00
+Königlicher	w643	NO	NO	1.00
+Gesandter	w644	NO	NO	1.00
+<g/>
+/
+nacher	w646	NO	NO	1.00
+Londen	w647	NO	NO	1.00
+von	w648	NO	NO	1.00
+Warschau	w649	NO	NO	1.00
+abgangen	w650	NO	NO	1.00
+<g/>
+;
+Al=da	w652	NO	NO	1.00
+<g/>
+=
+nächstens	w654	NO	NO	1.00
+das	w655	NO	NO	1.00
+Senatûs	w656	YES	NO	1.00
+<g/>
+=
+Consilium	w658	YES	NO	1.00
+seinen	w659	NO	NO	1.00
+Anfang	w660	NO	NO	1.00
+nehmen	w661	NO	NO	1.00
+solle	w662	NO	NO	1.00
+<g/>
+;
+Jn=zwischen	w664	NO	NO	1.00
+<g/>
+=
+wären	w666	NO	NO	1.00
+viele	w667	NO	NO	1.00
+Relations	w668	NO	NO	1.00
+<g/>
+=
+Land	w670	NO	NO	1.00
+<g/>
+=
+Täge	w672	NO	NO	1.00
+nach	w673	NO	NO	1.00
+und	w674	NO	NO	1.00
+nach	w675	NO	NO	1.00
+ange=fangen	w676	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+auch	w679	NO	NO	1.00
+wieder	w680	NO	NO	1.00
+geendet	w681	NO	NO	1.00
+worden	w682	NO	NO	1.00
+<g/>
+;
+Wie	w684	NO	NO	1.00
+sonsten	w685	NO	NO	1.00
+aus	w686	NO	NO	1.00
+Preussen	w687	NO	NO	1.00
+habe	w688	NO	NO	1.00
+verlauten	w689	NO	NO	1.00
+wollen	w690	NO	NO	1.00
+<g/>
+/
+so	w692	NO	NO	1.00
+hätten	w693	NO	NO	1.00
+die	w694	NO	NO	1.00
+aldorten	w695	NO	NO	1.00
+befindlich	w696	NO	NO	1.00
+<g/>
+=
+Königlich	w698	NO	NO	1.00
+<g/>
+=
+Preus=sische	w700	NO	NO	1.00
+<g/>
+=
+Truppen	w702	NO	NO	1.00
+die	w703	NO	NO	1.00
+Ordre	w704	NO	NO	1.00
+bekommen	w705	NO	NO	1.00
+<g/>
+/
+um	w707	NO	NO	1.00
+unter	w708	NO	NO	1.00
+Königsberg	w709	NO	NO	1.00
+sich	w710	NO	NO	1.00
+zu=sammen	w711	NO	NO	1.00
+<g/>
+=
+zuziehen	w713	NO	NO	1.00
+<g/>
+/
+und	w715	NO	NO	1.00
+zur	w716	NO	NO	1.00
+Musterung	w717	NO	NO	1.00
+sich	w718	NO	NO	1.00
+bereit	w719	NO	NO	1.00
+zuhalten	w720	NO	NO	1.00
+<g/>
+;
+Als	w722	NO	NO	1.00
+wel=che	w723	NO	NO	1.00
+<g/>
+=
+nächstens	w725	NO	NO	1.00
+Jhre	w726	NO	NO	1.00
+Königliche	w727	NO	NO	1.00
+Majestät	w728	NO	NO	1.00
+in	w729	NO	NO	1.00
+höchster	w730	NO	NO	1.00
+Person	w731	NO	NO	1.00
+vorzuneh=men	w732	NO	NO	1.00
+<g/>
+=
+beschlossen	w734	NO	NO	1.00
+hätten	w735	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p11">
+Aus	w737	NO	NO	1.00
+Spannien	w738	NO	NO	1.00
+<g/>
+/
+von	w740	NO	NO	1.00
+dem	w741	NO	NO	1.00
+18	w742	NO	NO	1.00
+<g/>
+.
+März	w744	NO	NO	1.00
+<g/>
+.
+Daß	w746	NO	NO	1.00
+der	w747	NO	NO	1.00
+Engellische	w748	NO	NO	1.00
+Obrist	w749	NO	NO	1.00
+Stanhoppe	w750	NO	NO	1.00
+<g/>
+/
+welchem	w752	NO	NO	1.00
+der	w753	NO	NO	1.00
+Hof	w754	NO	NO	1.00
+zu	w755	NO	NO	1.00
+Madrit	w756	NO	NO	1.00
+wegen	w757	NO	NO	1.00
+Absterben	w758	NO	NO	1.00
+desselben	w759	NO	NO	1.00
+Herrn	w760	NO	NO	1.00
+Bruders	w761	NO	NO	1.00
+<g/>
+/
+gewesten	w763	NO	NO	1.00
+Staats	w764	NO	NO	1.00
+Secretari	w765	NO	NO	1.00
+zu	w766	NO	NO	1.00
+Londen	w767	NO	NO	1.00
+<g/>
+/
+ein	w769	NO	NO	1.00
+Condo=lenz	w770	NO	NO	1.00
+<g/>
+=
+<g/>
+=
+Compliment	w773	NO	NO	1.00
+machen	w774	NO	NO	1.00
+lassen	w775	NO	NO	1.00
+<g/>
+/
+abermalen	w777	NO	NO	1.00
+zu	w778	NO	NO	1.00
+besagtem	w779	NO	NO	1.00
+Madrit	w780	NO	NO	1.00
+mit	w781	NO	NO	1.00
+den	w782	NO	NO	1.00
+Königlichen	w783	NO	NO	1.00
+Ministern	w784	NO	NO	1.00
+ein	w785	NO	NO	1.00
+lange	w786	NO	NO	1.00
+Unterredung	w787	NO	NO	1.00
+gehalten	w788	NO	NO	1.00
+<g/>
+/
+und	w790	NO	NO	1.00
+darauf	w791	NO	NO	1.00
+<g/>
+=
+</p>
+<p id="p12">
+auf	w793	NO	NO	1.00
+</p>
+<p id="p13">
+auf	w794	NO	NO	1.00
+mit	w795	NO	NO	1.00
+dem	w796	NO	NO	1.00
+Ausschlag	w797	NO	NO	1.00
+derselben	w798	NO	NO	1.00
+einen	w799	NO	NO	1.00
+Currier	w800	NO	NO	1.00
+nach	w801	NO	NO	1.00
+Londen	w802	NO	NO	1.00
+fortge=schicket	w803	NO	NO	1.00
+<g/>
+=
+<g/>
+;
+Bey	w806	NO	NO	1.00
+dessen	w807	NO	NO	1.00
+Zuruckunft	w808	NO	NO	1.00
+sich	w809	NO	NO	1.00
+äuseren	w810	NO	NO	1.00
+dörfte	w811	NO	NO	1.00
+<g/>
+/
+ob	w813	NO	NO	1.00
+erwehnter	w814	NO	NO	1.00
+Obrist	w815	NO	NO	1.00
+zu	w816	NO	NO	1.00
+Madrit	w817	NO	NO	1.00
+zuverbleiben	w818	NO	NO	1.00
+<g/>
+:
+oder	w820	NO	NO	1.00
+nach	w821	NO	NO	1.00
+Engelland	w822	NO	NO	1.00
+zukehren	w823	NO	NO	1.00
+habe	w824	NO	NO	1.00
+<g/>
+;
+Des=gleichen	w826	NO	NO	1.00
+<g/>
+=
+woll	w828	NO	NO	1.00
+auch	w829	NO	NO	1.00
+von	w830	NO	NO	1.00
+dem	w831	NO	NO	1.00
+Französischen	w832	NO	NO	1.00
+Minister	w833	NO	NO	1.00
+<g/>
+/
+Marquis	w835	YES	NO	1.00
+de	w836	YES	NO	1.00
+Mau=levrier	w837	YES	NO	1.00
+<g/>
+=
+Langeron	w839	YES	NO	1.00
+verlauten	w840	NO	NO	1.00
+<g/>
+/
+als	w842	NO	NO	1.00
+wan	w843	NO	NO	1.00
+er	w844	NO	NO	1.00
+auch	w845	NO	NO	1.00
+wieder	w846	NO	NO	1.00
+bald	w847	NO	NO	1.00
+von	w848	NO	NO	1.00
+Madrit	w849	NO	NO	1.00
+abgehen	w850	NO	NO	1.00
+solte	w851	NO	NO	1.00
+<g/>
+;
+Welcher	w853	NO	NO	1.00
+<g/>
+/
+vermög	w855	NO	NO	1.00
+gehabten	w856	NO	NO	1.00
+Ordre	w857	NO	NO	1.00
+<g/>
+/
+dem	w859	NO	NO	1.00
+Prencipe	w860	YES	NO	1.00
+de	w861	YES	NO	1.00
+Cellamare	w862	YES	NO	1.00
+<g/>
+,
+daß	w864	NO	NO	1.00
+er	w865	NO	NO	1.00
+Grand	w866	NO	NO	1.00
+von	w867	NO	NO	1.00
+Spannien	w868	NO	NO	1.00
+der	w869	NO	NO	1.00
+ersten	w870	NO	NO	1.00
+Claß	w871	NO	NO	1.00
+worden	w872	NO	NO	1.00
+<g/>
+/
+und	w874	NO	NO	1.00
+wohl	w875	NO	NO	1.00
+wegen	w876	NO	NO	1.00
+des	w877	NO	NO	1.00
+Madritischen	w878	NO	NO	1.00
+Hofs	w879	NO	NO	1.00
+der	w880	NO	NO	1.00
+künftigen	w881	NO	NO	1.00
+Crönung	w882	NO	NO	1.00
+des	w883	NO	NO	1.00
+Kö=nigs	w884	NO	NO	1.00
+<g/>
+=
+in	w886	NO	NO	1.00
+Frankreich	w887	NO	NO	1.00
+beywohnen	w888	NO	NO	1.00
+dörfte	w889	NO	NO	1.00
+<g/>
+/
+glückwünschen	w891	NO	NO	1.00
+müssen	w892	NO	NO	1.00
+<g/>
+;
+Oefters	w894	NO	NO	1.00
+gemeldter	w895	NO	NO	1.00
+Hof	w896	NO	NO	1.00
+hab	w897	NO	NO	1.00
+inzwischen	w898	NO	NO	1.00
+einen	w899	NO	NO	1.00
+Currier	w900	NO	NO	1.00
+nach	w901	NO	NO	1.00
+Pariß	w902	NO	NO	1.00
+und	w903	NO	NO	1.00
+Camme=rich	w904	NO	NO	1.00
+<g/>
+=
+gesendet	w906	NO	NO	1.00
+<g/>
+/
+mit	w908	NO	NO	1.00
+der	w909	NO	NO	1.00
+Verrichtung	w910	NO	NO	1.00
+<g/>
+/
+ein	w912	NO	NO	1.00
+<g/>
+=
+für	w914	NO	NO	1.00
+alle	w915	NO	NO	1.00
+mal	w916	NO	NO	1.00
+auf	w917	NO	NO	1.00
+die	w918	NO	NO	1.00
+Eröfnung	w919	NO	NO	1.00
+der	w920	NO	NO	1.00
+dasigen	w921	NO	NO	1.00
+Friedens	w922	NO	NO	1.00
+<g/>
+=
+Handlung	w924	NO	NO	1.00
+zutreiben	w925	NO	NO	1.00
+<g/>
+/
+oder	w927	NO	NO	1.00
+in	w928	NO	NO	1.00
+entstehenden	w929	NO	NO	1.00
+Fall	w930	NO	NO	1.00
+den	w931	NO	NO	1.00
+zu	w932	NO	NO	1.00
+End	w933	NO	NO	1.00
+gehenden	w934	NO	NO	1.00
+Waffen	w935	NO	NO	1.00
+<g/>
+=
+Stillstand	w937	NO	NO	1.00
+wieder	w938	NO	NO	1.00
+auf	w939	NO	NO	1.00
+ein	w940	NO	NO	1.00
+gewisse	w941	NO	NO	1.00
+Zeit	w942	NO	NO	1.00
+zuverlängern	w943	NO	NO	1.00
+<g/>
+;
+Ubrigens	w945	NO	NO	1.00
+würden	w946	NO	NO	1.00
+in	w947	NO	NO	1.00
+all	w948	NO	NO	1.00
+<g/>
+=
+Spannischen	w950	NO	NO	1.00
+Provinzen	w951	NO	NO	1.00
+die	w952	NO	NO	1.00
+Werbungen	w953	NO	NO	1.00
+zu	w954	NO	NO	1.00
+Wasser	w955	NO	NO	1.00
+und	w956	NO	NO	1.00
+Land	w957	NO	NO	1.00
+mit	w958	NO	NO	1.00
+solchem	w959	NO	NO	1.00
+Eifer	w960	NO	NO	1.00
+fortgesetzet	w961	NO	NO	1.00
+<g/>
+/
+daß	w963	NO	NO	1.00
+nicht	w964	NO	NO	1.00
+zubeschreiben	w965	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p14">
+Aus	w967	NO	NO	1.00
+Groß	w968	NO	NO	1.00
+<g/>
+=
+Britannien	w970	NO	NO	1.00
+<g/>
+/
+vom	w972	NO	NO	1.00
+4	w973	NO	NO	1.00
+<g/>
+.
+April	w975	NO	NO	1.00
+<g/>
+.
+Daß	w977	NO	NO	1.00
+der	w978	NO	NO	1.00
+Obrist	w979	NO	NO	1.00
+Churchil	w980	YES	NO	1.00
+wie=der	w981	NO	NO	1.00
+<g/>
+=
+aus	w983	NO	NO	1.00
+Wien	w984	NO	NO	1.00
+den	w985	NO	NO	1.00
+3	w986	NO	NO	1.00
+<g/>
+.
+dieses	w988	NO	NO	1.00
+mit	w989	NO	NO	1.00
+Jhrer	w990	NO	NO	1.00
+Kaiserl	w991	NO	NO	1.00
+<g/>
+.
+Majestät	w993	NO	NO	1.00
+Entschliesung	w994	NO	NO	1.00
+<g/>
+/
+die	w996	NO	NO	1.00
+Auslieferung	w997	NO	NO	1.00
+des	w998	NO	NO	1.00
+zu	w999	NO	NO	1.00
+Antwerpen	w1000	NO	NO	1.00
+gefangen	w1001	NO	NO	1.00
+<g/>
+=
+sitzenden	w1003	NO	NO	1.00
+Herrn	w1004	NO	NO	1.00
+Roberts	w1005	NO	NO	1.00
+Knight	w1006	NO	NO	1.00
+betreflich	w1007	NO	NO	1.00
+<g/>
+/
+zu	w1009	NO	NO	1.00
+Londen	w1010	NO	NO	1.00
+angekommen	w1011	NO	NO	1.00
+seye	w1012	NO	NO	1.00
+<g/>
+;
+Alda	w1014	NO	NO	1.00
+der	w1015	NO	NO	1.00
+Herr	w1016	NO	NO	1.00
+Walpole	w1017	YES	NO	1.00
+<g/>
+,
+an	w1019	NO	NO	1.00
+statt	w1020	NO	NO	1.00
+des	w1021	NO	NO	1.00
+verstorbenen	w1022	NO	NO	1.00
+Craggs	w1023	NO	NO	1.00
+<g/>
+/
+<g/>
+(
+welcher	w1026	NO	NO	1.00
+des	w1027	NO	NO	1.00
+unlängst	w1028	NO	NO	1.00
+auch	w1029	NO	NO	1.00
+mit	w1030	NO	NO	1.00
+Tod	w1031	NO	NO	1.00
+abgangen	w1032	NO	NO	1.00
+<g/>
+=
+Groß	w1034	NO	NO	1.00
+<g/>
+=
+Britannischen	w1036	NO	NO	1.00
+Staats	w1037	NO	NO	1.00
+<g/>
+=
+Secretari	w1039	NO	NO	1.00
+Vater	w1040	NO	NO	1.00
+gewe=sen	w1041	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+und	w1044	NO	NO	1.00
+aus	w1045	NO	NO	1.00
+lauter	w1046	NO	NO	1.00
+Schröcken	w1047	NO	NO	1.00
+gestorben	w1048	NO	NO	1.00
+<g/>
+/
+als	w1050	NO	NO	1.00
+man	w1051	NO	NO	1.00
+ihm	w1052	NO	NO	1.00
+bedeuten	w1053	NO	NO	1.00
+lassen	w1054	NO	NO	1.00
+<g/>
+/
+sich	w1056	NO	NO	1.00
+wegen	w1057	NO	NO	1.00
+der	w1058	NO	NO	1.00
+Sud	w1059	NO	NO	1.00
+<g/>
+=
+Compagnie	w1061	NO	NO	1.00
+vor	w1062	NO	NO	1.00
+Gericht	w1063	NO	NO	1.00
+zustellen	w1064	NO	NO	1.00
+<g/>
+)
+zum	w1066	NO	NO	1.00
+General	w1067	NO	NO	1.00
+<g/>
+=
+Post	w1069	NO	NO	1.00
+<g/>
+=
+Maister	w1071	NO	NO	1.00
+von	w1072	NO	NO	1.00
+Engelland	w1073	NO	NO	1.00
+ernent	w1074	NO	NO	1.00
+<g/>
+:
+der	w1076	NO	NO	1.00
+Duc	w1077	YES	NO	1.00
+de	w1078	YES	NO	1.00
+Rutland	w1079	YES	NO	1.00
+<g/>
+,
+und	w1081	NO	NO	1.00
+der	w1082	NO	NO	1.00
+Lord	w1083	YES	NO	1.00
+Clinton	w1084	YES	NO	1.00
+aber	w1085	NO	NO	1.00
+mit	w1086	NO	NO	1.00
+gewöhnlichen	w1087	NO	NO	1.00
+Ceremonien	w1088	NO	NO	1.00
+in	w1089	NO	NO	1.00
+das	w1090	NO	NO	1.00
+Ober	w1091	NO	NO	1.00
+<g/>
+=
+Hauß	w1093	NO	NO	1.00
+des	w1094	NO	NO	1.00
+Parlements	w1095	NO	NO	1.00
+eingeführet	w1096	NO	NO	1.00
+worden	w1097	NO	NO	1.00
+<g/>
+/
+um	w1099	NO	NO	1.00
+darin	w1100	NO	NO	1.00
+ihren	w1101	NO	NO	1.00
+Sitz	w1102	NO	NO	1.00
+zunehmen	w1103	NO	NO	1.00
+<g/>
+;
+Welches	w1105	NO	NO	1.00
+Parlement	w1106	NO	NO	1.00
+noch	w1107	NO	NO	1.00
+immer	w1108	NO	NO	1.00
+beschäftiget	w1109	NO	NO	1.00
+<g/>
+/
+die	w1111	NO	NO	1.00
+Sachen	w1112	NO	NO	1.00
+wegen	w1113	NO	NO	1.00
+der	w1114	NO	NO	1.00
+Süd	w1115	NO	NO	1.00
+<g/>
+=
+Compagnie	w1117	NO	NO	1.00
+wieder	w1118	NO	NO	1.00
+in	w1119	NO	NO	1.00
+andern	w1120	NO	NO	1.00
+Stand	w1121	NO	NO	1.00
+zubringen	w1122	NO	NO	1.00
+<g/>
+;
+Sonsten	w1124	NO	NO	1.00
+wär	w1125	NO	NO	1.00
+abermal	w1126	NO	NO	1.00
+aus	w1127	NO	NO	1.00
+Jrrland	w1128	NO	NO	1.00
+von	w1129	NO	NO	1.00
+ein	w1130	NO	NO	1.00
+<g/>
+=
+und	w1132	NO	NO	1.00
+anderem	w1133	NO	NO	1.00
+Anhang	w1134	NO	NO	1.00
+des	w1135	NO	NO	1.00
+Prätendenten	w1136	NO	NO	1.00
+ein	w1137	NO	NO	1.00
+Gerücht	w1138	NO	NO	1.00
+erschollen	w1139	NO	NO	1.00
+<g/>
+/
+so	w1141	NO	NO	1.00
+man	w1142	NO	NO	1.00
+aber	w1143	NO	NO	1.00
+der	w1144	NO	NO	1.00
+Zeit	w1145	NO	NO	1.00
+für	w1146	NO	NO	1.00
+ungegründet	w1147	NO	NO	1.00
+halten	w1148	NO	NO	1.00
+Jnzwischen	w1149	NO	NO	1.00
+wolle	w1150	NO	NO	1.00
+verlauten	w1151	NO	NO	1.00
+<g/>
+/
+daß	w1153	NO	NO	1.00
+in	w1154	NO	NO	1.00
+der	w1155	NO	NO	1.00
+Ebene	w1156	NO	NO	1.00
+bey	w1157	NO	NO	1.00
+Onslow	w1158	YES	NO	1.00
+all	w1159	NO	NO	1.00
+<g/>
+=
+im	w1161	NO	NO	1.00
+Königreich	w1162	NO	NO	1.00
+befindliche	w1163	NO	NO	1.00
+Truppen	w1164	NO	NO	1.00
+im	w1165	NO	NO	1.00
+bevorstehenden	w1166	NO	NO	1.00
+Sommer	w1167	NO	NO	1.00
+sich	w1168	NO	NO	1.00
+ver=samlen	w1169	NO	NO	1.00
+<g/>
+=
+<g/>
+:
+und	w1172	NO	NO	1.00
+daselbsten	w1173	NO	NO	1.00
+ein	w1174	NO	NO	1.00
+Lager	w1175	NO	NO	1.00
+schlagen	w1176	NO	NO	1.00
+sollen	w1177	NO	NO	1.00
+<g/>
+;
+Ubrigens	w1179	NO	NO	1.00
+werde	w1180	NO	NO	1.00
+mit	w1181	NO	NO	1.00
+der	w1182	NO	NO	1.00
+nach	w1183	NO	NO	1.00
+der	w1184	NO	NO	1.00
+Ost	w1185	NO	NO	1.00
+<g/>
+=
+See	w1187	NO	NO	1.00
+bestimten	w1188	NO	NO	1.00
+Squadra	w1189	NO	NO	1.00
+noch	w1190	NO	NO	1.00
+unaufhörlich	w1191	NO	NO	1.00
+geeilet	w1192	NO	NO	1.00
+<g/>
+/
+welche	w1194	NO	NO	1.00
+in	w1195	NO	NO	1.00
+21	w1196	NO	NO	1.00
+<g/>
+.
+Schiffen	w1198	NO	NO	1.00
+von	w1199	NO	NO	1.00
+der	w1200	NO	NO	1.00
+Linie	w1201	NO	NO	1.00
+<g/>
+/
+4	w1203	NO	NO	1.00
+<g/>
+.
+Fregatten	w1205	NO	NO	1.00
+<g/>
+/
+2	w1207	NO	NO	1.00
+<g/>
+.
+Branderen	w1209	NO	NO	1.00
+<g/>
+/
+und	w1211	NO	NO	1.00
+2	w1212	NO	NO	1.00
+<g/>
+.
+Bombardier	w1214	NO	NO	1.00
+<g/>
+=
+Gallioten	w1216	NO	NO	1.00
+bestehen	w1217	NO	NO	1.00
+<g/>
+:
+und	w1219	NO	NO	1.00
+erwehnte	w1220	NO	NO	1.00
+Squadra	w1221	NO	NO	1.00
+<g/>
+/
+so	w1223	NO	NO	1.00
+bald	w1224	NO	NO	1.00
+nur	w1225	NO	NO	1.00
+immer	w1226	NO	NO	1.00
+möglich	w1227	NO	NO	1.00
+<g/>
+/
+nach	w1229	NO	NO	1.00
+dem	w1230	NO	NO	1.00
+Ost	w1231	NO	NO	1.00
+<g/>
+=
+See	w1233	NO	NO	1.00
+abgehen	w1234	NO	NO	1.00
+solle	w1235	NO	NO	1.00
+<g/>
+/
+um	w1237	NO	NO	1.00
+in	w1238	NO	NO	1.00
+Zeiten	w1239	NO	NO	1.00
+mit	w1240	NO	NO	1.00
+einer	w1241	NO	NO	1.00
+andern	w1242	NO	NO	1.00
+sich	w1243	NO	NO	1.00
+vereinigen	w1244	NO	NO	1.00
+zukönnen	w1245	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p15">
+Aus	w1247	NO	NO	1.00
+</p>
+<p id="p16">
+Aus	w1248	NO	NO	1.00
+Frankreich	w1249	NO	NO	1.00
+<g/>
+/
+von	w1251	NO	NO	1.00
+dem	w1252	NO	NO	1.00
+4	w1253	NO	NO	1.00
+<g/>
+.
+April	w1255	NO	NO	1.00
+<g/>
+.
+Daß	w1257	NO	NO	1.00
+Jhre	w1258	NO	NO	1.00
+Königliche	w1259	NO	NO	1.00
+Ho=heit	w1260	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+der	w1263	NO	NO	1.00
+Herzog	w1264	NO	NO	1.00
+von	w1265	NO	NO	1.00
+Orleans	w1266	YES	NO	1.00
+<g/>
+,
+Regent	w1268	NO	NO	1.00
+von	w1269	NO	NO	1.00
+Frankreich	w1270	NO	NO	1.00
+<g/>
+/
+mit	w1272	NO	NO	1.00
+dem	w1273	NO	NO	1.00
+Kai=serlichen	w1274	NO	NO	1.00
+<g/>
+=
+Minister	w1276	NO	NO	1.00
+<g/>
+/
+Herrn	w1278	NO	NO	1.00
+Baron	w1279	NO	NO	1.00
+von	w1280	NO	NO	1.00
+Pentenrieder	w1281	NO	NO	1.00
+<g/>
+/
+und	w1283	NO	NO	1.00
+Engellisch=auserordendtlichen	w1284	NO	NO	1.00
+<g/>
+=
+Gesandten	w1286	NO	NO	1.00
+<g/>
+/
+Herrn	w1288	NO	NO	1.00
+Ritter	w1289	NO	NO	1.00
+Sutton	w1290	YES	NO	1.00
+<g/>
+,
+<g/>
+(
+bey	w1293	NO	NO	1.00
+deme	w1294	NO	NO	1.00
+jüng=stens	w1295	NO	NO	1.00
+<g/>
+=
+der	w1297	NO	NO	1.00
+Ottomannische	w1298	NO	NO	1.00
+Botschafter	w1299	NO	NO	1.00
+<g/>
+/
+aus	w1301	NO	NO	1.00
+habender	w1302	NO	NO	1.00
+Bekantschaft	w1303	NO	NO	1.00
+von	w1304	NO	NO	1.00
+Constantinopel	w1305	NO	NO	1.00
+<g/>
+/
+wie	w1307	NO	NO	1.00
+auch	w1308	NO	NO	1.00
+der	w1309	NO	NO	1.00
+Friedens	w1310	NO	NO	1.00
+<g/>
+=
+Handlung	w1312	NO	NO	1.00
+zu	w1313	NO	NO	1.00
+Possarowitz	w1314	NO	NO	1.00
+her	w1315	NO	NO	1.00
+<g/>
+/
+seine	w1317	NO	NO	1.00
+Besuchung	w1318	NO	NO	1.00
+getahn	w1319	NO	NO	1.00
+<g/>
+)
+wegen	w1321	NO	NO	1.00
+deren	w1322	NO	NO	1.00
+Hindernussen	w1323	NO	NO	1.00
+<g/>
+/
+so	w1325	NO	NO	1.00
+die	w1326	NO	NO	1.00
+Friedens	w1327	NO	NO	1.00
+<g/>
+=
+Handlung	w1329	NO	NO	1.00
+zu	w1330	NO	NO	1.00
+Cammerich	w1331	NO	NO	1.00
+bishero	w1332	NO	NO	1.00
+noch	w1333	NO	NO	1.00
+aufgehalten	w1334	NO	NO	1.00
+<g/>
+/
+ein	w1336	NO	NO	1.00
+lange	w1337	NO	NO	1.00
+Unter=redung	w1338	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+welcher	w1341	NO	NO	1.00
+auch	w1342	NO	NO	1.00
+der	w1343	NO	NO	1.00
+Herr	w1344	NO	NO	1.00
+Erz	w1345	NO	NO	1.00
+<g/>
+=
+Bischoff	w1347	NO	NO	1.00
+von	w1348	NO	NO	1.00
+Cammerich	w1349	NO	NO	1.00
+beygewoh=net	w1350	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+gepflogen	w1353	NO	NO	1.00
+hätten	w1354	NO	NO	1.00
+<g/>
+/
+um	w1356	NO	NO	1.00
+Mittel	w1357	NO	NO	1.00
+zufinden	w1358	NO	NO	1.00
+<g/>
+/
+diese	w1360	NO	NO	1.00
+Hindernüssen	w1361	NO	NO	1.00
+<g/>
+/
+so	w1363	NO	NO	1.00
+Span=nien	w1364	NO	NO	1.00
+<g/>
+=
+und	w1366	NO	NO	1.00
+Engelland	w1367	NO	NO	1.00
+verursachen	w1368	NO	NO	1.00
+sollen	w1369	NO	NO	1.00
+<g/>
+/
+aus	w1371	NO	NO	1.00
+dem	w1372	NO	NO	1.00
+Weeg	w1373	NO	NO	1.00
+zuraumen	w1374	NO	NO	1.00
+<g/>
+/
+damit	w1376	NO	NO	1.00
+nur	w1377	NO	NO	1.00
+einsmals	w1378	NO	NO	1.00
+erwehnte	w1379	NO	NO	1.00
+Friedens	w1380	NO	NO	1.00
+<g/>
+=
+Handlung	w1382	NO	NO	1.00
+ihren	w1383	NO	NO	1.00
+Fortgang	w1384	NO	NO	1.00
+haben	w1385	NO	NO	1.00
+möge	w1386	NO	NO	1.00
+<g/>
+;
+Sonsten	w1388	NO	NO	1.00
+seye	w1389	NO	NO	1.00
+der	w1390	NO	NO	1.00
+Herr	w1391	NO	NO	1.00
+Cardinal	w1392	NO	NO	1.00
+de	w1393	YES	NO	1.00
+Bissy	w1394	YES	NO	1.00
+von	w1395	NO	NO	1.00
+Pariß	w1396	NO	NO	1.00
+nacher	w1397	NO	NO	1.00
+Rom	w1398	NO	NO	1.00
+<g/>
+/
+dahin	w1400	NO	NO	1.00
+ein	w1401	NO	NO	1.00
+Curier	w1402	NO	NO	1.00
+mit	w1403	NO	NO	1.00
+wichtigen	w1404	NO	NO	1.00
+Briefschaften	w1405	NO	NO	1.00
+an	w1406	NO	NO	1.00
+den	w1407	NO	NO	1.00
+Hrn	w1408	NO	NO	1.00
+<g/>
+.
+Cardinal	w1410	NO	NO	1.00
+de	w1411	YES	NO	1.00
+Rohan	w1412	YES	NO	1.00
+auch	w1413	NO	NO	1.00
+abgefertiget	w1414	NO	NO	1.00
+worden	w1415	NO	NO	1.00
+<g/>
+/
+jüngstens	w1417	NO	NO	1.00
+abgereiset	w1418	NO	NO	1.00
+<g/>
+;
+Deme	w1420	NO	NO	1.00
+die	w1421	NO	NO	1.00
+Herren	w1422	NO	NO	1.00
+Cärdinäl	w1423	NO	NO	1.00
+<g/>
+/
+de	w1425	YES	NO	1.00
+Mailly	w1426	YES	NO	1.00
+und	w1427	NO	NO	1.00
+Polignac	w1428	YES	NO	1.00
+<g/>
+,
+nächstens	w1430	NO	NO	1.00
+folgen	w1431	NO	NO	1.00
+<g/>
+:
+Die	w1433	NO	NO	1.00
+Herren	w1434	NO	NO	1.00
+Cardinäl	w1435	NO	NO	1.00
+<g/>
+/
+de	w1437	YES	NO	1.00
+Gesvres	w1438	YES	NO	1.00
+und	w1439	NO	NO	1.00
+Noailles	w1440	YES	NO	1.00
+<g/>
+,
+aber	w1442	NO	NO	1.00
+zu	w1443	NO	NO	1.00
+Pariß	w1444	NO	NO	1.00
+verblei=ben	w1445	NO	NO	1.00
+<g/>
+=
+würden	w1447	NO	NO	1.00
+<g/>
+;
+Der	w1449	NO	NO	1.00
+leztere	w1450	NO	NO	1.00
+habe	w1451	NO	NO	1.00
+beschlossen	w1452	NO	NO	1.00
+<g/>
+/
+denen	w1454	NO	NO	1.00
+Ordens	w1455	NO	NO	1.00
+<g/>
+=
+Geistlichen	w1457	NO	NO	1.00
+keine	w1458	NO	NO	1.00
+Weyhe	w1459	NO	NO	1.00
+mehr	w1460	NO	NO	1.00
+zuertheilen	w1461	NO	NO	1.00
+<g/>
+/
+deren	w1463	NO	NO	1.00
+Obern	w1464	NO	NO	1.00
+<g/>
+/
+oder	w1466	NO	NO	1.00
+dero	w1467	NO	NO	1.00
+Clöster	w1468	NO	NO	1.00
+dem	w1469	NO	NO	1.00
+Apelli=renden	w1470	NO	NO	1.00
+<g/>
+=
+Theil	w1472	NO	NO	1.00
+wider	w1473	NO	NO	1.00
+die	w1474	NO	NO	1.00
+Constitution	w1475	YES	NO	1.00
+Unigenitus	w1476	YES	NO	1.00
+anhängig	w1477	NO	NO	1.00
+seyen	w1478	NO	NO	1.00
+<g/>
+/
+und	w1480	NO	NO	1.00
+das	w1481	NO	NO	1.00
+wär	w1482	NO	NO	1.00
+auch	w1483	NO	NO	1.00
+die	w1484	NO	NO	1.00
+Ursach	w1485	NO	NO	1.00
+gewesen	w1486	NO	NO	1.00
+<g/>
+/
+daß	w1488	NO	NO	1.00
+der	w1489	NO	NO	1.00
+Abbè	w1490	YES	NO	1.00
+de	w1491	YES	NO	1.00
+Fleury	w1492	YES	NO	1.00
+bey	w1493	NO	NO	1.00
+dem	w1494	NO	NO	1.00
+König	w1495	NO	NO	1.00
+nicht	w1496	NO	NO	1.00
+mehr	w1497	NO	NO	1.00
+Beicht	w1498	NO	NO	1.00
+<g/>
+=
+Vater	w1500	NO	NO	1.00
+geblieben	w1501	NO	NO	1.00
+<g/>
+/
+dessen	w1503	NO	NO	1.00
+Stell	w1504	NO	NO	1.00
+inzwischen	w1505	NO	NO	1.00
+<g/>
+/
+weilen	w1507	NO	NO	1.00
+der	w1508	NO	NO	1.00
+Herr	w1509	NO	NO	1.00
+Abbè	w1510	YES	NO	1.00
+de	w1511	YES	NO	1.00
+Vivans	w1512	YES	NO	1.00
+zu	w1513	NO	NO	1.00
+Rom	w1514	NO	NO	1.00
+sich	w1515	NO	NO	1.00
+aufhalte	w1516	NO	NO	1.00
+ein	w1517	NO	NO	1.00
+Pater	w1518	YES	NO	1.00
+S	w1519	YES	NO	1.00
+<g/>
+.
+J	w1521	YES	NO	1.00
+<g/>
+.
+wieder	w1523	NO	NO	1.00
+versehen	w1524	NO	NO	1.00
+solle	w1525	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p17">
+Aus	w1527	NO	NO	1.00
+Holland	w1528	NO	NO	1.00
+von	w1529	NO	NO	1.00
+dem	w1530	NO	NO	1.00
+8	w1531	NO	NO	1.00
+<g/>
+.
+April	w1533	NO	NO	1.00
+<g/>
+.
+Daß	w1535	NO	NO	1.00
+die	w1536	NO	NO	1.00
+Generalen	w1537	NO	NO	1.00
+<g/>
+/
+Graf	w1539	NO	NO	1.00
+von	w1540	NO	NO	1.00
+Hompesch	w1541	NO	NO	1.00
+<g/>
+/
+und	w1543	NO	NO	1.00
+Baron	w1544	NO	NO	1.00
+von	w1545	NO	NO	1.00
+Friesheim	w1546	NO	NO	1.00
+<g/>
+/
+in	w1548	NO	NO	1.00
+dem	w1549	NO	NO	1.00
+Haag	w1550	NO	NO	1.00
+angelanget	w1551	NO	NO	1.00
+<g/>
+/
+hingegen	w1553	NO	NO	1.00
+von	w1554	NO	NO	1.00
+dannen	w1555	NO	NO	1.00
+der	w1556	NO	NO	1.00
+Fiscal	w1557	YES	NO	1.00
+von	w1558	NO	NO	1.00
+Brabant	w1559	NO	NO	1.00
+<g/>
+/
+Herr	w1561	NO	NO	1.00
+Nenny	w1562	YES	NO	1.00
+<g/>
+,
+wieder	w1564	NO	NO	1.00
+nach	w1565	NO	NO	1.00
+Brüssel	w1566	NO	NO	1.00
+abgangen	w1567	NO	NO	1.00
+<g/>
+/
+dahin	w1569	NO	NO	1.00
+auch	w1570	NO	NO	1.00
+nächstens	w1571	NO	NO	1.00
+der	w1572	NO	NO	1.00
+Herr	w1573	NO	NO	1.00
+Resident	w1574	NO	NO	1.00
+Pesters	w1575	NO	NO	1.00
+kehren	w1576	NO	NO	1.00
+solle	w1577	NO	NO	1.00
+<g/>
+;
+Jn	w1579	NO	NO	1.00
+besagtem	w1580	NO	NO	1.00
+Haag	w1581	NO	NO	1.00
+sollen	w1582	NO	NO	1.00
+obgedachte	w1583	NO	NO	1.00
+Generals	w1584	NO	NO	1.00
+mit	w1585	NO	NO	1.00
+den	w1586	NO	NO	1.00
+Herren	w1587	NO	NO	1.00
+von	w1588	NO	NO	1.00
+der	w1589	NO	NO	1.00
+Regierung	w1590	NO	NO	1.00
+<g/>
+:
+und	w1592	NO	NO	1.00
+die	w1593	NO	NO	1.00
+Engellisch	w1594	NO	NO	1.00
+<g/>
+=
+wie	w1596	NO	NO	1.00
+auch	w1597	NO	NO	1.00
+Preussische	w1598	NO	NO	1.00
+Ministern	w1599	NO	NO	1.00
+mit	w1600	NO	NO	1.00
+dem	w1601	NO	NO	1.00
+Präsident	w1602	NO	NO	1.00
+von	w1603	NO	NO	1.00
+der	w1604	NO	NO	1.00
+Versamlung	w1605	NO	NO	1.00
+einige	w1606	NO	NO	1.00
+Unterredun=gen	w1607	NO	NO	1.00
+<g/>
+=
+gepflogen	w1609	NO	NO	1.00
+haben	w1610	NO	NO	1.00
+<g/>
+;
+Sonsten	w1612	NO	NO	1.00
+seye	w1613	NO	NO	1.00
+der	w1614	NO	NO	1.00
+Her	w1615	NO	NO	1.00
+Schwarzenberg	w1616	NO	NO	1.00
+zum	w1617	NO	NO	1.00
+Obri=sten	w1618	NO	NO	1.00
+<g/>
+=
+von	w1620	NO	NO	1.00
+dem	w1621	NO	NO	1.00
+Regiment	w1622	NO	NO	1.00
+des	w1623	NO	NO	1.00
+Prinzen	w1624	NO	NO	1.00
+von	w1625	NO	NO	1.00
+Oranien	w1626	NO	NO	1.00
+an	w1627	NO	NO	1.00
+Plaz	w1628	NO	NO	1.00
+des	w1629	NO	NO	1.00
+Herrn	w1630	NO	NO	1.00
+de	w1631	YES	NO	1.00
+Rochebrune	w1632	YES	NO	1.00
+<g/>
+;
+so	w1634	NO	NO	1.00
+die	w1635	NO	NO	1.00
+Obriste	w1636	NO	NO	1.00
+<g/>
+=
+Stell	w1638	NO	NO	1.00
+aufgegeben	w1639	NO	NO	1.00
+<g/>
+/
+jüngstens	w1641	NO	NO	1.00
+ernent	w1642	NO	NO	1.00
+worden	w1643	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p18">
+Aus	w1645	NO	NO	1.00
+Brabant	w1646	NO	NO	1.00
+von	w1647	NO	NO	1.00
+dem	w1648	NO	NO	1.00
+8	w1649	NO	NO	1.00
+<g/>
+.
+April	w1651	NO	NO	1.00
+<g/>
+.
+Daß	w1653	NO	NO	1.00
+der	w1654	NO	NO	1.00
+Herr	w1655	NO	NO	1.00
+Cardinal	w1656	NO	NO	1.00
+und	w1657	NO	NO	1.00
+Erz	w1658	NO	NO	1.00
+<g/>
+=
+Bischof	w1660	NO	NO	1.00
+zu	w1661	NO	NO	1.00
+Mechlen	w1662	NO	NO	1.00
+in	w1663	NO	NO	1.00
+dasiger	w1664	NO	NO	1.00
+Haubt	w1665	NO	NO	1.00
+<g/>
+=
+Kirche	w1667	NO	NO	1.00
+für	w1668	NO	NO	1.00
+den	w1669	NO	NO	1.00
+jüngst	w1670	NO	NO	1.00
+<g/>
+=
+ver=storbenen	w1672	NO	NO	1.00
+<g/>
+=
+Pabst	w1674	NO	NO	1.00
+die	w1675	NO	NO	1.00
+Leichbesingnuß	w1676	NO	NO	1.00
+auf	w1677	NO	NO	1.00
+das	w1678	NO	NO	1.00
+feyerlichste	w1679	NO	NO	1.00
+halten	w1680	NO	NO	1.00
+lassen	w1681	NO	NO	1.00
+<g/>
+;
+Zu	w1683	NO	NO	1.00
+Brüssel	w1684	NO	NO	1.00
+seye	w1685	NO	NO	1.00
+kürzlich	w1686	NO	NO	1.00
+der	w1687	NO	NO	1.00
+Sohn	w1688	NO	NO	1.00
+des	w1689	NO	NO	1.00
+zu	w1690	NO	NO	1.00
+Antwerpen	w1691	NO	NO	1.00
+auf	w1692	NO	NO	1.00
+dasigen	w1693	NO	NO	1.00
+</p>
+<p id="p19">
+Ca	w1694	NO	NO	1.00
+</p>
+<p id="p20">
+Castell	w1695	NO	NO	1.00
+gefangen	w1696	NO	NO	1.00
+sitzenden	w1697	NO	NO	1.00
+Herrn	w1698	NO	NO	1.00
+Robert	w1699	NO	NO	1.00
+Knight	w1700	NO	NO	1.00
+<g/>
+,
+angekommen	w1702	NO	NO	1.00
+<g/>
+/
+und	w1704	NO	NO	1.00
+habe	w1705	NO	NO	1.00
+die	w1706	NO	NO	1.00
+Ständ	w1707	NO	NO	1.00
+von	w1708	NO	NO	1.00
+Brabant	w1709	NO	NO	1.00
+durch	w1710	NO	NO	1.00
+ein	w1711	NO	NO	1.00
+Memorial	w1712	NO	NO	1.00
+ersuchet	w1713	NO	NO	1.00
+<g/>
+/
+seinen	w1715	NO	NO	1.00
+Vater	w1716	NO	NO	1.00
+das	w1717	NO	NO	1.00
+Recht	w1718	NO	NO	1.00
+der	w1719	NO	NO	1.00
+Zuflucht	w1720	NO	NO	1.00
+<g/>
+=
+Stadt	w1722	NO	NO	1.00
+doch	w1723	NO	NO	1.00
+geniesen	w1724	NO	NO	1.00
+zulassen	w1725	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p21">
+Von	w1727	NO	NO	1.00
+dem	w1728	NO	NO	1.00
+Nieder	w1729	NO	NO	1.00
+<g/>
+=
+Rheinstrom	w1731	NO	NO	1.00
+<g/>
+/
+vom	w1733	NO	NO	1.00
+10	w1734	NO	NO	1.00
+<g/>
+.
+April	w1736	NO	NO	1.00
+<g/>
+.
+Daß	w1738	NO	NO	1.00
+von	w1739	NO	NO	1.00
+Jhro	w1740	NO	NO	1.00
+Churfürstlichen	w1741	NO	NO	1.00
+Durchleucht	w1742	NO	NO	1.00
+zu	w1743	NO	NO	1.00
+Pfaltz	w1744	NO	NO	1.00
+der	w1745	NO	NO	1.00
+Herr	w1746	NO	NO	1.00
+Graf	w1747	NO	NO	1.00
+von	w1748	NO	NO	1.00
+Schaesberg	w1749	NO	NO	1.00
+zum	w1750	NO	NO	1.00
+Guverneur	w1751	NO	NO	1.00
+<g/>
+=
+General	w1753	NO	NO	1.00
+deren	w1754	NO	NO	1.00
+Herzogtümeren	w1755	NO	NO	1.00
+<g/>
+/
+Gülich	w1757	NO	NO	1.00
+und	w1758	NO	NO	1.00
+Berge	w1759	NO	NO	1.00
+<g/>
+/
+und	w1761	NO	NO	1.00
+der	w1762	NO	NO	1.00
+Herr	w1763	NO	NO	1.00
+geheime	w1764	NO	NO	1.00
+Raht	w1765	NO	NO	1.00
+Brosy	w1766	NO	NO	1.00
+zum	w1767	NO	NO	1.00
+Vice	w1768	NO	NO	1.00
+<g/>
+-
+Canzler	w1770	NO	NO	1.00
+<g/>
+/
+an	w1772	NO	NO	1.00
+statt	w1773	NO	NO	1.00
+des	w1774	NO	NO	1.00
+verstorbenen	w1775	NO	NO	1.00
+Herrn	w1776	NO	NO	1.00
+von	w1777	NO	NO	1.00
+Hetterman	w1778	NO	NO	1.00
+<g/>
+/
+ernent	w1780	NO	NO	1.00
+worden	w1781	NO	NO	1.00
+<g/>
+/
+Zu	w1783	NO	NO	1.00
+Cöllen	w1784	NO	NO	1.00
+habe	w1785	NO	NO	1.00
+man	w1786	NO	NO	1.00
+den	w1787	NO	NO	1.00
+Herrn	w1788	NO	NO	1.00
+Niclas	w1789	NO	NO	1.00
+von	w1790	NO	NO	1.00
+Groet	w1791	NO	NO	1.00
+zum	w1792	NO	NO	1.00
+Burgermaister	w1793	NO	NO	1.00
+erwählet	w1794	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p22">
+Von	w1796	NO	NO	1.00
+dem	w1797	NO	NO	1.00
+Maynstrom	w1798	NO	NO	1.00
+vom	w1799	NO	NO	1.00
+12	w1800	NO	NO	1.00
+<g/>
+.
+April	w1802	NO	NO	1.00
+<g/>
+.
+Daß	w1804	NO	NO	1.00
+<g/>
+/
+um	w1806	NO	NO	1.00
+die	w1807	NO	NO	1.00
+Fränkische	w1808	NO	NO	1.00
+Landen	w1809	NO	NO	1.00
+von	w1810	NO	NO	1.00
+den	w1811	NO	NO	1.00
+in	w1812	NO	NO	1.00
+Frankreich	w1813	NO	NO	1.00
+und	w1814	NO	NO	1.00
+Polen	w1815	NO	NO	1.00
+eingerissen	w1816	NO	NO	1.00
+<g/>
+=
+ansteckend	w1818	NO	NO	1.00
+<g/>
+=
+gefähr=lichen	w1820	NO	NO	1.00
+<g/>
+=
+Krankheiten	w1822	NO	NO	1.00
+zu	w1823	NO	NO	1.00
+bewahren	w1824	NO	NO	1.00
+<g/>
+/
+ein	w1826	NO	NO	1.00
+Hochlöbliches	w1827	NO	NO	1.00
+in	w1828	NO	NO	1.00
+der	w1829	NO	NO	1.00
+Reichs	w1830	NO	NO	1.00
+<g/>
+=
+Stadt	w1832	NO	NO	1.00
+Nürnberg	w1833	NO	NO	1.00
+versamlet	w1834	NO	NO	1.00
+<g/>
+=
+algemein	w1836	NO	NO	1.00
+<g/>
+=
+Fränkisches	w1838	NO	NO	1.00
+Creyß	w1839	NO	NO	1.00
+<g/>
+=
+Convent	w1841	NO	NO	1.00
+den	w1842	NO	NO	1.00
+ernstlichen	w1843	NO	NO	1.00
+Schluß	w1844	NO	NO	1.00
+gefast	w1845	NO	NO	1.00
+<g/>
+/
+und	w1847	NO	NO	1.00
+sich	w1848	NO	NO	1.00
+dahin	w1849	NO	NO	1.00
+vereiniget	w1850	NO	NO	1.00
+<g/>
+:
+daß	w1852	NO	NO	1.00
+in	w1853	NO	NO	1.00
+besagt	w1854	NO	NO	1.00
+<g/>
+=
+Fränkischen	w1856	NO	NO	1.00
+Landen	w1857	NO	NO	1.00
+weder	w1858	NO	NO	1.00
+Personen	w1859	NO	NO	1.00
+<g/>
+/
+noch	w1861	NO	NO	1.00
+Waaren	w1862	NO	NO	1.00
+durchgelassen	w1863	NO	NO	1.00
+wer=den	w1864	NO	NO	1.00
+<g/>
+=
+sollen	w1866	NO	NO	1.00
+<g/>
+;
+Wan	w1868	NO	NO	1.00
+sie	w1869	NO	NO	1.00
+nicht	w1870	NO	NO	1.00
+mit	w1871	NO	NO	1.00
+glaubhaften	w1872	NO	NO	1.00
+von	w1873	NO	NO	1.00
+Ort	w1874	NO	NO	1.00
+zu	w1875	NO	NO	1.00
+Ort	w1876	NO	NO	1.00
+unter=schriebenen	w1877	NO	NO	1.00
+<g/>
+=
+Pässen	w1879	NO	NO	1.00
+<g/>
+/
+Fehden	w1881	NO	NO	1.00
+und	w1882	NO	NO	1.00
+Zeugnussen	w1883	NO	NO	1.00
+bescheinigen	w1884	NO	NO	1.00
+und	w1885	NO	NO	1.00
+dartuhn	w1886	NO	NO	1.00
+können	w1887	NO	NO	1.00
+<g/>
+/
+daß	w1889	NO	NO	1.00
+sie	w1890	NO	NO	1.00
+von	w1891	NO	NO	1.00
+gesunden	w1892	NO	NO	1.00
+und	w1893	NO	NO	1.00
+unverdächtigen	w1894	NO	NO	1.00
+Oertern	w1895	NO	NO	1.00
+herkom=men	w1896	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+auch	w1899	NO	NO	1.00
+<g/>
+/
+was	w1901	NO	NO	1.00
+die	w1902	NO	NO	1.00
+Waaren	w1903	NO	NO	1.00
+betreffe	w1904	NO	NO	1.00
+<g/>
+/
+sie	w1906	NO	NO	1.00
+an	w1907	NO	NO	1.00
+dergleichen	w1908	NO	NO	1.00
+unverdächtigen	w1909	NO	NO	1.00
+Oertern	w1910	NO	NO	1.00
+verfertiget	w1911	NO	NO	1.00
+<g/>
+/
+gewachsen	w1913	NO	NO	1.00
+<g/>
+/
+oder	w1915	NO	NO	1.00
+gepacket	w1916	NO	NO	1.00
+seyen	w1917	NO	NO	1.00
+<g/>
+/
+zu	w1919	NO	NO	1.00
+dem	w1920	NO	NO	1.00
+End	w1921	NO	NO	1.00
+alle	w1922	NO	NO	1.00
+Stücke	w1923	NO	NO	1.00
+deren	w1924	NO	NO	1.00
+Waaren	w1925	NO	NO	1.00
+in	w1926	NO	NO	1.00
+denen	w1927	NO	NO	1.00
+Pässen	w1928	NO	NO	1.00
+eigentlich	w1929	NO	NO	1.00
+beschrieben	w1930	NO	NO	1.00
+seyn	w1931	NO	NO	1.00
+sollen	w1932	NO	NO	1.00
+<g/>
+;
+Widrigesfals	w1934	NO	NO	1.00
+man	w1935	NO	NO	1.00
+dergleichen	w1936	NO	NO	1.00
+Personen	w1937	NO	NO	1.00
+und	w1938	NO	NO	1.00
+Waaren	w1939	NO	NO	1.00
+abwei=sen	w1940	NO	NO	1.00
+<g/>
+=
+<g/>
+:
+zuruckbehalten	w1943	NO	NO	1.00
+<g/>
+:
+auch	w1945	NO	NO	1.00
+die	w1946	NO	NO	1.00
+leztere	w1947	NO	NO	1.00
+gar	w1948	NO	NO	1.00
+<g/>
+/
+gestalteter	w1950	NO	NO	1.00
+Dingen	w1951	NO	NO	1.00
+nach	w1952	NO	NO	1.00
+<g/>
+/
+verbrennen	w1954	NO	NO	1.00
+lassen	w1955	NO	NO	1.00
+werde	w1956	NO	NO	1.00
+<g/>
+;
+Gleichwie	w1958	NO	NO	1.00
+man	w1959	NO	NO	1.00
+eben	w1960	NO	NO	1.00
+in	w1961	NO	NO	1.00
+dem	w1962	NO	NO	1.00
+Fränkischen	w1963	NO	NO	1.00
+Creyß	w1964	NO	NO	1.00
+kein	w1965	NO	NO	1.00
+aus	w1966	NO	NO	1.00
+Polen	w1967	NO	NO	1.00
+kommende	w1968	NO	NO	1.00
+Juden	w1969	NO	NO	1.00
+passiren	w1970	NO	NO	1.00
+lasse	w1971	NO	NO	1.00
+<g/>
+;
+Als	w1973	NO	NO	1.00
+werde	w1974	NO	NO	1.00
+solches	w1975	NO	NO	1.00
+auch	w1976	NO	NO	1.00
+auf	w1977	NO	NO	1.00
+all	w1978	NO	NO	1.00
+<g/>
+=
+vagirende	w1980	NO	NO	1.00
+Bettel	w1981	NO	NO	1.00
+<g/>
+=
+Juden	w1983	NO	NO	1.00
+verstanden	w1984	NO	NO	1.00
+<g/>
+/
+welche	w1986	NO	NO	1.00
+an=fänglich	w1987	NO	NO	1.00
+<g/>
+=
+auf	w1989	NO	NO	1.00
+den	w1990	NO	NO	1.00
+Gränzen	w1991	NO	NO	1.00
+mit	w1992	NO	NO	1.00
+wohl	w1993	NO	NO	1.00
+empfindlichen	w1994	NO	NO	1.00
+Schlägen	w1995	NO	NO	1.00
+abgetrie=ben	w1996	NO	NO	1.00
+<g/>
+=
+<g/>
+:
+nachgehends	w1999	NO	NO	1.00
+aber	w2000	NO	NO	1.00
+<g/>
+/
+wan	w2002	NO	NO	1.00
+sie	w2003	NO	NO	1.00
+sich	w2004	NO	NO	1.00
+eines	w2005	NO	NO	1.00
+Weegs	w2006	NO	NO	1.00
+durchzuschleichen	w2007	NO	NO	1.00
+unterstehen	w2008	NO	NO	1.00
+würden	w2009	NO	NO	1.00
+<g/>
+/
+mit	w2011	NO	NO	1.00
+schwerer	w2012	NO	NO	1.00
+Leibs	w2013	NO	NO	1.00
+<g/>
+=
+Straf	w2015	NO	NO	1.00
+angesehen	w2016	NO	NO	1.00
+werden	w2017	NO	NO	1.00
+sol=ten	w2018	NO	NO	1.00
+<g/>
+=
+<g/>
+:
+Dergleichen	w2021	NO	NO	1.00
+scharfen	w2022	NO	NO	1.00
+Befehl	w2023	NO	NO	1.00
+auch	w2024	NO	NO	1.00
+Jhre	w2025	NO	NO	1.00
+Hochfürstl	w2026	NO	NO	1.00
+<g/>
+.
+Gnaden	w2028	NO	NO	1.00
+zu	w2029	NO	NO	1.00
+Würzburg	w2030	NO	NO	1.00
+<g/>
+/
+zu	w2032	NO	NO	1.00
+Erhaltung	w2033	NO	NO	1.00
+dero	w2034	NO	NO	1.00
+Hochstift	w2035	NO	NO	1.00
+und	w2036	NO	NO	1.00
+Landen	w2037	NO	NO	1.00
+des	w2038	NO	NO	1.00
+Herzogtum	w2039	NO	NO	1.00
+zu	w2040	NO	NO	1.00
+Franken	w2041	NO	NO	1.00
+<g/>
+/
+ergehen	w2043	NO	NO	1.00
+lassen	w2044	NO	NO	1.00
+<g/>
+/
+daß	w2046	NO	NO	1.00
+nemlichen	w2047	NO	NO	1.00
+wegen	w2048	NO	NO	1.00
+der	w2049	NO	NO	1.00
+in	w2050	NO	NO	1.00
+Frankreich	w2051	NO	NO	1.00
+grassi=renden	w2052	NO	NO	1.00
+<g/>
+=
+Pest	w2054	NO	NO	1.00
+<g/>
+/
+weder	w2056	NO	NO	1.00
+Personen	w2057	NO	NO	1.00
+<g/>
+/
+Vieh	w2059	NO	NO	1.00
+<g/>
+/
+noch	w2061	NO	NO	1.00
+Waaren	w2062	NO	NO	1.00
+<g/>
+/
+von	w2064	NO	NO	1.00
+dorten	w2065	NO	NO	1.00
+<g/>
+/
+noch	w2067	NO	NO	1.00
+auch	w2068	NO	NO	1.00
+aus	w2069	NO	NO	1.00
+Savoyen	w2070	NO	NO	1.00
+<g/>
+/
+und	w2072	NO	NO	1.00
+Piemont	w2073	NO	NO	1.00
+<g/>
+/
+oder	w2075	NO	NO	1.00
+Graubinden	w2076	NO	NO	1.00
+<g/>
+/
+Schweitz	w2078	NO	NO	1.00
+<g/>
+/
+und	w2080	NO	NO	1.00
+Lothringen	w2081	NO	NO	1.00
+<g/>
+/
+noch	w2083	NO	NO	1.00
+anderen	w2084	NO	NO	1.00
+sonsten	w2085	NO	NO	1.00
+gegen	w2086	NO	NO	1.00
+Teutschland	w2087	NO	NO	1.00
+ligenden	w2088	NO	NO	1.00
+<g/>
+/
+und	w2090	NO	NO	1.00
+denenselben	w2091	NO	NO	1.00
+Unterschleif	w2092	NO	NO	1.00
+gebenden	w2093	NO	NO	1.00
+Länderen	w2094	NO	NO	1.00
+<g/>
+/
+ingleichem	w2096	NO	NO	1.00
+auch	w2097	NO	NO	1.00
+aus	w2098	NO	NO	1.00
+Polen	w2099	NO	NO	1.00
+nichts	w2100	NO	NO	1.00
+bey	w2101	NO	NO	1.00
+Leib	w2102	NO	NO	1.00
+<g/>
+=
+und	w2104	NO	NO	1.00
+Lebens	w2105	NO	NO	1.00
+<g/>
+=
+Straf	w2107	NO	NO	1.00
+<g/>
+/
+und	w2109	NO	NO	1.00
+Verbrennung	w2110	NO	NO	1.00
+deren	w2111	NO	NO	1.00
+Waaren	w2112	NO	NO	1.00
+passiret	w2113	NO	NO	1.00
+werden	w2114	NO	NO	1.00
+solle	w2115	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p23">
+Aus	w2117	NO	NO	1.00
+der	w2118	NO	NO	1.00
+Schweitz	w2119	NO	NO	1.00
+<g/>
+/
+von	w2121	NO	NO	1.00
+dem	w2122	NO	NO	1.00
+8	w2123	NO	NO	1.00
+<g/>
+.
+April	w2125	NO	NO	1.00
+<g/>
+.
+Daß	w2127	NO	NO	1.00
+von	w2128	NO	NO	1.00
+dem	w2129	NO	NO	1.00
+Magistrat	w2130	NO	NO	1.00
+</p>
+<p id="p24">
+<g/>
+)(
+3	w2132	NO	NO	1.00
+</p>
+<p id="p25">
+zu	w2133	NO	NO	1.00
+</p>
+<p id="p26">
+zu	w2134	NO	NO	1.00
+Zürch	w2135	NO	NO	1.00
+<g/>
+/
+auf	w2137	NO	NO	1.00
+Vernehmen	w2138	NO	NO	1.00
+<g/>
+/
+wie	w2140	NO	NO	1.00
+Jhre	w2141	NO	NO	1.00
+Churfürstliche	w2142	NO	NO	1.00
+Durchleucht	w2143	NO	NO	1.00
+zu	w2144	NO	NO	1.00
+Pfaltz	w2145	NO	NO	1.00
+<g/>
+/
+wegen	w2147	NO	NO	1.00
+der	w2148	NO	NO	1.00
+in	w2149	NO	NO	1.00
+Frankreich	w2150	NO	NO	1.00
+grassirenden	w2151	NO	NO	1.00
+Pest	w2152	NO	NO	1.00
+<g/>
+/
+die	w2154	NO	NO	1.00
+Güter	w2155	NO	NO	1.00
+deren	w2156	NO	NO	1.00
+Zür=chischen	w2157	NO	NO	1.00
+<g/>
+=
+Kaufleuthen	w2159	NO	NO	1.00
+<g/>
+/
+so	w2161	NO	NO	1.00
+nach	w2162	NO	NO	1.00
+Frankfurt	w2163	NO	NO	1.00
+gehen	w2164	NO	NO	1.00
+wollen	w2165	NO	NO	1.00
+<g/>
+/
+nahe	w2167	NO	NO	1.00
+bey	w2168	NO	NO	1.00
+Pforzheim	w2169	NO	NO	1.00
+anhalten	w2170	NO	NO	1.00
+<g/>
+:
+und	w2172	NO	NO	1.00
+von	w2173	NO	NO	1.00
+den	w2174	NO	NO	1.00
+Wägen	w2175	NO	NO	1.00
+abwerfen	w2176	NO	NO	1.00
+lassen	w2177	NO	NO	1.00
+<g/>
+/
+der	w2179	NO	NO	1.00
+Sub-stitutus	w2180	YES	NO	1.00
+<g/>
+-
+Hottinger	w2182	NO	NO	1.00
+mit	w2183	NO	NO	1.00
+einem	w2184	NO	NO	1.00
+Brief	w2185	NO	NO	1.00
+an	w2186	NO	NO	1.00
+Jhre	w2187	NO	NO	1.00
+Churfürstliche	w2188	NO	NO	1.00
+Durchleucht	w2189	NO	NO	1.00
+zu	w2190	NO	NO	1.00
+Pfaltz	w2191	NO	NO	1.00
+nach	w2192	NO	NO	1.00
+Manheim	w2193	NO	NO	1.00
+abgeschicket	w2194	NO	NO	1.00
+worden	w2195	NO	NO	1.00
+<g/>
+/
+um	w2197	NO	NO	1.00
+Deroselben	w2198	NO	NO	1.00
+vorzu=stellen	w2199	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+daß	w2202	NO	NO	1.00
+ja	w2203	NO	NO	1.00
+die	w2204	NO	NO	1.00
+Pest	w2205	NO	NO	1.00
+nicht	w2206	NO	NO	1.00
+in	w2207	NO	NO	1.00
+der	w2208	NO	NO	1.00
+Schweitz	w2209	NO	NO	1.00
+wäre	w2210	NO	NO	1.00
+<g/>
+/
+und	w2212	NO	NO	1.00
+in	w2213	NO	NO	1.00
+Frankreich	w2214	NO	NO	1.00
+solche	w2215	NO	NO	1.00
+gar	w2216	NO	NO	1.00
+aufhören	w2217	NO	NO	1.00
+solle	w2218	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p27">
+Von	w2220	NO	NO	1.00
+dem	w2221	NO	NO	1.00
+Elbstrom	w2222	NO	NO	1.00
+<g/>
+/
+vom	w2224	NO	NO	1.00
+12	w2225	NO	NO	1.00
+<g/>
+.
+April	w2227	NO	NO	1.00
+<g/>
+.
+Daß	w2229	NO	NO	1.00
+<g/>
+/
+zufolg	w2231	NO	NO	1.00
+der	w2232	NO	NO	1.00
+Nachricht	w2233	NO	NO	1.00
+von	w2234	NO	NO	1.00
+Petersburg	w2235	NO	NO	1.00
+<g/>
+/
+die	w2237	NO	NO	1.00
+Czaarische	w2238	NO	NO	1.00
+Gevolmächtigte	w2239	NO	NO	1.00
+nach	w2240	NO	NO	1.00
+Nystadt	w2241	NO	NO	1.00
+<g/>
+/
+in	w2243	NO	NO	1.00
+Fin=land	w2244	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+zu	w2247	NO	NO	1.00
+der	w2248	NO	NO	1.00
+aldort	w2249	NO	NO	1.00
+angestelten	w2250	NO	NO	1.00
+Friedens	w2251	NO	NO	1.00
+<g/>
+=
+Unterredung	w2253	NO	NO	1.00
+abgangen	w2254	NO	NO	1.00
+<g/>
+;
+Zu	w2256	NO	NO	1.00
+Stockholm	w2257	NO	NO	1.00
+wär	w2258	NO	NO	1.00
+indessen	w2259	NO	NO	1.00
+der	w2260	NO	NO	1.00
+Prinz	w2261	NO	NO	1.00
+Georg	w2262	NO	NO	1.00
+von	w2263	NO	NO	1.00
+Hessen	w2264	NO	NO	1.00
+<g/>
+=
+Cassel	w2266	NO	NO	1.00
+mit	w2267	NO	NO	1.00
+wichtigsten	w2268	NO	NO	1.00
+Commissionen	w2269	NO	NO	1.00
+angekommen	w2270	NO	NO	1.00
+<g/>
+/
+und	w2272	NO	NO	1.00
+im	w2273	NO	NO	1.00
+Königlichen	w2274	NO	NO	1.00
+<g/>
+.
+Schloß	w2276	NO	NO	1.00
+eingekehret	w2277	NO	NO	1.00
+<g/>
+;
+Von	w2279	NO	NO	1.00
+Koppenhagen	w2280	NO	NO	1.00
+aber	w2281	NO	NO	1.00
+werde	w2282	NO	NO	1.00
+berichtet	w2283	NO	NO	1.00
+<g/>
+/
+daß	w2285	NO	NO	1.00
+Jhre	w2286	NO	NO	1.00
+Kö=niglich	w2287	NO	NO	1.00
+<g/>
+=
+<g/>
+=
+Dänische	w2290	NO	NO	1.00
+Majestät	w2291	NO	NO	1.00
+entschlossen	w2292	NO	NO	1.00
+<g/>
+/
+sobald	w2294	NO	NO	1.00
+die	w2295	NO	NO	1.00
+Beysetzung	w2296	NO	NO	1.00
+der	w2297	NO	NO	1.00
+Kö=nigin	w2298	NO	NO	1.00
+<g/>
+=
+Leichnam	w2300	NO	NO	1.00
+zu	w2301	NO	NO	1.00
+Rotschild	w2302	NO	NO	1.00
+geschehen	w2303	NO	NO	1.00
+sey	w2304	NO	NO	1.00
+<g/>
+/
+eine	w2306	NO	NO	1.00
+Reiß	w2307	NO	NO	1.00
+nach	w2308	NO	NO	1.00
+Jütland	w2309	NO	NO	1.00
+und	w2310	NO	NO	1.00
+Holstein	w2311	NO	NO	1.00
+vorzunehmen	w2312	NO	NO	1.00
+<g/>
+/
+um	w2314	NO	NO	1.00
+aller	w2315	NO	NO	1.00
+Orten	w2316	NO	NO	1.00
+Dero	w2317	NO	NO	1.00
+Truppen	w2318	NO	NO	1.00
+zubesichtigen	w2319	NO	NO	1.00
+<g/>
+/
+und	w2321	NO	NO	1.00
+durch	w2322	NO	NO	1.00
+die	w2323	NO	NO	1.00
+Musterung	w2324	NO	NO	1.00
+gehen	w2325	NO	NO	1.00
+zulassen	w2326	NO	NO	1.00
+<g/>
+;
+Und	w2328	NO	NO	1.00
+würden	w2329	NO	NO	1.00
+übrigens	w2330	NO	NO	1.00
+da=selbsten	w2331	NO	NO	1.00
+<g/>
+=
+solche	w2333	NO	NO	1.00
+Anstalten	w2334	NO	NO	1.00
+gemacht	w2335	NO	NO	1.00
+<g/>
+/
+als	w2337	NO	NO	1.00
+wan	w2338	NO	NO	1.00
+ein	w2339	NO	NO	1.00
+neuer	w2340	NO	NO	1.00
+Krieg	w2341	NO	NO	1.00
+vor	w2342	NO	NO	1.00
+der	w2343	NO	NO	1.00
+Thür	w2344	NO	NO	1.00
+wäre	w2345	NO	NO	1.00
+<g/>
+;
+Wie	w2347	NO	NO	1.00
+von	w2348	NO	NO	1.00
+Berlin	w2349	NO	NO	1.00
+die	w2350	NO	NO	1.00
+Nachricht	w2351	NO	NO	1.00
+kommen	w2352	NO	NO	1.00
+<g/>
+/
+so	w2354	NO	NO	1.00
+hätten	w2355	NO	NO	1.00
+Jhre	w2356	NO	NO	1.00
+Kö=niglich	w2357	NO	NO	1.00
+<g/>
+=
+<g/>
+=
+Preussische	w2360	NO	NO	1.00
+Majestät	w2361	NO	NO	1.00
+zu	w2362	NO	NO	1.00
+Potsdam	w2363	NO	NO	1.00
+die	w2364	NO	NO	1.00
+alda	w2365	NO	NO	1.00
+liegende	w2366	NO	NO	1.00
+Cron	w2367	NO	NO	1.00
+<g/>
+=
+Ba=taillon	w2369	NO	NO	1.00
+<g/>
+=
+in	w2371	NO	NO	1.00
+Waffen	w2372	NO	NO	1.00
+sich	w2373	NO	NO	1.00
+üben	w2374	NO	NO	1.00
+lassen	w2375	NO	NO	1.00
+<g/>
+;
+Darüber	w2377	NO	NO	1.00
+aber	w2378	NO	NO	1.00
+sich	w2379	NO	NO	1.00
+etwas	w2380	NO	NO	1.00
+unpäs=lich	w2381	NO	NO	1.00
+<g/>
+=
+befunden	w2383	NO	NO	1.00
+<g/>
+/
+daß	w2385	NO	NO	1.00
+man	w2386	NO	NO	1.00
+deroselben	w2387	NO	NO	1.00
+zur	w2388	NO	NO	1.00
+Ader	w2389	NO	NO	1.00
+lassen	w2390	NO	NO	1.00
+müssen	w2391	NO	NO	1.00
+<g/>
+.
+</p>
+<head id="hl2">
+Ankunft	w2393	NO	NO	1.00
+deren	w2394	NO	NO	1.00
+hoh	w2395	NO	NO	1.00
+<g/>
+=
+und	w2397	NO	NO	1.00
+niederen	w2398	NO	NO	1.00
+Stands	w2399	NO	NO	1.00
+<g/>
+=
+Personen	w2401	NO	NO	1.00
+<g/>
+.
+</head>
+<head id="hl3">
+Den	w2403	NO	NO	1.00
+16	w2404	NO	NO	1.00
+<g/>
+.
+April	w2406	NO	NO	1.00
+<g/>
+/
+1721	w2408	NO	NO	1.00
+<g/>
+.
+</head>
+<list id="list_30">
+Stuben	w2410	NO	NO	1.00
+<g/>
+=
+Thor	w2412	NO	NO	1.00
+<g/>
+.
+Herr	w2414	NO	NO	1.00
+Baron	w2415	NO	NO	1.00
+Rosenwald	w2416	NO	NO	1.00
+<g/>
+/
+Cornet	w2418	NO	NO	1.00
+<g/>
+/
+von	w2420	NO	NO	1.00
+des	w2421	NO	NO	1.00
+Prinzen	w2422	NO	NO	1.00
+Emanuel	w2423	NO	NO	1.00
+von	w2424	NO	NO	1.00
+Savoyen	w2425	NO	NO	1.00
+Regiment	w2426	NO	NO	1.00
+<g/>
+/
+komt	w2428	NO	NO	1.00
+gestern	w2429	NO	NO	1.00
+Abend	w2430	NO	NO	1.00
+aus	w2431	NO	NO	1.00
+Hungarn	w2432	NO	NO	1.00
+<g/>
+/
+log	w2434	NO	NO	1.00
+<g/>
+.
+auf	w2436	NO	NO	1.00
+der	w2437	NO	NO	1.00
+Meelgrub	w2438	NO	NO	1.00
+<g/>
+.
+Karntner	w2440	NO	NO	1.00
+<g/>
+=
+Thor	w2442	NO	NO	1.00
+<g/>
+.
+Herr	w2444	NO	NO	1.00
+Graf	w2445	NO	NO	1.00
+Anton	w2446	NO	NO	1.00
+von	w2447	NO	NO	1.00
+Thurn	w2448	NO	NO	1.00
+<g/>
+/
+komt	w2450	NO	NO	1.00
+gestern	w2451	NO	NO	1.00
+Abend	w2452	NO	NO	1.00
+aus	w2453	NO	NO	1.00
+Rom	w2454	NO	NO	1.00
+<g/>
+/
+log	w2456	NO	NO	1.00
+<g/>
+.
+beym	w2458	NO	NO	1.00
+Herrn	w2459	NO	NO	1.00
+Grafen	w2460	NO	NO	1.00
+von	w2461	NO	NO	1.00
+Diet=richstein	w2462	NO	NO	1.00
+<g/>
+=
+<g/>
+.
+Herr	w2465	NO	NO	1.00
+Graf	w2466	NO	NO	1.00
+von	w2467	NO	NO	1.00
+Windischgräz	w2468	NO	NO	1.00
+<g/>
+/
+Reichs	w2470	NO	NO	1.00
+<g/>
+=
+Hof	w2472	NO	NO	1.00
+<g/>
+=
+Rahts	w2474	NO	NO	1.00
+<g/>
+=
+Präsident	w2476	NO	NO	1.00
+<g/>
+/
+komt	w2478	NO	NO	1.00
+vom	w2479	NO	NO	1.00
+Guht	w2480	NO	NO	1.00
+<g/>
+/
+log	w2482	NO	NO	1.00
+<g/>
+.
+in	w2484	NO	NO	1.00
+seinem	w2485	NO	NO	1.00
+Hauß	w2486	NO	NO	1.00
+<g/>
+.
+Herr	w2488	NO	NO	1.00
+Baron	w2489	NO	NO	1.00
+Plötner	w2490	NO	NO	1.00
+komt	w2491	NO	NO	1.00
+von	w2492	NO	NO	1.00
+Raab	w2493	NO	NO	1.00
+<g/>
+/
+log	w2495	NO	NO	1.00
+<g/>
+.
+im	w2497	NO	NO	1.00
+goldenen	w2498	NO	NO	1.00
+Greiffen	w2499	NO	NO	1.00
+<g/>
+.
+Principe	w2501	NO	NO	1.00
+von	w2502	NO	NO	1.00
+Villafranca	w2503	YES	NO	1.00
+<g/>
+,
+komt	w2505	NO	NO	1.00
+aus	w2506	NO	NO	1.00
+Si=cilien	w2507	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+log	w2510	NO	NO	1.00
+<g/>
+.
+in	w2512	NO	NO	1.00
+7	w2513	NO	NO	1.00
+<g/>
+.
+Säulen	w2515	NO	NO	1.00
+<g/>
+.
+</list>
+<head id="hl4">
+Den	w2517	NO	NO	1.00
+17	w2518	NO	NO	1.00
+<g/>
+.
+Dito	w2520	NO	NO	1.00
+<g/>
+.
+</head>
+<list id="list_32">
+Herr	w2522	NO	NO	1.00
+Urisari	w2523	YES	NO	1.00
+<g/>
+,
+Haubtmann	w2525	NO	NO	1.00
+vom	w2526	NO	NO	1.00
+Bonnevalli=schen	w2527	NO	NO	1.00
+<g/>
+=
+Regiment	w2529	NO	NO	1.00
+<g/>
+/
+komt	w2531	NO	NO	1.00
+von	w2532	NO	NO	1.00
+Brüssel	w2533	NO	NO	1.00
+<g/>
+/
+log	w2535	NO	NO	1.00
+<g/>
+.
+im	w2537	NO	NO	1.00
+Sonnauischen	w2538	NO	NO	1.00
+Hauß	w2539	NO	NO	1.00
+<g/>
+.
+</list>
+<head id="hl5">
+Den	w2541	NO	NO	1.00
+18	w2542	NO	NO	1.00
+<g/>
+.
+Dito	w2544	NO	NO	1.00
+<g/>
+.
+</head>
+<list id="list_34">
+Roten	w2546	NO	NO	1.00
+<g/>
+=
+Thurn	w2548	NO	NO	1.00
+<g/>
+.
+Fürst	w2550	NO	NO	1.00
+Anton	w2551	NO	NO	1.00
+von	w2552	NO	NO	1.00
+Liech=tenstein	w2553	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+Kaiserlicher	w2556	NO	NO	1.00
+Obrist	w2557	NO	NO	1.00
+<g/>
+=
+Hofmai=ster	w2559	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+komt	w2562	NO	NO	1.00
+von	w2563	NO	NO	1.00
+Feldspurg	w2564	NO	NO	1.00
+<g/>
+/
+log	w2566	NO	NO	1.00
+<g/>
+.
+in	w2568	NO	NO	1.00
+seinem	w2569	NO	NO	1.00
+Hauß	w2570	NO	NO	1.00
+<g/>
+.
+Herr	w2572	NO	NO	1.00
+Graf	w2573	NO	NO	1.00
+von	w2574	NO	NO	1.00
+Sinzendorf	w2575	NO	NO	1.00
+<g/>
+/
+Oe	w2577	NO	NO	1.00
+<g/>
+.
+Obrist	w2579	NO	NO	1.00
+<g/>
+=
+Hof	w2581	NO	NO	1.00
+<g/>
+=
+Canzler	w2583	NO	NO	1.00
+<g/>
+/
+komt	w2585	NO	NO	1.00
+von	w2586	NO	NO	1.00
+Sellowitz	w2587	NO	NO	1.00
+<g/>
+/
+log	w2589	NO	NO	1.00
+<g/>
+.
+im	w2591	NO	NO	1.00
+Teutschen	w2592	NO	NO	1.00
+Hauß	w2593	NO	NO	1.00
+<g/>
+.
+Herr	w2595	NO	NO	1.00
+Baron	w2596	NO	NO	1.00
+Acton	w2597	YES	NO	1.00
+<g/>
+,
+General	w2599	NO	NO	1.00
+<g/>
+=
+Wachtmai=ster	w2601	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+komt	w2604	NO	NO	1.00
+aus	w2605	NO	NO	1.00
+Hungarn	w2606	NO	NO	1.00
+<g/>
+/
+log	w2608	NO	NO	1.00
+<g/>
+.
+im	w2610	NO	NO	1.00
+Wilden	w2611	NO	NO	1.00
+Mann	w2612	NO	NO	1.00
+<g/>
+.
+</list>
+<head id="hl6">
+Lista	w2614	NO	NO	1.00
+deren	w2615	NO	NO	1.00
+Getauften	w2616	NO	NO	1.00
+<g/>
+/
+in	w2618	NO	NO	1.00
+<g/>
+=
+und	w2620	NO	NO	1.00
+vor	w2621	NO	NO	1.00
+der	w2622	NO	NO	1.00
+Stadt	w2623	NO	NO	1.00
+<g/>
+.
+</head>
+<head id="hl7">
+Den	w2625	NO	NO	1.00
+19	w2626	NO	NO	1.00
+<g/>
+.
+März	w2628	NO	NO	1.00
+<g/>
+/
+1721	w2630	NO	NO	1.00
+<g/>
+.
+</head>
+<list id="list_37">
+Dem	w2632	NO	NO	1.00
+Reichard	w2633	NO	NO	1.00
+Strumpf	w2634	NO	NO	1.00
+<g/>
+/
+Zingieser	w2636	NO	NO	1.00
+<g/>
+/
+und	w2638	NO	NO	1.00
+Maria	w2639	NO	NO	1.00
+Anna	w2640	NO	NO	1.00
+sein	w2641	NO	NO	1.00
+<g/>
+.
+Ehew	w2643	NO	NO	1.00
+<g/>
+.
+ihr	w2645	NO	NO	1.00
+T	w2646	NO	NO	1.00
+<g/>
+.
+Maria	w2648	NO	NO	1.00
+Elisabeth	w2649	NO	NO	1.00
+<g/>
+.
+Dem	w2651	NO	NO	1.00
+Dominicus	w2652	NO	NO	1.00
+Strasser	w2653	NO	NO	1.00
+<g/>
+/
+Schuster	w2655	NO	NO	1.00
+<g/>
+/
+und	w2657	NO	NO	1.00
+Ursula	w2658	NO	NO	1.00
+sein	w2659	NO	NO	1.00
+<g/>
+.
+Ehew	w2661	NO	NO	1.00
+ihr	w2662	NO	NO	1.00
+S	w2663	NO	NO	1.00
+<g/>
+.
+Leopold	w2665	NO	NO	1.00
+Joseph	w2666	NO	NO	1.00
+Mathias	w2667	NO	NO	1.00
+<g/>
+.
+</list>
+<head id="hl8">
+Den	w2669	NO	NO	1.00
+20	w2670	NO	NO	1.00
+<g/>
+.
+Dito	w2672	NO	NO	1.00
+<g/>
+.
+</head>
+<list id="list_39">
+Dem	w2674	NO	NO	1.00
+Herrn	w2675	NO	NO	1.00
+Simon	w2676	NO	NO	1.00
+Rauf	w2677	NO	NO	1.00
+<g/>
+/
+und	w2679	NO	NO	1.00
+Maria	w2680	NO	NO	1.00
+Anna	w2681	NO	NO	1.00
+sein	w2682	NO	NO	1.00
+<g/>
+.
+Ehefr	w2684	NO	NO	1.00
+<g/>
+.
+ihr	w2686	NO	NO	1.00
+S	w2687	NO	NO	1.00
+<g/>
+.
+Franz	w2689	NO	NO	1.00
+Joachim	w2690	NO	NO	1.00
+<g/>
+.
+Dem	w2692	NO	NO	1.00
+Hrn	w2693	NO	NO	1.00
+<g/>
+.
+Christian	w2695	NO	NO	1.00
+Pickard	w2696	NO	NO	1.00
+<g/>
+/
+Fändrich	w2698	NO	NO	1.00
+<g/>
+/
+und	w2700	NO	NO	1.00
+Anna	w2701	NO	NO	1.00
+Maria	w2702	NO	NO	1.00
+sein	w2703	NO	NO	1.00
+<g/>
+.
+Ehew	w2705	NO	NO	1.00
+<g/>
+.
+ihr	w2707	NO	NO	1.00
+T	w2708	NO	NO	1.00
+<g/>
+.
+Maria	w2710	NO	NO	1.00
+Josepha	w2711	NO	NO	1.00
+<g/>
+.
+Dem	w2713	NO	NO	1.00
+Stephan	w2714	NO	NO	1.00
+Nidericher	w2715	NO	NO	1.00
+<g/>
+/
+und	w2717	NO	NO	1.00
+Caecilia	w2718	NO	NO	1.00
+s	w2719	NO	NO	1.00
+<g/>
+.
+Ehew	w2721	NO	NO	1.00
+<g/>
+.
+ihr	w2723	NO	NO	1.00
+T	w2724	NO	NO	1.00
+<g/>
+.
+Maria	w2726	NO	NO	1.00
+Elisabeth	w2727	NO	NO	1.00
+Catharina	w2728	NO	NO	1.00
+<g/>
+.
+Dem	w2730	NO	NO	1.00
+Franz	w2731	NO	NO	1.00
+Carl	w2732	NO	NO	1.00
+Kastelli	w2733	NO	NO	1.00
+<g/>
+/
+und	w2735	NO	NO	1.00
+Johanna	w2736	NO	NO	1.00
+Theresia	w2737	NO	NO	1.00
+s	w2738	NO	NO	1.00
+<g/>
+.
+Ehew	w2740	NO	NO	1.00
+<g/>
+.
+ihr	w2742	NO	NO	1.00
+T	w2743	NO	NO	1.00
+<g/>
+.
+Elisab	w2745	NO	NO	1.00
+<g/>
+.
+Josepha	w2747	NO	NO	1.00
+<g/>
+.
+Dem	w2749	NO	NO	1.00
+Mathias	w2750	NO	NO	1.00
+Wöstel	w2751	NO	NO	1.00
+<g/>
+/
+Tafeldecker	w2753	NO	NO	1.00
+<g/>
+/
+und	w2755	NO	NO	1.00
+Maria	w2756	NO	NO	1.00
+Anna	w2757	NO	NO	1.00
+sein	w2758	NO	NO	1.00
+<g/>
+.
+Ehew	w2760	NO	NO	1.00
+<g/>
+.
+ihr	w2762	NO	NO	1.00
+T	w2763	NO	NO	1.00
+<g/>
+.
+Catha=rina	w2765	NO	NO	1.00
+<g/>
+=
+Anna	w2767	NO	NO	1.00
+<g/>
+.
+Dem	w2769	NO	NO	1.00
+Gottfried	w2770	NO	NO	1.00
+Agster	w2771	NO	NO	1.00
+<g/>
+/
+Garde	w2773	NO	NO	1.00
+<g/>
+=
+Soldat	w2775	NO	NO	1.00
+<g/>
+/
+und	w2777	NO	NO	1.00
+Catharina	w2778	NO	NO	1.00
+sein	w2779	NO	NO	1.00
+<g/>
+.
+Ehew	w2781	NO	NO	1.00
+<g/>
+.
+ihr	w2783	NO	NO	1.00
+S	w2784	NO	NO	1.00
+<g/>
+.
+Jo=seph	w2786	NO	NO	1.00
+<g/>
+=
+Johann	w2788	NO	NO	1.00
+<g/>
+.
+</list>
+<head id="hl9">
+Den	w2790	NO	NO	1.00
+21	w2791	NO	NO	1.00
+<g/>
+.
+Dito	w2793	NO	NO	1.00
+<g/>
+.
+</head>
+<list id="list_41">
+Dem	w2795	NO	NO	1.00
+Herrn	w2796	NO	NO	1.00
+Johann	w2797	NO	NO	1.00
+Michael	w2798	NO	NO	1.00
+Wolfgang	w2799	NO	NO	1.00
+Truckmüller	w2800	NO	NO	1.00
+<g/>
+,
+Kaiserl	w2802	NO	NO	1.00
+<g/>
+.
+Banco	w2804	NO	NO	1.00
+<g/>
+=
+Gesöll	w2806	NO	NO	1.00
+<g/>
+=
+Einnehmern	w2808	NO	NO	1.00
+<g/>
+/
+und	w2810	NO	NO	1.00
+Maria	w2811	NO	NO	1.00
+Elisabeth	w2812	NO	NO	1.00
+sein	w2813	NO	NO	1.00
+<g/>
+.
+Hausfr	w2815	NO	NO	1.00
+<g/>
+.
+ihr	w2817	NO	NO	1.00
+S	w2818	NO	NO	1.00
+<g/>
+.
+Joh	w2820	NO	NO	1.00
+Carl	w2821	NO	NO	1.00
+Anton	w2822	NO	NO	1.00
+Benedict	w2823	NO	NO	1.00
+<g/>
+.
+Dem	w2825	NO	NO	1.00
+Herrn	w2826	NO	NO	1.00
+Mathias	w2827	NO	NO	1.00
+Huber	w2828	NO	NO	1.00
+<g/>
+,
+Kaiserl	w2830	NO	NO	1.00
+<g/>
+.
+Rait	w2832	NO	NO	1.00
+<g/>
+=
+Officier	w2834	NO	NO	1.00
+<g/>
+/
+und	w2836	NO	NO	1.00
+Anna	w2837	NO	NO	1.00
+Maria	w2838	NO	NO	1.00
+sein	w2839	NO	NO	1.00
+<g/>
+.
+Ehefr	w2841	NO	NO	1.00
+<g/>
+.
+ihr	w2843	NO	NO	1.00
+T	w2844	NO	NO	1.00
+<g/>
+.
+Maria	w2846	NO	NO	1.00
+Josepha	w2847	NO	NO	1.00
+Christina	w2848	NO	NO	1.00
+<g/>
+.
+Dem	w2850	NO	NO	1.00
+Hrn	w2851	NO	NO	1.00
+<g/>
+.
+Franz	w2853	NO	NO	1.00
+Anton	w2854	NO	NO	1.00
+von	w2855	NO	NO	1.00
+Stasling=hauß	w2856	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+und	w2859	NO	NO	1.00
+Rosalia	w2860	NO	NO	1.00
+sein	w2861	NO	NO	1.00
+<g/>
+.
+Ehefr	w2863	NO	NO	1.00
+<g/>
+.
+ihr	w2865	NO	NO	1.00
+T	w2866	NO	NO	1.00
+<g/>
+.
+Maria	w2868	NO	NO	1.00
+Theresia	w2869	NO	NO	1.00
+Judith	w2870	NO	NO	1.00
+Helena	w2871	NO	NO	1.00
+<g/>
+.
+Dem	w2873	NO	NO	1.00
+Ferdinand	w2874	NO	NO	1.00
+Lang	w2875	NO	NO	1.00
+<g/>
+/
+und	w2877	NO	NO	1.00
+Barbara	w2878	NO	NO	1.00
+sein	w2879	NO	NO	1.00
+<g/>
+.
+Ehew	w2881	NO	NO	1.00
+<g/>
+.
+ihr	w2883	NO	NO	1.00
+T	w2884	NO	NO	1.00
+<g/>
+.
+Anna	w2886	NO	NO	1.00
+Rosalia	w2887	NO	NO	1.00
+<g/>
+.
+Dem	w2889	NO	NO	1.00
+Johann	w2890	NO	NO	1.00
+Christoph	w2891	NO	NO	1.00
+Bonzner	w2892	NO	NO	1.00
+<g/>
+/
+und	w2894	NO	NO	1.00
+Ma=ria	w2895	NO	NO	1.00
+<g/>
+=
+Catharina	w2897	NO	NO	1.00
+s	w2898	NO	NO	1.00
+<g/>
+.
+Ehefr	w2900	NO	NO	1.00
+<g/>
+.
+ihr	w2902	NO	NO	1.00
+S	w2903	NO	NO	1.00
+<g/>
+.
+Joachim	w2905	NO	NO	1.00
+Johann	w2906	NO	NO	1.00
+Jacob	w2907	NO	NO	1.00
+<g/>
+.
+</list>
+<list id="list_42">
+Dem	w2909	NO	NO	1.00
+Johann	w2910	NO	NO	1.00
+Krahammer	w2911	NO	NO	1.00
+<g/>
+/
+und	w2913	NO	NO	1.00
+Anna	w2914	NO	NO	1.00
+Maria	w2915	NO	NO	1.00
+sein	w2916	NO	NO	1.00
+<g/>
+.
+Ehew	w2918	NO	NO	1.00
+<g/>
+.
+ihr	w2920	NO	NO	1.00
+S	w2921	NO	NO	1.00
+<g/>
+.
+Johann	w2923	NO	NO	1.00
+Benedict	w2924	NO	NO	1.00
+<g/>
+.
+Dem	w2926	NO	NO	1.00
+Joseph	w2927	NO	NO	1.00
+Schneider	w2928	NO	NO	1.00
+<g/>
+/
+Bierabtrager	w2930	NO	NO	1.00
+<g/>
+/
+und	w2932	NO	NO	1.00
+Anna	w2933	NO	NO	1.00
+Maria	w2934	NO	NO	1.00
+sein	w2935	NO	NO	1.00
+<g/>
+.
+Ehew	w2937	NO	NO	1.00
+<g/>
+.
+ihr	w2939	NO	NO	1.00
+T	w2940	NO	NO	1.00
+<g/>
+.
+Anna	w2942	NO	NO	1.00
+Rosina	w2943	NO	NO	1.00
+<g/>
+.
+Dem	w2945	NO	NO	1.00
+Ferdinand	w2946	NO	NO	1.00
+Mann	w2947	NO	NO	1.00
+<g/>
+/
+Musicant	w2949	NO	NO	1.00
+<g/>
+/
+und	w2951	NO	NO	1.00
+Juliana	w2952	NO	NO	1.00
+s	w2953	NO	NO	1.00
+<g/>
+.
+Ehew	w2955	NO	NO	1.00
+<g/>
+.
+ihr	w2957	NO	NO	1.00
+T	w2958	NO	NO	1.00
+<g/>
+.
+Anna	w2960	NO	NO	1.00
+Catharina	w2961	NO	NO	1.00
+<g/>
+.
+Dem	w2963	NO	NO	1.00
+Johann	w2964	NO	NO	1.00
+Reß	w2965	NO	NO	1.00
+<g/>
+/
+abgedankten	w2967	NO	NO	1.00
+Solda=ten	w2968	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+und	w2971	NO	NO	1.00
+Sophia	w2972	NO	NO	1.00
+sein	w2973	NO	NO	1.00
+<g/>
+.
+Ehew	w2975	NO	NO	1.00
+<g/>
+.
+ihr	w2977	NO	NO	1.00
+T	w2978	NO	NO	1.00
+<g/>
+.
+Catharina	w2980	NO	NO	1.00
+Barbara	w2981	NO	NO	1.00
+<g/>
+.
+</list>
+<head id="hl10">
+Den	w2983	NO	NO	1.00
+22	w2984	NO	NO	1.00
+<g/>
+.
+Dito	w2986	NO	NO	1.00
+<g/>
+.
+</head>
+<list id="list_44">
+Dem	w2988	NO	NO	1.00
+Hrn	w2989	NO	NO	1.00
+<g/>
+.
+Wilibald	w2991	NO	NO	1.00
+Perl	w2992	NO	NO	1.00
+<g/>
+/
+und	w2994	NO	NO	1.00
+Rosalia	w2995	NO	NO	1.00
+sein	w2996	NO	NO	1.00
+<g/>
+.
+Ehew	w2998	NO	NO	1.00
+<g/>
+.
+ihr	w3000	NO	NO	1.00
+S	w3001	NO	NO	1.00
+<g/>
+.
+Joseph	w3003	NO	NO	1.00
+Franz	w3004	NO	NO	1.00
+<g/>
+.
+Dem	w3006	NO	NO	1.00
+Paul	w3007	NO	NO	1.00
+Ortner	w3008	NO	NO	1.00
+<g/>
+/
+und	w3010	NO	NO	1.00
+Catharina	w3011	NO	NO	1.00
+sein	w3012	NO	NO	1.00
+<g/>
+.
+Ehew	w3014	NO	NO	1.00
+<g/>
+.
+ihr	w3016	NO	NO	1.00
+S	w3017	NO	NO	1.00
+<g/>
+.
+Johann	w3019	NO	NO	1.00
+Georg	w3020	NO	NO	1.00
+Mathias	w3021	NO	NO	1.00
+<g/>
+.
+Dem	w3023	NO	NO	1.00
+Johann	w3024	NO	NO	1.00
+Georg	w3025	NO	NO	1.00
+Kelli	w3026	NO	NO	1.00
+<g/>
+/
+und	w3028	NO	NO	1.00
+Regina	w3029	NO	NO	1.00
+sein	w3030	NO	NO	1.00
+<g/>
+.
+Ehew	w3032	NO	NO	1.00
+<g/>
+.
+ihr	w3034	NO	NO	1.00
+S	w3035	NO	NO	1.00
+<g/>
+.
+Franz	w3037	NO	NO	1.00
+Georg	w3038	NO	NO	1.00
+<g/>
+.
+Dem	w3040	NO	NO	1.00
+Georg	w3041	NO	NO	1.00
+Krabich	w3042	NO	NO	1.00
+<g/>
+/
+Schnürmacher	w3044	NO	NO	1.00
+<g/>
+/
+und	w3046	NO	NO	1.00
+Barbara	w3047	NO	NO	1.00
+sein	w3048	NO	NO	1.00
+<g/>
+.
+Ehew	w3050	NO	NO	1.00
+<g/>
+.
+ihr	w3052	NO	NO	1.00
+S	w3053	NO	NO	1.00
+<g/>
+.
+Franz	w3055	NO	NO	1.00
+<g/>
+.
+Dem	w3057	NO	NO	1.00
+Andre	w3058	NO	NO	1.00
+Grabler	w3059	NO	NO	1.00
+<g/>
+/
+Zimmerman	w3061	NO	NO	1.00
+und	w3062	NO	NO	1.00
+Theresia	w3063	NO	NO	1.00
+s	w3064	NO	NO	1.00
+<g/>
+.
+Ehew	w3066	NO	NO	1.00
+<g/>
+.
+ihr	w3068	NO	NO	1.00
+S	w3069	NO	NO	1.00
+<g/>
+.
+Clement	w3071	NO	NO	1.00
+Georg	w3072	NO	NO	1.00
+<g/>
+.
+</list>
+<head id="hl11">
+Den	w3074	NO	NO	1.00
+23	w3075	NO	NO	1.00
+<g/>
+.
+Dito	w3077	NO	NO	1.00
+<g/>
+.
+</head>
+<list id="list_46">
+Dem	w3079	NO	NO	1.00
+Johann	w3080	NO	NO	1.00
+Georg	w3081	NO	NO	1.00
+Schlachthammer	w3082	NO	NO	1.00
+<g/>
+/
+und	w3084	NO	NO	1.00
+Margareth	w3085	NO	NO	1.00
+sein	w3086	NO	NO	1.00
+<g/>
+.
+Ehew	w3088	NO	NO	1.00
+<g/>
+.
+ihr	w3090	NO	NO	1.00
+S	w3091	NO	NO	1.00
+<g/>
+.
+To=bias	w3093	NO	NO	1.00
+<g/>
+=
+Ferdinand	w3095	NO	NO	1.00
+<g/>
+.
+Dem	w3097	NO	NO	1.00
+Mathias	w3098	NO	NO	1.00
+Knitl	w3099	NO	NO	1.00
+<g/>
+/
+und	w3101	NO	NO	1.00
+Catharina	w3102	NO	NO	1.00
+sein	w3103	NO	NO	1.00
+<g/>
+.
+Ehew	w3105	NO	NO	1.00
+<g/>
+.
+ihr	w3107	NO	NO	1.00
+T	w3108	NO	NO	1.00
+<g/>
+.
+Anna	w3110	NO	NO	1.00
+Eleonora	w3111	NO	NO	1.00
+<g/>
+.
+Dem	w3113	NO	NO	1.00
+Hrn	w3114	NO	NO	1.00
+<g/>
+.
+Johann	w3116	NO	NO	1.00
+Adam	w3117	NO	NO	1.00
+Wenger	w3118	NO	NO	1.00
+<g/>
+/
+Orga=nist	w3120	NO	NO	1.00
+<g/>
+=
+bey	w3122	NO	NO	1.00
+St	w3123	NO	NO	1.00
+<g/>
+.
+Michael	w3125	NO	NO	1.00
+<g/>
+/
+und	w3127	NO	NO	1.00
+Catharina	w3128	NO	NO	1.00
+sein	w3129	NO	NO	1.00
+<g/>
+.
+Ehefr	w3131	NO	NO	1.00
+<g/>
+.
+ihr	w3133	NO	NO	1.00
+T	w3134	NO	NO	1.00
+<g/>
+.
+Catharina	w3136	NO	NO	1.00
+Leopoldina	w3137	NO	NO	1.00
+<g/>
+.
+Dem	w3139	NO	NO	1.00
+Caspar	w3140	NO	NO	1.00
+Anton	w3141	NO	NO	1.00
+Krug	w3142	NO	NO	1.00
+<g/>
+/
+Lederzurichter	w3144	NO	NO	1.00
+<g/>
+/
+und	w3146	NO	NO	1.00
+Maria	w3147	NO	NO	1.00
+Elisabeth	w3148	NO	NO	1.00
+sein	w3149	NO	NO	1.00
+<g/>
+.
+Ehew	w3151	NO	NO	1.00
+<g/>
+.
+ihr	w3153	NO	NO	1.00
+T	w3154	NO	NO	1.00
+<g/>
+.
+Maria	w3156	NO	NO	1.00
+Theresia	w3157	NO	NO	1.00
+Dem	w3158	NO	NO	1.00
+Lorenz	w3159	NO	NO	1.00
+Strasmayer	w3160	NO	NO	1.00
+<g/>
+/
+Schifknecht	w3162	NO	NO	1.00
+<g/>
+/
+und	w3164	NO	NO	1.00
+Johanna	w3165	NO	NO	1.00
+sein	w3166	NO	NO	1.00
+<g/>
+.
+Ehew	w3168	NO	NO	1.00
+<g/>
+.
+ihr	w3170	NO	NO	1.00
+S	w3171	NO	NO	1.00
+<g/>
+.
+Jo=hann	w3173	NO	NO	1.00
+<g/>
+=
+Georg	w3175	NO	NO	1.00
+Bernhard	w3176	NO	NO	1.00
+<g/>
+.
+Dem	w3178	NO	NO	1.00
+Andre	w3179	NO	NO	1.00
+Kramer	w3180	NO	NO	1.00
+<g/>
+/
+Kutscher	w3182	NO	NO	1.00
+<g/>
+/
+und	w3184	NO	NO	1.00
+Eva	w3185	NO	NO	1.00
+sein	w3186	NO	NO	1.00
+<g/>
+.
+Ehew	w3188	NO	NO	1.00
+<g/>
+.
+ihr	w3190	NO	NO	1.00
+T	w3191	NO	NO	1.00
+<g/>
+.
+Anna	w3193	NO	NO	1.00
+Christina	w3194	NO	NO	1.00
+<g/>
+.
+</list>
+<head id="hl12">
+Lista	w3196	NO	NO	1.00
+deren	w3197	NO	NO	1.00
+Verstorbenen	w3198	NO	NO	1.00
+<g/>
+/
+in	w3200	NO	NO	1.00
+<g/>
+=
+und	w3202	NO	NO	1.00
+vor	w3203	NO	NO	1.00
+der	w3204	NO	NO	1.00
+Stadt	w3205	NO	NO	1.00
+<g/>
+.
+</head>
+<head id="hl13">
+Den	w3207	NO	NO	1.00
+16	w3208	NO	NO	1.00
+<g/>
+.
+April	w3210	NO	NO	1.00
+<g/>
+/
+1721	w3212	NO	NO	1.00
+<g/>
+.
+starb	w3214	NO	NO	1.00
+</head>
+<head id="hl14">
+In	w3215	NO	NO	1.00
+der	w3216	NO	NO	1.00
+Stadt	w3217	NO	NO	1.00
+<g/>
+.
+</head>
+<list id="list_50">
+Der	w3219	NO	NO	1.00
+Titl	w3220	NO	NO	1.00
+<g/>
+.
+Frau	w3222	NO	NO	1.00
+Maria	w3223	NO	NO	1.00
+Antonia	w3224	NO	NO	1.00
+<g/>
+/
+Verwittib=ten	w3226	NO	NO	1.00
+<g/>
+=
+Gräfin	w3228	NO	NO	1.00
+Palfi	w3229	NO	NO	1.00
+von	w3230	NO	NO	1.00
+Erdöd	w3231	NO	NO	1.00
+<g/>
+/
+gebohrnen	w3233	NO	NO	1.00
+</list>
+<list id="list_51">
+Gräfin	w3234	NO	NO	1.00
+Souches	w3235	NO	NO	1.00
+<g/>
+/
+ꝛc	w3237	NO	NO	1.00
+<g/>
+.
+ihr	w3239	NO	NO	1.00
+Frl	w3240	NO	NO	1.00
+<g/>
+.
+T	w3242	NO	NO	1.00
+<g/>
+.
+Maria	w3244	NO	NO	1.00
+Josepha	w3245	NO	NO	1.00
+<g/>
+/
+alt	w3247	NO	NO	1.00
+9	w3248	NO	NO	1.00
+<g/>
+.
+Jahr	w3250	NO	NO	1.00
+<g/>
+.
+Dem	w3252	NO	NO	1.00
+Johann	w3253	NO	NO	1.00
+Berger	w3254	NO	NO	1.00
+<g/>
+/
+Zimmergesell	w3256	NO	NO	1.00
+<g/>
+/
+beyn	w3258	NO	NO	1.00
+3	w3259	NO	NO	1.00
+<g/>
+.
+weisen	w3261	NO	NO	1.00
+Lilien	w3262	NO	NO	1.00
+<g/>
+/
+am	w3264	NO	NO	1.00
+alten	w3265	NO	NO	1.00
+Kienmarkt	w3266	NO	NO	1.00
+<g/>
+/
+sein	w3268	NO	NO	1.00
+W	w3269	NO	NO	1.00
+<g/>
+.
+Christina	w3271	NO	NO	1.00
+<g/>
+/
+alt	w3273	NO	NO	1.00
+63	w3274	NO	NO	1.00
+<g/>
+.
+Jahr	w3276	NO	NO	1.00
+<g/>
+.
+</list>
+<list id="list_52">
+Adam	w3278	NO	NO	1.00
+gewester	w3279	NO	NO	1.00
+Reutknecht	w3280	NO	NO	1.00
+<g/>
+/
+in	w3282	NO	NO	1.00
+Beschau	w3283	NO	NO	1.00
+<g/>
+=
+Hauß	w3285	NO	NO	1.00
+<g/>
+/
+alt	w3287	NO	NO	1.00
+30	w3288	NO	NO	1.00
+<g/>
+.
+Jahr	w3290	NO	NO	1.00
+<g/>
+.
+</list>
+<head id="hl15">
+Vor	w3292	NO	NO	1.00
+der	w3293	NO	NO	1.00
+Stadt	w3294	NO	NO	1.00
+<g/>
+.
+</head>
+<list id="list_54">
+Frau	w3296	NO	NO	1.00
+Anna	w3297	NO	NO	1.00
+Maria	w3298	NO	NO	1.00
+Michlin	w3299	NO	NO	1.00
+<g/>
+/
+Wittib	w3301	NO	NO	1.00
+<g/>
+/
+in	w3303	NO	NO	1.00
+der	w3304	NO	NO	1.00
+Roßau	w3305	NO	NO	1.00
+<g/>
+/
+alt	w3307	NO	NO	1.00
+63	w3308	NO	NO	1.00
+<g/>
+.
+Jahr	w3310	NO	NO	1.00
+<g/>
+.
+Johann	w3312	NO	NO	1.00
+Georg	w3313	NO	NO	1.00
+Schaller	w3314	NO	NO	1.00
+<g/>
+/
+Burger	w3316	NO	NO	1.00
+und	w3317	NO	NO	1.00
+Ge=main	w3318	NO	NO	1.00
+<g/>
+=
+<g/>
+=
+Richter	w3321	NO	NO	1.00
+<g/>
+/
+in	w3323	NO	NO	1.00
+der	w3324	NO	NO	1.00
+Josephstadt	w3325	NO	NO	1.00
+<g/>
+/
+alt	w3327	NO	NO	1.00
+66	w3328	NO	NO	1.00
+<g/>
+.
+Jahr	w3330	NO	NO	1.00
+<g/>
+.
+Der	w3332	NO	NO	1.00
+Eva	w3333	NO	NO	1.00
+Schwingerin	w3334	NO	NO	1.00
+<g/>
+/
+Wittib	w3336	NO	NO	1.00
+<g/>
+/
+auf	w3338	NO	NO	1.00
+der	w3339	NO	NO	1.00
+Wieden	w3340	NO	NO	1.00
+<g/>
+/
+ihr	w3342	NO	NO	1.00
+K	w3343	NO	NO	1.00
+<g/>
+.
+Rosina	w3345	NO	NO	1.00
+<g/>
+/
+alt	w3347	NO	NO	1.00
+8	w3348	NO	NO	1.00
+<g/>
+.
+Jahr	w3350	NO	NO	1.00
+<g/>
+.
+Anton	w3352	NO	NO	1.00
+Wolf	w3353	NO	NO	1.00
+Schuster	w3354	NO	NO	1.00
+<g/>
+/
+auserm	w3356	NO	NO	1.00
+Klagbaum	w3357	NO	NO	1.00
+<g/>
+/
+alt	w3359	NO	NO	1.00
+35	w3360	NO	NO	1.00
+<g/>
+.
+Jahr	w3362	NO	NO	1.00
+<g/>
+.
+Georg	w3364	NO	NO	1.00
+Rumpler	w3365	NO	NO	1.00
+<g/>
+/
+Garde	w3367	NO	NO	1.00
+<g/>
+=
+Corporal	w3369	NO	NO	1.00
+<g/>
+/
+beym	w3371	NO	NO	1.00
+Lerchenfelder	w3372	NO	NO	1.00
+Linien	w3373	NO	NO	1.00
+<g/>
+=
+Thor	w3375	NO	NO	1.00
+alt	w3376	NO	NO	1.00
+79	w3377	NO	NO	1.00
+<g/>
+.
+Jahr	w3379	NO	NO	1.00
+<g/>
+.
+Joseph	w3381	NO	NO	1.00
+Daller	w3382	NO	NO	1.00
+<g/>
+/
+Schuster	w3384	NO	NO	1.00
+<g/>
+/
+am	w3386	NO	NO	1.00
+Neubau	w3387	NO	NO	1.00
+<g/>
+/
+alt	w3389	NO	NO	1.00
+41	w3390	NO	NO	1.00
+<g/>
+.
+Jahr	w3392	NO	NO	1.00
+<g/>
+.
+Urban	w3394	NO	NO	1.00
+Neylinger	w3395	NO	NO	1.00
+<g/>
+/
+Zimmergesell	w3397	NO	NO	1.00
+<g/>
+/
+in	w3399	NO	NO	1.00
+der	w3400	NO	NO	1.00
+Leopoldstadt	w3401	NO	NO	1.00
+<g/>
+/
+alt	w3403	NO	NO	1.00
+45	w3404	NO	NO	1.00
+<g/>
+.
+Jahr	w3406	NO	NO	1.00
+<g/>
+.
+N	w3408	NO	NO	1.00
+<g/>
+.
+N	w3410	NO	NO	1.00
+<g/>
+.
+unbekannter	w3412	NO	NO	1.00
+Jäger	w3413	NO	NO	1.00
+<g/>
+/
+vorm	w3415	NO	NO	1.00
+Schanzel	w3416	NO	NO	1.00
+<g/>
+/
+alt	w3418	NO	NO	1.00
+bey	w3419	NO	NO	1.00
+60	w3420	NO	NO	1.00
+<g/>
+.
+Jahr	w3422	NO	NO	1.00
+<g/>
+.
+Michael	w3424	NO	NO	1.00
+Mild	w3425	NO	NO	1.00
+<g/>
+/
+Kutscher	w3427	NO	NO	1.00
+<g/>
+/
+in	w3429	NO	NO	1.00
+der	w3430	NO	NO	1.00
+Kotgaß	w3431	NO	NO	1.00
+<g/>
+/
+alt	w3433	NO	NO	1.00
+43	w3434	NO	NO	1.00
+<g/>
+.
+Jahr	w3436	NO	NO	1.00
+<g/>
+.
+Catharina	w3438	NO	NO	1.00
+Rotbeckin	w3439	NO	NO	1.00
+<g/>
+/
+Wittib	w3441	NO	NO	1.00
+im	w3442	NO	NO	1.00
+Lerchen=feld	w3443	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+alt	w3446	NO	NO	1.00
+30	w3447	NO	NO	1.00
+<g/>
+.
+Jahr	w3449	NO	NO	1.00
+<g/>
+.
+Anna	w3451	NO	NO	1.00
+Kraglin	w3452	NO	NO	1.00
+<g/>
+/
+ausserm	w3454	NO	NO	1.00
+Neubau	w3455	NO	NO	1.00
+<g/>
+/
+alt	w3457	NO	NO	1.00
+57	w3458	NO	NO	1.00
+<g/>
+.
+J	w3460	NO	NO	1.00
+<g/>
+.
+Ursula	w3462	NO	NO	1.00
+Wagnerin	w3463	NO	NO	1.00
+<g/>
+/
+alt	w3465	NO	NO	1.00
+30	w3466	NO	NO	1.00
+<g/>
+.
+J	w3468	NO	NO	1.00
+<g/>
+.
+Helena	w3470	NO	NO	1.00
+Pfluckin	w3471	NO	NO	1.00
+<g/>
+/
+alt	w3473	NO	NO	1.00
+31	w3474	NO	NO	1.00
+<g/>
+.
+J	w3476	NO	NO	1.00
+<g/>
+.
+Maria	w3478	NO	NO	1.00
+Mosgaz=kin	w3479	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+alt	w3482	NO	NO	1.00
+24	w3483	NO	NO	1.00
+<g/>
+.
+J	w3485	NO	NO	1.00
+<g/>
+.
+und	w3487	NO	NO	1.00
+Maria	w3488	NO	NO	1.00
+Hupeyrin	w3489	NO	NO	1.00
+<g/>
+/
+alt	w3491	NO	NO	1.00
+79	w3492	NO	NO	1.00
+<g/>
+.
+Jahr	w3494	NO	NO	1.00
+<g/>
+/
+im	w3496	NO	NO	1.00
+Kranken	w3497	NO	NO	1.00
+<g/>
+=
+Hauß	w3499	NO	NO	1.00
+<g/>
+.
+</list>
+<head id="hl16">
+Den	w3501	NO	NO	1.00
+17	w3502	NO	NO	1.00
+<g/>
+.
+Dito	w3504	NO	NO	1.00
+<g/>
+/
+in	w3506	NO	NO	1.00
+der	w3507	NO	NO	1.00
+Stadt	w3508	NO	NO	1.00
+<g/>
+.
+</head>
+<list id="list_56">
+A	w3510	YES	NO	1.00
+<g/>
+.
+R	w3512	YES	NO	1.00
+<g/>
+.
+D	w3514	YES	NO	1.00
+<g/>
+.
+Franz	w3516	NO	NO	1.00
+Carl	w3517	NO	NO	1.00
+Klug	w3518	NO	NO	1.00
+von	w3519	NO	NO	1.00
+Grienberg	w3520	NO	NO	1.00
+<g/>
+/
+weltlicher	w3522	NO	NO	1.00
+Priester	w3523	NO	NO	1.00
+<g/>
+/
+bey	w3525	NO	NO	1.00
+der	w3526	NO	NO	1.00
+schönen	w3527	NO	NO	1.00
+La=tern	w3528	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+beym	w3531	NO	NO	1.00
+Heil	w3532	NO	NO	1.00
+<g/>
+.
+Creutzer	w3534	NO	NO	1.00
+<g/>
+=
+hof	w3536	NO	NO	1.00
+alt	w3537	NO	NO	1.00
+68	w3538	NO	NO	1.00
+<g/>
+.
+J	w3540	NO	NO	1.00
+<g/>
+.
+Titl	w3542	NO	NO	1.00
+<g/>
+.
+Frau	w3544	NO	NO	1.00
+Anna	w3545	NO	NO	1.00
+Elisabeth	w3546	NO	NO	1.00
+von	w3547	NO	NO	1.00
+Mayditsch	w3548	NO	NO	1.00
+<g/>
+/
+Wittib	w3550	NO	NO	1.00
+<g/>
+/
+in	w3552	NO	NO	1.00
+ihrem	w3553	NO	NO	1.00
+Hauß	w3554	NO	NO	1.00
+<g/>
+/
+in	w3556	NO	NO	1.00
+der	w3557	NO	NO	1.00
+Wilplin=gerstraß	w3558	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+alt	w3561	NO	NO	1.00
+59	w3562	NO	NO	1.00
+<g/>
+.
+Jahr	w3564	NO	NO	1.00
+<g/>
+.
+Augustin	w3566	NO	NO	1.00
+Karnegge	w3567	NO	NO	1.00
+<g/>
+/
+Schuster	w3569	NO	NO	1.00
+<g/>
+/
+im	w3571	NO	NO	1.00
+Mar=tinischen	w3572	NO	NO	1.00
+<g/>
+=
+Hauß	w3574	NO	NO	1.00
+<g/>
+/
+in	w3576	NO	NO	1.00
+der	w3577	NO	NO	1.00
+Wallerstraß	w3578	NO	NO	1.00
+<g/>
+/
+alt	w3580	NO	NO	1.00
+58	w3581	NO	NO	1.00
+<g/>
+.
+Jahr	w3583	NO	NO	1.00
+<g/>
+.
+</list>
+<head id="hl17">
+Vor	w3585	NO	NO	1.00
+der	w3586	NO	NO	1.00
+Stadt	w3587	NO	NO	1.00
+<g/>
+.
+</head>
+<list id="list_58">
+Dem	w3589	NO	NO	1.00
+Johann	w3590	NO	NO	1.00
+Werner	w3591	NO	NO	1.00
+<g/>
+/
+Goldarbeiter	w3593	NO	NO	1.00
+<g/>
+/
+bey	w3595	NO	NO	1.00
+Maria	w3596	NO	NO	1.00
+<g/>
+=
+Hülf	w3598	NO	NO	1.00
+sein	w3599	NO	NO	1.00
+Ehew	w3600	NO	NO	1.00
+<g/>
+.
+Anna	w3602	NO	NO	1.00
+<g/>
+/
+alt	w3604	NO	NO	1.00
+28	w3605	NO	NO	1.00
+<g/>
+.
+J	w3607	NO	NO	1.00
+<g/>
+.
+Johann	w3609	NO	NO	1.00
+Michael	w3610	NO	NO	1.00
+Fischer	w3611	NO	NO	1.00
+<g/>
+/
+Schneider	w3613	NO	NO	1.00
+<g/>
+/
+in	w3615	NO	NO	1.00
+der	w3616	NO	NO	1.00
+Leopoldstadt	w3617	NO	NO	1.00
+<g/>
+/
+alt	w3619	NO	NO	1.00
+39	w3620	NO	NO	1.00
+<g/>
+.
+Jahr	w3622	NO	NO	1.00
+<g/>
+.
+Dem	w3624	NO	NO	1.00
+Franz	w3625	NO	NO	1.00
+Hiniz	w3626	NO	NO	1.00
+<g/>
+/
+Goldschmid	w3628	NO	NO	1.00
+<g/>
+/
+am	w3630	NO	NO	1.00
+Neu=stift	w3631	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+sein	w3634	NO	NO	1.00
+K	w3635	NO	NO	1.00
+<g/>
+.
+Johann	w3637	NO	NO	1.00
+<g/>
+/
+alt	w3639	NO	NO	1.00
+8	w3640	NO	NO	1.00
+<g/>
+.
+Jahr	w3642	NO	NO	1.00
+<g/>
+.
+Dem	w3644	NO	NO	1.00
+Franz	w3645	NO	NO	1.00
+Celesdin	w3646	NO	NO	1.00
+<g/>
+/
+Peruckenmacher	w3648	NO	NO	1.00
+<g/>
+/
+bey	w3650	NO	NO	1.00
+Maria	w3651	NO	NO	1.00
+<g/>
+=
+Hülf	w3653	NO	NO	1.00
+<g/>
+/
+s	w3655	NO	NO	1.00
+<g/>
+.
+K	w3657	NO	NO	1.00
+<g/>
+.
+Anna	w3659	NO	NO	1.00
+<g/>
+/
+alt	w3661	NO	NO	1.00
+7	w3662	NO	NO	1.00
+<g/>
+.
+V	w3664	NO	NO	1.00
+<g/>
+.
+J	w3666	NO	NO	1.00
+<g/>
+.
+</list>
+<list id="list_59">
+Ursula	w3668	NO	NO	1.00
+Jamhauserin	w3669	NO	NO	1.00
+<g/>
+/
+alt	w3671	NO	NO	1.00
+70	w3672	NO	NO	1.00
+<g/>
+.
+Jahr	w3674	NO	NO	1.00
+<g/>
+/
+Regina	w3676	NO	NO	1.00
+Rosengärberin	w3677	NO	NO	1.00
+<g/>
+/
+alt	w3679	NO	NO	1.00
+85	w3680	NO	NO	1.00
+<g/>
+.
+Jahr	w3682	NO	NO	1.00
+<g/>
+/
+Elisabeth	w3684	NO	NO	1.00
+Schneterin	w3685	NO	NO	1.00
+<g/>
+/
+alt	w3687	NO	NO	1.00
+80	w3688	NO	NO	1.00
+<g/>
+.
+Jahr	w3690	NO	NO	1.00
+<g/>
+/
+und	w3692	NO	NO	1.00
+Ger	w3693	NO	NO	1.00
+traud	w3694	NO	NO	1.00
+Bollowartin	w3695	NO	NO	1.00
+<g/>
+/
+alt	w3697	NO	NO	1.00
+78	w3698	NO	NO	1.00
+<g/>
+.
+Jahr	w3700	NO	NO	1.00
+<g/>
+/
+im	w3702	NO	NO	1.00
+Armen	w3703	NO	NO	1.00
+<g/>
+=
+Hauß	w3705	NO	NO	1.00
+<g/>
+.
+Johann	w3707	NO	NO	1.00
+Schmid	w3708	NO	NO	1.00
+<g/>
+/
+alt	w3710	NO	NO	1.00
+33	w3711	NO	NO	1.00
+<g/>
+.
+Jahr	w3713	NO	NO	1.00
+<g/>
+/
+Joseph	w3715	NO	NO	1.00
+Borman	w3716	NO	NO	1.00
+<g/>
+/
+alt	w3718	NO	NO	1.00
+27	w3719	NO	NO	1.00
+<g/>
+.
+Jahr	w3721	NO	NO	1.00
+<g/>
+/
+Anna	w3723	NO	NO	1.00
+Stibin	w3724	NO	NO	1.00
+<g/>
+/
+alt	w3726	NO	NO	1.00
+58	w3727	NO	NO	1.00
+<g/>
+.
+Jahr	w3729	NO	NO	1.00
+<g/>
+/
+und	w3731	NO	NO	1.00
+Elisabeth	w3732	NO	NO	1.00
+Hauserin	w3733	NO	NO	1.00
+alt	w3734	NO	NO	1.00
+45	w3735	NO	NO	1.00
+<g/>
+.
+Jahr	w3737	NO	NO	1.00
+<g/>
+/
+im	w3739	NO	NO	1.00
+Kranken	w3740	NO	NO	1.00
+<g/>
+=
+Hauß	w3742	NO	NO	1.00
+<g/>
+.
+</list>
+<head id="hl18">
+Den	w3744	NO	NO	1.00
+18	w3745	NO	NO	1.00
+<g/>
+.
+Dito	w3747	NO	NO	1.00
+<g/>
+/
+in	w3749	NO	NO	1.00
+der	w3750	NO	NO	1.00
+Stadt	w3751	NO	NO	1.00
+<g/>
+.
+</head>
+<list id="list_61">
+A	w3753	YES	NO	1.00
+<g/>
+.
+R	w3755	YES	NO	1.00
+<g/>
+.
+P	w3757	YES	NO	1.00
+<g/>
+.
+Reymund	w3759	NO	NO	1.00
+Angerer	w3760	NO	NO	1.00
+<g/>
+/
+Ord	w3762	YES	NO	1.00
+<g/>
+.
+S	w3764	YES	NO	1.00
+<g/>
+.
+Domi-nici	w3766	YES	NO	1.00
+<g/>
+-
+<g/>
+,
+im	w3769	NO	NO	1.00
+Prediger	w3770	NO	NO	1.00
+<g/>
+=
+Closter	w3772	NO	NO	1.00
+<g/>
+/
+alt	w3774	NO	NO	1.00
+63	w3775	NO	NO	1.00
+<g/>
+.
+Jahr	w3777	NO	NO	1.00
+<g/>
+.
+Herr	w3779	NO	NO	1.00
+Peter	w3780	NO	NO	1.00
+Ernst	w3781	NO	NO	1.00
+Adam	w3782	NO	NO	1.00
+<g/>
+/
+Hauß	w3784	NO	NO	1.00
+<g/>
+=
+Verwal=ter	w3786	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+im	w3789	NO	NO	1.00
+Fürst	w3790	NO	NO	1.00
+<g/>
+=
+Schwarzenbergischen	w3792	NO	NO	1.00
+Hauß	w3793	NO	NO	1.00
+<g/>
+/
+am	w3795	NO	NO	1.00
+neuen	w3796	NO	NO	1.00
+Markt	w3797	NO	NO	1.00
+<g/>
+/
+alt	w3799	NO	NO	1.00
+76	w3800	NO	NO	1.00
+<g/>
+.
+Jahr	w3802	NO	NO	1.00
+<g/>
+.
+Gabriel	w3804	NO	NO	1.00
+Hein	w3805	NO	NO	1.00
+<g/>
+/
+Riemergesell	w3807	NO	NO	1.00
+<g/>
+/
+im	w3809	NO	NO	1.00
+Riemeri=schen	w3810	NO	NO	1.00
+<g/>
+=
+Hauß	w3812	NO	NO	1.00
+<g/>
+/
+in	w3814	NO	NO	1.00
+der	w3815	NO	NO	1.00
+Klugerstraß	w3816	NO	NO	1.00
+<g/>
+/
+alt	w3818	NO	NO	1.00
+40	w3819	NO	NO	1.00
+<g/>
+.
+J	w3821	NO	NO	1.00
+<g/>
+.
+Blasy	w3823	NO	NO	1.00
+Strareiter	w3824	NO	NO	1.00
+<g/>
+/
+Tagwerker	w3826	NO	NO	1.00
+<g/>
+/
+im	w3828	NO	NO	1.00
+Doct	w3829	YES	NO	1.00
+<g/>
+.
+Lazenhof	w3831	NO	NO	1.00
+<g/>
+/
+alt	w3833	NO	NO	1.00
+40	w3834	NO	NO	1.00
+<g/>
+.
+Jahr	w3836	NO	NO	1.00
+<g/>
+.
+Agnes	w3838	NO	NO	1.00
+Authoferin	w3839	NO	NO	1.00
+<g/>
+/
+alt	w3841	NO	NO	1.00
+88	w3842	NO	NO	1.00
+<g/>
+.
+J	w3844	NO	NO	1.00
+<g/>
+.
+und	w3846	NO	NO	1.00
+Catha=rina	w3847	NO	NO	1.00
+<g/>
+=
+Kemeterin	w3849	NO	NO	1.00
+<g/>
+/
+alt	w3851	NO	NO	1.00
+77	w3852	NO	NO	1.00
+<g/>
+.
+Jahr	w3854	NO	NO	1.00
+<g/>
+/
+im	w3856	NO	NO	1.00
+Bur=ger	w3857	NO	NO	1.00
+<g/>
+=
+<g/>
+=
+Spittal	w3860	NO	NO	1.00
+</list>
+<head id="hl19">
+Vor	w3861	NO	NO	1.00
+der	w3862	NO	NO	1.00
+Stadt	w3863	NO	NO	1.00
+<g/>
+.
+</head>
+<list id="list_63">
+Dominicus	w3865	NO	NO	1.00
+Engel	w3866	NO	NO	1.00
+<g/>
+/
+Feld	w3868	NO	NO	1.00
+<g/>
+=
+Trompeter	w3870	NO	NO	1.00
+<g/>
+/
+zu	w3872	NO	NO	1.00
+Matzelstorf	w3873	NO	NO	1.00
+<g/>
+/
+alt	w3875	NO	NO	1.00
+24	w3876	NO	NO	1.00
+<g/>
+.
+Jahr	w3878	NO	NO	1.00
+<g/>
+.
+Andre	w3880	NO	NO	1.00
+Herman	w3881	NO	NO	1.00
+<g/>
+/
+Zuckerbacker	w3883	NO	NO	1.00
+<g/>
+/
+bey	w3885	NO	NO	1.00
+St	w3886	NO	NO	1.00
+<g/>
+.
+Ulrich	w3888	NO	NO	1.00
+<g/>
+/
+alt	w3890	NO	NO	1.00
+87	w3891	NO	NO	1.00
+<g/>
+.
+Jahr	w3893	NO	NO	1.00
+<g/>
+.
+Der	w3895	NO	NO	1.00
+Anna	w3896	NO	NO	1.00
+Kugelmannin	w3897	NO	NO	1.00
+<g/>
+/
+Wittib	w3899	NO	NO	1.00
+<g/>
+/
+zu	w3901	NO	NO	1.00
+Erd=berg	w3902	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+ihr	w3905	NO	NO	1.00
+K	w3906	NO	NO	1.00
+<g/>
+.
+Michael	w3908	NO	NO	1.00
+<g/>
+/
+alt	w3910	NO	NO	1.00
+3	w3911	NO	NO	1.00
+<g/>
+.
+Jahr	w3913	NO	NO	1.00
+<g/>
+.
+Maria	w3915	NO	NO	1.00
+Birnbacherin	w3916	NO	NO	1.00
+<g/>
+/
+Wittib	w3918	NO	NO	1.00
+<g/>
+/
+im	w3920	NO	NO	1.00
+Liech=tenthal	w3921	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+alt	w3924	NO	NO	1.00
+53	w3925	NO	NO	1.00
+<g/>
+.
+Jahr	w3927	NO	NO	1.00
+<g/>
+.
+Der	w3929	NO	NO	1.00
+Maria	w3930	NO	NO	1.00
+Ecklin	w3931	NO	NO	1.00
+<g/>
+/
+Wittib	w3933	NO	NO	1.00
+<g/>
+/
+untern	w3935	NO	NO	1.00
+Fel=bern	w3936	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+ihr	w3939	NO	NO	1.00
+K	w3940	NO	NO	1.00
+<g/>
+.
+Juliana	w3942	NO	NO	1.00
+<g/>
+/
+alt	w3944	NO	NO	1.00
+6	w3945	NO	NO	1.00
+<g/>
+.
+V	w3947	NO	NO	1.00
+<g/>
+.
+Jahr	w3949	NO	NO	1.00
+<g/>
+.
+Dem	w3951	NO	NO	1.00
+Johann	w3952	NO	NO	1.00
+Gabelier	w3953	NO	NO	1.00
+<g/>
+/
+Vorreuter	w3955	NO	NO	1.00
+<g/>
+/
+in	w3957	NO	NO	1.00
+der	w3958	NO	NO	1.00
+Leopoldstadt	w3959	NO	NO	1.00
+<g/>
+/
+s	w3961	NO	NO	1.00
+<g/>
+.
+K	w3963	NO	NO	1.00
+<g/>
+.
+Anna	w3965	NO	NO	1.00
+<g/>
+/
+alt	w3967	NO	NO	1.00
+5	w3968	NO	NO	1.00
+<g/>
+.
+V	w3970	NO	NO	1.00
+<g/>
+.
+J	w3972	NO	NO	1.00
+<g/>
+.
+Dem	w3974	NO	NO	1.00
+Joseph	w3975	NO	NO	1.00
+Grassel	w3976	NO	NO	1.00
+Zillenschopper	w3977	NO	NO	1.00
+<g/>
+/
+in	w3979	NO	NO	1.00
+der	w3980	NO	NO	1.00
+Leopoldstadt	w3981	NO	NO	1.00
+<g/>
+/
+sein	w3983	NO	NO	1.00
+K	w3984	NO	NO	1.00
+<g/>
+.
+Anna	w3986	NO	NO	1.00
+<g/>
+/
+alt	w3988	NO	NO	1.00
+1	w3989	NO	NO	1.00
+<g/>
+.
+J	w3991	NO	NO	1.00
+<g/>
+.
+Andre	w3993	NO	NO	1.00
+Neupauer	w3994	NO	NO	1.00
+<g/>
+/
+Tagwerker	w3996	NO	NO	1.00
+<g/>
+/
+im	w3998	NO	NO	1.00
+Lerchen=feld	w3999	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+alt	w4002	NO	NO	1.00
+50	w4003	NO	NO	1.00
+<g/>
+.
+Jahr	w4005	NO	NO	1.00
+<g/>
+.
+Franz	w4007	NO	NO	1.00
+Anton	w4008	NO	NO	1.00
+Walner	w4009	NO	NO	1.00
+<g/>
+/
+alt	w4011	NO	NO	1.00
+35	w4012	NO	NO	1.00
+<g/>
+.
+Jahr	w4014	NO	NO	1.00
+<g/>
+/
+und	w4016	NO	NO	1.00
+Jgnaz	w4017	NO	NO	1.00
+Schwarz	w4018	NO	NO	1.00
+<g/>
+,
+<g/>
+/
+alt	w4021	NO	NO	1.00
+28	w4022	NO	NO	1.00
+<g/>
+.
+Jahr	w4024	NO	NO	1.00
+<g/>
+/
+beyn	w4026	NO	NO	1.00
+B	w4027	NO	NO	1.00
+<g/>
+.
+B	w4029	NO	NO	1.00
+<g/>
+.
+in	w4031	NO	NO	1.00
+der	w4032	NO	NO	1.00
+Leopoldstadt	w4033	NO	NO	1.00
+<g/>
+.
+Elisabeth	w4035	NO	NO	1.00
+Berlin	w4036	NO	NO	1.00
+<g/>
+/
+alt	w4038	NO	NO	1.00
+50	w4039	NO	NO	1.00
+<g/>
+.
+Jahr	w4041	NO	NO	1.00
+<g/>
+/
+und	w4043	NO	NO	1.00
+Ja=cob	w4044	NO	NO	1.00
+<g/>
+=
+Kaiser	w4046	NO	NO	1.00
+<g/>
+/
+alt	w4048	NO	NO	1.00
+56	w4049	NO	NO	1.00
+<g/>
+.
+Jahr	w4051	NO	NO	1.00
+<g/>
+/
+im	w4053	NO	NO	1.00
+Armen	w4054	NO	NO	1.00
+<g/>
+=
+Hauß	w4056	NO	NO	1.00
+<g/>
+.
+Michael	w4058	NO	NO	1.00
+Wagner	w4059	NO	NO	1.00
+<g/>
+/
+alt	w4061	NO	NO	1.00
+30	w4062	NO	NO	1.00
+<g/>
+.
+J	w4064	NO	NO	1.00
+<g/>
+.
+und	w4066	NO	NO	1.00
+Sabina	w4067	NO	NO	1.00
+Erlingerin	w4068	NO	NO	1.00
+<g/>
+/
+alt	w4070	NO	NO	1.00
+50	w4071	NO	NO	1.00
+<g/>
+.
+Jahr	w4073	NO	NO	1.00
+in	w4074	NO	NO	1.00
+Kranken	w4075	NO	NO	1.00
+<g/>
+=
+Hauß	w4077	NO	NO	1.00
+<g/>
+.
+</list>
+<head id="hl20">
+Continuation	w4079	NO	NO	1.00
+des	w4080	NO	NO	1.00
+Berichts	w4081	NO	NO	1.00
+dessen	w4082	NO	NO	1.00
+<g/>
+/
+was	w4084	NO	NO	1.00
+nach	w4085	NO	NO	1.00
+der	w4086	NO	NO	1.00
+Begräbnuß	w4087	NO	NO	1.00
+Pabst	w4088	NO	NO	1.00
+Clemens	w4089	NO	NO	1.00
+<g/>
+/
+des	w4091	NO	NO	1.00
+Eilften	w4092	NO	NO	1.00
+<g/>
+/
+und	w4094	NO	NO	1.00
+dan	w4095	NO	NO	1.00
+vor	w4096	NO	NO	1.00
+<g/>
+=
+wie	w4098	NO	NO	1.00
+auch	w4099	NO	NO	1.00
+bey	w4100	NO	NO	1.00
+dem	w4101	NO	NO	1.00
+Eintrit	w4102	NO	NO	1.00
+des	w4103	NO	NO	1.00
+S	w4104	YES	NO	1.00
+<g/>
+.
+Collegii	w4106	YES	NO	1.00
+in	w4107	NO	NO	1.00
+das	w4108	NO	NO	1.00
+Conclave	w4109	YES	NO	1.00
+zu	w4110	NO	NO	1.00
+Rom	w4111	NO	NO	1.00
+<g/>
+/
+vom	w4113	NO	NO	1.00
+30	w4114	NO	NO	1.00
+<g/>
+.
+bis	w4116	NO	NO	1.00
+31	w4117	NO	NO	1.00
+<g/>
+.
+März	w4119	NO	NO	1.00
+<g/>
+/
+sich	w4121	NO	NO	1.00
+merkwürdig	w4122	NO	NO	1.00
+zugetragen	w4123	NO	NO	1.00
+<g/>
+.
+</head>
+<p id="p28">
+SOntag	w4125	NO	NO	1.00
+<g/>
+/
+den	w4127	NO	NO	1.00
+30	w4128	NO	NO	1.00
+<g/>
+.
+März	w4130	NO	NO	1.00
+<g/>
+.
+Heut	w4132	NO	NO	1.00
+ware	w4133	NO	NO	1.00
+die	w4134	NO	NO	1.00
+dreytägig	w4135	NO	NO	1.00
+<g/>
+=
+hochfeyerlich=gehaltene	w4137	NO	NO	1.00
+<g/>
+=
+Leichbesingnuß	w4139	NO	NO	1.00
+in	w4140	NO	NO	1.00
+der	w4141	NO	NO	1.00
+Haubt	w4142	NO	NO	1.00
+<g/>
+=
+Kirche	w4144	NO	NO	1.00
+zu	w4145	NO	NO	1.00
+St	w4146	NO	NO	1.00
+<g/>
+.
+Peter	w4148	NO	NO	1.00
+beschlossen	w4149	NO	NO	1.00
+<g/>
+:
+hin=gegen	w4151	NO	NO	1.00
+<g/>
+=
+durch	w4153	NO	NO	1.00
+ein	w4154	NO	NO	1.00
+Decret	w4155	NO	NO	1.00
+<g/>
+/
+welches	w4157	NO	NO	1.00
+der	w4158	NO	NO	1.00
+Herr	w4159	NO	NO	1.00
+Cardinal	w4160	NO	NO	1.00
+Paracciani	w4161	YES	NO	1.00
+<g/>
+,
+als	w4163	NO	NO	1.00
+Vicarius	w4164	YES	NO	1.00
+Gene-ralis	w4165	YES	NO	1.00
+<g/>
+-
+<g/>
+,
+ergehen	w4168	NO	NO	1.00
+lassen	w4169	NO	NO	1.00
+<g/>
+/
+gebotten	w4171	NO	NO	1.00
+worden	w4172	NO	NO	1.00
+<g/>
+/
+daß	w4174	NO	NO	1.00
+alle	w4175	NO	NO	1.00
+Geistliche	w4176	NO	NO	1.00
+<g/>
+/
+sowohl	w4178	NO	NO	1.00
+Seculares	w4179	YES	NO	1.00
+<g/>
+,
+als	w4181	NO	NO	1.00
+Regulares	w4182	YES	NO	1.00
+<g/>
+,
+die	w4184	NO	NO	1.00
+Leichbesingnuß	w4185	NO	NO	1.00
+gleichfals	w4186	NO	NO	1.00
+für	w4187	NO	NO	1.00
+den	w4188	NO	NO	1.00
+verstorbenen	w4189	NO	NO	1.00
+Pabst	w4190	NO	NO	1.00
+<g/>
+/
+Clemens	w4192	NO	NO	1.00
+den	w4193	NO	NO	1.00
+Eilften	w4194	NO	NO	1.00
+<g/>
+/
+begehen	w4196	NO	NO	1.00
+<g/>
+:
+dan	w4198	NO	NO	1.00
+alle	w4199	NO	NO	1.00
+in	w4200	NO	NO	1.00
+der	w4201	NO	NO	1.00
+Stadt	w4202	NO	NO	1.00
+Rom	w4203	NO	NO	1.00
+befindliche	w4204	NO	NO	1.00
+Priester	w4205	NO	NO	1.00
+ein	w4206	NO	NO	1.00
+H	w4207	NO	NO	1.00
+<g/>
+.
+Meß	w4209	NO	NO	1.00
+für	w4210	NO	NO	1.00
+ihn	w4211	NO	NO	1.00
+lesen	w4212	NO	NO	1.00
+<g/>
+:
+auch	w4214	NO	NO	1.00
+all	w4215	NO	NO	1.00
+<g/>
+=
+Christ	w4217	NO	NO	1.00
+<g/>
+=
+glaubig	w4219	NO	NO	1.00
+<g/>
+=
+Catholische	w4221	NO	NO	1.00
+<g/>
+/
+beederley	w4223	NO	NO	1.00
+Geschlechts	w4224	NO	NO	1.00
+<g/>
+/
+denselben	w4226	NO	NO	1.00
+in	w4227	NO	NO	1.00
+ihr	w4228	NO	NO	1.00
+Gebeht	w4229	NO	NO	1.00
+einschließen	w4230	NO	NO	1.00
+solten	w4231	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p29">
+Nichtweniger	w4233	NO	NO	1.00
+wurde	w4234	NO	NO	1.00
+der	w4235	NO	NO	1.00
+Befehl	w4236	NO	NO	1.00
+<g/>
+/
+zufolg	w4238	NO	NO	1.00
+deren	w4239	NO	NO	1.00
+Heil	w4240	NO	NO	1.00
+<g/>
+.
+Satzungen	w4242	NO	NO	1.00
+<g/>
+/
+ertheilet	w4244	NO	NO	1.00
+<g/>
+/
+daß	w4246	NO	NO	1.00
+man	w4247	NO	NO	1.00
+bey	w4248	NO	NO	1.00
+jeder	w4249	NO	NO	1.00
+H	w4250	NO	NO	1.00
+<g/>
+.
+Meß	w4252	NO	NO	1.00
+künftighin	w4253	NO	NO	1.00
+die	w4254	NO	NO	1.00
+Collect	w4255	NO	NO	1.00
+für	w4256	NO	NO	1.00
+Erwählung	w4257	NO	NO	1.00
+eines	w4258	NO	NO	1.00
+Pabsts	w4259	NO	NO	1.00
+behten	w4260	NO	NO	1.00
+<g/>
+:
+auch	w4262	NO	NO	1.00
+in	w4263	NO	NO	1.00
+allen	w4264	NO	NO	1.00
+Kirchen	w4265	NO	NO	1.00
+das	w4266	NO	NO	1.00
+Hochwürdigste	w4267	NO	NO	1.00
+Sacrament	w4268	NO	NO	1.00
+aussetzen	w4269	NO	NO	1.00
+<g/>
+:
+und	w4271	NO	NO	1.00
+all	w4272	NO	NO	1.00
+<g/>
+=
+Christ=glaubig	w4274	NO	NO	1.00
+<g/>
+=
+<g/>
+=
+Catholische	w4277	NO	NO	1.00
+Christen	w4278	NO	NO	1.00
+ermahnen	w4279	NO	NO	1.00
+solle	w4280	NO	NO	1.00
+<g/>
+/
+deshalben	w4282	NO	NO	1.00
+ebenmässig	w4283	NO	NO	1.00
+ihr	w4284	NO	NO	1.00
+andächtiges	w4285	NO	NO	1.00
+Gebeht	w4286	NO	NO	1.00
+zu	w4287	NO	NO	1.00
+GOtt	w4288	NO	NO	1.00
+zuschicken	w4289	NO	NO	1.00
+<g/>
+;
+</p>
+<p id="p30">
+Dan	w4291	NO	NO	1.00
+hat	w4292	NO	NO	1.00
+auch	w4293	NO	NO	1.00
+der	w4294	NO	NO	1.00
+Herr	w4295	NO	NO	1.00
+Gouernatore	w4296	YES	NO	1.00
+Falconieri	w4297	YES	NO	1.00
+all	w4298	NO	NO	1.00
+<g/>
+=
+bisherige	w4300	NO	NO	1.00
+Spiel	w4301	NO	NO	1.00
+<g/>
+/
+sie	w4303	NO	NO	1.00
+mögen	w4304	NO	NO	1.00
+Namen	w4305	NO	NO	1.00
+haben	w4306	NO	NO	1.00
+<g/>
+/
+wie	w4308	NO	NO	1.00
+sie	w4309	NO	NO	1.00
+wollen	w4310	NO	NO	1.00
+<g/>
+/
+nach	w4312	NO	NO	1.00
+dem	w4313	NO	NO	1.00
+üblichen	w4314	NO	NO	1.00
+Gebrauch	w4315	NO	NO	1.00
+<g/>
+/
+wan	w4317	NO	NO	1.00
+der	w4318	NO	NO	1.00
+Päbstl	w4319	NO	NO	1.00
+<g/>
+.
+Stul	w4321	NO	NO	1.00
+sich	w4322	NO	NO	1.00
+leer	w4323	NO	NO	1.00
+befinde	w4324	NO	NO	1.00
+<g/>
+/
+unter	w4326	NO	NO	1.00
+scharfer	w4327	NO	NO	1.00
+Straf	w4328	NO	NO	1.00
+untersagen	w4329	NO	NO	1.00
+<g/>
+:
+ingleichem	w4331	NO	NO	1.00
+bey	w4332	NO	NO	1.00
+dem	w4333	NO	NO	1.00
+Bann	w4334	NO	NO	1.00
+und	w4335	NO	NO	1.00
+Ga=leeren	w4336	NO	NO	1.00
+<g/>
+=
+<g/>
+(
+auf	w4339	NO	NO	1.00
+welche	w4340	NO	NO	1.00
+46	w4341	NO	NO	1.00
+<g/>
+.
+Gefangene	w4343	NO	NO	1.00
+aus	w4344	NO	NO	1.00
+dem	w4345	NO	NO	1.00
+Castell	w4346	NO	NO	1.00
+S	w4347	YES	NO	1.00
+<g/>
+.
+Angelo	w4349	YES	NO	1.00
+nach	w4350	NO	NO	1.00
+Civita	w4351	YES	NO	1.00
+vecchia	w4352	YES	NO	1.00
+ge=führet	w4353	NO	NO	1.00
+<g/>
+=
+worden	w4355	NO	NO	1.00
+<g/>
+)
+ja	w4357	NO	NO	1.00
+bey	w4358	NO	NO	1.00
+Lebens	w4359	NO	NO	1.00
+<g/>
+=
+Straf	w4361	NO	NO	1.00
+verbiehten	w4362	NO	NO	1.00
+lassen	w4363	NO	NO	1.00
+<g/>
+/
+daß	w4365	NO	NO	1.00
+man	w4366	NO	NO	1.00
+sich	w4367	NO	NO	1.00
+all	w4368	NO	NO	1.00
+<g/>
+=
+übler	w4370	NO	NO	1.00
+Gesprä=chen	w4371	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+Verunglimpfungen	w4374	NO	NO	1.00
+<g/>
+/
+Schmäschriften	w4376	NO	NO	1.00
+<g/>
+/
+und	w4378	NO	NO	1.00
+Pasquillen	w4379	NO	NO	1.00
+enthalten	w4380	NO	NO	1.00
+solle	w4381	NO	NO	1.00
+<g/>
+/
+damit	w4383	NO	NO	1.00
+alles	w4384	NO	NO	1.00
+in	w4385	NO	NO	1.00
+Ruh	w4386	NO	NO	1.00
+seyn	w4387	NO	NO	1.00
+möge	w4388	NO	NO	1.00
+<g/>
+;
+Welche	w4390	NO	NO	1.00
+zuerhalten	w4391	NO	NO	1.00
+<g/>
+/
+auch	w4393	NO	NO	1.00
+Jhre	w4394	NO	NO	1.00
+Palläst	w4395	NO	NO	1.00
+zu	w4396	NO	NO	1.00
+bewahren	w4397	NO	NO	1.00
+<g/>
+/
+die	w4399	NO	NO	1.00
+Herren	w4400	NO	NO	1.00
+Cardinäl	w4401	NO	NO	1.00
+<g/>
+=
+und	w4403	NO	NO	1.00
+andere	w4404	NO	NO	1.00
+Ministern	w4405	NO	NO	1.00
+<g/>
+/
+die	w4407	NO	NO	1.00
+Fürsten	w4408	NO	NO	1.00
+<g/>
+=
+wie	w4410	NO	NO	1.00
+auch	w4411	NO	NO	1.00
+die	w4412	NO	NO	1.00
+vornehmste	w4413	NO	NO	1.00
+des	w4414	NO	NO	1.00
+Adels	w4415	NO	NO	1.00
+<g/>
+/
+und	w4417	NO	NO	1.00
+sonderlich	w4418	NO	NO	1.00
+der	w4419	NO	NO	1.00
+Prencipi	w4420	YES	NO	1.00
+Chigi	w4421	YES	NO	1.00
+<g/>
+,
+Marschall	w4423	NO	NO	1.00
+von	w4424	NO	NO	1.00
+dem	w4425	NO	NO	1.00
+Conclave	w4426	YES	NO	1.00
+<g/>
+,
+vieles	w4428	NO	NO	1.00
+Volk	w4429	NO	NO	1.00
+annehmen	w4430	NO	NO	1.00
+<g/>
+:
+und	w4432	NO	NO	1.00
+dasselbe	w4433	NO	NO	1.00
+mit	w4434	NO	NO	1.00
+Gewehr	w4435	NO	NO	1.00
+versehen	w4436	NO	NO	1.00
+lassen	w4437	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p31">
+Die	w4439	NO	NO	1.00
+Herren	w4440	NO	NO	1.00
+Cardinäl	w4441	NO	NO	1.00
+deren	w4442	NO	NO	1.00
+drey	w4443	NO	NO	1.00
+Orden	w4444	NO	NO	1.00
+<g/>
+/
+als	w4446	NO	NO	1.00
+deren	w4447	NO	NO	1.00
+Herren	w4448	NO	NO	1.00
+Bischöffen	w4449	NO	NO	1.00
+<g/>
+/
+Priestern	w4451	NO	NO	1.00
+<g/>
+/
+und	w4453	NO	NO	1.00
+Diaconen	w4454	NO	NO	1.00
+<g/>
+/
+hatten	w4456	NO	NO	1.00
+der	w4457	NO	NO	1.00
+Prencipessa	w4458	YES	NO	1.00
+di	w4459	YES	NO	1.00
+Piombino	w4460	YES	NO	1.00
+bedeuten	w4461	NO	NO	1.00
+lassen	w4462	NO	NO	1.00
+<g/>
+:
+Wan	w4464	NO	NO	1.00
+sie	w4465	NO	NO	1.00
+ihre	w4466	NO	NO	1.00
+mit	w4467	NO	NO	1.00
+der	w4468	NO	NO	1.00
+Prencipessa	w4469	YES	NO	1.00
+Ruspoli	w4470	YES	NO	1.00
+habende	w4471	NO	NO	1.00
+Stritsache	w4472	NO	NO	1.00
+<g/>
+/
+so	w4474	NO	NO	1.00
+daher	w4475	NO	NO	1.00
+entstanden	w4476	NO	NO	1.00
+<g/>
+/
+daß	w4478	NO	NO	1.00
+ihre	w4479	NO	NO	1.00
+Kutscher	w4480	NO	NO	1.00
+zusammen	w4481	NO	NO	1.00
+gefahren	w4482	NO	NO	1.00
+und	w4483	NO	NO	1.00
+keiner	w4484	NO	NO	1.00
+weichen	w4485	NO	NO	1.00
+wollen	w4486	NO	NO	1.00
+<g/>
+/
+nicht	w4488	NO	NO	1.00
+vor	w4489	NO	NO	1.00
+dem	w4490	NO	NO	1.00
+Eingang	w4491	NO	NO	1.00
+des	w4492	NO	NO	1.00
+Conclave	w4493	YES	NO	1.00
+gütlich	w4494	NO	NO	1.00
+beylegen	w4495	NO	NO	1.00
+würde	w4496	NO	NO	1.00
+<g/>
+;
+So	w4498	NO	NO	1.00
+wolten	w4499	NO	NO	1.00
+die	w4500	NO	NO	1.00
+berührte	w4501	NO	NO	1.00
+Herren	w4502	NO	NO	1.00
+Cardinäl	w4503	NO	NO	1.00
+solches	w4504	NO	NO	1.00
+selber	w4505	NO	NO	1.00
+<g/>
+/
+aber	w4507	NO	NO	1.00
+zu	w4508	NO	NO	1.00
+der	w4509	NO	NO	1.00
+Prencipessa	w4510	YES	NO	1.00
+di	w4511	YES	NO	1.00
+Piombino	w4512	YES	NO	1.00
+schlechter	w4513	NO	NO	1.00
+Vergnügung	w4514	NO	NO	1.00
+<g/>
+/
+tuhn	w4516	NO	NO	1.00
+lassen	w4517	NO	NO	1.00
+<g/>
+;
+Dahero	w4519	NO	NO	1.00
+dieselbe	w4520	NO	NO	1.00
+<g/>
+/
+um	w4522	NO	NO	1.00
+nichts	w4523	NO	NO	1.00
+Widriges	w4524	NO	NO	1.00
+zuerwarten	w4525	NO	NO	1.00
+<g/>
+/
+durch	w4527	NO	NO	1.00
+den	w4528	NO	NO	1.00
+Herrn	w4529	NO	NO	1.00
+Marchese	w4530	YES	NO	1.00
+del	w4531	YES	NO	1.00
+Bufalo	w4532	YES	NO	1.00
+der	w4533	NO	NO	1.00
+Prencipessa	w4534	YES	NO	1.00
+Ruspoli	w4535	YES	NO	1.00
+ein	w4536	NO	NO	1.00
+Compliment	w4537	NO	NO	1.00
+machen	w4538	NO	NO	1.00
+<g/>
+:
+und	w4540	NO	NO	1.00
+ihr	w4541	NO	NO	1.00
+zugleich	w4542	NO	NO	1.00
+hinterbringen	w4543	NO	NO	1.00
+lassen	w4544	NO	NO	1.00
+<g/>
+/
+daß	w4546	NO	NO	1.00
+die	w4547	NO	NO	1.00
+Prencipessa	w4548	YES	NO	1.00
+di	w4549	YES	NO	1.00
+Piombino	w4550	YES	NO	1.00
+<g/>
+,
+sobald	w4552	NO	NO	1.00
+sie	w4553	NO	NO	1.00
+vernommen	w4554	NO	NO	1.00
+<g/>
+/
+wie	w4556	NO	NO	1.00
+ihre	w4557	NO	NO	1.00
+Bedien=ten	w4558	NO	NO	1.00
+<g/>
+=
+den	w4560	NO	NO	1.00
+Respect	w4561	NO	NO	1.00
+gegen	w4562	NO	NO	1.00
+jene	w4563	NO	NO	1.00
+vergessen	w4564	NO	NO	1.00
+<g/>
+/
+dieselbe	w4566	NO	NO	1.00
+sogleich	w4567	NO	NO	1.00
+aus	w4568	NO	NO	1.00
+ihren	w4569	NO	NO	1.00
+Diensten	w4570	NO	NO	1.00
+abschaf=fen	w4571	NO	NO	1.00
+<g/>
+=
+lassen	w4573	NO	NO	1.00
+<g/>
+;
+Darauf	w4575	NO	NO	1.00
+von	w4576	NO	NO	1.00
+der	w4577	NO	NO	1.00
+Prencipessa	w4578	YES	NO	1.00
+Ruspoli	w4579	YES	NO	1.00
+wieder	w4580	NO	NO	1.00
+mittels	w4581	NO	NO	1.00
+eines	w4582	NO	NO	1.00
+schönen	w4583	NO	NO	1.00
+Com=pliments	w4584	NO	NO	1.00
+<g/>
+=
+geantwortet	w4586	NO	NO	1.00
+<g/>
+:
+mithin	w4588	NO	NO	1.00
+aller	w4589	NO	NO	1.00
+bisherige	w4590	NO	NO	1.00
+Verdruß	w4591	NO	NO	1.00
+<g/>
+/
+und	w4593	NO	NO	1.00
+die	w4594	NO	NO	1.00
+Sequestration	w4595	NO	NO	1.00
+auf=gehoben	w4596	NO	NO	1.00
+<g/>
+=
+worden	w4598	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p32">
+Ubrigens	w4600	NO	NO	1.00
+hat	w4601	NO	NO	1.00
+auch	w4602	NO	NO	1.00
+Heute	w4603	NO	NO	1.00
+das	w4604	NO	NO	1.00
+Capitul	w4605	NO	NO	1.00
+bey	w4606	NO	NO	1.00
+S	w4607	YES	NO	1.00
+<g/>
+.
+Maria	w4609	YES	NO	1.00
+Maggiore	w4610	YES	NO	1.00
+<g/>
+,
+<g/>
+(
+U	w4613	NO	NO	1.00
+<g/>
+.
+L	w4615	NO	NO	1.00
+<g/>
+.
+F	w4617	NO	NO	1.00
+<g/>
+.
+der	w4619	NO	NO	1.00
+Grösseren	w4620	NO	NO	1.00
+<g/>
+)
+nach	w4622	NO	NO	1.00
+überwunden	w4623	NO	NO	1.00
+<g/>
+=
+verschiedenen	w4625	NO	NO	1.00
+Widerwärtigkeiten	w4626	NO	NO	1.00
+<g/>
+/
+die	w4628	NO	NO	1.00
+dasselbe	w4629	NO	NO	1.00
+von	w4630	NO	NO	1.00
+der	w4631	NO	NO	1.00
+Zeit	w4632	NO	NO	1.00
+<g/>
+/
+da	w4634	NO	NO	1.00
+es	w4635	NO	NO	1.00
+nemlichen	w4636	NO	NO	1.00
+den	w4637	NO	NO	1.00
+24	w4638	NO	NO	1.00
+<g/>
+.
+November	w4640	NO	NO	1.00
+verwichenes	w4641	NO	NO	1.00
+Jahrs	w4642	NO	NO	1.00
+unter	w4643	NO	NO	1.00
+den	w4644	NO	NO	1.00
+Kaiser=lich	w4645	NO	NO	1.00
+<g/>
+=
+<g/>
+=
+Oesterreichischen	w4648	NO	NO	1.00
+Schutz	w4649	NO	NO	1.00
+sich	w4650	NO	NO	1.00
+begeben	w4651	NO	NO	1.00
+<g/>
+/
+bis	w4653	NO	NO	1.00
+daher	w4654	NO	NO	1.00
+ausstehen	w4655	NO	NO	1.00
+müssen	w4656	NO	NO	1.00
+<g/>
+/
+nach	w4658	NO	NO	1.00
+abge=legt	w4659	NO	NO	1.00
+<g/>
+=
+<g/>
+=
+Spannisch	w4662	NO	NO	1.00
+<g/>
+=
+Anjouinischen	w4664	NO	NO	1.00
+Wappen	w4665	NO	NO	1.00
+<g/>
+/
+das	w4667	NO	NO	1.00
+Kaiserlich	w4668	NO	NO	1.00
+<g/>
+=
+Oesterreichische	w4670	NO	NO	1.00
+<g/>
+/
+mit	w4672	NO	NO	1.00
+Jhrer	w4673	NO	NO	1.00
+Kaiserlich	w4674	NO	NO	1.00
+<g/>
+=
+und	w4676	NO	NO	1.00
+Catholischen	w4677	NO	NO	1.00
+Majestät	w4678	NO	NO	1.00
+Bildnuß	w4679	NO	NO	1.00
+<g/>
+/
+bey	w4681	NO	NO	1.00
+hellem	w4682	NO	NO	1.00
+Tag	w4683	NO	NO	1.00
+davor	w4684	NO	NO	1.00
+aufgemacht	w4685	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p33">
+Montag	w4687	NO	NO	1.00
+<g/>
+/
+den	w4689	NO	NO	1.00
+31	w4690	NO	NO	1.00
+<g/>
+.
+Dito	w4692	NO	NO	1.00
+<g/>
+.
+Heute	w4694	NO	NO	1.00
+<g/>
+/
+Vormittag	w4696	NO	NO	1.00
+<g/>
+/
+hatte	w4698	NO	NO	1.00
+das	w4699	NO	NO	1.00
+S	w4700	YES	NO	1.00
+<g/>
+.
+Collegium	w4702	YES	NO	1.00
+bey	w4703	NO	NO	1.00
+St	w4704	NO	NO	1.00
+<g/>
+.
+Peter	w4706	NO	NO	1.00
+in	w4707	NO	NO	1.00
+dasiger	w4708	NO	NO	1.00
+Chor	w4709	NO	NO	1.00
+<g/>
+=
+Capelle	w4711	NO	NO	1.00
+sich	w4712	NO	NO	1.00
+wieder	w4713	NO	NO	1.00
+versamlet	w4714	NO	NO	1.00
+<g/>
+/
+und	w4716	NO	NO	1.00
+der	w4717	NO	NO	1.00
+Herr	w4718	NO	NO	1.00
+Decanus	w4719	YES	NO	1.00
+<g/>
+,
+</p>
+<p id="p34">
+Cardinal	w4721	NO	NO	1.00
+Tanara	w4722	YES	NO	1.00
+<g/>
+,
+das	w4724	NO	NO	1.00
+Amt	w4725	NO	NO	1.00
+der	w4726	NO	NO	1.00
+H	w4727	NO	NO	1.00
+<g/>
+.
+Meß	w4729	NO	NO	1.00
+vom	w4730	NO	NO	1.00
+H	w4731	NO	NO	1.00
+<g/>
+.
+Geist	w4733	NO	NO	1.00
+gesungen	w4734	NO	NO	1.00
+<g/>
+:
+Monsignor	w4736	YES	NO	1.00
+Mari	w4737	YES	NO	1.00
+<g/>
+,
+Bischof	w4739	NO	NO	1.00
+von	w4740	NO	NO	1.00
+Aleria	w4741	YES	NO	1.00
+<g/>
+,
+aber	w4743	NO	NO	1.00
+in	w4744	NO	NO	1.00
+seinem	w4745	NO	NO	1.00
+Rochet	w4746	NO	NO	1.00
+und	w4747	NO	NO	1.00
+roten	w4748	NO	NO	1.00
+Vesper	w4749	NO	NO	1.00
+<g/>
+=
+Mantel	w4751	NO	NO	1.00
+<g/>
+/
+mit	w4753	NO	NO	1.00
+der	w4754	NO	NO	1.00
+Jnful	w4755	NO	NO	1.00
+auf	w4756	NO	NO	1.00
+dem	w4757	NO	NO	1.00
+Haubt	w4758	NO	NO	1.00
+<g/>
+/
+am	w4760	NO	NO	1.00
+Ende	w4761	NO	NO	1.00
+des	w4762	NO	NO	1.00
+Altars	w4763	NO	NO	1.00
+zur	w4764	NO	NO	1.00
+Seiten	w4765	NO	NO	1.00
+des	w4766	NO	NO	1.00
+Evangeliums	w4767	NO	NO	1.00
+auf	w4768	NO	NO	1.00
+einer	w4769	NO	NO	1.00
+über	w4770	NO	NO	1.00
+die	w4771	NO	NO	1.00
+drey	w4772	NO	NO	1.00
+Stafel	w4773	NO	NO	1.00
+gesetzten	w4774	NO	NO	1.00
+Canzel	w4775	NO	NO	1.00
+ein	w4776	NO	NO	1.00
+sehr	w4777	NO	NO	1.00
+gelehrt	w4778	NO	NO	1.00
+<g/>
+=
+und	w4780	NO	NO	1.00
+geistreiche	w4781	NO	NO	1.00
+Predig	w4782	NO	NO	1.00
+über	w4783	NO	NO	1.00
+die	w4784	NO	NO	1.00
+Wahl	w4785	NO	NO	1.00
+eines	w4786	NO	NO	1.00
+neuen	w4787	NO	NO	1.00
+Pabsten	w4788	NO	NO	1.00
+mit	w4789	NO	NO	1.00
+rühmlichem	w4790	NO	NO	1.00
+Eifer	w4791	NO	NO	1.00
+und	w4792	NO	NO	1.00
+Herzhaftigkeit	w4793	NO	NO	1.00
+<g/>
+/
+jedoch	w4795	NO	NO	1.00
+auch	w4796	NO	NO	1.00
+wohlan=ständigen	w4797	NO	NO	1.00
+<g/>
+=
+Sitsamkeit	w4799	NO	NO	1.00
+löblichst	w4800	NO	NO	1.00
+gehalten	w4801	NO	NO	1.00
+<g/>
+/
+hiernächst	w4803	NO	NO	1.00
+die	w4804	NO	NO	1.00
+Päbstliche	w4805	NO	NO	1.00
+Herren	w4806	NO	NO	1.00
+Mu=canten	w4807	NO	NO	1.00
+<g/>
+=
+das	w4809	NO	NO	1.00
+Gesang	w4810	NO	NO	1.00
+<g/>
+:
+Veni	w4812	YES	NO	1.00
+Creator	w4813	YES	NO	1.00
+Spiritus	w4814	YES	NO	1.00
+&c	w4815	YES	NO	1.00
+<g/>
+.
+gesungen	w4817	NO	NO	1.00
+<g/>
+;
+Nach	w4819	NO	NO	1.00
+welchem	w4820	NO	NO	1.00
+die	w4821	NO	NO	1.00
+Her=ren	w4822	NO	NO	1.00
+<g/>
+=
+Cardinäl	w4824	NO	NO	1.00
+Paar	w4825	NO	NO	1.00
+<g/>
+=
+Weiß	w4827	NO	NO	1.00
+<g/>
+/
+und	w4829	NO	NO	1.00
+nach	w4830	NO	NO	1.00
+der	w4831	NO	NO	1.00
+Ordnung	w4832	NO	NO	1.00
+<g/>
+/
+als	w4834	NO	NO	1.00
+erstlichen	w4835	NO	NO	1.00
+die	w4836	NO	NO	1.00
+Herren	w4837	NO	NO	1.00
+Bi=schöffe	w4838	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+dan	w4841	NO	NO	1.00
+die	w4842	NO	NO	1.00
+Priestere	w4843	NO	NO	1.00
+<g/>
+/
+und	w4845	NO	NO	1.00
+leztens	w4846	NO	NO	1.00
+die	w4847	NO	NO	1.00
+Diaconen	w4848	NO	NO	1.00
+<g/>
+/
+mit	w4850	NO	NO	1.00
+Vorhertragung	w4851	NO	NO	1.00
+des	w4852	NO	NO	1.00
+Creu=tzes	w4853	NO	NO	1.00
+<g/>
+=
+nach	w4855	NO	NO	1.00
+dem	w4856	NO	NO	1.00
+Conclave	w4857	YES	NO	1.00
+<g/>
+,
+und	w4859	NO	NO	1.00
+zufordrist	w4860	NO	NO	1.00
+in	w4861	NO	NO	1.00
+die	w4862	NO	NO	1.00
+Paulinische	w4863	NO	NO	1.00
+Capelle	w4864	NO	NO	1.00
+sich	w4865	NO	NO	1.00
+begeben	w4866	NO	NO	1.00
+hat=ten	w4867	NO	NO	1.00
+<g/>
+=
+<g/>
+;
+Daselbsten	w4870	NO	NO	1.00
+<g/>
+/
+als	w4872	NO	NO	1.00
+man	w4873	NO	NO	1.00
+in	w4874	NO	NO	1.00
+solcher	w4875	NO	NO	1.00
+Ordnung	w4876	NO	NO	1.00
+angelangt	w4877	NO	NO	1.00
+ware	w4878	NO	NO	1.00
+<g/>
+/
+wurden	w4880	NO	NO	1.00
+zu	w4881	NO	NO	1.00
+erst	w4882	NO	NO	1.00
+die	w4883	NO	NO	1.00
+Päbstl	w4884	NO	NO	1.00
+<g/>
+.
+Bullen	w4886	NO	NO	1.00
+und	w4887	NO	NO	1.00
+Satzungen	w4888	NO	NO	1.00
+<g/>
+/
+wegen	w4890	NO	NO	1.00
+der	w4891	NO	NO	1.00
+Wahl	w4892	NO	NO	1.00
+eines	w4893	NO	NO	1.00
+neuen	w4894	NO	NO	1.00
+Pabsts	w4895	NO	NO	1.00
+und	w4896	NO	NO	1.00
+Nichtver=äuserung	w4897	NO	NO	1.00
+<g/>
+=
+der	w4899	NO	NO	1.00
+Kirchen	w4900	NO	NO	1.00
+<g/>
+=
+Gühter	w4902	NO	NO	1.00
+<g/>
+/
+vorgelesen	w4904	NO	NO	1.00
+<g/>
+/
+und	w4906	NO	NO	1.00
+dieselbe	w4907	NO	NO	1.00
+hierauf	w4908	NO	NO	1.00
+von	w4909	NO	NO	1.00
+den	w4910	NO	NO	1.00
+Herren	w4911	NO	NO	1.00
+Cardinälen	w4912	NO	NO	1.00
+beschworen	w4913	NO	NO	1.00
+<g/>
+/
+dan	w4915	NO	NO	1.00
+diese	w4916	NO	NO	1.00
+Cermonien	w4917	NO	NO	1.00
+mittels	w4918	NO	NO	1.00
+einer	w4919	NO	NO	1.00
+wohlgefasten	w4920	NO	NO	1.00
+Red	w4921	NO	NO	1.00
+über	w4922	NO	NO	1.00
+die	w4923	NO	NO	1.00
+Weiß	w4924	NO	NO	1.00
+der	w4925	NO	NO	1.00
+Erwählung	w4926	NO	NO	1.00
+eines	w4927	NO	NO	1.00
+neuen	w4928	NO	NO	1.00
+Pabsts	w4929	NO	NO	1.00
+von	w4930	NO	NO	1.00
+dem	w4931	NO	NO	1.00
+Decano	w4932	YES	NO	1.00
+S	w4933	YES	NO	1.00
+<g/>
+.
+Collegii	w4935	YES	NO	1.00
+<g/>
+,
+Herrn	w4937	NO	NO	1.00
+Cardinal	w4938	NO	NO	1.00
+Tanara	w4939	YES	NO	1.00
+<g/>
+,
+geschlossen	w4941	NO	NO	1.00
+<g/>
+;
+Hiernächst	w4943	NO	NO	1.00
+jeder	w4944	NO	NO	1.00
+deren	w4945	NO	NO	1.00
+Cardinälen	w4946	NO	NO	1.00
+sich	w4947	NO	NO	1.00
+in	w4948	NO	NO	1.00
+seine	w4949	NO	NO	1.00
+Zell	w4950	NO	NO	1.00
+verfüget	w4951	NO	NO	1.00
+hatte	w4952	NO	NO	1.00
+<g/>
+;
+</p>
+<p id="p35">
+Des	w4954	NO	NO	1.00
+Nachmittags	w4955	NO	NO	1.00
+aber	w4956	NO	NO	1.00
+hatte	w4957	NO	NO	1.00
+der	w4958	NO	NO	1.00
+Prencipe	w4959	YES	NO	1.00
+Chigi	w4960	YES	NO	1.00
+<g/>
+,
+Marschall	w4962	NO	NO	1.00
+der	w4963	NO	NO	1.00
+Heil	w4964	NO	NO	1.00
+<g/>
+.
+Kirche	w4966	NO	NO	1.00
+<g/>
+=
+und	w4968	NO	NO	1.00
+Beschützer	w4969	NO	NO	1.00
+des	w4970	NO	NO	1.00
+Conclave	w4971	YES	NO	1.00
+<g/>
+,
+mit	w4973	NO	NO	1.00
+dreyen	w4974	NO	NO	1.00
+Kutschen	w4975	NO	NO	1.00
+<g/>
+/
+dero	w4977	NO	NO	1.00
+Pferden	w4978	NO	NO	1.00
+kostbare	w4979	NO	NO	1.00
+Quasten	w4980	NO	NO	1.00
+ge=habt	w4981	NO	NO	1.00
+<g/>
+=
+<g/>
+,
+aus	w4984	NO	NO	1.00
+seinem	w4985	NO	NO	1.00
+Pallast	w4986	NO	NO	1.00
+nach	w4987	NO	NO	1.00
+besagtem	w4988	NO	NO	1.00
+Conclave	w4989	YES	NO	1.00
+sich	w4990	NO	NO	1.00
+erhoben	w4991	NO	NO	1.00
+<g/>
+/
+deme	w4993	NO	NO	1.00
+dessen	w4994	NO	NO	1.00
+Obri=ster	w4995	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+Cavalier	w4998	NO	NO	1.00
+Androsilla	w4999	YES	NO	1.00
+<g/>
+,
+zu	w5001	NO	NO	1.00
+Pferd	w5002	NO	NO	1.00
+<g/>
+/
+erstlich	w5004	NO	NO	1.00
+mit	w5005	NO	NO	1.00
+200	w5006	NO	NO	1.00
+<g/>
+.
+Mann	w5008	NO	NO	1.00
+<g/>
+/
+in	w5010	NO	NO	1.00
+purpurfarber	w5011	NO	NO	1.00
+Munti=rung	w5012	NO	NO	1.00
+<g/>
+=
+<g/>
+/
+und	w5015	NO	NO	1.00
+dan	w5016	NO	NO	1.00
+drey	w5017	NO	NO	1.00
+Compagnien	w5018	NO	NO	1.00
+anderer	w5019	NO	NO	1.00
+Soldaten	w5020	NO	NO	1.00
+nach	w5021	NO	NO	1.00
+dem	w5022	NO	NO	1.00
+Vatican	w5023	YES	NO	1.00
+um	w5024	NO	NO	1.00
+die	w5025	NO	NO	1.00
+Wacht	w5026	NO	NO	1.00
+in	w5027	NO	NO	1.00
+dem	w5028	NO	NO	1.00
+Conclave	w5029	YES	NO	1.00
+zuhalten	w5030	NO	NO	1.00
+<g/>
+/
+gefolget	w5032	NO	NO	1.00
+<g/>
+;
+Wie	w5034	NO	NO	1.00
+dan	w5035	NO	NO	1.00
+bey	w5036	NO	NO	1.00
+der	w5037	NO	NO	1.00
+Pforte	w5038	NO	NO	1.00
+desselben	w5039	NO	NO	1.00
+er=wehnter	w5040	NO	NO	1.00
+<g/>
+=
+Prencipe	w5042	YES	NO	1.00
+<g/>
+,
+dessen	w5044	NO	NO	1.00
+Volk	w5045	NO	NO	1.00
+<g/>
+/
+ohne	w5047	NO	NO	1.00
+die	w5048	NO	NO	1.00
+ander	w5049	NO	NO	1.00
+<g/>
+=
+alte	w5051	NO	NO	1.00
+Miliz	w5052	NO	NO	1.00
+in	w5053	NO	NO	1.00
+dem	w5054	NO	NO	1.00
+Plaz	w5055	NO	NO	1.00
+<g/>
+/
+darinnen	w5057	NO	NO	1.00
+und	w5058	NO	NO	1.00
+davor	w5059	NO	NO	1.00
+einquartirt	w5060	NO	NO	1.00
+liget	w5061	NO	NO	1.00
+<g/>
+/
+so	w5063	NO	NO	1.00
+Tag	w5064	NO	NO	1.00
+<g/>
+/
+als	w5066	NO	NO	1.00
+Nacht	w5067	NO	NO	1.00
+sich	w5068	NO	NO	1.00
+befinden	w5069	NO	NO	1.00
+muß	w5070	NO	NO	1.00
+<g/>
+;
+Desgleichen	w5072	NO	NO	1.00
+auch	w5073	NO	NO	1.00
+der	w5074	NO	NO	1.00
+Monsignor	w5075	YES	NO	1.00
+Ruspoli	w5076	YES	NO	1.00
+mit	w5077	NO	NO	1.00
+seiner	w5078	NO	NO	1.00
+Trabanten	w5079	NO	NO	1.00
+<g/>
+=
+Garde	w5081	NO	NO	1.00
+gute	w5082	NO	NO	1.00
+Wacht	w5083	NO	NO	1.00
+zur	w5084	NO	NO	1.00
+Sicherheit	w5085	NO	NO	1.00
+der	w5086	NO	NO	1.00
+Vorstadt	w5087	NO	NO	1.00
+St	w5088	NO	NO	1.00
+<g/>
+.
+Peter	w5090	NO	NO	1.00
+halten	w5091	NO	NO	1.00
+lasset	w5092	NO	NO	1.00
+<g/>
+:
+Welche	w5094	NO	NO	1.00
+des	w5095	NO	NO	1.00
+Nachts	w5096	NO	NO	1.00
+von	w5097	NO	NO	1.00
+allen	w5098	NO	NO	1.00
+Seiten	w5099	NO	NO	1.00
+des	w5100	NO	NO	1.00
+Ca=stels	w5101	NO	NO	1.00
+<g/>
+=
+geschlossen	w5103	NO	NO	1.00
+<g/>
+/
+und	w5105	NO	NO	1.00
+mit	w5106	NO	NO	1.00
+Ketten	w5107	NO	NO	1.00
+durchzogen	w5108	NO	NO	1.00
+werde	w5109	NO	NO	1.00
+<g/>
+;
+Massen	w5111	NO	NO	1.00
+auch	w5112	NO	NO	1.00
+alles	w5113	NO	NO	1.00
+aldorten	w5114	NO	NO	1.00
+so	w5115	NO	NO	1.00
+wohl	w5116	NO	NO	1.00
+<g/>
+/
+als	w5118	NO	NO	1.00
+in	w5119	NO	NO	1.00
+der	w5120	NO	NO	1.00
+Stadt	w5121	NO	NO	1.00
+Rom	w5122	NO	NO	1.00
+selbsten	w5123	NO	NO	1.00
+mit	w5124	NO	NO	1.00
+Wacht	w5125	NO	NO	1.00
+versehen	w5126	NO	NO	1.00
+<g/>
+/
+und	w5128	NO	NO	1.00
+so	w5129	NO	NO	1.00
+Tag	w5130	NO	NO	1.00
+<g/>
+/
+als	w5132	NO	NO	1.00
+Nacht	w5133	NO	NO	1.00
+die	w5134	NO	NO	1.00
+Soldaten	w5135	NO	NO	1.00
+<g/>
+/
+und	w5137	NO	NO	1.00
+bewafnete	w5138	NO	NO	1.00
+Leuthe	w5139	NO	NO	1.00
+patrolliren	w5140	NO	NO	1.00
+müssen	w5141	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p36">
+Und	w5143	NO	NO	1.00
+weilen	w5144	NO	NO	1.00
+in	w5145	NO	NO	1.00
+einer	w5146	NO	NO	1.00
+zuvor	w5147	NO	NO	1.00
+gehaltenen	w5148	NO	NO	1.00
+Congregation	w5149	NO	NO	1.00
+der	w5150	NO	NO	1.00
+Herr	w5151	NO	NO	1.00
+Cardinal	w5152	NO	NO	1.00
+Acqua-viva	w5153	YES	NO	1.00
+<g/>
+-
+<g/>
+(
+in	w5156	NO	NO	1.00
+dessen	w5157	NO	NO	1.00
+Abwesenheit	w5158	NO	NO	1.00
+und	w5159	NO	NO	1.00
+Befindung	w5160	NO	NO	1.00
+im	w5161	NO	NO	1.00
+Conclave	w5162	YES	NO	1.00
+desselben	w5163	NO	NO	1.00
+Spannischen	w5164	NO	NO	1.00
+Pallast	w5165	NO	NO	1.00
+der	w5166	NO	NO	1.00
+P	w5167	YES	NO	1.00
+<g/>
+.
+Ascanio	w5169	YES	NO	1.00
+<g/>
+,
+ein	w5171	NO	NO	1.00
+Dominicaner	w5172	NO	NO	1.00
+<g/>
+/
+immittels	w5174	NO	NO	1.00
+bezogen	w5175	NO	NO	1.00
+<g/>
+;
+Als	w5177	NO	NO	1.00
+welcher	w5178	NO	NO	1.00
+von	w5179	NO	NO	1.00
+dem	w5180	NO	NO	1.00
+Madritischen	w5181	NO	NO	1.00
+Hof	w5182	NO	NO	1.00
+bestellet	w5183	NO	NO	1.00
+worden	w5184	NO	NO	1.00
+<g/>
+/
+dessen	w5186	NO	NO	1.00
+Angelegenheiten	w5187	NO	NO	1.00
+zubeobachten	w5188	NO	NO	1.00
+<g/>
+;
+Wie	w5190	NO	NO	1.00
+dan	w5191	NO	NO	1.00
+auch	w5192	NO	NO	1.00
+derselbe	w5193	NO	NO	1.00
+von	w5194	NO	NO	1.00
+des	w5195	NO	NO	1.00
+Cardinal	w5196	NO	NO	1.00
+Aquaviva	w5197	YES	NO	1.00
+Leuthen	w5198	NO	NO	1.00
+bedienet	w5199	NO	NO	1.00
+wird	w5200	NO	NO	1.00
+<g/>
+)
+wegen	w5202	NO	NO	1.00
+Vorschü=tzung	w5203	NO	NO	1.00
+<g/>
+=
+seiner	w5205	NO	NO	1.00
+Unpäslichkeit	w5206	NO	NO	1.00
+von	w5207	NO	NO	1.00
+dem	w5208	NO	NO	1.00
+S	w5209	YES	NO	1.00
+<g/>
+.
+Collegio	w5211	YES	NO	1.00
+den	w5212	NO	NO	1.00
+dritten	w5213	NO	NO	1.00
+Conclavisten	w5214	NO	NO	1.00
+erhalten	w5215	NO	NO	1.00
+<g/>
+;
+So	w5217	NO	NO	1.00
+haben	w5218	NO	NO	1.00
+Jhre	w5219	NO	NO	1.00
+Eminenz	w5220	NO	NO	1.00
+<g/>
+/
+der	w5222	NO	NO	1.00
+Herr	w5223	NO	NO	1.00
+Cardinal	w5224	NO	NO	1.00
+Althan	w5225	NO	NO	1.00
+<g/>
+/
+als	w5227	NO	NO	1.00
+Kaiserlicher	w5228	NO	NO	1.00
+Minister	w5229	NO	NO	1.00
+<g/>
+/
+ein	w5231	NO	NO	1.00
+Gleiches	w5232	NO	NO	1.00
+begehret	w5233	NO	NO	1.00
+<g/>
+/
+welches	w5235	NO	NO	1.00
+aber	w5236	NO	NO	1.00
+mit	w5237	NO	NO	1.00
+14	w5238	NO	NO	1.00
+<g/>
+.
+Verneinungs	w5240	NO	NO	1.00
+<g/>
+=
+gegen	w5242	NO	NO	1.00
+12	w5243	NO	NO	1.00
+<g/>
+.
+Bejahungs	w5245	NO	NO	1.00
+<g/>
+=
+Stimmen	w5247	NO	NO	1.00
+versaget	w5248	NO	NO	1.00
+worden	w5249	NO	NO	1.00
+<g/>
+;
+Da	w5251	NO	NO	1.00
+aber	w5252	NO	NO	1.00
+Jhre	w5253	NO	NO	1.00
+Eminenz	w5254	NO	NO	1.00
+mit	w5255	NO	NO	1.00
+vielen	w5256	NO	NO	1.00
+Exempeln	w5257	NO	NO	1.00
+klar	w5258	NO	NO	1.00
+vorgestellet	w5259	NO	NO	1.00
+<g/>
+/
+gewöhnlich	w5261	NO	NO	1.00
+zuseyn	w5262	NO	NO	1.00
+<g/>
+/
+daß	w5264	NO	NO	1.00
+nicht	w5265	NO	NO	1.00
+allein	w5266	NO	NO	1.00
+die	w5267	NO	NO	1.00
+Herren	w5268	NO	NO	1.00
+Cardinal	w5269	NO	NO	1.00
+<g/>
+=
+Ministern	w5271	NO	NO	1.00
+<g/>
+/
+sondern	w5273	NO	NO	1.00
+auch	w5274	NO	NO	1.00
+die	w5275	NO	NO	1.00
+über	w5276	NO	NO	1.00
+den	w5277	NO	NO	1.00
+Gebürgen	w5278	NO	NO	1.00
+befindliche	w5279	NO	NO	1.00
+Herren	w5280	NO	NO	1.00
+Cardinäl	w5281	NO	NO	1.00
+so	w5282	NO	NO	1.00
+oft	w5283	NO	NO	1.00
+<g/>
+/
+als	w5285	NO	NO	1.00
+sie	w5286	NO	NO	1.00
+verlangt	w5287	NO	NO	1.00
+<g/>
+/
+den	w5289	NO	NO	1.00
+dritten	w5290	NO	NO	1.00
+Conclavisten	w5291	NO	NO	1.00
+bekommen	w5292	NO	NO	1.00
+hätten	w5293	NO	NO	1.00
+<g/>
+;
+Als	w5295	NO	NO	1.00
+hat	w5296	NO	NO	1.00
+Jhro	w5297	NO	NO	1.00
+Eminenz	w5298	NO	NO	1.00
+<g/>
+/
+der	w5300	NO	NO	1.00
+dritte	w5301	NO	NO	1.00
+Conclavist	w5302	NO	NO	1.00
+auch	w5303	NO	NO	1.00
+zugestanden	w5304	NO	NO	1.00
+werden	w5305	NO	NO	1.00
+müssen	w5306	NO	NO	1.00
+<g/>
+;
+Welches	w5308	NO	NO	1.00
+jedoch	w5309	NO	NO	1.00
+einige	w5310	NO	NO	1.00
+Cardinal	w5311	NO	NO	1.00
+von	w5312	NO	NO	1.00
+dergleichen	w5313	NO	NO	1.00
+Begehren	w5314	NO	NO	1.00
+abgehalten	w5315	NO	NO	1.00
+hat	w5316	NO	NO	1.00
+<g/>
+/
+damit	w5318	NO	NO	1.00
+es	w5319	NO	NO	1.00
+ihnen	w5320	NO	NO	1.00
+nicht	w5321	NO	NO	1.00
+abgeschlagenwerden	w5322	NO	NO	1.00
+möge	w5323	NO	NO	1.00
+<g/>
+.
+</p>
+<p id="p37">
+Sonsten	w5325	NO	NO	1.00
+hat	w5326	NO	NO	1.00
+Heut	w5327	NO	NO	1.00
+<g/>
+/
+Abends	w5329	NO	NO	1.00
+<g/>
+/
+aus	w5331	NO	NO	1.00
+Frankreich	w5332	NO	NO	1.00
+der	w5333	NO	NO	1.00
+Herr	w5334	NO	NO	1.00
+Cardinal	w5335	NO	NO	1.00
+de	w5336	NO	NO	1.00
+Rohan	w5337	YES	NO	1.00
+<g/>
+,
+welchen	w5339	NO	NO	1.00
+einer	w5340	NO	NO	1.00
+von	w5341	NO	NO	1.00
+dem	w5342	NO	NO	1.00
+Französischen	w5343	NO	NO	1.00
+Minister	w5344	NO	NO	1.00
+<g/>
+/
+Herrn	w5346	NO	NO	1.00
+l’Affiteau	w5347	YES	NO	1.00
+<g/>
+,
+entgegen	w5349	NO	NO	1.00
+geschick=ter	w5350	NO	NO	1.00
+<g/>
+=
+Currier	w5352	NO	NO	1.00
+<g/>
+/
+mit	w5354	NO	NO	1.00
+der	w5355	NO	NO	1.00
+Nachricht	w5356	NO	NO	1.00
+von	w5357	NO	NO	1.00
+des	w5358	NO	NO	1.00
+Pabsten	w5359	NO	NO	1.00
+Tod	w5360	NO	NO	1.00
+zu	w5361	NO	NO	1.00
+Trient	w5362	NO	NO	1.00
+angetroffen	w5363	NO	NO	1.00
+<g/>
+/
+dahier	w5365	NO	NO	1.00
+sich	w5366	NO	NO	1.00
+eingefunden	w5367	NO	NO	1.00
+<g/>
+/
+und	w5369	NO	NO	1.00
+ist	w5370	NO	NO	1.00
+in	w5371	NO	NO	1.00
+dem	w5372	NO	NO	1.00
+bestelten	w5373	NO	NO	1.00
+Pallast	w5374	NO	NO	1.00
+von	w5375	NO	NO	1.00
+Hohen	w5376	NO	NO	1.00
+<g/>
+=
+Embs	w5378	NO	NO	1.00
+eingekehrt	w5379	NO	NO	1.00
+<g/>
+;
+Als	w5381	NO	NO	1.00
+bis	w5382	NO	NO	1.00
+dahin	w5383	NO	NO	1.00
+selben	w5384	NO	NO	1.00
+die	w5385	NO	NO	1.00
+ihm	w5386	NO	NO	1.00
+ein	w5387	NO	NO	1.00
+Stuckweegs	w5388	NO	NO	1.00
+aus	w5389	NO	NO	1.00
+Rom	w5390	NO	NO	1.00
+von	w5391	NO	NO	1.00
+denen	w5392	NO	NO	1.00
+Herren	w5393	NO	NO	1.00
+Cardinälen	w5394	NO	NO	1.00
+<g/>
+/
+Aquaviva	w5396	YES	NO	1.00
+und	w5397	NO	NO	1.00
+Ottoboni	w5398	YES	NO	1.00
+<g/>
+,
+zugeschickte	w5400	NO	NO	1.00
+Kutschen	w5401	NO	NO	1.00
+<g/>
+/
+jede	w5403	NO	NO	1.00
+mit	w5404	NO	NO	1.00
+6	w5405	NO	NO	1.00
+<g/>
+.
+Pferden	w5407	NO	NO	1.00
+<g/>
+/
+begleitet	w5409	NO	NO	1.00
+hatten	w5410	NO	NO	1.00
+<g/>
+.
+</p>
+</doc>
