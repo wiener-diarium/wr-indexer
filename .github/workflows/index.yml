@@ -8,9 +8,9 @@ jobs:
     name: Fetch Data from wr-data
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Cache the site
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         env:
           cache-name: cache-site-build
         with:
@@ -33,9 +33,9 @@ jobs:
       TYPESENSE_PROTOCOL: https
       TYPESENSE_API_KEY: ${{secrets.TYPESENSE_API_KEY}}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Use Cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         env:
           cache-name: cache-site-build
         with:
@@ -46,7 +46,7 @@ jobs:
             build-${{ env.cache-name }}-
             build-
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
           cache: "pipenv"
@@ -67,9 +67,9 @@ jobs:
     name: Build Noske Index
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Use Cache editions
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         env:
           cache-name: cache-site-build
         with:
@@ -81,7 +81,7 @@ jobs:
             build-${{ env.cache-name }}-
             build-
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           cache: "pipenv"
@@ -134,7 +134,7 @@ jobs:
     secrets: inherit
     with:
       DOCKER_TAG: "ghcr.io/wiener-diarium/wr-indexer/diarium-noske:latest"
-      APP_NAME: "diarium-noske"
+      APP_NAME: "wiener-diarium"
       APP_ROOT: "/"
       POSTGRES_ENABLED: false
       environment: "${{ github.ref_name }}"
