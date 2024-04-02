@@ -9,6 +9,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Cache the site
+        uses: actions/cache@v3
+        env:
+          cache-name: cache-site-build
+        with:
+          path: ./data/editions
+          key:
+            build-${{ env.cache-name }}-${{ hashFiles('**/fetch-data.sh') }}
+          restore-keys: |
+            build-${{ env.cache-name }}-
+            build-
       - name: Fetch data
         run: ./shellscripts/fetch_data.sh
 
@@ -23,6 +34,17 @@ jobs:
       TYPESENSE_API_KEY: ${{secrets.TYPESENSE_API_KEY}}
     steps:
       - uses: actions/checkout@v3
+      - name: Use Cache
+        uses: actions/cache@v3
+        env:
+          cache-name: cache-site-build
+        with:
+          path: ./data/editions
+          key:
+            build-${{ env.cache-name }}-${{ hashFiles('**/fetch-data.sh') }}
+          restore-keys: |
+            build-${{ env.cache-name }}-
+            build-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -34,11 +56,11 @@ jobs:
           python -m pip install pipenv
           pipenv install
       - name: Build gestrich index data.jsonl
-        run: pipenv python typesense/index_7jaehriger_krieg.py
+        run: pipenv run python typesense/index_7jaehriger_krieg.py
       - name: Index Gestrich and Transkribus Exports
-        run: pipenv python typesense/build_index.py
+        run: pipenv run python typesense/build_index.py
       - name: Index Digitarium
-        run: pipenv python typesense/index_digitarium.py
+        run: pipenv run python typesense/index_digitarium.py
   
   noske_index:
     needs: [fetch_data]
@@ -46,6 +68,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Use Cache
+        uses: actions/cache@v3
+        env:
+          cache-name: cache-site-build
+        with:
+          path: ./data/editions
+          key:
+            build-${{ env.cache-name }}-${{ hashFiles('**/fetch-data.sh') }}
+          restore-keys: |
+            build-${{ env.cache-name }}-
+            build-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
