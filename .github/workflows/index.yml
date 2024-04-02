@@ -68,16 +68,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Use Cache editions and create cache verticals
+      - name: Use Cache editions
         uses: actions/cache@v3
         env:
           cache-name: cache-site-build
         with:
           path: |
             ./data/editions
-            ./data/verticals
           key:
-            build-${{ env.cache-name }}-${{ hashFiles('**/fetch-data.sh') }}-${{ hashFiles('**/mk_verticals.py') }}
+            build-${{ env.cache-name }}-${{ hashFiles('**/fetch-data.sh') }}
           restore-keys: |
             build-${{ env.cache-name }}-
             build-
@@ -131,7 +130,7 @@ jobs:
   
   _3:
     needs: [noske_index]
-    uses: wiener-diarium/gl-autodevops-minimal-port/.github/workflows/deploy-cluster-2.yml@main
+    uses: wiener-diarium/gl-autodevops-minimal-port/.github/workflows/deploy.yml@main
     secrets: inherit
     with:
       DOCKER_TAG: "ghcr.io/wiener-diarium/wr-indexer/diarium-noske:latest"
