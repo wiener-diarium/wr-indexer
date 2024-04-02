@@ -62,7 +62,7 @@ def process_xml_files(input_filepath, output_filepath):
         )
         with open(output_file, "a", encoding="utf-8") as f:
             # doc structure opening tag with attributes
-            f.write(f'<doc id="{doc_id}" attrs="word" year="{year}" month="{month}" day="{day}" corpus="{corp}" cert="{cert}">\n')
+            f.write(f'<doc id="{doc_id}" attrs="word id hi label cert" year="{year}" month="{month}" day="{day}" corpus="{corp}" cert="{cert}">\n')
             for idx, x in enumerate(wrapper):
                 # using tag name as structure opening tag
                 name = x.tag
@@ -94,14 +94,14 @@ def process_xml_files(input_filepath, output_filepath):
                         pass
                     try:
                         teiw_tag.xpath("parent::tei:hi", namespaces=ns)[0]
-                        vertical.append("HI")
+                        vertical.append("YES")
                     except IndexError:
-                        vertical.append("NOHI")
+                        vertical.append("NO")
                     try:
                         teiw_tag.xpath("parent::tei:label", namespaces=ns)[0]
-                        vertical.append("LAB")
+                        vertical.append("YES")
                     except IndexError:
-                        vertical.append("NOLAB")
+                        vertical.append("NO")
                     try:
                         cert = teiw_tag.xpath("@cert", namespaces=ns)[0]
                         vertical.append(cert)
@@ -112,6 +112,27 @@ def process_xml_files(input_filepath, output_filepath):
                 f.write(f'</{name.replace("{http://www.tei-c.org/ns/1.0}", "")}>\n')
             # doc structure closing tag
             f.write("</doc>\n")
+
+
+# def punctuation_normalized(input_glob):
+#     for file in glob.glob(input_glob):
+#         if "wr_" not in file:
+#             continue
+#         with open(file, "r", encoding="utf-8") as f:
+#             text = f.read()
+#             text = text.replace("$.+\\.", "<g/>\n\\.")
+#             text = text.replace(",", "<g/>\n,")
+#             text = text.replace(";", "<g/>\n;")
+#             text = text.replace(":", "<g/>\n:")
+#             text = text.replace("!", "<g/>\n!")
+#             text = text.replace("?", "<g/>\n?")
+#             text = text.replace("(", "<g/>\n(")
+#             text = text.replace(")", "<g/>\n)")
+#             text = text.replace("[", "<g/>\n[")
+#             text = text.replace("]", "<g/>\n]")
+#             text = text.replace("=", "")
+#         with open(file, "w", encoding="utf-8") as f:
+#             f.write(text)
 
 
 if __name__ == "__main__":

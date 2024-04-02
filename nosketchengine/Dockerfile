@@ -2,8 +2,8 @@ FROM acdhch/noske:5.66.3-2.223.6-open
 LABEL maintainer omar.siam@oeaw.ac.at
 
 ENV CORPLIST diarium
-COPY data/verticals/ /var/lib/manatee/data/verticals/diarium/
-COPY nosketchengine/diarium /var/lib/manatee/registry/diarium
+COPY data/verticals/ /var/lib/manatee/data/verticals/$CORPLIST/
+COPY nosketchengine/$CORPLIST /var/lib/manatee/registry/$CORPLIST
 # Build will not save anything in /var/lib/manatee/data/ as this is defined as VOLUME
 USER root
 RUN path=$(grep -h ^PATH $MANATEE_REGISTRY/$CORPLIST | sed -e 's/^PATH[^"]*"\(.*\)"$/\1/g'); \

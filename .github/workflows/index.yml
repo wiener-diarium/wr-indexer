@@ -56,6 +56,8 @@ jobs:
           python --version
           python -m pip install pipenv
           pipenv install
+      - name: Build verticals
+        run: |
           pipenv run python noske/mk_verticals.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v4
@@ -94,7 +96,7 @@ jobs:
   
   _3:
     needs: [noske_index]
-    uses: acdh-oeaw/gl-autodevops-minimal-port/.github/workflows/deploy-cluster-2.yml@main
+    uses: wiener-diarium/gl-autodevops-minimal-port/.github/workflows/deploy-cluster-2.yml@main
     secrets: inherit
     with:
       DOCKER_TAG: "ghcr.io/wiener-diarium/wr-indexer/diarium-noske"
