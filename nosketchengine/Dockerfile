@@ -1,4 +1,4 @@
-FROM acdhch/noske:5.66.3-2.223.6-open
+FROM acdhch/noske:5.71.15-2.225.8-open
 LABEL maintainer omar.siam@oeaw.ac.at
 
 ENV CORPLIST diarium
