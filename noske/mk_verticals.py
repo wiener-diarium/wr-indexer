@@ -85,7 +85,7 @@ def process_xml_files(input_filepath, output_filepath):
                         f.write("\t".join(vertical) + "\n")
                         continue
                     else:
-                        vertical.append(text)
+                        vertical.append(text.replace("=", ""))
                     # extractable attributes id, highlighted, label:
                     try:
                         element_id = teiw_tag.xpath("@xml:id", namespaces=ns)[0]
