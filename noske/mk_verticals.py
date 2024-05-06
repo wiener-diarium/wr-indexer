@@ -34,6 +34,7 @@ def process_xml_files(input_filepath, output_filepath):
             month = doc_id.split("_")[2].split("-")[1]
             day = doc_id.split("_")[2].split("-")[2]
             corp = "1"
+            doc_id = doc_id.replace("edoc_wd_", "")
         else:
             year = doc_id.split("_")[1].split("-")[0]
             month = doc_id.split("_")[1].split("-")[1]
@@ -136,6 +137,6 @@ def process_xml_files(input_filepath, output_filepath):
 
 
 if __name__ == "__main__":
-    input_filepath = "./data/editions/*/"
+    input_filepath = "./data/editions/legacy/"
     output_filepath = "./data"
     process_xml_files(input_filepath, output_filepath)
