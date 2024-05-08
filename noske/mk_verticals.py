@@ -137,6 +137,6 @@ def process_xml_files(input_filepath, output_filepath):
 
 
 if __name__ == "__main__":
-    input_filepath = "./data/editions/legacy/"
+    input_filepath = "./data/editions/*/"
     output_filepath = "./data"
     process_xml_files(input_filepath, output_filepath)
