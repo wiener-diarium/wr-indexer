@@ -46,7 +46,7 @@ with open(data_save_path, "w", encoding="utf-8") as f:
             .replace("= ", "")
             .replace("=", "")
         )
-        item["id"] = f"wr_{date}"
+        item["id"] = f"wr_{date}__01"
         counter += 1
         f.write(json.dumps(item, ensure_ascii=False) + "\n")
 
