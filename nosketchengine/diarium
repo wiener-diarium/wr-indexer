@@ -28,7 +28,7 @@ ATTRIBUTE "id" {
 }
 
 ## column #3
-ATTRIBUTE "hi" {
+ATTRIBUTE "antiqua" {
 	TYPE "MD_MI"
 }
 
@@ -56,6 +56,12 @@ STRUCTURE "doc" {
  	  #	MULTIVALUE y
         #   MULTISEP " "
 	}
+
+	# ATTRIBUTE "decade" {
+	# 	TYPE "MD_MI"
+ 	#   #	MULTIVALUE y
+    #     #   MULTISEP " "
+	# }
 
 	ATTRIBUTE "year" {
 		TYPE "MD_MI"

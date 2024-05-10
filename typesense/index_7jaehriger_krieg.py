@@ -23,20 +23,31 @@ with open(data_save_path, "w", encoding="utf-8") as f:
             print(f"no confidence for {tail}")
         date = doc.any_xpath("@xml:id")[0].split("_")[1].replace(".xml", "")
         pb = doc.any_xpath(".//tei:pb")
-        for page in pb:
-            facs = page.attrib["facs"]
-            nr = page.attrib["n"]
-            dr_id = f"wr_{date}__{nr:0>2}"
-            full_text = doc.any_xpath(".//tei:body/tei:div[tei:*[contains(@facs, '{}')]]".format(facs))
-            item["id"] = dr_id
-            item["text"] = (
-                " ".join(" ".join("".join(p.itertext()).split()) for p in full_text)
-                .replace("\n", " ")
-                .replace("¬ ", "")
-                .replace("= ", "")
-                .replace("=", "")
-            )
-            counter += 1
-            f.write(json.dumps(item, ensure_ascii=False) + "\n")
+        # for page in pb:
+        #     facs = page.attrib["facs"]
+        #     nr = page.attrib["n"]
+        #     dr_id = f"wr_{date}__{nr:0>2}"
+        #     full_text = doc.any_xpath(".//tei:body/tei:div[tei:*[contains(@facs, '{}')]]".format(facs))
+        #     item["id"] = dr_id
+        #     item["text"] = (
+        #         " ".join(" ".join("".join(p.itertext()).split()) for p in full_text)
+        #         .replace("\n", " ")
+        #         .replace("¬ ", "")
+        #         .replace("= ", "")
+        #         .replace("=", "")
+        #     )
+        #     counter += 1
+        #     f.write(json.dumps(item, ensure_ascii=False) + "\n")
+        full_text = doc.any_xpath(".//tei:body/tei:div")
+        item["text"] = (
+            " ".join(" ".join("".join(p.itertext()).split()) for p in full_text)
+            .replace("\n", " ")
+            .replace("¬ ", "")
+            .replace("= ", "")
+            .replace("=", "")
+        )
+        item["id"] = f"wr_{date}"
+        counter += 1
+        f.write(json.dumps(item, ensure_ascii=False) + "\n")
 
 print(f"done, created {data_save_path} for {counter} pages. Creating zip archive...")
