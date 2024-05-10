@@ -29,7 +29,7 @@ with open(data_save_path, "w", encoding="utf-8") as f:
         #     dr_id = f"wr_{date}__{nr:0>2}"
         #     full_text = doc.any_xpath(".//tei:body/tei:div[tei:*[contains(@facs, '{}')]]".format(facs))
         #     item["id"] = dr_id
-        #     item["text"] = (
+        #     item["full_text"] = (
         #         " ".join(" ".join("".join(p.itertext()).split()) for p in full_text)
         #         .replace("\n", " ")
         #         .replace("¬ ", "")
@@ -39,7 +39,7 @@ with open(data_save_path, "w", encoding="utf-8") as f:
         #     counter += 1
         #     f.write(json.dumps(item, ensure_ascii=False) + "\n")
         full_text = doc.any_xpath(".//tei:body/tei:div")
-        item["text"] = (
+        item["full_text"] = (
             " ".join(" ".join("".join(p.itertext()).split()) for p in full_text)
             .replace("\n", " ")
             .replace("¬ ", "")

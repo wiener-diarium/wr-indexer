@@ -42,7 +42,7 @@ current_schema = {
         {"name": "has_fulltext", "type": "bool", "facet": True},
         {"name": "digitarium_issue", "type": "bool", "facet": True},
         {"name": "gestrich", "type": "bool", "facet": True},
-        {"name": "extra_full_text", "type": "string"},
+        {"name": "extra_full_text", "type": "string", "optional": True},
         {"name": "day", "type": "int32", "sort": True},
         {"name": "page", "type": "int32", "sort": True},
         {
