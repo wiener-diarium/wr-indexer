@@ -57,11 +57,11 @@ STRUCTURE "doc" {
         #   MULTISEP " "
 	}
 
-	# ATTRIBUTE "decade" {
-	# 	TYPE "MD_MI"
- 	#   #	MULTIVALUE y
-    #     #   MULTISEP " "
-	# }
+	ATTRIBUTE "decade" {
+		TYPE "MD_MI"
+ 	  #	MULTIVALUE y
+        #   MULTISEP " "
+	}
 
 	ATTRIBUTE "year" {
 		TYPE "MD_MI"
@@ -76,6 +76,12 @@ STRUCTURE "doc" {
 	}
 
 	ATTRIBUTE "day" {
+		TYPE "MD_MI"
+ 	  #	MULTIVALUE y
+        #   MULTISEP " "
+	}
+
+	ATTRIBUTE "weekday" {
 		TYPE "MD_MI"
  	  #	MULTIVALUE y
         #   MULTISEP " "

@@ -3,6 +3,7 @@
 import os
 import glob
 import shutil
+import datetime
 from tqdm import tqdm
 from acdh_tei_pyutils.tei import TeiReader
 from acdh_tei_pyutils.utils import extract_fulltext
@@ -12,6 +13,32 @@ ns = {
     "tei": "http://www.tei-c.org/ns/1.0",
     "xml": "http://www.w3.org/XML/1998/namespace"
 }
+
+
+def yearToDecade(year):
+    year = int(year)
+    return year - year % 10
+
+
+# def weekdayToString(weekday):
+#     if weekday == 0:
+#         return "Monday"
+#     elif weekday == 1:
+#         return "Tuesday"
+#     elif weekday == 2:
+#         return "Wednesday"
+#     elif weekday == 3:
+#         return "Thursday"
+#     elif weekday == 4:
+#         return "Friday"
+#     elif weekday == 5:
+#         return "Saturday"
+#     elif weekday == 6:
+#         return "Sunday"
+
+
+def dateToWeekday(year, month, day):
+    return datetime.date(int(year), int(month), int(day)).weekday()
 
 
 def process_xml_files(input_filepath, output_filepath):
@@ -63,7 +90,7 @@ def process_xml_files(input_filepath, output_filepath):
         )
         with open(output_file, "a", encoding="utf-8") as f:
             # doc structure opening tag with attributes
-            f.write(f'<doc id="{doc_id}" attrs="word id hi label cert" year="{year}" month="{month}" day="{day}" corpus="{corp}" cert="{cert}">\n')
+            f.write(f'<doc id="{doc_id}" attrs="word id hi label cert" decade="{yearToDecade(year)}" year="{year}" month="{month}" day="{day}" weekday="{dateToWeekday(year, month, day)}" corpus="{corp}" cert="{cert}">\n')
             for idx, x in enumerate(wrapper):
                 # using tag name as structure opening tag
                 name = x.tag

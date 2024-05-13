@@ -46,6 +46,12 @@ current_schema = {
         {"name": "day", "type": "int32", "sort": True},
         {"name": "page", "type": "int32", "sort": True},
         {
+            "name": "weekday",
+            "type": "int32",
+            "optional": True,
+            "facet": True
+        },
+        {
             "name": "year",
             "type": "int32",
             "optional": True,

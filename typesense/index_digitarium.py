@@ -2,11 +2,15 @@ import glob
 import os
 # import shutil
 import json
+import datetime
 from tqdm import tqdm
-
 from acdh_tei_pyutils.tei import TeiReader
 from acdh_cfts_pyutils import TYPESENSE_CLIENT as client
 from utils import ts_index_name, indexed_json
+
+
+def dateToWeekday(year, month, day):
+    return datetime.date(int(year), int(month), int(day)).weekday()
 
 
 tmp_dir = os.path.join("data", "editions", "legacy")
@@ -21,7 +25,9 @@ print("building json for index")
 counter = 0
 for x in tqdm(files, total=len(files)):
     date = os.path.split(x)[1].replace(".xml", "")
-    day = int(date.replace("-", ""))
+    fulldate = int(date.replace("-", ""))
+    day = int(date.split("-")[2])
+    month = int(date.split("-")[1])
     year = int(date.split("-")[0])
     doc = TeiReader(x)
     title = doc.any_xpath(".//tei:titleStmt/tei:title[@type='num']/text()")[0]
@@ -37,7 +43,8 @@ for x in tqdm(files, total=len(files)):
         "has_fulltext": True,
         "digitarium_issue": True,
         "gestrich": False,
-        "day": day,
+        "day": fulldate,
+        "weekday": dateToWeekday(year, month, day),
         "page": 1,
         "article_count": len(articles),
         "year": year,

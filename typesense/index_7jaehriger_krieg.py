@@ -1,8 +1,13 @@
 import os
 import glob
 import json
+import datetime
 from acdh_tei_pyutils.tei import TeiReader
 from tqdm import tqdm
+
+
+def dateToWeekday(year, month, day):
+    return datetime.date(int(year), int(month), int(day)).weekday()
 
 
 input_dir = os.path.join("data", "editions", "present")
@@ -22,6 +27,10 @@ with open(data_save_path, "w", encoding="utf-8") as f:
         except KeyError:
             print(f"no confidence for {tail}")
         date = doc.any_xpath("@xml:id")[0].split("_")[1].replace(".xml", "")
+        day = int(date.split("-")[2])
+        month = int(date.split("-")[1])
+        year = int(date.split("-")[0])
+        item["weekday"] = dateToWeekday(year, month, day)
         pb = doc.any_xpath(".//tei:pb")
         # for page in pb:
         #     facs = page.attrib["facs"]
