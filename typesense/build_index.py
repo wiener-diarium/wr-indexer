@@ -52,6 +52,13 @@ current_schema = {
             "facet": True
         },
         {
+            "name": "decade",
+            "type": "int32",
+            "optional": True,
+            "facet": True,
+            "sort": True,
+        },
+        {
             "name": "year",
             "type": "int32",
             "optional": True,

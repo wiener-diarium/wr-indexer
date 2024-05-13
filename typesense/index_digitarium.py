@@ -13,6 +13,11 @@ def dateToWeekday(year, month, day):
     return datetime.date(int(year), int(month), int(day)).weekday()
 
 
+def yearToDecade(year):
+    year = int(year)
+    return year - year % 10
+
+
 tmp_dir = os.path.join("data", "editions", "legacy")
 with open(indexed_json, "r", encoding="utf-8") as fp:
     indexed = json.load(fp)
@@ -45,6 +50,7 @@ for x in tqdm(files, total=len(files)):
         "gestrich": False,
         "day": fulldate,
         "weekday": dateToWeekday(year, month, day),
+        "decade": yearToDecade(year),
         "page": 1,
         "article_count": len(articles),
         "year": year,

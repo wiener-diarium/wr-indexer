@@ -10,6 +10,11 @@ def dateToWeekday(year, month, day):
     return datetime.date(int(year), int(month), int(day)).weekday()
 
 
+def yearToDecade(year):
+    year = int(year)
+    return year - year % 10
+
+
 input_dir = os.path.join("data", "editions", "present")
 out_dir = "data"
 data_save_path = os.path.join(out_dir, "data.jsonl")
@@ -30,6 +35,7 @@ with open(data_save_path, "w", encoding="utf-8") as f:
         day = int(date.split("-")[2])
         month = int(date.split("-")[1])
         year = int(date.split("-")[0])
+        item["decade"] = yearToDecade(year)
         item["weekday"] = dateToWeekday(year, month, day)
         pb = doc.any_xpath(".//tei:pb")
         # for page in pb:
