@@ -133,6 +133,14 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
             item["confidence"] = ft_dict[wr_id]["confidence"]
         except KeyError:
             print("no confidence for", wr_id)
+        try:
+            item["weekday"] = ft_dict[wr_id]["weekday"]
+        except KeyError:
+            print("no weekday for", wr_id)
+        try:
+            item["decade"] = ft_dict[wr_id]["decade"]
+        except KeyError:
+            print("no decade for", wr_id)
     else:
         item["edition"] = ["Gestrich"]
         print("no index match for", wr_id)
