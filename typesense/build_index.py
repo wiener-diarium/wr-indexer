@@ -85,6 +85,12 @@ current_schema = {
             "facet": True,
             "sort": True,
         },
+        {
+            "name": "page_count",
+            "type": "int32",
+            "optional": True,
+            "facet": True,
+        },
         {"name": "places", "type": "string[]", "facet": True, "optional": True},
         {"name": "places_top", "type": "string[]", "facet": True, "optional": True},
         {"name": "keywords", "type": "string[]", "facet": True, "optional": True},
@@ -141,6 +147,10 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
             item["decade"] = ft_dict[wr_id]["decade"]
         except KeyError:
             print("no decade for", wr_id)
+        try:
+            item["page_count"] = ft_dict[wr_id]["page_count"]
+        except KeyError:
+            print("no page count for", wr_id)
     else:
         item["edition"] = ["Gestrich"]
         print("no index match for", wr_id)

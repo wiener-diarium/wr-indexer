@@ -53,6 +53,7 @@ for x in tqdm(files, total=len(files)):
         "decade": yearToDecade(year),
         "page": 1,
         "article_count": len(articles),
+        "page_count": len(pb),
         "year": year,
         "edition": ["Ausgewählte Ausgaben: 18. Jahrhundert"],
         "corrections": len(corrections)

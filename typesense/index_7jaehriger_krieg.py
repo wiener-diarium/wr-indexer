@@ -38,6 +38,7 @@ with open(data_save_path, "w", encoding="utf-8") as f:
         item["decade"] = yearToDecade(year)
         item["weekday"] = dateToWeekday(year, month, day)
         pb = doc.any_xpath(".//tei:pb")
+        item["page_count"] = len(pb)
         # for page in pb:
         #     facs = page.attrib["facs"]
         #     nr = page.attrib["n"]
