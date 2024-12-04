@@ -27,18 +27,13 @@ for gr, ndf in tqdm(extra_df.groupby("ID_X")):
             full_text.append(row["Stichwort_X"])
     extra_text[f"{gr}"] = " ".join(full_text)
 
-try:
-    client.collections[ts_index_name].delete()
-except ObjectNotFound:
-    pass
-
 current_schema = {
     "name": ts_index_name,
     "fields": [
         {"name": "id", "type": "string"},
         {"name": "rec_id", "type": "string"},
         {"name": "title", "type": "string"},
-        {"name": "full_text", "type": "string"},
+        {"name": "full_text", "type": "string", "optional": True},
         {"name": "has_fulltext", "type": "bool", "facet": True},
         {"name": "digitarium_issue", "type": "bool", "facet": True},
         {"name": "gestrich", "type": "bool", "facet": True},
@@ -99,7 +94,7 @@ current_schema = {
         {"name": "confidence", "type": "float", "facet": True, "optional": True}
     ],
 }
-print("building index")
+print("building index for editions included in gestrich index")
 records = []
 counter = 0
 for gr, ndf in tqdm(df.groupby("wr_id")):
@@ -116,8 +111,8 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
     item["title"] = ", ".join(x["full_title"].split(", ")[:-1])
     item["year"] = int(x["year"])
     item["issue_nr"] = int(x["issue_number"])
-    item["ids"] = list(set(ndf["ID"].tolist()))
-    item["article_count"] = len(item["ids"])
+    ids = list(set(ndf["ID"].tolist()))
+    item["article_count"] = len(ids)
     item["has_fulltext"] = False
     item["digitarium_issue"] = False
     item["gestrich"] = True
@@ -133,7 +128,7 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
         if len(item["full_text"]) > 0:
             item["has_fulltext"] = True
         else:
-            item["full_text"] = "kein Volltext vorhanden"
+            item["has_fulltext"] = False
         item["edition"] = ["Alle Ausgaben: Siebenjähriger Krieg"]
         try:
             item["confidence"] = ft_dict[wr_id]["confidence"]
@@ -175,7 +170,7 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
                         item["keywords_top"].add(row[term])
 
         extra_full_text_set = set()
-        for eft in item["ids"]:
+        for eft in ids:
             try:
                 extra_ft = extra_text[str(eft)]
             except KeyError:
@@ -185,6 +180,53 @@ for gr, ndf in tqdm(df.groupby("wr_id")):
         " ".join(list(extra_full_text_set)).strip().replace("  ", " ")
     )
     records.append(item)
+print("done")
+
+print("building index for for editions not included in gestrich index")
+for x in tqdm(ft_dict):
+    if x not in indexed:
+        item = {}
+        item["id"] = x
+        item["rec_id"] = x
+        item["title"] = ft_dict[x]["title"]
+        item["year"] = int(ft_dict[x]["year"])
+        item["issue_nr"] = ft_dict[x]["issue_number"]
+        item["article_count"] = 0
+        item["full_text"] = ft_dict[x]["text"]
+        if len(item["full_text"]) > 0:
+            item["has_fulltext"] = True
+        else:
+            item["has_fulltext"] = False
+            item["full_text"] = "kein Volltext vorhanden"
+        item["digitarium_issue"] = False
+        item["gestrich"] = False
+        item["day"] = int(ft_dict[x]["day"])
+        item["page"] = 1
+        item["corrections"] = 0
+        item["edition"] = ["Alle Ausgaben: Siebenjähriger Krieg"]
+        item["places"] = set()
+        item["places_top"] = set()
+        item["keywords"] = set()
+        item["keywords_top"] = set()
+        try:
+            item["confidence"] = ft_dict[x]["confidence"]
+        except KeyError:
+            print("no confidence for", x)
+        try:
+            item["weekday"] = ft_dict[x]["weekday"]
+        except KeyError:
+            print("no weekday for", x)
+        try:
+            item["decade"] = ft_dict[x]["decade"]
+        except KeyError:
+            print("no decade for", x)
+        try:
+            item["page_count"] = ft_dict[x]["page_count"]
+        except KeyError:
+            print("no page count for", x)
+        records.append(item)
+
+print("done")
 
 with open("out.json", "w", encoding="utf-8") as fp:
     json.dump(records, fp, ensure_ascii=False, indent=2, default=set_default)
@@ -194,15 +236,16 @@ with open("out.json", "r", encoding="utf-8") as fp:
         fp,
     )
 
+indexed = list(set(indexed))
+with open(indexed_json, "w", encoding="utf-8") as fp:
+    json.dump(indexed, fp, ensure_ascii=False)
+
 try:
     client.collections[ts_index_name].delete()
-except Exception as e:
-    print(e)
+except ObjectNotFound:
+    pass
+
 client.collections.create(current_schema)
 make_index = client.collections[ts_index_name].documents.import_(records)
 print(make_index)
 print(f"done with indexing of {counter} documents in {ts_index_name}")
-
-indexed = list(set(indexed))
-with open(indexed_json, "w", encoding="utf-8") as fp:
-    json.dump(indexed, fp, ensure_ascii=False)
