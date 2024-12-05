@@ -27,6 +27,8 @@ for gr, ndf in tqdm(extra_df.groupby("ID_X")):
             full_text.append(row["Stichwort_X"])
     extra_text[f"{gr}"] = " ".join(full_text)
 
+blacklist = ["1756-05-13", "1756-05-29", "1758-01-27", "1760-08-21", "1761-03-24", "1762-01-01"]
+
 current_schema = {
     "name": ts_index_name,
     "fields": [
@@ -98,6 +100,8 @@ print("building index for editions included in gestrich index")
 records = []
 counter = 0
 for gr, ndf in tqdm(df.groupby("day")):
+    if gr in blacklist:
+        continue
     counter += 1
     # if counter > 200:
     #     break
