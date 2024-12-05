@@ -48,19 +48,18 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
-          cache: "pipenv"
+          python-version: "3.12"
+          cache: "uv"
       - name: Install dependencies
         run: |
           python --version
-          python -m pip install pipenv
-          pipenv install
+          pip install uv
       - name: Build gestrich index data.jsonl
-        run: pipenv run python typesense/index_7jaehriger_krieg.py
+        run: uv run typesense/index_7jaehriger_krieg.py
       - name: Index Gestrich and Transkribus Exports
-        run: pipenv run python typesense/build_index.py
+        run: uv run typesense/build_index.py
       - name: Index Digitarium
-        run: pipenv run python typesense/index_digitarium.py
+        run: uv run typesense/index_digitarium.py
   
   noske_index:
     needs: [fetch_data]
