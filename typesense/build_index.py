@@ -97,17 +97,17 @@ current_schema = {
 print("building index for editions included in gestrich index")
 records = []
 counter = 0
-for gr, ndf in tqdm(df.groupby("wr_id")):
+for gr, ndf in tqdm(df.groupby("day")):
     counter += 1
     # if counter > 200:
     #     break
     item = {}
     cfts_record = {}
     x = ndf.iloc[0]
-    wr_id = f'{x["wr_id"]}'
+    wr_id = f'wr_{gr}'
     indexed.append(wr_id)
-    item["id"] = f'{x["wr_id"]}'
-    item["rec_id"] = f'{x["wr_id"]}'
+    item["id"] = wr_id
+    item["rec_id"] = wr_id
     item["title"] = ", ".join(x["full_title"].split(", ")[:-1])
     item["year"] = int(x["year"])
     item["issue_nr"] = int(x["issue_number"])

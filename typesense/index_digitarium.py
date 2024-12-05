@@ -40,7 +40,7 @@ for x in tqdm(files, total=len(files)):
     articles = doc.any_xpath(".//tei:div[@type='page']/tei:div")
     pb = doc.any_xpath(".//tei:pb")
     counter += 1
-    rec_id = f"wr_{date}__01"
+    rec_id = f"wr_{date}"
     record = {
         "id": rec_id,
         "rec_id": rec_id,
