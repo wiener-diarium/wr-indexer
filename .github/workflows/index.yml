@@ -49,11 +49,11 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: "uv"
       - name: Install dependencies
         run: |
           python --version
           pip install uv
+          uv sync
       - name: Build gestrich index data.jsonl
         run: uv run typesense/index_7jaehriger_krieg.py
       - name: Index Gestrich and Transkribus Exports
